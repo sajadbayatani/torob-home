@@ -1,0 +1,226 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "c3087e98-76e2-4ce9-8764-da90e29a1351",
+    "name1": "صندلی لهستانی کافی بار و ناهار خوری - کوتاه45سانتی",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de44c4347121ad4c4c469077c6a0&search_id=01a0de44c4347121ad4c4c469077c6a0&cities=&province=&init_suid=01a0de44c4347121ad4c4c469077c6a0&algorithm=text_similarity&prk=c3087e98-76e2-4ce9-8764-da90e29a1351",
+    "web_client_absolute_url": "/p/c3087e98-76e2-4ce9-8764-da90e29a1351/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%DA%A9%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7%D8%B1-%D9%88-%D9%86%D8%A7%D9%87%D8%A7%D8%B1-%D8%AE%D9%88%D8%B1%DB%8C-%DA%A9%D9%88%D8%AA%D8%A7%D9%8745%D8%B3%D8%A7%D9%86%D8%AA%DB%8C/",
+    "price": 5525000,
+    "price_prefix": "cheapest",
+    "price_text": "۵٫۵۲۵٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در پازارو",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&limit=24&init_suid=01a0de44c4347121ad4c4c469077c6a0",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&discover_method=search_image_base_pdp&prev_uid=01a0de44c4347121ad4c4c469077c6a0&init_suid=01a0de44c4347121ad4c4c469077c6a0",
+    "card_type": "tall-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/25/GL/25GLnIEuwFXIc5w5.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/sF/n-/sFn-xo_aAX8WIJM2.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/25/GL/25GLnIEuwFXIc5w5.webp",
+    "image_count": 2,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&bvid=01a0de44dca27388a0cab17c79ab942d&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de44c4347121ad4c4c469077c6a0&prk=6f877d93-e9b5-4936-b970-1788e2cdc8a0&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de44c4347121ad4c4c469077c6a0",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "صندلی لهستانی کافی بار و ناهار خوری - کوتاه45سانتی",
+                "name2": "اصالت فیزیکی",
+                "shop_name": "پازارو",
+                "shop_name2": "تهران",
+                "shop_id": 411407,
+                "has_public_torob_profile": true,
+                "prk": "6f877d93-e9b5-4936-b970-1788e2cdc8a0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&bvid=01a0de44dca27388a0cab17c79ab942d&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de44c4347121ad4c4c469077c6a0&prk=6f877d93-e9b5-4936-b970-1788e2cdc8a0&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de44c4347121ad4c4c469077c6a0&installment=96:1xAU38:SaQF2-z1QNWeZuvK365qECrcFw4DWkiR1_HvmRY-clQ",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 5525000,
+                "price_text": "۵٫۵۲۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵٫۵۲۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435450",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&bvid=01a0de44dca27388a0cab17c79ab942d&suid=01a0de44c4347121ad4c4c469077c6a0&cities=&province=&algorithm=text_similarity&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&list_type=products_info&seed=1790435450"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435450",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&cities=&province=&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&list_type=products_in_store_info&seed=1790435450&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=c3087e98-76e2-4ce9-8764-da90e29a1351&source=next_desktop&discover_method=search&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&seed=1790435450&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=c3087e98-76e2-4ce9-8764-da90e29a1351&source=next_desktop&discover_method=search&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&seed=1790435450&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de44c4347121ad4c4c469077c6a0&search_id=01a0de44c4347121ad4c4c469077c6a0&cities=&province=&init_suid=01a0de44c4347121ad4c4c469077c6a0&algorithm=text_similarity&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&bvid=01a0de44dca27388a0cab17c79ab942d&no_log=true&seed=1790435450",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=c3087e98-76e2-4ce9-8764-da90e29a1351&base_id=257044063&source=next_desktop&bvid=01a0de44dca27388a0cab17c79ab942d&init_suid=01a0de44c4347121ad4c4c469077c6a0"
+    },
+    "min_price": 5525000,
+    "max_price": 5525000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 1441,
+            "title": "صندلی",
+            "url": "/browse/1441/%D8%B5%D9%86%D8%AF%D9%84%DB%8C/",
+            "cat_id": 1441,
+            "brand_id": null
+        },
+        {
+            "id": 2434,
+            "title": "صندلی غذاخوری و رستورانی",
+            "url": "/browse/2434/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86%DB%8C/",
+            "cat_id": 2434,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "ابعاد": "کوتاه45سانتی"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "صندلی-لهستانی-کافی-بار-و-ناهار-خوری-کوتاه45سانتی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=c3087e98-76e2-4ce9-8764-da90e29a1351",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c3087e98-76e2-4ce9-8764-da90e29a1351&limit=24&init_suid=01a0de44c4347121ad4c4c469077c6a0",
+    "torob_category": 2434,
+    "no_index": false,
+    "buy_box_price_text": "۵٫۵۲۵٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&bvid=01a0de44dca27388a0cab17c79ab942d&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de44c4347121ad4c4c469077c6a0&prk=6f877d93-e9b5-4936-b970-1788e2cdc8a0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de44c4347121ad4c4c469077c6a0",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از پازارو",
+    "new_buy_box_button_text2": "۵٫۵۲۵٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de44c4347121ad4c4c469077c6a0&suid=01a0de44c4347121ad4c4c469077c6a0&bvid=01a0de44dca27388a0cab17c79ab942d&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de44c4347121ad4c4c469077c6a0&prk=6f877d93-e9b5-4936-b970-1788e2cdc8a0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de44c4347121ad4c4c469077c6a0&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "6f877d93-e9b5-4936-b970-1788e2cdc8a0",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/sF/n-/sFn-xo_aAX8WIJM2.webp"
+            ]
+        }
+    ]
+}

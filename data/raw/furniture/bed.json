@@ -1,0 +1,1410 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2455d3a8-7020-423a-8ff8-a843de10ed92",
+            "name1": "تخت خواب ژاپنی تمام چوبی یک نفره",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=result_adv&prk=2455d3a8-7020-423a-8ff8-a843de10ed92&ad=01a0ddda2f8b73e49855084b3e2c456b&rank=0",
+            "web_client_absolute_url": "/p/2455d3a8-7020-423a-8ff8-a843de10ed92/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AA%D9%85%D8%A7%D9%85-%DA%86%D9%88%D8%A8%DB%8C-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87/",
+            "price": 52910000,
+            "price_prefix": "cheapest",
+            "price_text": "۵۲٫۹۱۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در توسکان",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2455d3a8-7020-423a-8ff8-a843de10ed92&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2455d3a8-7020-423a-8ff8-a843de10ed92&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ba/YI/BaYIHRmwRAw_SNAZ.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/gM/CG/gMCGqq15BfJaKtMx.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tt/cP/ttcPuNiTSfuAHcbW.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Dh/xM/DhxMSQoW6w0zu19H.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ba/YI/BaYIHRmwRAw_SNAZ.webp",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0c5a0243-a867-40ad-b7fc-f1e500fdebc5",
+            "name1": "تخت خواب یک نفره مدل صبا عرض ۹۰",
+            "name1_max_lines": 3,
+            "name2": "Saba",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=0c5a0243-a867-40ad-b7fc-f1e500fdebc5&rank=1",
+            "web_client_absolute_url": "/p/0c5a0243-a867-40ad-b7fc-f1e500fdebc5/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D8%B5%D8%A8%D8%A7-%D8%B9%D8%B1%D8%B6-90/",
+            "price": 7300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0c5a0243-a867-40ad-b7fc-f1e500fdebc5&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0c5a0243-a867-40ad-b7fc-f1e500fdebc5&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xd/iw/XdiwwDVA9ndU-FKF.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/U-/SK/U-SK7R9yMyOad1wI.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zq/jP/zqjPYtXAPSCShPwY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/In/JH/InJH6hPBI_JDquiL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ue/dW/uedW5Cg9sU1wejBs.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Xd/iw/XdiwwDVA9ndU-FKF.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "bfb80d05-09f1-4b68-a439-81fa49bf9513",
+            "name1": "تخت خواب دو نفره کد DR4661 سایز ۲۰۰x۱۶۰ سانتی متر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=bfb80d05-09f1-4b68-a439-81fa49bf9513&rank=2",
+            "web_client_absolute_url": "/p/bfb80d05-09f1-4b68-a439-81fa49bf9513/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%DA%A9%D8%AF-dr4661-%D8%B3%D8%A7%DB%8C%D8%B2-200x160-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1/",
+            "price": 15900000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۵٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=bfb80d05-09f1-4b68-a439-81fa49bf9513&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=bfb80d05-09f1-4b68-a439-81fa49bf9513&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qd/nW/qdnWnGCs4N3fCz4s.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lX/-S/lX-S2Al1J790sWy6.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZU/oe/ZUoef8L47QMe-HjQ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZP/ES/ZPESAJB0HU11PFKL.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/qd/nW/qdnWnGCs4N3fCz4s.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "04b5c830-22eb-40bd-9408-83ecedd17a4c",
+            "name1": "سرویس خواب دو نفره مدل 831",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=04b5c830-22eb-40bd-9408-83ecedd17a4c&rank=3",
+            "web_client_absolute_url": "/p/04b5c830-22eb-40bd-9408-83ecedd17a4c/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-831/",
+            "price": 17640000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۷٫۶۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=04b5c830-22eb-40bd-9408-83ecedd17a4c&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=04b5c830-22eb-40bd-9408-83ecedd17a4c&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/EI/fc/EIfcCyr2eMxFdaka.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hA/6D/hA6DX9ZQPGWcasjd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZL/Am/ZLAmrHj5RyeIdMyw.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/EI/fc/EIfcCyr2eMxFdaka.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "aaac96a6-67ea-4d1e-befd-0c4226ca465c",
+            "name1": "تخت خواب دو نفره سرویس کامل با دراور و فایل آینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=aaac96a6-67ea-4d1e-befd-0c4226ca465c&rank=4",
+            "web_client_absolute_url": "/p/aaac96a6-67ea-4d1e-befd-0c4226ca465c/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A7%D9%88%D8%B1-%D9%88-%D9%81%D8%A7%DB%8C%D9%84-%D8%A7%DB%8C%D9%86%D9%87/",
+            "price": 29800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۹٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=aaac96a6-67ea-4d1e-befd-0c4226ca465c&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=aaac96a6-67ea-4d1e-befd-0c4226ca465c&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wv/bq/wvbqv6XO6efTJ90k.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/R3/8Q/R38QdzYXrAFh9nsK.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-Q/CF/-QCFQ3nBrlFukIUZ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/wv/bq/wvbqv6XO6efTJ90k.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "97590841-cb10-42c3-b4b5-9e697aba7cc4",
+            "name1": "تخت خواب دو نفره لوتوس",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=97590841-cb10-42c3-b4b5-9e697aba7cc4&rank=5",
+            "web_client_absolute_url": "/p/97590841-cb10-42c3-b4b5-9e697aba7cc4/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D9%84%D9%88%D8%AA%D9%88%D8%B3/",
+            "price": 57400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۷٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=97590841-cb10-42c3-b4b5-9e697aba7cc4&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=97590841-cb10-42c3-b4b5-9e697aba7cc4&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sh/Rq/shRqK54SEOJkfaU9.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/u7/HX/u7HXK3HAwPVLTt40.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/sh/Rq/shRqK54SEOJkfaU9.webp",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "3fea8075-8309-404e-b13c-e37e628c2ab8",
+            "name1": "سرویس خواب دو نفره روما",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=3fea8075-8309-404e-b13c-e37e628c2ab8&rank=6",
+            "web_client_absolute_url": "/p/3fea8075-8309-404e-b13c-e37e628c2ab8/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D8%B1%D9%88%D9%85%D8%A7/",
+            "price": 11482000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۱٫۴۸۲٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در چوب شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3fea8075-8309-404e-b13c-e37e628c2ab8&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3fea8075-8309-404e-b13c-e37e628c2ab8&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Yo/qG/YoqGjFxw-oqBRaVt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sA/9L/sA9LQI6TvCqwWd7G.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xJ/8T/xJ8TrpuM7wU5w0aN.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Yo/qG/YoqGjFxw-oqBRaVt.jpg",
+            "image_count": 3,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=505a0cc5-97f9-4660-bcf0-d143bb654aca&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": "https://api.torob.com/static/filters/guarantee.png"
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ca2b163c-8996-4823-90cd-0197fb9a9ea8",
+            "name1": "تخت خواب یک نفره مدل توپولوف ۸ سایز ۱۲۰×۲۰۰ سانتی متر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=ca2b163c-8996-4823-90cd-0197fb9a9ea8&rank=7",
+            "web_client_absolute_url": "/p/ca2b163c-8996-4823-90cd-0197fb9a9ea8/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D8%AA%D9%88%D9%BE%D9%88%D9%84%D9%88%D9%81-8-%D8%B3%D8%A7%DB%8C%D8%B2-120-200-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1/",
+            "price": 11500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ca2b163c-8996-4823-90cd-0197fb9a9ea8&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ca2b163c-8996-4823-90cd-0197fb9a9ea8&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jj/WJ/jjWJtrhXsjcytZdY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nM/vU/nMvUluSH1INxKJDW.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xj/R6/XjR6Vux24_bM4HHp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/7R/hK/7RhKC_Gq8vHfeF0r.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jj/WJ/jjWJtrhXsjcytZdY.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "3c013f40-adb3-46ed-86a2-19a43a015a73",
+            "name1": "تخت خواب یک نفره مدل وستا با کشو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=3c013f40-adb3-46ed-86a2-19a43a015a73&rank=8",
+            "web_client_absolute_url": "/p/3c013f40-adb3-46ed-86a2-19a43a015a73/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D9%88%D8%B3%D8%AA%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88/",
+            "price": 7300000,
+            "price_prefix": "cheapest",
+            "price_text": "۷٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در چوب شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3c013f40-adb3-46ed-86a2-19a43a015a73&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3c013f40-adb3-46ed-86a2-19a43a015a73&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/LJ/oQ/LJoQ9akBRaBgSRbX.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6r/iU/6riUSuYlD-muhYRe.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xo/bK/XobKTIOl0knIKT1k.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/d5/i1/d5i1Nr4CcnB66tCd.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/LJ/oQ/LJoQ9akBRaBgSRbX.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=c39ea747-e006-4ea6-9a1f-55a984b2f23d&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": "https://api.torob.com/static/filters/guarantee.png"
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "44cdb9f8-9e33-43dc-aa16-6611cc986910",
+            "name1": "تخت خواب مینیمال پرنس",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=44cdb9f8-9e33-43dc-aa16-6611cc986910&rank=9",
+            "web_client_absolute_url": "/p/44cdb9f8-9e33-43dc-aa16-6611cc986910/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%DB%8C%D9%86%DB%8C%D9%85%D8%A7%D9%84-%D9%BE%D8%B1%D9%86%D8%B3/",
+            "price": 15496000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۵٫۴۹۶٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=44cdb9f8-9e33-43dc-aa16-6611cc986910&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=44cdb9f8-9e33-43dc-aa16-6611cc986910&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vN/5S/vN5SmdSd-S5qdy25.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/DC/r4/DCr4wShRFpsM9xhi.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Dx/qU/DxqUIiuZkc4HMIvi.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/TG/Mp/TGMp2npXqVHyeuGk.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/vN/5S/vN5SmdSd-S5qdy25.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "1da1e734-8484-4e44-9dee-bf177cacdc39",
+            "name1": "تخت خواب چوبی مدرن دو نفره HF511 با طراحی مینیمال",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=result_adv&prk=1da1e734-8484-4e44-9dee-bf177cacdc39&ad=01a0ddda2f8e7185adc1178c1a946d5f&rank=10",
+            "web_client_absolute_url": "/p/1da1e734-8484-4e44-9dee-bf177cacdc39/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DA%86%D9%88%D8%A8%DB%8C-%D9%85%D8%AF%D8%B1%D9%86-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-hf511-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%85%DB%8C%D9%86%DB%8C%D9%85%D8%A7%D9%84/",
+            "price": 109399000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۰۹٫۳۹۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در بلج",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=1da1e734-8484-4e44-9dee-bf177cacdc39&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=1da1e734-8484-4e44-9dee-bf177cacdc39&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5M/Qo/5MQo-U522XxGlpyf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/iN/ja/iNjaNJY9t47b0uLw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/S9/1n/S91nkp5Lp9AKk5YL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Rh/oa/Rhoadm0xI46A8LnO.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/fG/Nq/fGNqaprF3TjVh9Mz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/m0/qJ/m0qJf2DouNZAA5_D.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9V/QC/9VQC45HaYSO0ML5f.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/5M/Qo/5MQo-U522XxGlpyf.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "37442ed0-da68-4a13-9413-7796d50621e9",
+            "name1": "تخت خواب یک نفره فلزی مدل نیکا با کشو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=37442ed0-da68-4a13-9413-7796d50621e9&rank=11",
+            "web_client_absolute_url": "/p/37442ed0-da68-4a13-9413-7796d50621e9/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%86%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88/",
+            "price": 5850000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۸۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=37442ed0-da68-4a13-9413-7796d50621e9&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=37442ed0-da68-4a13-9413-7796d50621e9&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/a2/WX/a2WX2Ix5koD8tXcg.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6V/IV/6VIVWVVv4HRQIesc.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5N/Pd/5NPdEcdL0a7EpVYu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/UZ/sk/UZskH7jYjoCDJtlK.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/RQ/zf/RQzfpgxfe7HziB-M.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3J/l9/3Jl9KdFTj9YsFUjU.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/a2/WX/a2WX2Ix5koD8tXcg.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "26fd392b-e781-4e1c-ab29-9c98dd5130df",
+            "name1": "سرویس خواب مدل لیندا جنس ملامینه و پارچه تدی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=26fd392b-e781-4e1c-ab29-9c98dd5130df&rank=12",
+            "web_client_absolute_url": "/p/26fd392b-e781-4e1c-ab29-9c98dd5130df/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%AF%D9%84-%D9%84%DB%8C%D9%86%D8%AF%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87-%D9%88-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%AA%D8%AF%DB%8C/",
+            "price": 22500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۲٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=26fd392b-e781-4e1c-ab29-9c98dd5130df&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=26fd392b-e781-4e1c-ab29-9c98dd5130df&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ac/8J/Ac8Jp59e8n4rnGw5.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Hn/B0/HnB0H135fyh7kDmd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lp/jT/lpjTzNBRmKONuaS7.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tq/lv/tqlv-vcKT_8f11E6.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mu/AU/muAUaPhDBTCOtotf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ac/8J/Ac8Jp59e8n4rnGw5.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "46ecaedb-dd2c-43d1-8324-3a6411c6b430",
+            "name1": "تخت خواب تک نفره مونیکا سایز ۲۰۰×۹۰ مشکی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=46ecaedb-dd2c-43d1-8324-3a6411c6b430&rank=13",
+            "web_client_absolute_url": "/p/46ecaedb-dd2c-43d1-8324-3a6411c6b430/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D9%88%D9%86%DB%8C%DA%A9%D8%A7-%D8%B3%D8%A7%DB%8C%D8%B2-200-90-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 9682000,
+            "price_prefix": "cheapest",
+            "price_text": "۹٫۶۸۲٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در محیا چوب استور",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=46ecaedb-dd2c-43d1-8324-3a6411c6b430&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=46ecaedb-dd2c-43d1-8324-3a6411c6b430&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/cM/Lr/cMLrlRQIKaElvzWf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/cM/Lr/cMLrlRQIKaElvzWf.jpg",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=94cf1f41-fb0f-42e7-9129-d717a91a75ba&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0d002525-8447-460f-bed0-77d28ca6de8e",
+            "name1": "تخت خواب کلاسیک دو نفره",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=0d002525-8447-460f-bed0-77d28ca6de8e&rank=14",
+            "web_client_absolute_url": "/p/0d002525-8447-460f-bed0-77d28ca6de8e/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87/",
+            "price": 70000000,
+            "price_prefix": "cheapest",
+            "price_text": "۷۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در سوفا مبل",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0d002525-8447-460f-bed0-77d28ca6de8e&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0d002525-8447-460f-bed0-77d28ca6de8e&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/fg/le/fgleRJix0SzTqrGU.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tP/wB/tPwBQte-5uwTuvuc.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Wy/6k/Wy6k5ggoFXJapvMd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/55/TT/55TT11oPWINyy6vL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1U/vP/1UvPpvno7dYnJhhU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/VL/rm/VLrm12pOAe3skkGw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Rj/-z/Rj-ziOGJiWa8Dvjb.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/fg/le/fgleRJix0SzTqrGU.webp",
+            "image_count": 7,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=b693eab0-c859-4b9e-a2cf-01a6b57cba6b&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "677941d8-f8f9-44ed-b917-1c5c2d869a6c",
+            "name1": "تخت خواب یک نفره مدل رادو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=677941d8-f8f9-44ed-b917-1c5c2d869a6c&rank=15",
+            "web_client_absolute_url": "/p/677941d8-f8f9-44ed-b917-1c5c2d869a6c/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D8%B1%D8%A7%D8%AF%D9%88/",
+            "price": 8177000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸٫۱۷۷٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=677941d8-f8f9-44ed-b917-1c5c2d869a6c&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=677941d8-f8f9-44ed-b917-1c5c2d869a6c&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/24/yr/24yrp_O5SDPU7out.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sv/9B/sv9BbVmAZCQ8DN0N.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/j8/QW/j8QWk1iFDS3AiYlW.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zs/_c/zs_cNPtdeXesaL2m.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Lb/8Z/Lb8Z6zr1lpp6dvKJ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/24/yr/24yrp_O5SDPU7out.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "16e4edde-415a-4e91-8658-ae517d215749",
+            "name1": "سرویس خواب نوجوان مدل 242",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=16e4edde-415a-4e91-8658-ae517d215749&rank=16",
+            "web_client_absolute_url": "/p/16e4edde-415a-4e91-8658-ae517d215749/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-242/",
+            "price": 24800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۴٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=16e4edde-415a-4e91-8658-ae517d215749&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=16e4edde-415a-4e91-8658-ae517d215749&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/dp/Gx/dpGxZj62F8u776YZ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/dp/Gx/dpGxZj62F8u776YZ.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "11ad917d-680b-4a05-890c-54c125bdec5e",
+            "name1": "تخت خواب ۲ نفره مدل مولتی ابرا",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=11ad917d-680b-4a05-890c-54c125bdec5e&rank=17",
+            "web_client_absolute_url": "/p/11ad917d-680b-4a05-890c-54c125bdec5e/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-2-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D9%85%D9%88%D9%84%D8%AA%DB%8C-%D8%A7%D8%A8%D8%B1%D8%A7/",
+            "price": 14250000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۴٫۲۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=11ad917d-680b-4a05-890c-54c125bdec5e&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=11ad917d-680b-4a05-890c-54c125bdec5e&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/2i/JK/2iJKZ6FngIowzfCP.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/2i/JK/2iJKZ6FngIowzfCP.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "66879baa-1191-4d91-a168-01f4851ca414",
+            "name1": "سرویس خواب مدل رویال شامل تخت و دراور با آینه و کمد آرایشی و پاتختی و فایل ۴ کشو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=66879baa-1191-4d91-a168-01f4851ca414&rank=18",
+            "web_client_absolute_url": "/p/66879baa-1191-4d91-a168-01f4851ca414/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%AF%D9%84-%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%D8%AE%D8%AA-%D9%88-%D8%AF%D8%B1%D8%A7%D9%88%D8%B1-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86%D9%87-%D9%88-%DA%A9%D9%85%D8%AF-%D8%A7%D8%B1%D8%A7%DB%8C%D8%B4%DB%8C-%D9%88-%D9%BE%D8%A7%D8%AA%D8%AE%D8%AA%DB%8C-%D9%88-%D9%81%D8%A7%DB%8C%D9%84-4-%DA%A9%D8%B4%D9%88/",
+            "price": 27900000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۷٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=66879baa-1191-4d91-a168-01f4851ca414&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=66879baa-1191-4d91-a168-01f4851ca414&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/T9/To/T9To0T4WdqJUdlXo.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/T9/To/T9To0T4WdqJUdlXo.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "95730efb-f91c-451e-bf7b-682e7e053078",
+            "name1": "تخت خواب دو نفره مدل فلورا",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=95730efb-f91c-451e-bf7b-682e7e053078&rank=19",
+            "web_client_absolute_url": "/p/95730efb-f91c-451e-bf7b-682e7e053078/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D9%81%D9%84%D9%88%D8%B1%D8%A7/",
+            "price": 11750000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۱٫۷۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در چوب شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=95730efb-f91c-451e-bf7b-682e7e053078&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=95730efb-f91c-451e-bf7b-682e7e053078&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9M/99/9M99mk5NBhu3z9-e.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5N/Lz/5NLzYs1PJXYjj4rz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bo/ly/bolyfM_gf0II6Y5o.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lv/7X/lv7XY3gD9XQuBh6w.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/9M/99/9M99mk5NBhu3z9-e.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=d16eb276-7458-4959-abba-1d8c8800178e&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": "https://api.torob.com/static/filters/guarantee.png"
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "250f9725-20eb-4dfe-a776-dba5faa5d582",
+            "name1": "تخت خواب دو طبقه فلزی مدل شادی ۲۰۰×۹۰ با کشو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=250f9725-20eb-4dfe-a776-dba5faa5d582&rank=20",
+            "web_client_absolute_url": "/p/250f9725-20eb-4dfe-a776-dba5faa5d582/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D8%B4%D8%A7%D8%AF%DB%8C-200-90-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88/",
+            "price": 14800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۴٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=250f9725-20eb-4dfe-a776-dba5faa5d582&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=250f9725-20eb-4dfe-a776-dba5faa5d582&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/o5/vX/o5vX9Vj_vArwFYte.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ai/xF/AixF3rU4U4sqI6pb.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/OQ/if/OQifPux7tY2eRkIp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/CG/BT/CGBT0DlYAQVD409j.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9S/Qg/9SQgkOp_yGsTQXWB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/I3/ts/I3tsJIRlVWMT7aKC.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/o5/vX/o5vX9Vj_vArwFYte.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "78d31724-9aca-4196-8fa1-94b18eff1048",
+            "name1": "تخت خواب دو نفره دلوان با دراور و کمد آرایشی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=78d31724-9aca-4196-8fa1-94b18eff1048&rank=21",
+            "web_client_absolute_url": "/p/78d31724-9aca-4196-8fa1-94b18eff1048/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87-%D8%AF%D9%84%D9%88%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A7%D9%88%D8%B1-%D9%88-%DA%A9%D9%85%D8%AF-%D8%A7%D8%B1%D8%A7%DB%8C%D8%B4%DB%8C/",
+            "price": 18500000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۸٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در رستا چوب",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=78d31724-9aca-4196-8fa1-94b18eff1048&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=78d31724-9aca-4196-8fa1-94b18eff1048&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jU/z6/jUz6GUlcCYUQuMIe.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/X6/Z8/X6Z8Gjr8OHzrpKmo.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jU/z6/jUz6GUlcCYUQuMIe.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=49590ded-6e3a-4d7b-a2cd-6c5bf1b6acb6&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ce13dd65-97b6-459a-85e3-9ca911ad7033",
+            "name1": "تخت خواب آرامن مدل سلو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=ce13dd65-97b6-459a-85e3-9ca911ad7033&rank=22",
+            "web_client_absolute_url": "/p/ce13dd65-97b6-459a-85e3-9ca911ad7033/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A7%D8%B1%D8%A7%D9%85%D9%86-%D9%85%D8%AF%D9%84-%D8%B3%D9%84%D9%88/",
+            "price": 15500000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۵٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در آرام خواب",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ce13dd65-97b6-459a-85e3-9ca911ad7033&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ce13dd65-97b6-459a-85e3-9ca911ad7033&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/N0/w9/N0w9FtJUpthL_bJD.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zg/qu/ZgqujIs16aKLUg4F.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4t/pJ/4tpJyBTai5xiPdcS.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/NJ/cR/NJcR1VvDOF3q_4bn.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wz/-a/wz-augSSGYOewRZi.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Rh/kZ/RhkZJSgdsbhEl7uc.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/N0/w9/N0w9FtJUpthL_bJD.jpg",
+            "image_count": 6,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=e3c66ebf-6d03-4ce4-9235-ee638e124503&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": "https://api.torob.com/static/filters/guarantee.png"
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "bb3073db-91fa-4103-97e0-af09e912ee97",
+            "name1": "تخت خواب یک نفره مدل سناتور سایز ۹۰ در ۲ متر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=bb3073db-91fa-4103-97e0-af09e912ee97&rank=23",
+            "web_client_absolute_url": "/p/bb3073db-91fa-4103-97e0-af09e912ee97/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B2-90-%D8%AF%D8%B1-2-%D9%85%D8%AA%D8%B1/",
+            "price": 8500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=bb3073db-91fa-4103-97e0-af09e912ee97&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=bb3073db-91fa-4103-97e0-af09e912ee97&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/aL/BH/aLBHCpQkxgVY_N_y.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Du/9Z/Du9ZbApgM8w5tBGI.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mk/8A/mk8Az4OMSUZJQte3.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_W/ST/_WSTmbAh_JVVkGKL.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/aL/BH/aLBHCpQkxgVY_N_y.webp",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "d257aed3-ee2f-461c-86a4-c7192aefa151",
+            "name1": "سرویس خواب کلاسیک فرانسوی",
+            "name1_max_lines": 3,
+            "name2": "Servis khan",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=d257aed3-ee2f-461c-86a4-c7192aefa151&rank=24",
+            "web_client_absolute_url": "/p/d257aed3-ee2f-461c-86a4-c7192aefa151/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C/",
+            "price": 57800000,
+            "price_prefix": "cheapest",
+            "price_text": "۵۷٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مبلمان راژان چوب",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d257aed3-ee2f-461c-86a4-c7192aefa151&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d257aed3-ee2f-461c-86a4-c7192aefa151&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ON/h5/ONh5HiIkxTvrNeLB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/OV/Es/OVEsw4koIpu-GCSn.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ON/h5/ONh5HiIkxTvrNeLB.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=f498db8e-7adf-4f36-a7f7-322c226c289e&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "858748a5-8ab0-4cf4-aa21-5c1a38a7211d",
+            "name1": "تخت خواب یک نفره مدرن mdf مبل گوشه کد729(قیمت تولیدی)",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&cities=&province=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&algorithm=rerank&prk=858748a5-8ab0-4cf4-aa21-5c1a38a7211d&rank=25",
+            "web_client_absolute_url": "/p/858748a5-8ab0-4cf4-aa21-5c1a38a7211d/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D8%B1%D9%86-mdf-%D9%85%D8%A8%D9%84-%DA%AF%D9%88%D8%B4%D9%87-%DA%A9%D8%AF729-%D9%82%DB%8C%D9%85%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C/",
+            "price": 6900000,
+            "price_prefix": "cheapest",
+            "price_text": "۶٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مبلمان گوشه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=858748a5-8ab0-4cf4-aa21-5c1a38a7211d&limit=24&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=858748a5-8ab0-4cf4-aa21-5c1a38a7211d&discover_method=search_image_base&prev_uid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5M/_X/5M_Xbg8l_aqzlZXz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Y6/x3/Y6x3o-jGtCyjvSps.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/yb/c_/ybc_LwoBfeDc34_l.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_5/s9/_5s9DHCiKsA5PBgl.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4i/To/4iToI_-LwexVAn2_.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/5M/_X/5M_Xbg8l_aqzlZXz.jpg",
+            "image_count": 5,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0ddda2eaf7148bdb4ae0f3359e0db&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db&prk=cc78db13-48f3-4274-945d-bfa7407c8426&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 928800000,
+    "min_price": 1300000,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": null,
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&query=%D8%AA%D8%AE%D8%AA+%D8%AE%D9%88%D8%A7%D8%A8&_search_landing=header&q=%D8%AA%D8%AE%D8%AA+%D8%AE%D9%88%D8%A7%D8%A8&_landing_page=home&source=next_desktop&rank_offset=26&_bt__experiment=qcr1__a&suid=01a0ddda2eaf7148bdb4ae0f3359e0db&init_suid=01a0ddda2eaf7148bdb4ae0f3359e0db",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "تخت خواب",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 1300000,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 928800000,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "تخت خواب",
+            "cat_id": 353,
+            "cat_slug": "تخت-خواب-bed-services",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "353",
+            "slug": "تخت-خواب-bed-services"
+        }
+    ],
+    "parent_categories": []
+}

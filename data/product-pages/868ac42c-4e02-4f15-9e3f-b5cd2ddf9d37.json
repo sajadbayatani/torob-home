@@ -1,0 +1,246 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37",
+    "name1": "فر توکار آ ا گ مدل BPK556260B ظرفیت ۷۱ لیتر",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de40587c770998243fdc650b0c0a&search_id=01a0de40587c770998243fdc650b0c0a&cities=&province=&init_suid=01a0de40587c770998243fdc650b0c0a&algorithm=text_similarity&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37",
+    "web_client_absolute_url": "/p/868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7-%D8%A7-%DA%AF-%D9%85%D8%AF%D9%84-bpk556260b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-71-%D9%84%DB%8C%D8%AA%D8%B1/",
+    "price": 210000000,
+    "price_prefix": "cheapest",
+    "price_text": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در لوازم خانگی کالای نیک",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&limit=24&init_suid=01a0de40587c770998243fdc650b0c0a",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&discover_method=search_image_base_pdp&prev_uid=01a0de40587c770998243fdc650b0c0a&init_suid=01a0de40587c770998243fdc650b0c0a",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/yt/A5/ytA5mapptBTlTtGu.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/MH/Ws/MHWsSHASEfdLRzQf.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/pq/Ql/pqQl7gMLrXTDIb2H.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/qi/A5/qiA5ckTmEmBw3Ki0.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/yt/A5/ytA5mapptBTlTtGu.jpg",
+    "image_count": 4,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "فر توکار AEG مدل BPK556260B",
+                "name2": "",
+                "shop_name": "لوازم خانگی کالای نیک",
+                "shop_name2": "تهران",
+                "shop_id": 284383,
+                "has_public_torob_profile": true,
+                "prk": "02a8872e-c1ac-4622-8a8a-fe8743f40e29",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40587c770998243fdc650b0c0a&suid=01a0de40587c770998243fdc650b0c0a&bvid=01a0de4071c4705aa916cb87565e5444&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40587c770998243fdc650b0c0a&prk=02a8872e-c1ac-4622-8a8a-fe8743f40e29&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40587c770998243fdc650b0c0a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 210000000,
+                "price_text": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "در همان روز نحویل مشتری داده میشود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۹ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435160",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40587c770998243fdc650b0c0a&bvid=01a0de4071c4705aa916cb87565e5444&suid=01a0de40587c770998243fdc650b0c0a&cities=&province=&algorithm=text_similarity&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&list_type=products_info&seed=1790435160"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435160",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40587c770998243fdc650b0c0a&cities=&province=&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&list_type=products_in_store_info&seed=1790435160&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&source=next_desktop&discover_method=search&search_id=01a0de40587c770998243fdc650b0c0a&suid=01a0de40587c770998243fdc650b0c0a&seed=1790435160&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&source=next_desktop&discover_method=search&search_id=01a0de40587c770998243fdc650b0c0a&suid=01a0de40587c770998243fdc650b0c0a&seed=1790435160&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de40587c770998243fdc650b0c0a&search_id=01a0de40587c770998243fdc650b0c0a&cities=&province=&init_suid=01a0de40587c770998243fdc650b0c0a&algorithm=text_similarity&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&bvid=01a0de4071c4705aa916cb87565e5444&no_log=true&seed=1790435160",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&base_id=207990132&source=next_desktop&bvid=01a0de4071c4705aa916cb87565e5444&init_suid=01a0de40587c770998243fdc650b0c0a"
+    },
+    "min_price": 210000000,
+    "max_price": 210000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 2519,
+            "title": "اجاق و لوازم پخت و پز",
+            "url": "/browse/2519/%D8%A7%D8%AC%D8%A7%D9%82-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 2519,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "فر برقی و گازی",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/",
+            "cat_id": 2520,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "آ ا گ (AEG)",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/b/222/aeg-%D8%A7-%D8%A7-%DA%AF/",
+            "cat_id": 2520,
+            "brand_id": 222
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "ظرفيت محفظه": "~71 لیتر (قابل‌استفاده بزرگ برای قالب‌ها و سینی‌ها).",
+                    "نوع پاک‌کننده": "Pyrolytic self-cleaning (تمیزکاری با دمای بالا).",
+                    "بخار کمکی": "SteamBake / PlusSteam (بخار در شروع پخت).",
+                    "سنسور غذا": "Food Sensor / Meat Probe (پراب دمای مرکزی)",
+                    "ابعاد استاندارد": "عرض ~595 mm × ارتفاع ~594 mm × عمق ~567 mm",
+                    "لوازم همراه": "سینی‌های مختلف، شلف توری، پراب دما، طبق دفترچه",
+                    "کشورسازنده": "آلمان"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "فر-توکار-ا-ا-گ-مدل-bpk556260b-ظرفیت-71-لیتر",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&limit=24&init_suid=01a0de40587c770998243fdc650b0c0a",
+    "torob_category": 2520,
+    "no_index": false,
+    "buy_box_price_text": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40587c770998243fdc650b0c0a&suid=01a0de40587c770998243fdc650b0c0a&bvid=01a0de4071c4705aa916cb87565e5444&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40587c770998243fdc650b0c0a&prk=02a8872e-c1ac-4622-8a8a-fe8743f40e29&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40587c770998243fdc650b0c0a",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از لوازم خانگی کالای نیک",
+    "new_buy_box_button_text2": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40587c770998243fdc650b0c0a&suid=01a0de40587c770998243fdc650b0c0a&bvid=01a0de4071c4705aa916cb87565e5444&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40587c770998243fdc650b0c0a&prk=02a8872e-c1ac-4622-8a8a-fe8743f40e29&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40587c770998243fdc650b0c0a&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "02a8872e-c1ac-4622-8a8a-fe8743f40e29",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/MH/Ws/MHWsSHASEfdLRzQf.jpg",
+                "https://image.torob.com/base/images/pq/Ql/pqQl7gMLrXTDIb2H.jpg",
+                "https://image.torob.com/base/images/qi/A5/qiA5ckTmEmBw3Ki0.jpg"
+            ]
+        }
+    ]
+}

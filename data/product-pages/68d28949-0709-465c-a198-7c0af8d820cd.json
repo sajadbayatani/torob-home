@@ -1,0 +1,2345 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "68d28949-0709-465c-a198-7c0af8d820cd",
+    "name1": "مایکروویو سامسونگ مدل MG40DG5524AT ظرفیت ۴۰ لیتر",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de558f5c7647969a4cc85ebe170f&search_id=01a0de558f5c7647969a4cc85ebe170f&cities=&province=&init_suid=01a0de558f5c7647969a4cc85ebe170f&algorithm=text_similarity&prk=68d28949-0709-465c-a198-7c0af8d820cd",
+    "web_client_absolute_url": "/p/68d28949-0709-465c-a198-7c0af8d820cd/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-mg40dg5524at-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-40-%D9%84%DB%8C%D8%AA%D8%B1/",
+    "price": 34800000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۳۴٫۸۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۷۸ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": "اهواز",
+    "delivery_city_flag": "offline",
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=68d28949-0709-465c-a198-7c0af8d820cd&limit=24&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=68d28949-0709-465c-a198-7c0af8d820cd&discover_method=search_image_base_pdp&prev_uid=01a0de558f5c7647969a4cc85ebe170f&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/e2/L8/e2L8GS4nh4cW8pSs.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/2W/Wi/2WWiFi4BC_grXgk9.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/2-/M7/2-M7bENS1F-Af_CS.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Fv/BY/FvBYI_NghzX6UD4Z.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/-f/eO/-feOlfE3xOOZx9Hh.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/k3/eK/k3eKTGbq05323eOe.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/di/NL/diNLKzq9NvnOigoz.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/e2/L8/e2L8GS4nh4cW8pSs.webp",
+    "image_count": 7,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "مایکروفر سامسونگ 5524 ظرفیت 40 لیتر MG40DG5524ATSG",
+                "name2": "اصل | 24 ماه سام سرویس",
+                "shop_name": "زمرد سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 3162,
+                "has_public_torob_profile": true,
+                "prk": "8ca575ef-6fff-4e8c-9199-4aa6c00859ea",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=8ca575ef-6fff-4e8c-9199-4aa6c00859ea&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de55b30f77fd93021508754d4c90&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 51900000,
+                "price_text": "۵۱٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۱٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال یک روزه در تهران با خودرو و کارشناس نصب فروشگاه | ارسال به سراسر کشور با همکاری شرکت تیپاکس (با توجه به ساعت کاری شرکت تی پاکس ارسال در روزهای کاری امکان پذیر است)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524ATظرفیت ۴۰ لیتر ا SAMSUNG MG40DG5524AT",
+                "name2": "اصل | گارانتی اصالت و سلامت کالا",
+                "shop_name": "فیلیپس قشم کالا",
+                "shop_name2": "قشم",
+                "shop_id": 307664,
+                "has_public_torob_profile": true,
+                "prk": "985d5ca8-e891-4847-a754-2d57238b9085",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=985d5ca8-e891-4847-a754-2d57238b9085&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 34800000,
+                "price_text": "۳۴٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۴٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای قشم با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۰ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ/Samsung مدل MG40DG5524AT ظرفیت ۴۰ لیتر - سیلور ا با توجه به نوسانات ارز قبل از خرید با ما تماس بگیرید",
+                "name2": "اصل",
+                "shop_name": "لوازم خانگی تاج شاپینگ",
+                "shop_name2": "بانه",
+                "shop_id": 413087,
+                "has_public_torob_profile": true,
+                "prk": "c9c14cc7-6a36-44d1-8547-9b5b2c65b7b7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=c9c14cc7-6a36-44d1-8547-9b5b2c65b7b7&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 35990000,
+                "price_text": "۳۵٫۹۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۵٫۹۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای ارومیه، بانه، بوکان، تبریز، زنجان، سنندج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "هزینه ارسال محصول پس کرایه می باشد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ MG40DG5524AT",
+                "name2": "ضمانت سلامت و اصالت کالا",
+                "shop_name": "یزدانی شاپ",
+                "shop_name2": "بانه",
+                "shop_id": 347104,
+                "has_public_torob_profile": true,
+                "prk": "ca07e19d-baec-4820-82cc-eadf8ad80452",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=ca07e19d-baec-4820-82cc-eadf8ad80452&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 36150000,
+                "price_text": "۳۶٫۱۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۶٫۱۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524 ظرفیت ۴۰ لیتر",
+                "name2": "اصل",
+                "shop_name": "هامین کالا",
+                "shop_name2": "درگهان",
+                "shop_id": 269376,
+                "has_public_torob_profile": true,
+                "prk": "bf22992c-4943-4e1c-b3cd-63dcb2b68290",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=bf22992c-4943-4e1c-b3cd-63dcb2b68290&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 36153000,
+                "price_text": "۳۶٫۱۵۳٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۶٫۱۵۳٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روش ارسال محصول\nما در {لوازم خانگی هامین} با افتخار تضمین می‌کنیم که سفارش شما با بهترین روش‌های حمل‌ونقل و در کوتاه‌ترین زمان ممکن ارسال خواهد شد. آرامش و رضایت شما، اولویت اصلی ماست.\n\n---\n\n✈️ روش‌های ارسال ما:\n\n· پست پیشتاز: تحویل در کم‌تر از 8 روز در شهرهای اصلی\n· پیک موتوری: ارسال در همان روز (مخصوص شهر {جزیره قشم })\n· باربری: ارسال به سایر شهرها با بسته‌بندی مطمئن و تضمین شده\n\n---\n\n✅ چه چیزی را تضمین می‌کنیم؟\n\n· بسته‌بندی امن: کلیه محصولات با بهترین استانداردهای بسته‌بندی ارسال می‌شوند تا از هرگونه آسیب در حین حمل در امان باشند.\n· پیگیری لحظه‌ای: پس از ارسال، کد رهگیری مرسوله برای شما پیامک خواهد شد تا بتوانید وضعیت بسته خود را به صورت آنلاین دنبال کنید.\n· زمان تحویل: متعهدیم سفارشات داخل شهر را حداکثر ظرف {تعداد} ساعت و سفارشات خارج شهر را حداکثر ظرف {تعداد} روز کاری ارسال کنیم.\n· پشتیبانی تا لحظه تحویل: تیم پشتیبانی ما تا لحظه‌ای که بسته به دست شما نرسد، پاسخگوی شماست.\n\n---\n\n📞 اگر مشکلی پیش آمد؟\n\nدر صورت تأخیر غیرمعمول یا بروز هرگونه مشکل در فرآیند ارسال، بدون نگرانی با ما تماس بگیرید:\n\n· تلفن پشتیبانی: { 09383389498 }\n· ایمیل: { Alijamalkhah34@gmail.com }\n· پیام در واتس‌اپ: { 09383389498 }\n\nما تا دریافت رضایت کامل شما، کنارتان هستیم.\n\n---\n\nچرا خرید از ما اطمینان‌بخش است؟\n\nزیرا ما نه تنها محصول، بلکه آرامش را برای شما ارسال می‌کنیم."
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۱۲ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۱۲ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT ظرفیت ۴۰ لیتر ا MG40DG5524AT",
+                "name2": "اصل",
+                "shop_name": "دوو‌ انتخاب",
+                "shop_name2": "تهران",
+                "shop_id": 178648,
+                "has_public_torob_profile": true,
+                "prk": "5309c477-8df4-49ee-a0ee-389d17e84ff5",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=5309c477-8df4-49ee-a0ee-389d17e84ff5&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 36500000,
+                "price_text": "۳۶٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۶٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524ATSG",
+                "name2": "12 ماه گارانتی",
+                "shop_name": "سیروان کالا",
+                "shop_name2": "تهران",
+                "shop_id": 242286,
+                "has_public_torob_profile": true,
+                "prk": "392c6d84-c41b-4ac5-bee5-e780e3b37f2c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=392c6d84-c41b-4ac5-bee5-e780e3b37f2c&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 37000000,
+                "price_text": "۳۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ گریل دار 5524",
+                "name2": "اصل",
+                "shop_name": "لوازم خانگی وزیر شاپ",
+                "shop_name2": "بانه",
+                "shop_id": 269477,
+                "has_public_torob_profile": true,
+                "prk": "a4e59f15-c128-460c-b4e8-7fcc04e4e6e6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=a4e59f15-c128-460c-b4e8-7fcc04e4e6e6&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 37000000,
+                "price_text": "۳۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای بانه، تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال های ما هر روزه از طریق تمام اداره های پتسی ماشین خصوصی فروشگاه و پیک  و همچنین و باربری می باشد."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱۰ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT -",
+                "name2": "اصل",
+                "shop_name": "نيلسوكالا",
+                "shop_name2": "کرج",
+                "shop_id": 48882,
+                "has_public_torob_profile": true,
+                "prk": "1f354990-8960-42dc-82e6-ce386e2b354e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=1f354990-8960-42dc-82e6-ce386e2b354e&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 37890000,
+                "price_text": "۳۷٫۸۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۷٫۸۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "خواهشمندیم جهت ارسال در همان روز با تیم پشتیبانی فروش تماس بگیرید\nدر قسمت سفارشات سایت گزینه پرداخت در محل فقط و فقط جهت مبالغ زیر 10میلیون تومان هست و برای سفارش و خرید کالاها مبالغ بالاتر پرداخت فقط از طریق درگاه پرداخت می باشد سفارشاتی که مبالغ بالاتر از عدد توضیح داده شده را داشته باشند و کاربر عزیزگزینه پرداخت در محل را ثبت کرده باشد سفارش ایشان رد شده و پردازش نخواهد شد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT ا Samsung 5524 Grill Microwave Oven",
+                "name2": "اصل",
+                "shop_name": "آمازون باکس",
+                "shop_name2": "بانه",
+                "shop_id": 157999,
+                "has_public_torob_profile": true,
+                "prk": "225ec9e5-79b2-4346-9a83-9dfd1822b67b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=225ec9e5-79b2-4346-9a83-9dfd1822b67b&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 37898000,
+                "price_text": "۳۷٫۸۹۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۷٫۸۹۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، بانه، بوکان، تهران، سردشت، سردشت، سردشت، سقز، مریوان، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "برای محصولاتی که با پرداخت درب منزل فعال می شوند هزینه ارسال نسبتا بیشتری به نسبت پرداخت کامل می خورند. در ضمن در حال حاظر ارسال هیچ محصولی رایگان نمی باشد. هزینه ارسال تمام محصولات درب منزل مشتری پرداخت خواهد شد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524ATSG",
+                "name2": "بدون گارانتی",
+                "shop_name": "دکتر خانگی",
+                "shop_name2": "بانه",
+                "shop_id": 207796,
+                "has_public_torob_profile": true,
+                "prk": "182dcb80-9e96-4306-a26d-5d82f7f96c8e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=182dcb80-9e96-4306-a26d-5d82f7f96c8e&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38000000,
+                "price_text": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "با پست تمتم مبلغ درافت میشود با پیک پرداخت در محل است"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۰ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ 40 لیتر MG40DG5524ATSG",
+                "name2": "اصل",
+                "shop_name": "آترین پلاس",
+                "shop_name2": "تهران",
+                "shop_id": 411710,
+                "has_public_torob_profile": true,
+                "prk": "ee63adb1-cb68-4992-bd00-52909832e3dd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=ee63adb1-cb68-4992-bd00-52909832e3dd&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38140000,
+                "price_text": "۳۸٫۱۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۱۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان، اهواز، تبریز، تهران، رشت، زنجان، سنندج، شیراز، قزوین، همدان، کرج، کرمانشاه با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل Samsung MG40DG5524ATSG",
+                "name2": "اصل | گارانتی اصالت و سلامت فیزیکی کالا",
+                "shop_name": "لوازم خانگی وستا کالا",
+                "shop_name2": "بانه",
+                "shop_id": 99780,
+                "has_public_torob_profile": true,
+                "prk": "e035bf4b-6039-4883-9508-ae9517ece393",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=e035bf4b-6039-4883-9508-ae9517ece393&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38215000,
+                "price_text": "۳۸٫۲۱۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۲۱۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "کالای ریز از طریق پست و کالاهای بزرگ با ماشین باربری ارسال خواهد شد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماکروویو سامسونگ مدل MG40DG-5524-AGSG ا Samsung MG40DG-5524-AGSG microwave",
+                "name2": "اصل | 7 روز مهلت تست + بیمه کامل شکستگی در ارسال",
+                "shop_name": "لاریران",
+                "shop_name2": "لار",
+                "shop_id": 27145,
+                "has_public_torob_profile": true,
+                "prk": "44938c8f-e4a3-4fdd-9b88-3b87251ab6ae",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=44938c8f-e4a3-4fdd-9b88-3b87251ab6ae&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38216000,
+                "price_text": "۳۸٫۲۱۶٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۲۱۶٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اوز، لارستان، گراش با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اوز، لارستان با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تحویل کالا به پست بین 1 الی۳ روزکاری بعد از ثبت سفارش (تمامی کالاها قبل از ارسال چک شده و بیمه می شوند لطفا حتما حتما کالا را جلوی مامور تیپاکس بازکنید  درصورت عدم رعایت این موضوع فروشگاه هیچ مسئولیتی در قبال شکستگی کالای شما ندارد)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو آون سامسونگ MG40DG5524ATSG ا مایکروویو آون روکار 40 لیتری 900 وات سامسونگ MG40DG5524ATSG رنگ مشکی نقره‌ای محصول 2024",
+                "name2": "اصل | بدون گارانتی: تست سلامت و اصالت هنگام تحویل",
+                "shop_name": "بامیرزا",
+                "shop_name2": "بانه",
+                "shop_id": 16789,
+                "has_public_torob_profile": true,
+                "prk": "8f3fde91-1d37-472b-81e1-7857811cd2d3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=8f3fde91-1d37-472b-81e1-7857811cd2d3&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38900000,
+                "price_text": "۳۸٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "کالاهای سنگین و حجیم نظیر تلویزیون، کولر گازی، ماشین لباسشویی، ظرفشویی و یخچال ... با استفاده از پیک اختصاصی بامیرزا و در اسرع وقت ارسال می‌شوند. در این شیوه‌ی ارسال، مشتریان بامیرزا تنها با پرداخت مبلغ هزینه‌ی حمل کالا به عنوان بیعانه، ثبت سفارش کرده و  و پس از ارسال و تحویل کالای سالم، می‌توانند نسبت به پرداخت هزینه‌ی کامل اقدام کنند.\n\n♦ پرداخت هزینه‌ی بیعانه\n♦ ارسال سریع 24 ساعت برای شهرهای نزدیک\n♦ ارسال سریع 2 تا 7 روز برای شهرهای دورتر\n♦ ارسال سریع 2 تا 5 روز برای شهر های دورتر\n♦  امکان هماهنگی و پیگیری با پیک به صورت تلفنی و سفارشی کردن زمان تحویل\n♦ تحویل کالا در درب منزل یا محل از پیش تعیین شده\n♦ تسویه و پرداخت کامل هزینه پس از تست و بررسی کالا"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ 5524 ظرفیت 40 لیتر MG40DG5524 ا Samsung Microwave 5524 Capacity 40 liters MG40DG5524",
+                "name2": "اصل | گارانتی اصالت و سلامت فیزیکی کالا | 09181765124",
+                "shop_name": "نوژین",
+                "shop_name2": "بانه",
+                "shop_id": 161808,
+                "has_public_torob_profile": true,
+                "prk": "a6bab00b-7f9c-4dbf-8d1c-9d7236724f1b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=a6bab00b-7f9c-4dbf-8d1c-9d7236724f1b&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38900000,
+                "price_text": "۳۸٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT",
+                "name2": "اصل | دارد",
+                "shop_name": "دهکده دات شاپ",
+                "shop_name2": "بانه",
+                "shop_id": 394275,
+                "has_public_torob_profile": true,
+                "prk": "2ec5c874-bb42-490b-adfb-8bc9ea20dab2",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=2ec5c874-bb42-490b-adfb-8bc9ea20dab2&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38997000,
+                "price_text": "۳۸٫۹۹۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۹۹۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "https://dehkade.shop/send/"
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT ظرفیت ۴۰ لیتر",
+                "name2": "اصل",
+                "shop_name": "سادات استور",
+                "shop_name2": "هندیجان",
+                "shop_id": 262052,
+                "has_public_torob_profile": true,
+                "prk": "5fe219a5-dcf5-444a-b77e-508dd7cc7f2e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=5fe219a5-dcf5-444a-b77e-508dd7cc7f2e&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39000000,
+                "price_text": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای هندیجان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT",
+                "name2": "اصل",
+                "shop_name": "پیرهادی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 18767,
+                "has_public_torob_profile": true,
+                "prk": "073882de-c96d-4a0d-8ac8-faf275ce9af0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=073882de-c96d-4a0d-8ac8-faf275ce9af0&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39000000,
+                "price_text": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "امکان خرید حضوری از فروشگاه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل SAMSUNG MG40DG5524ATSG ا SAMSUNG MICROWAVE MG40DG5524ATSG",
+                "name2": "",
+                "shop_name": "آنتیک کالا",
+                "shop_name2": "تهران",
+                "shop_id": 212,
+                "has_public_torob_profile": true,
+                "prk": "5119c057-d9eb-4c7d-8237-a6bd6029edd0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=5119c057-d9eb-4c7d-8237-a6bd6029edd0&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39000000,
+                "price_text": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 24 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروفر سامسونگ مدل MG40DG5524ATSG ا MG40DG5524ATSG",
+                "name2": "اصل",
+                "shop_name": "بانه جارو",
+                "shop_name2": "بانه",
+                "shop_id": 344811,
+                "has_public_torob_profile": true,
+                "prk": "6fd645ff-9793-47ff-aae9-1da4ef073c8f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=6fd645ff-9793-47ff-aae9-1da4ef073c8f&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39000000,
+                "price_text": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT",
+                "name2": "",
+                "shop_name": "آرماتیک",
+                "shop_name2": "پاکدشت",
+                "shop_id": 149328,
+                "has_public_torob_profile": true,
+                "prk": "e312bc62-5f95-4ff3-90a2-f2d63435c21e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=e312bc62-5f95-4ff3-90a2-f2d63435c21e&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39362000,
+                "price_text": "۳۹٫۳۶۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۳۶۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای شیراز، لامرد با هماهنگی",
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق پست پیشتاز وتیپاکس و چاپار"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ 5524",
+                "name2": "اصل",
+                "shop_name": "عمو نوروز",
+                "shop_name2": "بانه",
+                "shop_id": 118973,
+                "has_public_torob_profile": true,
+                "prk": "c95b2854-8fee-4e7c-9ea1-3ad1398a7f56",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=c95b2854-8fee-4e7c-9ea1-3ad1398a7f56&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39592000,
+                "price_text": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال با پیک اختصاصی و باربری | بیمه تا زمان تحویل | تضمین اصالت و سلامت برای تمامی محصولات ارسالی"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروفر سامسونگ 5524 ظرفیت 40 لیتر",
+                "name2": "اصل | بیمه 100% تا زمان تحویل | گارانتی (طلایی: ۳۰ روز تعویض، نوسان برق، پنل و کلیه قطعات شامل گارانتی، نصب رایگان زیر ۲۴ ساعت)",
+                "shop_name": "برگ و باد",
+                "shop_name2": "بانه",
+                "shop_id": 4846,
+                "has_public_torob_profile": true,
+                "prk": "257e386e-5e09-4d4b-b582-40d78357422d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=257e386e-5e09-4d4b-b582-40d78357422d&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39592000,
+                "price_text": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال با پیک اختصاصی و باربری | بیمه تا زمان تحویل | تضمین اصالت و سلامت برای تمامی محصولات ارسالی"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ 5524",
+                "name2": "اصل",
+                "shop_name": "ژیار کالا",
+                "shop_name2": "بانه",
+                "shop_id": 280,
+                "has_public_torob_profile": true,
+                "prk": "7e1fc943-1372-47dd-93ab-81bf06019624",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=7e1fc943-1372-47dd-93ab-81bf06019624&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39592000,
+                "price_text": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۵۹۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال از طریق پیک اختصاصی و باربری | بیمه تا زمان تحویل | تضمین اصلات و سلامت کالا | به شرط کارشناسی | تست در محل هنگام تحویل"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524AT | ظرفیت 40 لیتر، گریل 1500 وات و توان 900 وات | Samsung MG40DG5524AT | NafasHome ا ضمانت اصالت کالا",
+                "name2": "اصل",
+                "shop_name": "نفس هوم",
+                "shop_name2": "پهله",
+                "shop_id": 283131,
+                "has_public_torob_profile": true,
+                "prk": "83c33ce1-4333-418e-8586-7f67e8462b4f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=83c33ce1-4333-418e-8586-7f67e8462b4f&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39800000,
+                "price_text": "۳۹٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "از طریق پست پیشتاز"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱۲ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱۲ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل Samsung MG40DG5524ATSG",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "بانه، خدری مارکت",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "5490878f-a829-4c56-904f-b50346ea0689",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=5490878f-a829-4c56-904f-b50346ea0689&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f&installment=241:1xAUKv:NITX7PEQFqt3SttWNeODPa2Miap0F8FbgrDGcbsMVaM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39900000,
+                "price_text": "۳۹٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو 40 لیتری سامسونگ مدل MG40DG5524ATSG",
+                "name2": "اصل",
+                "shop_name": "کالا خانگی‌ مروارید کیش",
+                "shop_name2": "اهواز",
+                "shop_id": 145879,
+                "has_public_torob_profile": true,
+                "prk": "08af9eba-2ac4-4a35-a8cf-13fd10d65c5b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=08af9eba-2ac4-4a35-a8cf-13fd10d65c5b&btn=buy_city&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": true,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39990000,
+                "price_text": "۳۹٫۹۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۹۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو سامسونگ مدل MG40DG5524ATSG",
+                "name2": "اصل",
+                "shop_name": "رنجبری شاپ",
+                "shop_name2": "بانه",
+                "shop_id": 421207,
+                "has_public_torob_profile": true,
+                "prk": "1a671d52-839e-4262-ae8b-31b788c91f9a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=1a671d52-839e-4262-ae8b-31b788c91f9a&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 40000000,
+                "price_text": "۴۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مایکروویو گریل سامسونگ مدل MG40DG5524ATSG ا SAMSUNG MG40DG5524ATSG",
+                "name2": "اصل | اصل | ORIGINAL",
+                "shop_name": "بلوط شاپینگ دات آی آر",
+                "shop_name2": "بانه",
+                "shop_id": 425810,
+                "has_public_torob_profile": true,
+                "prk": "5ab566a3-8b85-4295-a223-c0051289892b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=5ab566a3-8b85-4295-a223-c0051289892b&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 40000000,
+                "price_text": "۴۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در آمل، اردبیل، ارومیه، اصفهان، بزنجان، بیرجند، تبریز، تهران، خوی، رامسر، رشت، ساری، ساوه، سلماس، سمنان، قزوین، قم، ماکو، همدان، کاشان، کاشمر، کرج، کرمانشاه، گرگان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.2,
+                    "score_text": "★۴.۲ (۲ ماه در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۲ (۲ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۷۷ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436553",
+        "count": 119,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&suid=01a0de558f5c7647969a4cc85ebe170f&cities=&province=&algorithm=text_similarity&prk=68d28949-0709-465c-a198-7c0af8d820cd&list_type=products_info&seed=1790436553"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "08af9eba-2ac4-4a35-a8cf-13fd10d65c5b",
+                "shop_id": 145879,
+                "name1": "خیابان طالقانی، خیابان علم...",
+                "name2": "",
+                "shop_name": "کالا خانگی مروارید کیش",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۲:۳۰ | ۱۶:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 39990000,
+                "price_string": "۳۹٫۹۹۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱۰ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/2176f593cd80.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=08af9eba-2ac4-4a35-a8cf-13fd10d65c5b&base_rk=68d28949-0709-465c-a198-7c0af8d820cd&shop_id=145879&member_type=product_page",
+                    "count": 2
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=08af9eba-2ac4-4a35-a8cf-13fd10d65c5b&btn=buy&shop_rank=0&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان طالقانی، خیابان علم...",
+                "installment": null
+            }
+        ],
+        "seed": "1790436553",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&cities=&province=&prk=68d28949-0709-465c-a198-7c0af8d820cd&list_type=products_in_store_info&seed=1790436553&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=68d28949-0709-465c-a198-7c0af8d820cd&source=next_desktop&discover_method=search&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&seed=1790436553&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=68d28949-0709-465c-a198-7c0af8d820cd&source=next_desktop&discover_method=search&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&seed=1790436553&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۳۷٫۸۹۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۳۹٫۹۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "از ۳۹٫۹۹۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳۴٫۸۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 1,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de558f5c7647969a4cc85ebe170f&search_id=01a0de558f5c7647969a4cc85ebe170f&cities=&province=&init_suid=01a0de558f5c7647969a4cc85ebe170f&algorithm=text_similarity&prk=68d28949-0709-465c-a198-7c0af8d820cd&bvid=01a0de55b2e471af9d0c2555d73923fa&no_log=true&seed=1790436553",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=68d28949-0709-465c-a198-7c0af8d820cd&base_id=111845215&source=next_desktop&bvid=01a0de55b2e471af9d0c2555d73923fa&init_suid=01a0de558f5c7647969a4cc85ebe170f"
+    },
+    "min_price": 34800000,
+    "max_price": 56326406,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 194,
+            "title": "لوازم برقی پخت و پز",
+            "url": "/browse/194/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 194,
+            "brand_id": null
+        },
+        {
+            "id": 668,
+            "title": "مایکروویو",
+            "url": "/browse/668/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88/",
+            "cat_id": 668,
+            "brand_id": null
+        },
+        {
+            "id": 668,
+            "title": "سامسونگ (Samsung)",
+            "url": "/browse/668/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88/b/5/samsung-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF/",
+            "cat_id": 668,
+            "brand_id": 5
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "برند": "سامسونگ",
+                    "رنگ": "مشکی نقره ای",
+                    "کشور سازنده": "مالزی",
+                    "نوع دستگاه": "مایکروویو",
+                    "عملکردها": "پخت ترکیبی, گریل, مایکروویو",
+                    "نوع گرمایش": "هیتر غلافی",
+                    "کانوکشن": "ندارد",
+                    "توان مصرفی مایکروویو": "1500 وات",
+                    "توان مصرفی گریل": "1500-1650 وات",
+                    "توان مصرفی ترکیبی": "3000-3150 وات",
+                    "ظرفیت مایکروویو": "40 لیتر",
+                    "برنامه خودکار": "دارد",
+                    "تعداد برنامه های خودکار": "5 برنامه پخت",
+                    "برنامه ها": "اسنک, دسر خانگی, غذاهای سلامت (رژیمی), گرم کردن مجدد, گریل کردن",
+                    "قطر صفحه چرخان": "360 میلیمتر",
+                    "قابلیت کنترل دما": "ندارد",
+                    "قابلیت کنترل زمان": "دارد",
+                    "سیستم نظافت": "تمیز کردن آسان",
+                    "ساعت الکترونیک": "دارد",
+                    "نوع کنترل": "دکمه ای",
+                    "قفل کودک": "دارد",
+                    "لوازم جانبی": "حلقه غلتکی چرخان, سه پایه فلزی, سینی",
+                    "نمایشگر": "LED",
+                    "صفحه کنترل لمسی": "ندارد",
+                    "وزن": "18 کیلوگرم",
+                    "ارتفاع": "389 میلیمتر",
+                    "عرض": "627 میلیمتر",
+                    "عمق": "520 میلیمتر",
+                    "سایر مشخصات": "قابلیت تنظیم 6 سطح قدرت مایکروویو, نظافت آسان با دارا بودن ساختار درونی از سرامیک"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "گرید انرژی",
+                    "value": [
+                        "A"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "مایکروویو-سامسونگ-مدل-mg40dg5524at-ظرفیت-40-لیتر",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=68d28949-0709-465c-a198-7c0af8d820cd",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=68d28949-0709-465c-a198-7c0af8d820cd&limit=24&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+    "torob_category": 668,
+    "no_index": false,
+    "buy_box_price_text": "از ۳۴٫۸۰۰٫۰۰۰ تومان تا ۵۶٫۳۲۶٫۴۰۶ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=985d5ca8-e891-4847-a754-2d57238b9085&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از فیلیپس قشم کالا",
+    "new_buy_box_button_text2": "۳۴٫۸۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de558f5c7647969a4cc85ebe170f&suid=01a0de558f5c7647969a4cc85ebe170f&bvid=01a0de55b2e471af9d0c2555d73923fa&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de558f5c7647969a4cc85ebe170f&prk=985d5ca8-e891-4847-a754-2d57238b9085&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de558f5c7647969a4cc85ebe170f&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "8ca575ef-6fff-4e8c-9199-4aa6c00859ea",
+    "new_buy_box_source_prk": "985d5ca8-e891-4847-a754-2d57238b9085",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۷۷ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/2W/Wi/2WWiFi4BC_grXgk9.webp",
+                "https://image.torob.com/base/images/2-/M7/2-M7bENS1F-Af_CS.webp",
+                "https://image.torob.com/base/images/Fv/BY/FvBYI_NghzX6UD4Z.webp",
+                "https://image.torob.com/base/images/-f/eO/-feOlfE3xOOZx9Hh.webp",
+                "https://image.torob.com/base/images/k3/eK/k3eKTGbq05323eOe.webp",
+                "https://image.torob.com/base/images/di/NL/diNLKzq9NvnOigoz.webp"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,828 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "e063912f-60aa-4ab3-ba6d-a19c61cbda98",
+    "name1": "میز و صندلی ناهارخوری ۴ نفره چوب راش نوبل",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de46908c72fd87f061f16aad0299&search_id=01a0de46908c72fd87f061f16aad0299&cities=&province=&init_suid=01a0de46908c72fd87f061f16aad0299&algorithm=text_similarity&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98",
+    "web_client_absolute_url": "/p/e063912f-60aa-4ab3-ba6d-a19c61cbda98/%D9%85%DB%8C%D8%B2-%D9%88-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%86%D8%A7%D9%87%D8%A7%D8%B1%D8%AE%D9%88%D8%B1%DB%8C-4-%D9%86%D9%81%D8%B1%D9%87-%DA%86%D9%88%D8%A8-%D8%B1%D8%A7%D8%B4-%D9%86%D9%88%D8%A8%D9%84/",
+    "price": 23400000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۲۳٫۴۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۹ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&limit=24&init_suid=01a0de46908c72fd87f061f16aad0299",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&discover_method=search_image_base_pdp&prev_uid=01a0de46908c72fd87f061f16aad0299&init_suid=01a0de46908c72fd87f061f16aad0299",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/TD/p8/TDp8a8Sfggi56Rn1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/OY/q6/OYq6YkONFNtxpIy5.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/6p/JS/6pJSIdbJPCBJl0RL.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/1R/6C/1R6COQLaJOzg9027.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Sl/HC/SlHCcKiwZLsXrrmh.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/sv/eW/sveWG0kp9ANAdR5N.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Hv/w4/Hvw4SezLxD1nFilG.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/TD/p8/TDp8a8Sfggi56Rn1.jpg",
+    "image_count": 7,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "میز غذاخوری نوبل چوب روسی",
+                "name2": "دو سال ضمانت و خدمات پس از فروش",
+                "shop_name": "رابین وود — robinwood.ir",
+                "shop_name2": "مشکین دشت",
+                "shop_id": 451864,
+                "has_public_torob_profile": true,
+                "prk": "95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299&installment=96:1xAU4z:jhsbHrg5q4uJEzyj9Vxq1WfIxGoJ7tF0W1gb9BxvwSU",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23400000,
+                "price_text": "۲۳٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری نوبل ارسال سراسر کشور",
+                "name2": "",
+                "shop_name": "ویسانو",
+                "shop_name2": "تهران",
+                "shop_id": 246443,
+                "has_public_torob_profile": true,
+                "prk": "cb992dd5-a5a8-4a41-a676-293acf1a477f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=cb992dd5-a5a8-4a41-a676-293acf1a477f&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23496999,
+                "price_text": "۲۳٫۴۹۶٫۹۹۹ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۴۹۶٫۹۹۹ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری ۴ نفره نوبل ارسال سراسر کشور",
+                "name2": "",
+                "shop_name": "گالری ایمان",
+                "shop_name2": "تهران",
+                "shop_id": 313767,
+                "has_public_torob_profile": true,
+                "prk": "ff7974a6-603a-48ba-95ba-55d234765f61",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=ff7974a6-603a-48ba-95ba-55d234765f61&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23496999,
+                "price_text": "۲۳٫۴۹۶٫۹۹۹ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۴۹۶٫۹۹۹ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "https://imanngallery.ir/procedures-for-sending-orders/"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری چهارنفره نوبل",
+                "name2": "",
+                "shop_name": "چوبسار",
+                "shop_name2": "چهاردانگه",
+                "shop_id": 103075,
+                "has_public_torob_profile": true,
+                "prk": "0c1dbd49-16ff-4a99-a912-5107a419572b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=0c1dbd49-16ff-4a99-a912-5107a419572b&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 26500000,
+                "price_text": "۲۶٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۶٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اسلامشهر، تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری چهار نفره چوبی مدل نوبل",
+                "name2": "",
+                "shop_name": "چوب چوب",
+                "shop_name2": "تهران",
+                "shop_id": 4372,
+                "has_public_torob_profile": true,
+                "prk": "cb63e20e-d982-44ff-877d-cd3d9c04d20b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=cb63e20e-d982-44ff-877d-cd3d9c04d20b&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 30550000,
+                "price_text": "۳۰٫۵۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۰٫۵۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال به شهرستان به صورت پس کرایه بوده و مشتری بایستی کرایه را پس از تحویل محصول، به باربری پرداخت نماید."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری چهار نفره چوبی مدل نوبل (پرداخت کرایه پس از تحویل)",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "تهران، اینترنتی چوب چوب",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "1ece88a5-1c47-4c7b-9467-983dd58b4b75",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=1ece88a5-1c47-4c7b-9467-983dd58b4b75&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299&installment=241:1xAU4z:vffwxoH06QCeDHPWWV-5q2ADeZFxfYbsQLHCBwXtQ1A",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 36500000,
+                "price_text": "۳۶٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۶٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری چهار نفره مدل نوبل",
+                "name2": "",
+                "shop_name": "آلوین وود شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 483378,
+                "has_public_torob_profile": true,
+                "prk": "83c21398-ad1c-42ff-8146-b4a68aa5332f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=83c21398-ad1c-42ff-8146-b4a68aa5332f&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38500000,
+                "price_text": "۳۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میزوصندلی نوبل ۸ نفره با چوب روس درجه یک و پارچه فستو",
+                "name2": "",
+                "shop_name": "تولیدوپخش دیاکو",
+                "shop_name2": "تهران",
+                "shop_id": 97420,
+                "has_public_torob_profile": true,
+                "prk": "ae317882-7fe8-4aff-98a3-1aaff487dffd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=ae317882-7fe8-4aff-98a3-1aaff487dffd&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43355000,
+                "price_text": "۴۳٫۳۵۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۳۵۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز و صندلی ناهارخوری چهار نفره چوبی مدل نوبل دکوبازار مدل 754929",
+                "name2": "",
+                "shop_name": "دکو بازار استور",
+                "shop_name2": "تهران",
+                "shop_id": 487961,
+                "has_public_torob_profile": true,
+                "prk": "2869b1bf-de33-4455-8a88-22c4e5d68c0c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=2869b1bf-de33-4455-8a88-22c4e5d68c0c&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74934000,
+                "price_text": "۷۴٫۹۳۴٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۹۳۴٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روش های ارسال از طریق وانت اسنپ پیک باربری کنارباری"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435565",
+        "count": 9,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&suid=01a0de46908c72fd87f061f16aad0299&cities=&province=&algorithm=text_similarity&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&list_type=products_info&seed=1790435565"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435565",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&cities=&province=&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&list_type=products_in_store_info&seed=1790435565&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&source=next_desktop&discover_method=search&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&seed=1790435565&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&source=next_desktop&discover_method=search&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&seed=1790435565&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۲۳٫۴۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۲۳٫۴۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۲۳٫۴۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de46908c72fd87f061f16aad0299&search_id=01a0de46908c72fd87f061f16aad0299&cities=&province=&init_suid=01a0de46908c72fd87f061f16aad0299&algorithm=text_similarity&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&bvid=01a0de469fb673c98e335a5fcffec3c7&no_log=true&seed=1790435565",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&base_id=179280723&source=next_desktop&bvid=01a0de469fb673c98e335a5fcffec3c7&init_suid=01a0de46908c72fd87f061f16aad0299"
+    },
+    "min_price": 23400000,
+    "max_price": 74934000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 349,
+            "title": "ست میز و صندلی غذاخوری",
+            "url": "/browse/349/%D8%B3%D8%AA-%D9%85%DB%8C%D8%B2-%D9%88-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-dining-table/",
+            "cat_id": 349,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "رنگ چوب": "سفید, فندقی, کرم روشن (خود رنگ), مشکی",
+                    "ابعاد": "90 در 90 در 75",
+                    "سایر توضیحات": "رنگ پارچه را در قسمت گفت و گو اعلام کنید",
+                    "مناسب برای": "رستوران ها و منازل مسکونی",
+                    "جنس": "چوب توسکا، MDF"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "میز-و-صندلی-ناهارخوری-4-نفره-چوب-راش-نوبل",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e063912f-60aa-4ab3-ba6d-a19c61cbda98&limit=24&init_suid=01a0de46908c72fd87f061f16aad0299",
+    "torob_category": 349,
+    "no_index": false,
+    "buy_box_price_text": "از ۲۳٫۴۰۰٫۰۰۰ تومان تا ۷۴٫۹۳۴٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از رابین وود — robinwood.ir",
+    "new_buy_box_button_text2": "۲۳٫۴۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de46908c72fd87f061f16aad0299&suid=01a0de46908c72fd87f061f16aad0299&bvid=01a0de469fb673c98e335a5fcffec3c7&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de46908c72fd87f061f16aad0299&prk=95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de46908c72fd87f061f16aad0299&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6",
+    "new_buy_box_source_prk": "95fcbecb-5bb2-4e4a-9f08-c06d8164cdb6",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۸ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/OY/q6/OYq6YkONFNtxpIy5.jpg",
+                "https://image.torob.com/base/images/6p/JS/6pJSIdbJPCBJl0RL.jpg",
+                "https://image.torob.com/base/images/1R/6C/1R6COQLaJOzg9027.jpg",
+                "https://image.torob.com/base/images/Sl/HC/SlHCcKiwZLsXrrmh.jpg",
+                "https://image.torob.com/base/images/sv/eW/sveWG0kp9ANAdR5N.jpg",
+                "https://image.torob.com/base/images/Hv/w4/Hvw4SezLxD1nFilG.jpg"
+            ]
+        }
+    ]
+}

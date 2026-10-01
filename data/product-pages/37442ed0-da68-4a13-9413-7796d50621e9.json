@@ -1,0 +1,340 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "37442ed0-da68-4a13-9413-7796d50621e9",
+    "name1": "تخت خواب یک نفره فلزی مدل نیکا با کشو",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de40d50e77cb8e38a034b684687b&search_id=01a0de40d50e77cb8e38a034b684687b&cities=&province=&init_suid=01a0de40d50e77cb8e38a034b684687b&algorithm=text_similarity&prk=37442ed0-da68-4a13-9413-7796d50621e9",
+    "web_client_absolute_url": "/p/37442ed0-da68-4a13-9413-7796d50621e9/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DB%8C%DA%A9-%D9%86%D9%81%D8%B1%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%D9%86%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88/",
+    "price": 5850000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۵٫۸۵۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۲ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=37442ed0-da68-4a13-9413-7796d50621e9&limit=24&init_suid=01a0de40d50e77cb8e38a034b684687b",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=37442ed0-da68-4a13-9413-7796d50621e9&discover_method=search_image_base_pdp&prev_uid=01a0de40d50e77cb8e38a034b684687b&init_suid=01a0de40d50e77cb8e38a034b684687b",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/a2/WX/a2WX2Ix5koD8tXcg.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/6V/IV/6VIVWVVv4HRQIesc.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/5N/Pd/5NPdEcdL0a7EpVYu.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/UZ/sk/UZskH7jYjoCDJtlK.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/RQ/zf/RQzfpgxfe7HziB-M.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/3J/l9/3Jl9KdFTj9YsFUjU.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/a2/WX/a2WX2Ix5koD8tXcg.jpg",
+    "image_count": 6,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "seo_title": "",
+    "seo_description": "تخت خواب یک نفره مدل شادی، وزن خالص: 100000 گرم. جدید و آماده تحویل. ایده‌آل برای فضای کوچک یا اتاق کودک.",
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "تخت خواب یک نفره فلزی مدل نیکا یا شادی با کشو یا بدون گشو- بدون کشو",
+                "name2": "",
+                "shop_name": "بوفالو شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 126753,
+                "has_public_torob_profile": true,
+                "prk": "0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40d50e77cb8e38a034b684687b&prk=0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40d50e77cb8e38a034b684687b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 5850000,
+                "price_text": "۵٫۸۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵٫۸۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، پردیس، پرند، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال در تهران توسط ماشینهای سواری و شهرستان ها توسط باربری انجام میگردد\nدر داخل تهران والبرز و حومه شهر یک مبلغ باید به عنوان بیعانه واریز و الباقی درب منزل پرداخت گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "تخت خواب یک نفره فلزی مدل نیکا",
+                "name2": "",
+                "shop_name": "چوب چوب",
+                "shop_name2": "تهران",
+                "shop_id": 4372,
+                "has_public_torob_profile": true,
+                "prk": "8233644a-0f13-4393-8611-62b705d60f0c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40d50e77cb8e38a034b684687b&prk=8233644a-0f13-4393-8611-62b705d60f0c&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40d50e77cb8e38a034b684687b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 6780000,
+                "price_text": "۶٫۷۸۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶٫۷۸۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال به شهرستان به صورت پس کرایه بوده و مشتری بایستی کرایه را پس از تحویل محصول، به باربری پرداخت نماید."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435191",
+        "count": 2,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&suid=01a0de40d50e77cb8e38a034b684687b&cities=&province=&algorithm=text_similarity&prk=37442ed0-da68-4a13-9413-7796d50621e9&list_type=products_info&seed=1790435191"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435191",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&cities=&province=&prk=37442ed0-da68-4a13-9413-7796d50621e9&list_type=products_in_store_info&seed=1790435191&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=37442ed0-da68-4a13-9413-7796d50621e9&source=next_desktop&discover_method=search&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&seed=1790435191&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=37442ed0-da68-4a13-9413-7796d50621e9&source=next_desktop&discover_method=search&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&seed=1790435191&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۵٫۸۵۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de40d50e77cb8e38a034b684687b&search_id=01a0de40d50e77cb8e38a034b684687b&cities=&province=&init_suid=01a0de40d50e77cb8e38a034b684687b&algorithm=text_similarity&prk=37442ed0-da68-4a13-9413-7796d50621e9&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&no_log=true&seed=1790435191",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=37442ed0-da68-4a13-9413-7796d50621e9&base_id=49115099&source=next_desktop&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&init_suid=01a0de40d50e77cb8e38a034b684687b"
+    },
+    "min_price": 5850000,
+    "max_price": 6780000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 153,
+            "title": "اتاق خواب",
+            "url": "/browse/153/%D8%A7%D8%AA%D8%A7%D9%82-%D8%AE%D9%88%D8%A7%D8%A8-room/",
+            "cat_id": 153,
+            "brand_id": null
+        },
+        {
+            "id": 353,
+            "title": "تخت خواب",
+            "url": "/browse/353/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-bed-services/",
+            "cat_id": 353,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "پایه": "دارد",
+                    "پارچه": "ندارد",
+                    "رنگ": "سفید, مشکی",
+                    "کشو": "دارد",
+                    "نوع درب و کشو": "چرخی",
+                    "کفی": "ساده چوب و فلز, ساده نئوپان",
+                    "سایر توضیحات": "در صورت سفارش با کشو کفی تخت خواب چوب و فلز (نرده ای) و در صورت سفارش بدون کشو کفی تخت خواب چوبی می باشد",
+                    "قید": "فلزی"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "تخت-خواب-یک-نفره-فلزی-مدل-نیکا-با-کشو",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=37442ed0-da68-4a13-9413-7796d50621e9",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=37442ed0-da68-4a13-9413-7796d50621e9&limit=24&init_suid=01a0de40d50e77cb8e38a034b684687b",
+    "torob_category": 353,
+    "no_index": false,
+    "buy_box_price_text": "از ۵٫۸۵۰٫۰۰۰ تومان تا ۶٫۷۸۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40d50e77cb8e38a034b684687b&prk=0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40d50e77cb8e38a034b684687b",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از بوفالو شاپ",
+    "new_buy_box_button_text2": "۵٫۸۵۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de40d50e77cb8e38a034b684687b&suid=01a0de40d50e77cb8e38a034b684687b&bvid=01a0de40eb7c776a9bacf4b04c53f3a5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de40d50e77cb8e38a034b684687b&prk=0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de40d50e77cb8e38a034b684687b&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039",
+    "new_buy_box_source_prk": "0c7af5ee-21d4-4980-b1c8-4a3a2dfa3039",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۱ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/6V/IV/6VIVWVVv4HRQIesc.jpg",
+                "https://image.torob.com/base/images/5N/Pd/5NPdEcdL0a7EpVYu.jpg",
+                "https://image.torob.com/base/images/UZ/sk/UZskH7jYjoCDJtlK.jpg",
+                "https://image.torob.com/base/images/RQ/zf/RQzfpgxfe7HziB-M.jpg",
+                "https://image.torob.com/base/images/3J/l9/3Jl9KdFTj9YsFUjU.jpg"
+            ]
+        }
+    ]
+}

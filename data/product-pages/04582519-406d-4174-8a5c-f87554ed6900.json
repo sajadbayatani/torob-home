@@ -1,0 +1,897 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "04582519-406d-4174-8a5c-f87554ed6900",
+    "name1": "اجاق گاز رومیزی پولاد پارس ۳ شعله لعابی",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3d0d197007818f6a3fb3b4fdaf&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&cities=&province=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&algorithm=text_similarity&prk=04582519-406d-4174-8a5c-f87554ed6900",
+    "web_client_absolute_url": "/p/04582519-406d-4174-8a5c-f87554ed6900/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%BE%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%D8%B1%D8%B3-3-%D8%B4%D8%B9%D9%84%D9%87-%D9%84%D8%B9%D8%A7%D8%A8%DB%8C/",
+    "price": 3120000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۳٫۱۲۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۳ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=04582519-406d-4174-8a5c-f87554ed6900&limit=24&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=04582519-406d-4174-8a5c-f87554ed6900&discover_method=search_image_base_pdp&prev_uid=01a0de3d0d197007818f6a3fb3b4fdaf&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/FR/NG/FRNGxve_a9m7D-Vs.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/RG/wt/RGwtVdvxp8uAAf2F.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/n9/g0/n9g0ZikV5b83fk6m.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/O1/RL/O1RLIY9FabwhlzfI.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ej/kh/EjkhhSJZhNaXo5-f.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/FR/NG/FRNGxve_a9m7D-Vs.jpg",
+    "image_count": 5,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "اجاق گاز سه شعله رومیزی پولاد (3f) (لعابی)",
+                "name2": "",
+                "shop_name": "بلور مارکت استور",
+                "shop_name2": "اصفهان",
+                "shop_id": 1779,
+                "has_public_torob_profile": true,
+                "prk": "7c9d6721-0b15-4207-935d-1f3f4dd2739b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=7c9d6721-0b15-4207-935d-1f3f4dd2739b&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de3d36c57741baf571b80477b881&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&installment=96,2:1xATv2:_u5krOiWD2xgCl_4jfVIfx2KPelZ0WUrjWvBBP5DBUQ",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 4245000,
+                "price_text": "۴٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        },
+                        {
+                            "title": "۱٫۰۶۱٫۲۵۰ تومان امروز و ۳ قسط تا انتهای دی پرداخت کنید.",
+                            "short_title": "۴ قسط ۱٫۰۶۱٫۲۵۰ تومانی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق گاز سه شعله رومیزی پولاد گاز",
+                "name2": "",
+                "shop_name": "بازارچه آداس",
+                "shop_name2": "کاشان",
+                "shop_id": 145501,
+                "has_public_torob_profile": true,
+                "prk": "50ea3e51-efc1-4dd1-8c28-ddd48a0ee21d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=50ea3e51-efc1-4dd1-8c28-ddd48a0ee21d&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3120000,
+                "price_text": "۳٫۱۲۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۱۲۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "https://adasbazaar.com/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%d9%88-%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa/"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "گاز 3 شعله رومیزی پولادگاز",
+                "name2": "",
+                "shop_name": "بازارچه آداس",
+                "shop_name2": "کاشان",
+                "shop_id": 145501,
+                "has_public_torob_profile": true,
+                "prk": "7833634d-55b8-4ef5-8289-0308106edd20",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=7833634d-55b8-4ef5-8289-0308106edd20&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3120000,
+                "price_text": "۳٫۱۲۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۱۲۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "https://adasbazaar.com/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%d9%88-%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa/"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق گاز رومیزی سه شعله پولاد (3 شعله) (3f) (لعابی)",
+                "name2": "",
+                "shop_name": "بلور مارکت",
+                "shop_name2": "اصفهان",
+                "shop_id": 178593,
+                "has_public_torob_profile": true,
+                "prk": "b3e05471-7d55-4a87-ae38-1f55b109d1cd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=b3e05471-7d55-4a87-ae38-1f55b109d1cd&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3145000,
+                "price_text": "۳٫۱۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۱۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق سه شعله رومیزی پولاد سفید-مشکی رنگ (3f) (لعابی)",
+                "name2": "",
+                "shop_name": "بلور مارکت",
+                "shop_name2": "اصفهان",
+                "shop_id": 178593,
+                "has_public_torob_profile": true,
+                "prk": "36f0074c-8fc9-4d13-a5ee-b5b63cd0c4af",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=36f0074c-8fc9-4d13-a5ee-b5b63cd0c4af&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3145000,
+                "price_text": "۳٫۱۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۱۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق گاز سه شعله رومیزی پولاد (3f) (لعابی)",
+                "name2": "",
+                "shop_name": "بلور مارکت استور",
+                "shop_name2": "اصفهان",
+                "shop_id": 1779,
+                "has_public_torob_profile": true,
+                "prk": "7c9d6721-0b15-4207-935d-1f3f4dd2739b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=7c9d6721-0b15-4207-935d-1f3f4dd2739b&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&installment=96,2:1xATv2:_u5krOiWD2xgCl_4jfVIfx2KPelZ0WUrjWvBBP5DBUQ",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 4245000,
+                "price_text": "۴٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        },
+                        {
+                            "title": "۱٫۰۶۱٫۲۵۰ تومان امروز و ۳ قسط تا انتهای دی پرداخت کنید.",
+                            "short_title": "۴ قسط ۱٫۰۶۱٫۲۵۰ تومانی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "اجاق گاز رومیزی سه شعله پرسی لعاب آذرین پولاد ا glazed desktop flame stove 3 Azarin poolad",
+                "name2": "",
+                "shop_name": "نورکالای ایرانیان",
+                "shop_name2": "تهران",
+                "shop_id": 8623,
+                "has_public_torob_profile": true,
+                "prk": "6f1ae2f6-cf92-4eee-ab9d-198d4eb4cbc6",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=6f1ae2f6-cf92-4eee-ab9d-198d4eb4cbc6&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا توسط پست و تیپاکس و باربری و برای تهران توسط پیک ارسال می گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "اجاق گاز رومیزی سه شعله 2000 آذرین پولاد ا Three burner desktop stove 2000 Azarin poolad",
+                "name2": "",
+                "shop_name": "نورکالای ایرانیان",
+                "shop_name2": "تهران",
+                "shop_id": 8623,
+                "has_public_torob_profile": true,
+                "prk": "6f61f6b7-f160-4a31-8ba9-a0966982682c",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=6f61f6b7-f160-4a31-8ba9-a0966982682c&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا توسط پست و تیپاکس و باربری و برای تهران توسط پیک ارسال می گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "اجاق گاز رومیزی سه شعله 2000 آذرین پولاد",
+                "name2": "گارانتی اصالت کالا",
+                "shop_name": "نورکالا استور",
+                "shop_name2": "تهران",
+                "shop_id": 194141,
+                "has_public_torob_profile": true,
+                "prk": "5830b5e7-1187-4e4a-95dd-1289319a1d82",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=5830b5e7-1187-4e4a-95dd-1289319a1d82&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالاهای سنگین و یا شکستنی از طریق پست مقدور نیست . توسط تیپاکس یا باربری ارسال خواهد شد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434948",
+        "count": 9,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&suid=01a0de3d0d197007818f6a3fb3b4fdaf&cities=&province=&algorithm=text_similarity&prk=04582519-406d-4174-8a5c-f87554ed6900&list_type=products_info&seed=1790434948"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434948",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&cities=&province=&prk=04582519-406d-4174-8a5c-f87554ed6900&list_type=products_in_store_info&seed=1790434948&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=04582519-406d-4174-8a5c-f87554ed6900&source=next_desktop&discover_method=search&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&seed=1790434948&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=04582519-406d-4174-8a5c-f87554ed6900&source=next_desktop&discover_method=search&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&seed=1790434948&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۳٫۱۴۵٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۴٫۲۴۵٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۴٫۲۴۵٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳٫۱۲۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3d0d197007818f6a3fb3b4fdaf&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&cities=&province=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&algorithm=text_similarity&prk=04582519-406d-4174-8a5c-f87554ed6900&bvid=01a0de3d369574fdb055ca9f668c9278&no_log=true&seed=1790434948",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=04582519-406d-4174-8a5c-f87554ed6900&base_id=18801398&source=next_desktop&bvid=01a0de3d369574fdb055ca9f668c9278&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf"
+    },
+    "min_price": 3120000,
+    "max_price": 4245000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 2519,
+            "title": "اجاق و لوازم پخت و پز",
+            "url": "/browse/2519/%D8%A7%D8%AC%D8%A7%D9%82-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 2519,
+            "brand_id": null
+        },
+        {
+            "id": 195,
+            "title": "اجاق گاز",
+            "url": "/browse/195/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2/",
+            "cat_id": 195,
+            "brand_id": null
+        },
+        {
+            "id": 195,
+            "title": "پولاد پارس (Poolad Pars)",
+            "url": "/browse/195/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2/b/55759/poolad-pars-%D9%BE%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%D8%B1%D8%B3/",
+            "cat_id": 195,
+            "brand_id": 55759
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "نام محصول": "اجاق گاز سه شعله پولاد و آریا معمولی و ساده",
+                    "تعداد شعله": "3 عدد",
+                    "رنگ": "سفید / مشکی",
+                    "جنس بدنه": "لعاب",
+                    "جنس صفحه دستگاه": "لعاب",
+                    "جنس شبکه": "چدن",
+                    "جنس ولوم ها": "پلاستیک مقاوم",
+                    "ابعاد": "40*70 سانتی متر",
+                    "وزن": "5 کیلوگرم"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "تعداد شعله",
+                    "value": [
+                        "۳ شعله"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "اجاق-گاز-رومیزی-پولاد-پارس-3-شعله-لعابی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=04582519-406d-4174-8a5c-f87554ed6900",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=04582519-406d-4174-8a5c-f87554ed6900&limit=24&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+    "torob_category": 195,
+    "no_index": false,
+    "buy_box_price_text": "از ۳٫۱۲۰٫۰۰۰ تومان تا ۴٫۲۴۵٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=50ea3e51-efc1-4dd1-8c28-ddd48a0ee21d&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از بلور مارکت",
+    "new_buy_box_button_text2": "۳٫۱۴۵٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ضمانت ترب",
+    "new_buy_box_button_badge_style": "guaranteed",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3d0d197007818f6a3fb3b4fdaf&suid=01a0de3d0d197007818f6a3fb3b4fdaf&bvid=01a0de3d369574fdb055ca9f668c9278&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&prk=b3e05471-7d55-4a87-ae38-1f55b109d1cd&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3d0d197007818f6a3fb3b4fdaf&buy_box_reason=guarantee",
+    "new_buy_box_button_scrol_to_prk": "7c9d6721-0b15-4207-935d-1f3f4dd2739b",
+    "new_buy_box_source_prk": "b3e05471-7d55-4a87-ae38-1f55b109d1cd",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۲ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/RG/wt/RGwtVdvxp8uAAf2F.jpg",
+                "https://image.torob.com/base/images/n9/g0/n9g0ZikV5b83fk6m.jpg",
+                "https://image.torob.com/base/images/O1/RL/O1RLIY9FabwhlzfI.jpg",
+                "https://image.torob.com/base/images/Ej/kh/EjkhhSJZhNaXo5-f.jpg"
+            ]
+        }
+    ]
+}

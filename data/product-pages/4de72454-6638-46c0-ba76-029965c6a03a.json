@@ -1,0 +1,733 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "4de72454-6638-46c0-ba76-029965c6a03a",
+    "name1": "فر برقی بیمکث مدل MF 0022 N",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3ece2576818eacdb732220da5b&search_id=01a0de3ece2576818eacdb732220da5b&cities=&province=&init_suid=01a0de3ece2576818eacdb732220da5b&algorithm=text_similarity&prk=4de72454-6638-46c0-ba76-029965c6a03a",
+    "web_client_absolute_url": "/p/4de72454-6638-46c0-ba76-029965c6a03a/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-mf-0022-n/",
+    "price": 8800000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۸٫۸۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۵ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4de72454-6638-46c0-ba76-029965c6a03a&limit=24&init_suid=01a0de3ece2576818eacdb732220da5b",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4de72454-6638-46c0-ba76-029965c6a03a&discover_method=search_image_base_pdp&prev_uid=01a0de3ece2576818eacdb732220da5b&init_suid=01a0de3ece2576818eacdb732220da5b",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/IN/cx/INcx_yJ-i7fcspJG.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/-c/bZ/-cbZp-E6Fc870Pl2.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ab/Da/AbDafO5ObwfMpmD1.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp",
+    "image_count": 5,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "فر برقی بیمکث مدل MF 0022 N",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "72354dc1-7911-4b8e-8a28-53f0068f85ce",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=72354dc1-7911-4b8e-8a28-53f0068f85ce&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de3f538270928dc8bc9dc7cc8859&init_suid=01a0de3ece2576818eacdb732220da5b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 76560000,
+                "price_text": "۷۶٫۵۶۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۶٫۵۶۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر بیمکث مدل MF 0022 N",
+                "name2": "",
+                "shop_name": "پارسا پلاس",
+                "shop_name2": "تهران",
+                "shop_id": 2849,
+                "has_public_torob_profile": true,
+                "prk": "0d723f5f-9e4f-4db3-823a-8970e34b6748",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=0d723f5f-9e4f-4db3-823a-8970e34b6748&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b&installment=71:1xATxH:wIR8IJ1Ud_6Bnl8dm3GethZ5dXSInEReU1Ku19rbPD8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 8800000,
+                "price_text": "۸٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۸٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "زمان ارسال از 5 ساعت تا 3 روز کاری\nارسال برای شهرستان از طریق باربری (هزینه دریافت شده در سایت تا باربری تهران می باشد)"
+                },
+                "score_info": {
+                    "score": 4.5,
+                    "score_text": "★۴.۵ (۶ سال در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پیش پرداخت+اقساط 2 تا 5 ماهه",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/e406e5cd96d9.png",
+                            "name": "پارسا پلاس",
+                            "description": "میزان 25درصد مبلغ به صورت نقد و مابقی طی 2 تا 5 قسط",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی بیمکث مدل MF۰۰۲۲N",
+                "name2": "",
+                "shop_name": "خانه حافظ",
+                "shop_name2": "تهران",
+                "shop_id": 73274,
+                "has_public_torob_profile": true,
+                "prk": "c79da4a5-4959-4b0f-85d1-5f0784780b56",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=c79da4a5-4959-4b0f-85d1-5f0784780b56&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72160000,
+                "price_text": "۷۲٫۱۶۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۱۶۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی بیمکث مدل MF 0022 N",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "72354dc1-7911-4b8e-8a28-53f0068f85ce",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=72354dc1-7911-4b8e-8a28-53f0068f85ce&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 76560000,
+                "price_text": "۷۶٫۵۶۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۶٫۵۶۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی توکار بیمکث مدل MF 0022 N",
+                "name2": "25 ماه گارانتی پس از فروش بیمکث",
+                "shop_name": "یابان",
+                "shop_name2": "کرج",
+                "shop_id": 1619,
+                "has_public_torob_profile": true,
+                "prk": "95fc1bbc-92c9-4b95-b1a1-f608ebdf60f4",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=95fc1bbc-92c9-4b95-b1a1-f608ebdf60f4&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b&installment=30:1xATxH:Sl1q9pqgMocGVrAVCQCMsQCwA_dfMlyxzGnn3chjZa8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 79200000,
+                "price_text": "۷۹٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۹٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر بیمکث مدل _ 0022",
+                "name2": "",
+                "shop_name": "قسطچی لند",
+                "shop_name2": "تهران",
+                "shop_id": 389337,
+                "has_public_torob_profile": true,
+                "prk": "84e0a42d-4d39-402f-824a-ba8f30ce3120",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=84e0a42d-4d39-402f-824a-ba8f30ce3120&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b&installment=248:1xATxH:QSoxjkiDyCTmFzxG1afpsKmjq6SEzqbre51wqLHkhwU",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 79200000,
+                "price_text": "۷۹٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۹٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.4,
+                    "score_text": "★۴.۴ (۴ ماه در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۴ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "اقساط 2،4 ماه+ بدون کارمزد و سود",
+                            "short_title": "فروش قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/bfe3311bad6c.png",
+                            "name": "قسطچی لند",
+                            "description": "در هنگام خرید درگاه قسطی مورد نظرتان را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "فر بیمکث مدل MF 0022 N",
+                "name2": "",
+                "shop_name": "هادس کالا",
+                "shop_name2": "تهران",
+                "shop_id": 396601,
+                "has_public_torob_profile": true,
+                "prk": "1bd01c17-5ae6-4be7-875b-bba6645193fa",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=1bd01c17-5ae6-4be7-875b-bba6645193fa&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۸۷٫۰۰۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۸۷٫۰۰۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تهران با اسنپ و شهرستان با باربری ارسال میگردد"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435087",
+        "count": 7,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&suid=01a0de3ece2576818eacdb732220da5b&cities=&province=&algorithm=text_similarity&prk=4de72454-6638-46c0-ba76-029965c6a03a&list_type=products_info&seed=1790435087"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435087",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&cities=&province=&prk=4de72454-6638-46c0-ba76-029965c6a03a&list_type=products_in_store_info&seed=1790435087&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=4de72454-6638-46c0-ba76-029965c6a03a&source=next_desktop&discover_method=search&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&seed=1790435087&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=4de72454-6638-46c0-ba76-029965c6a03a&source=next_desktop&discover_method=search&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&seed=1790435087&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۸٫۸۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۸٫۸۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3ece2576818eacdb732220da5b&search_id=01a0de3ece2576818eacdb732220da5b&cities=&province=&init_suid=01a0de3ece2576818eacdb732220da5b&algorithm=text_similarity&prk=4de72454-6638-46c0-ba76-029965c6a03a&bvid=01a0de3f53627050ab0802ce2c0ef623&no_log=true&seed=1790435087",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=4de72454-6638-46c0-ba76-029965c6a03a&base_id=247766362&source=next_desktop&bvid=01a0de3f53627050ab0802ce2c0ef623&init_suid=01a0de3ece2576818eacdb732220da5b"
+    },
+    "min_price": 8800000,
+    "max_price": 79200000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 2519,
+            "title": "اجاق و لوازم پخت و پز",
+            "url": "/browse/2519/%D8%A7%D8%AC%D8%A7%D9%82-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 2519,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "فر برقی و گازی",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/",
+            "cat_id": 2520,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "بیمکث (Bimax)",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/b/246/bimax-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB/",
+            "cat_id": 2520,
+            "brand_id": 246
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "کارکرد": "برقی",
+                    "برنامه پخت": "13 برنامه",
+                    "قابلیت برنامه ریزی زمان پخت": "دارد",
+                    "پخت سریع": "دارد",
+                    "پخت ترکیبی": "دارد",
+                    "تایمر تمام لمسی": "دارد",
+                    "فن خنک کننده اتوماتیک": "دارد",
+                    "حداکثر دما": "250 درجه سانتیگراد",
+                    "تعداد طبقات پخت": "6 طبقه",
+                    "صفحه کلید": "لمسی",
+                    "صفحه نمایشگر": "LCD",
+                    "درب 3 جداره": "دارد",
+                    "یخ زدایی": "دارد",
+                    "قفل کودک": "دارد",
+                    "تعداد سینی": "2 عدد سینی لعابی عمیق و کم عمق",
+                    "شلف استیک پز": "دارد",
+                    "ریل تلسکوپی": "دارد",
+                    "گریل": "دارد",
+                    "سوپر گریل": "دارد",
+                    "جوجه گردان": "دارد",
+                    "سنسور پخت غذا": "دارد",
+                    "پخت تاخیری": "دارد"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "فر-برقی-بیمکث-مدل-mf-0022-n",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=4de72454-6638-46c0-ba76-029965c6a03a",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4de72454-6638-46c0-ba76-029965c6a03a&limit=24&init_suid=01a0de3ece2576818eacdb732220da5b",
+    "torob_category": 2520,
+    "no_index": false,
+    "buy_box_price_text": "از ۸٫۸۰۰٫۰۰۰ تومان تا ۷۹٫۲۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=0d723f5f-9e4f-4db3-823a-8970e34b6748&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از پارسا پلاس",
+    "new_buy_box_button_text2": "۸٫۸۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ece2576818eacdb732220da5b&suid=01a0de3ece2576818eacdb732220da5b&bvid=01a0de3f53627050ab0802ce2c0ef623&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ece2576818eacdb732220da5b&prk=0d723f5f-9e4f-4db3-823a-8970e34b6748&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ece2576818eacdb732220da5b&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "72354dc1-7911-4b8e-8a28-53f0068f85ce",
+    "new_buy_box_source_prk": "0d723f5f-9e4f-4db3-823a-8970e34b6748",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۴ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp",
+                "https://image.torob.com/base/images/IN/cx/INcx_yJ-i7fcspJG.webp",
+                "https://image.torob.com/base/images/-c/bZ/-cbZp-E6Fc870Pl2.webp",
+                "https://image.torob.com/base/images/Ab/Da/AbDafO5ObwfMpmD1.webp"
+            ]
+        }
+    ]
+}

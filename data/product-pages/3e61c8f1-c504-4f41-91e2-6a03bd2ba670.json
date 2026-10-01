@@ -1,0 +1,443 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "3e61c8f1-c504-4f41-91e2-6a03bd2ba670",
+    "name1": "مبل راحتی جانا ۷ نفره",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de479f6570d39e96a0578d21b535&search_id=01a0de479f6570d39e96a0578d21b535&cities=&province=&init_suid=01a0de479f6570d39e96a0578d21b535&algorithm=text_similarity&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670",
+    "web_client_absolute_url": "/p/3e61c8f1-c504-4f41-91e2-6a03bd2ba670/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C-%D8%AC%D8%A7%D9%86%D8%A7-7-%D9%86%D9%81%D8%B1%D9%87/",
+    "price": 14980000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۴٫۹۸۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۳ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&limit=24&init_suid=01a0de479f6570d39e96a0578d21b535",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&discover_method=search_image_base_pdp&prev_uid=01a0de479f6570d39e96a0578d21b535&init_suid=01a0de479f6570d39e96a0578d21b535",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/pR/Ez/pREzKgtk4T-LhcVc.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/pR/Ez/pREzKgtk4T-LhcVc.webp",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "seo_title": "",
+    "seo_description": "مبل راحتی جانا 7 نفره، طراحی اصلی با ظرافت، مناسب برای 7 نفر، وضعیت جدید",
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "مبل راحتی جانا 7 نفره",
+                "name2": "",
+                "shop_name": "مبل اهورا",
+                "shop_name2": "نصیرشهر",
+                "shop_id": 175008,
+                "has_public_torob_profile": true,
+                "prk": "c011b8ac-b6b0-4945-8c55-88d588b24717",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=c011b8ac-b6b0-4945-8c55-88d588b24717&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de47b51f723ca6f9538e34ef7a58&init_suid=01a0de479f6570d39e96a0578d21b535",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38000000,
+                "price_text": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال با ماشین شخصی فروشگاه به تهران و حومه و ارسال به شهرستان با ماشین های باربری برای کاهش هزینه ارسال"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی جانا",
+                "name2": "",
+                "shop_name": "آوینا چوب شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 305770,
+                "has_public_torob_profile": true,
+                "prk": "ea7be99a-d168-43f6-b443-0ac829f319fc",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=ea7be99a-d168-43f6-b443-0ac829f319fc&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de479f6570d39e96a0578d21b535",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14980000,
+                "price_text": "۱۴٫۹۸۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۹۸۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی جانا 7نفره",
+                "name2": "",
+                "shop_name": "ایران کالاانلاین",
+                "shop_name2": "شاهد شهر",
+                "shop_id": 159816,
+                "has_public_torob_profile": true,
+                "prk": "4fcb53e6-bc72-41d5-9c58-8a13ddcc0b87",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=4fcb53e6-bc72-41d5-9c58-8a13ddcc0b87&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de479f6570d39e96a0578d21b535",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23500000,
+                "price_text": "۲۳٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "باربری. و اسنپ باکس"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ ماه و ۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی جانا 7 نفره",
+                "name2": "",
+                "shop_name": "مبل اهورا",
+                "shop_name2": "نصیرشهر",
+                "shop_id": 175008,
+                "has_public_torob_profile": true,
+                "prk": "c011b8ac-b6b0-4945-8c55-88d588b24717",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=c011b8ac-b6b0-4945-8c55-88d588b24717&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de479f6570d39e96a0578d21b535",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38000000,
+                "price_text": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال با ماشین شخصی فروشگاه به تهران و حومه و ارسال به شهرستان با ماشین های باربری برای کاهش هزینه ارسال"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435636",
+        "count": 4,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&suid=01a0de479f6570d39e96a0578d21b535&cities=&province=&algorithm=text_similarity&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&list_type=products_info&seed=1790435636"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435636",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&cities=&province=&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&list_type=products_in_store_info&seed=1790435636&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&source=next_desktop&discover_method=search&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&seed=1790435636&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&source=next_desktop&discover_method=search&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&seed=1790435636&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۱۴٫۹۸۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 4,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de479f6570d39e96a0578d21b535&search_id=01a0de479f6570d39e96a0578d21b535&cities=&province=&init_suid=01a0de479f6570d39e96a0578d21b535&algorithm=text_similarity&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&bvid=01a0de47b4f476d794e4c416870b9fb2&no_log=true&seed=1790435636",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&base_id=65312404&source=next_desktop&bvid=01a0de47b4f476d794e4c416870b9fb2&init_suid=01a0de479f6570d39e96a0578d21b535"
+    },
+    "min_price": 14980000,
+    "max_price": 38000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 348,
+            "title": "مبلمان منزل",
+            "url": "/browse/348/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B2%D9%84-furniture/",
+            "cat_id": 348,
+            "brand_id": null
+        },
+        {
+            "id": 2605,
+            "title": "مبل راحتی",
+            "url": "/browse/2605/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 2605,
+            "brand_id": null
+        },
+        {
+            "id": 1545,
+            "title": "سایر  مبل راحتی",
+            "url": "/browse/1545/%D8%B3%D8%A7%DB%8C%D8%B1-%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 1545,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "برند": "تولیدی بامبو",
+                    "عرض هر تکه": "72 سانتی‌متر",
+                    "ارتفاع پایه تا نشیمنگاه هر تکه": "42 سانتی‌متر",
+                    "عمق نشیمنگاه هر تکه": "50 سانتی‌متر",
+                    "عرض": "80 سانتی متر",
+                    "عمق": "50 سانتیمتر",
+                    "ارتفاع": "75 سانتیمتر",
+                    "وزن": "50 کیلوگرم, گرم",
+                    "جنس بدنه": "چوب",
+                    "جنس روکش": "پارچه",
+                    "جنس کلاف": "چوب",
+                    "جنس لایه‌ی میانی": "فوم سرد - اسفنج",
+                    "تراکم اسفنج": "17 کیلویی",
+                    "وزن قابل تحمل": "550 کیلوگرم",
+                    "نفرات مبل": "هفت نفره"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "مبل-راحتی-جانا-7-نفره",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3e61c8f1-c504-4f41-91e2-6a03bd2ba670&limit=24&init_suid=01a0de479f6570d39e96a0578d21b535",
+    "torob_category": 1545,
+    "no_index": false,
+    "buy_box_price_text": "از ۱۴٫۹۸۰٫۰۰۰ تومان تا ۳۸٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=ea7be99a-d168-43f6-b443-0ac829f319fc&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de479f6570d39e96a0578d21b535",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از آوینا چوب شاپ",
+    "new_buy_box_button_text2": "۱۴٫۹۸۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de479f6570d39e96a0578d21b535&suid=01a0de479f6570d39e96a0578d21b535&bvid=01a0de47b4f476d794e4c416870b9fb2&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de479f6570d39e96a0578d21b535&prk=ea7be99a-d168-43f6-b443-0ac829f319fc&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de479f6570d39e96a0578d21b535&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "c011b8ac-b6b0-4945-8c55-88d588b24717",
+    "new_buy_box_source_prk": "ea7be99a-d168-43f6-b443-0ac829f319fc",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۲ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

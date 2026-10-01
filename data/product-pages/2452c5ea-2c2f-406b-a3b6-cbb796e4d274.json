@@ -1,0 +1,2291 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "2452c5ea-2c2f-406b-a3b6-cbb796e4d274",
+    "name1": "ماشین لباسشویی ایکس ویژن مدل TG72",
+    "name1_max_lines": 3,
+    "name2": "TG72",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4e471970cdbe44ad5501d0432e&search_id=01a0de4e471970cdbe44ad5501d0432e&cities=&province=&init_suid=01a0de4e471970cdbe44ad5501d0432e&algorithm=text_similarity&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274",
+    "web_client_absolute_url": "/p/2452c5ea-2c2f-406b-a3b6-cbb796e4d274/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-tg72/",
+    "price": 62000000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۶۲٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۲۹ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&limit=24&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&discover_method=search_image_base_pdp&prev_uid=01a0de4e471970cdbe44ad5501d0432e&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/iW/aJ/iWaJnrerJfIPicWX.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/iW/aJ/iWaJnrerJfIPicWX.jpg",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "seo_title": "",
+    "seo_description": "ماشین لباسشویی ایکس ویژن مدل TG72، درب از جلو، رنگ سفید و نقره ای، ظرفیت 7 کیلوگرم، موتور یونیورسال، اصل، رتبه انرژی A+++",
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72 ظرفیت 7 کیلوگرم",
+                "name2": "36 ماه مادیران",
+                "shop_name": "دومینو کالا",
+                "shop_name2": "تهران",
+                "shop_id": 9504,
+                "has_public_torob_profile": true,
+                "prk": "d0add4eb-1b72-495b-80ea-b07e4166ab73",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=d0add4eb-1b72-495b-80ea-b07e4166ab73&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de4e6d9c732cb621203414b1278a&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 66999000,
+                "price_text": "۶۶٫۹۹۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۶٫۹۹۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال تهران با پیک - ارسال به بقیه نقاط کشور هزینه محاسبه تیپاکس"
+                },
+                "score_info": {
+                    "score": 4.2,
+                    "score_text": "★۴.۲ (۵ سال در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۲ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 اتوماتیک ایکس ویژن مدل TG72-BW/BS",
+                "name2": "36 ماهه مادیران",
+                "shop_name": "راکو شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 88069,
+                "has_public_torob_profile": true,
+                "prk": "0f4d5b8e-b2d3-4c0e-9067-b7614111c04c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=0f4d5b8e-b2d3-4c0e-9067-b7614111c04c&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 62000000,
+                "price_text": "۶۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 کیلوگرمی ایکس ویژن مدل TG72-bwbl",
+                "name2": "46 ماهه مادیران",
+                "shop_name": "اول از ما",
+                "shop_name2": "تهران",
+                "shop_id": 79217,
+                "has_public_torob_profile": true,
+                "prk": "d53beff5-46c9-47fe-acd7-f784fb1101c0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=d53beff5-46c9-47fe-acd7-f784fb1101c0&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 63490000,
+                "price_text": "۶۳٫۴۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۳٫۴۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال در شهر تهران و حومه تهران در همان روز صورت میگیرد و در شهرستان ها طی 1 الی 2 روز کاری صورت میگیرد(از طریق بابری های بین شهری) در نظر داشته باشید در خصوص شهرستان ها 2 هزینه حمل و نقل دارد(درون شهری و بین شهری)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BW ظرفیت 7 کیلوگرم",
+                "name2": "",
+                "shop_name": "اول از ما",
+                "shop_name2": "تهران",
+                "shop_id": 79217,
+                "has_public_torob_profile": true,
+                "prk": "f1c09d42-4e02-4011-879e-93dc1f2cd781",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=f1c09d42-4e02-4011-879e-93dc1f2cd781&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 63550000,
+                "price_text": "۶۳٫۵۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۳٫۵۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال در شهر تهران و حومه تهران در همان روز صورت میگیرد و در شهرستان ها طی 1 الی 2 روز کاری صورت میگیرد(از طریق بابری های بین شهری) در نظر داشته باشید در خصوص شهرستان ها 2 هزینه حمل و نقل دارد(درون شهری و بین شهری)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BW با ظرفیت 7 کیلویی سفید",
+                "name2": "",
+                "shop_name": "لوازم خانگی طاهوم",
+                "shop_name2": "تهران",
+                "shop_id": 246498,
+                "has_public_torob_profile": true,
+                "prk": "27cba0ce-f934-4939-8f64-8b934e558080",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=27cba0ce-f934-4939-8f64-8b934e558080&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 64500000,
+                "price_text": "۶۴٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۴٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال در شهر تهران با پیک و تیپاکس و باربری به صورت رایگان و در تمامی شهرها به صورت پست و تیپاکس و باربری با هزینه حمل پس کرایه امکان پذیر می باشد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BW با ظرفیت 7 کیلویی سفید",
+                "name2": "",
+                "shop_name": "ایکس ویژن ایران",
+                "shop_name2": "تهران",
+                "shop_id": 59944,
+                "has_public_torob_profile": true,
+                "prk": "e1bbe9d9-7103-4316-89c8-1e2f27e9bd28",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=e1bbe9d9-7103-4316-89c8-1e2f27e9bd28&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 64500000,
+                "price_text": "۶۴٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۴٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "در تهران برای تمامی کالا ها در همان روز ارسال می شود توسط خود فروشگاه\nدر شهر های دیگر بین 2 الی 3 روز کاری با هماهنگی باربری ارسال انجام می شود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72 BW",
+                "name2": "",
+                "shop_name": "کالا تو",
+                "shop_name2": "تهران",
+                "shop_id": 279426,
+                "has_public_torob_profile": true,
+                "prk": "ced13669-3e75-4940-b820-79d5ce0a0444",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=ced13669-3e75-4940-b820-79d5ce0a0444&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65000000,
+                "price_text": "۶۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BW ظرفیت 7 کیلوگرم",
+                "name2": "",
+                "shop_name": "همراه طلایی دات کام",
+                "shop_name2": "تهران",
+                "shop_id": 45201,
+                "has_public_torob_profile": true,
+                "prk": "b246b324-08e9-4c59-9c80-ae32fd813599",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=b246b324-08e9-4c59-9c80-ae32fd813599&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&installment=56:1xAUDE:sWTbcFFQdcjpnxCAZY3iOMiJcO8XCjE-WtkdndfF0hU",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65404500,
+                "price_text": "۶۵٫۴۰۴٫۵۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۴۰۴٫۵۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BS رنگ نقره ای",
+                "name2": "",
+                "shop_name": "ایکس ویژن ایران",
+                "shop_name2": "تهران",
+                "shop_id": 59944,
+                "has_public_torob_profile": true,
+                "prk": "c9cecbb9-3a1f-45aa-aa93-8b7868b1f4e1",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=c9cecbb9-3a1f-45aa-aa93-8b7868b1f4e1&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65500000,
+                "price_text": "۶۵٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "در تهران برای تمامی کالا ها در همان روز ارسال می شود توسط خود فروشگاه\nدر شهر های دیگر بین 2 الی 3 روز کاری با هماهنگی باربری ارسال انجام می شود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72 BS",
+                "name2": "",
+                "shop_name": "کالا تو",
+                "shop_name2": "تهران",
+                "shop_id": 279426,
+                "has_public_torob_profile": true,
+                "prk": "88fd2943-825a-4a83-b708-dc3106b4b7f2",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=88fd2943-825a-4a83-b708-dc3106b4b7f2&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 66000000,
+                "price_text": "۶۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن | مدل TG72-BWBL سفید",
+                "name2": "گارانتی ۳۶ ماهه مادیران",
+                "shop_name": "زرین سنتر شاپ",
+                "shop_name2": "قم",
+                "shop_id": 15481,
+                "has_public_torob_profile": true,
+                "prk": "ca3ca061-6ca5-4f5f-b271-f3fc71842288",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=ca3ca061-6ca5-4f5f-b271-f3fc71842288&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 66777000,
+                "price_text": "۶۶٫۷۷۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۶٫۷۷۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، قم، کاشان، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پس کرایه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72 ظرفیت 7 کیلوگرم",
+                "name2": "36 ماه مادیران",
+                "shop_name": "دومینو کالا",
+                "shop_name2": "تهران",
+                "shop_id": 9504,
+                "has_public_torob_profile": true,
+                "prk": "d0add4eb-1b72-495b-80ea-b07e4166ab73",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=d0add4eb-1b72-495b-80ea-b07e4166ab73&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 66999000,
+                "price_text": "۶۶٫۹۹۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۶٫۹۹۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال تهران با پیک - ارسال به بقیه نقاط کشور هزینه محاسبه تیپاکس"
+                },
+                "score_info": {
+                    "score": 4.2,
+                    "score_text": "★۴.۲ (۵ سال در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۲ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72-BW با ظرفیت 7 کیلویی سفید",
+                "name2": "",
+                "shop_name": "نمایندگی فروش محصولات تی سی ال",
+                "shop_name2": "تهران",
+                "shop_id": 14208,
+                "has_public_torob_profile": true,
+                "prk": "9ea40382-5a79-4765-a4d8-9d68b154f52f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=9ea40382-5a79-4765-a4d8-9d68b154f52f&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 67000000,
+                "price_text": "۶۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پرداخت آنلاین از طریق وبسایت، پرداخت در محل برای مشتریان تهران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 کیلوگرمی ایکس ویژن مدل TG72-bwbl",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "تهران، روژه کالا",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "a43ef157-c05e-4471-adad-3146b7475605",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=a43ef157-c05e-4471-adad-3146b7475605&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&installment=241:1xAUDE:Slfj3ogz1h9HGvK-W3j1Wpd-8rO9249W2xojwSM6x3A",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 67300000,
+                "price_text": "۶۷٫۳۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۷٫۳۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل X.VISION TG72 BS ا X.VISION WASHING MACHINE TG72 BS",
+                "name2": "",
+                "shop_name": "آنتیک کالا",
+                "shop_name2": "تهران",
+                "shop_id": 212,
+                "has_public_torob_profile": true,
+                "prk": "cff2a6f5-1f5f-44cb-86ee-8384ece6af98",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=cff2a6f5-1f5f-44cb-86ee-8384ece6af98&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 67500000,
+                "price_text": "۶۷٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۷٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 24 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن | مدل TG72-BSBL سیلور",
+                "name2": "گارانتی ۳۶ ماهه مادیران",
+                "shop_name": "زرین سنتر شاپ",
+                "shop_name2": "قم",
+                "shop_id": 15481,
+                "has_public_torob_profile": true,
+                "prk": "7404d062-39b9-44b0-8e63-74660e81164d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=7404d062-39b9-44b0-8e63-74660e81164d&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 67888000,
+                "price_text": "۶۷٫۸۸۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۷٫۸۸۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، قم، کاشان، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پس کرایه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن 7 کیلویی مدل TG72 BW",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "9205ece7-80c5-4501-a967-30884fc68191",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=9205ece7-80c5-4501-a967-30884fc68191&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&installment=2:1xAUDE:LasHnNpaeEEfFMtgbBfWkRMXSmaPJm-ZXtfChOJCa84",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 67970000,
+                "price_text": "۶۷٫۹۷۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۷٫۹۷۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن 7 کیلویی مدل TG72 BS",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "4eca71e2-ef16-48f1-a6cd-3441201dea6d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=4eca71e2-ef16-48f1-a6cd-3441201dea6d&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&installment=2:1xAUDE:TSHbeRlEy5b3kgg761-jYRXQTrB-FIfcRXwbKe1arWI",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 68000000,
+                "price_text": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن TG72BW ا X.Vision TG72BW 7kg Washing Machine",
+                "name2": "",
+                "shop_name": "اینترنتی انتخاب تو",
+                "shop_name2": "تهران",
+                "shop_id": 111397,
+                "has_public_torob_profile": true,
+                "prk": "c051e4bf-186e-471f-9ef8-f8fe3660cfd3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=c051e4bf-186e-471f-9ef8-f8fe3660cfd3&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 68000000,
+                "price_text": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "🚚 روش‌های ارسال:\n\nلوازم کوچک: پست پیشتاز یا تیپاکس با بسته‌بندی ایمن\nلوازم بزرگ: باربری ایمن و طمئن از طرف ما یا معرفی از طرف مشتری\n\n⏱ زمان تحویل:\n\nلوازم کوچک: 1 روز بعد تحویل شرکت ارسال میشود\nلوازم بزرگ: بسته به شهر مقصد یک روز بعد تحویل باربری میشود\n\n📦 شرایط ارسال:\n\nتحویل با بسته‌بندی استاندارد و سالم\nامکان پیگیری آنلاین سفارش\n\n📞 دفتر فروش: 02177920214\n🛒 پشتیبانی و فروش: 09194225182\n⏰ ساعت پاسخ‌گویی: 10 صبح تا 10شب\n📍 آدرس فروشگاه: تهران، خیابان دماوند"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ۷ کیلوگرمی ایکس ویژن مدل TG72-BW سفید",
+                "name2": "",
+                "shop_name": "تهرانسل",
+                "shop_name2": "تهران",
+                "shop_id": 83206,
+                "has_public_torob_profile": true,
+                "prk": "951e6a28-e246-48f2-91bd-92c46161e246",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=951e6a28-e246-48f2-91bd-92c46161e246&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 69490000,
+                "price_text": "۶۹٫۴۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۹٫۴۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 کیلویی ایکس ویژن مدل TG72 سیلور",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "6588f676-7fbf-4706-b86c-aa539ae52f5a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=6588f676-7fbf-4706-b86c-aa539ae52f5a&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 69500000,
+                "price_text": "۶۹٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۹٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 اتوماتیک ایکس ویژن مدل TG72-BW/BS",
+                "name2": "",
+                "shop_name": "اوشن کالا کرج",
+                "shop_name2": "کرج",
+                "shop_id": 485889,
+                "has_public_torob_profile": true,
+                "prk": "dc2c32c9-f670-47de-a59c-1734a71f3e60",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=dc2c32c9-f670-47de-a59c-1734a71f3e60&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70000000,
+                "price_text": "۷۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ۷ کیلویی ایکس ویژن مدل TG72BWBL موتور BLDC",
+                "name2": "",
+                "shop_name": "ایراجیان",
+                "shop_name2": "شاهرود",
+                "shop_id": 3117,
+                "has_public_torob_profile": true,
+                "prk": "b4352aec-9aea-4444-8290-dc8776bad02a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=b4352aec-9aea-4444-8290-dc8776bad02a&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70969000,
+                "price_text": "۷۰٫۹۶۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۹۶۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شاهرود با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "بسته به شرایط جشنواره ها ارسال بعضی از کالاها رایگان می باشد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل X.VISION TG72-BS",
+                "name2": "36 ماه گارانتی مادیران",
+                "shop_name": "پدینی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 122315,
+                "has_public_torob_profile": true,
+                "prk": "812d2a0b-3701-46b5-ae80-6d66423ea8b7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=812d2a0b-3701-46b5-ae80-6d66423ea8b7&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 71000000,
+                "price_text": "۷۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 کیلوگرمی ایکس ویژن مدلTG72-BSسیلور",
+                "name2": "",
+                "shop_name": "تهرانسل",
+                "shop_name2": "تهران",
+                "shop_id": 83206,
+                "has_public_torob_profile": true,
+                "prk": "2766f015-5fe8-47cb-9c3d-3b5086ba8cc7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=2766f015-5fe8-47cb-9c3d-3b5086ba8cc7&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72500000,
+                "price_text": "۷۲٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 7 کیلویی ایکس ویژن مدل TG72 سفید",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "53a82814-5419-438c-9efd-edff83263280",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=53a82814-5419-438c-9efd-edff83263280&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73900000,
+                "price_text": "۷۳٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل X.VISION TG72-BW",
+                "name2": "36 ماه گارانتی مادیران",
+                "shop_name": "پدینی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 122315,
+                "has_public_torob_profile": true,
+                "prk": "91c3287d-20af-4f17-9852-cf9156f89261",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=91c3287d-20af-4f17-9852-cf9156f89261&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72",
+                "name2": "گارانتی ۲۴ ماهه مادیران",
+                "shop_name": "زیر زیر",
+                "shop_name2": "تهران",
+                "shop_id": 26656,
+                "has_public_torob_profile": true,
+                "prk": "422107db-8596-45a2-871b-18e7f8c83280",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=422107db-8596-45a2-871b-18e7f8c83280&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74500000,
+                "price_text": "۷۴٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "امکان تحویل حضوری کالا فراهم است ، برای شهر تهران ارسال توسط پیک و لجستیک مجموعه انجام می شود ، برای شهرستان ها با باربری و پست های  خصوصی نظیر تیپاکس و ماهکس ارسال انجام می شود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن مدل TG72",
+                "name2": "",
+                "shop_name": "امین حضور",
+                "shop_name2": "تهران",
+                "shop_id": 19479,
+                "has_public_torob_profile": true,
+                "prk": "c8977164-2208-4658-acb9-2447da9ced3c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=c8977164-2208-4658-acb9-2447da9ced3c&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 75500000,
+                "price_text": "۷۵٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۵٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی ایکس ویژن 7 کیلویی مدل TG72-BS ا X.Vision TG72-BS Washing Machine",
+                "name2": "24 ماه گارانتی مادیران",
+                "shop_name": "تکنولایف",
+                "shop_name2": "تهران",
+                "shop_id": 310,
+                "has_public_torob_profile": true,
+                "prk": "1c770b27-7534-49d8-9cf2-b050f5fabdc8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=1c770b27-7534-49d8-9cf2-b050f5fabdc8&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&installment=228:1xAUDE:sbZlxeWsCFz6w1wOLmq0nEuQQ50i8DHDsv-w9zO020Q",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 76400000,
+                "price_text": "۷۶٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۶٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال ۳ ساعته برای شهر تهران\n- ارسال همان روز برای شهر کرج\n- ارسال سریع سفارش ها به سراسر کشور"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰۰ تا ۶۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۷ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "24 قسط تا سقف 150 میلیون تومان با سود سالانه 23%",
+                            "short_title": "امکان خرید قسطی",
+                            "logo": "https://ext-storage.torob.com/ticketing-storage/shop_310/ticket_2597101/c48d587fa078c8a6eadc178fe81e80ed.jpg",
+                            "name": "تکنولایف",
+                            "description": "خرید قسطی از درگاه قسطی تکنو پی",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436076",
+        "count": 122,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&suid=01a0de4e471970cdbe44ad5501d0432e&cities=&province=&algorithm=text_similarity&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&list_type=products_info&seed=1790436076"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790436076",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&cities=&province=&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&list_type=products_in_store_info&seed=1790436076&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&source=next_desktop&discover_method=search&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&seed=1790436076&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&source=next_desktop&discover_method=search&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&seed=1790436076&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۶۳٫۴۹۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۶۵٫۴۰۴٫۵۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۶۲٫۰۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4e471970cdbe44ad5501d0432e&search_id=01a0de4e471970cdbe44ad5501d0432e&cities=&province=&init_suid=01a0de4e471970cdbe44ad5501d0432e&algorithm=text_similarity&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&bvid=01a0de4e6d4473b18b164742d7d889c1&no_log=true&seed=1790436076",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&base_id=15658048&source=next_desktop&bvid=01a0de4e6d4473b18b164742d7d889c1&init_suid=01a0de4e471970cdbe44ad5501d0432e"
+    },
+    "min_price": 62000000,
+    "max_price": 90300000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 134,
+            "title": "شستشو و نظافت",
+            "url": "/browse/134/%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA-cleaning-equipment/",
+            "cat_id": 134,
+            "brand_id": null
+        },
+        {
+            "id": 6729,
+            "title": "دستگاه‌های شستشو و نظافت",
+            "url": "/browse/6729/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA/",
+            "cat_id": 6729,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "ماشین لباسشویی",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/",
+            "cat_id": 201,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "ایکس ویژن (X.Vision)",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/b/4615/x.vision-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86/",
+            "cat_id": 201,
+            "brand_id": 4615
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "برند": "ایکس ویژن",
+                    "رنگ": "سیلور",
+                    "کشور سازنده": "ایران",
+                    "برچسب مصرف انرژی": "+++A",
+                    "نوع دستگاه": "لباسشویی درب از جلو",
+                    "ظرفیت لباسشویی": "7 کیلوگرم",
+                    "نوع موتور": "موتور یونیورسال",
+                    "حداکثر سرعت چرخش موتور": "1200 دور در دقیقه",
+                    "WiFi: قابلیت کنترل از راه دور": "ندارد",
+                    "i-DOS: تنظیم خودکار میزان مایع شوینده و نرم کننده": "ندارد",
+                    "خشک کن 100 درصد": "ندارد",
+                    "شستشو با بخار": "ندارد",
+                    "امکان اضافه کردن لباس در حین چرخه شستشو": "Add Garment",
+                    "سیستم تشخیص کف روی لباس": "ندارد",
+                    "سنسور تشخیص وزن": "ندارد",
+                    "سیستم ضد نشت آب": "دارد",
+                    "سیستم صرفه جویی مصرف آب": "ندارد",
+                    "سیستم تاخیر در شروع": "دارد",
+                    "نوع دیگ": "Honeycomb: درام كریستالی جهت مراقبت از الیاف لباس",
+                    "حالت لکه بری": "ندارد",
+                    "قابلیت کنترل دما": "دارد",
+                    "قفل کودک": "دارد",
+                    "لامپ داخلی": "ندارد",
+                    "محفظه مایع نرم کننده": "دارد",
+                    "اعلام هشدار در پایان برنامه": "دارد",
+                    "زبان پنل کنترل": "انگلیسی",
+                    "جهت باز شدن درب": "به سمت چپ",
+                    "پایه قابل تنظیم": "دارد",
+                    "جنس مخزن": "استیل ضد زنگ",
+                    "نمایشگر": "LED",
+                    "صفحه کنترل لمسی": "ندارد",
+                    "نشانگر روشن بودن دستگاه": "دارد",
+                    "نمایش زمان باقیمانده برنامه": "دارد",
+                    "تعداد برنامه های شستشو": "16 برنامه",
+                    "صفحه کنترل": "Child Lock: قفل کودک, Delay: تاخیر در زمان شروع شستشو, On/Off: دکمه روشن / خاموش, Rinse: آبکشی, Speed, Start /Pause: شروع / توقف, Temperature: تعیین درجه حرارت آب",
+                    "شستشوی بهداشتی": "دارد",
+                    "برنامه شستشوی دیگ": "Drum clean",
+                    "برنامه های شستشو": "Allergy Care: شستشوی البسه به منظور از بین بردن عوامل ایجاد کننده بیماری و آلرژی, Bedding: شستشوی سرویس خواب مانند ملحفه, Cotton: شستشوی پارچه کتان، نخ و ..., Dark Colour: شستشوی لباسهای مشکی و تیره, Delicate / Silk: شستشوی البسه ظریف / ابریشمی, Drum Clean: برنامه شستشوی دیگ, Intensive: شستشوی قوی, Mix: شستشوی البسه مختلط, Prewash: برنامه پیش شستشو, Rinse/Spin: برنامه آبکشی و خشک کردن, Shirts: شستشوی پیراهن, Spin: حالت خشک کن, Sports, fitness: شستشوی لباسهای ورزشی, Super Quick 15′: برنامه شستشوی سریع 15 دقیقه, Synthetic: شستشوی الیاف مصنوعی, Wool: شستشوی البسه پشمی",
+                    "اندازه دهانه درب لباسشویی": "30.8 سانتیمتر",
+                    "ارتفاع": "850 میلیمتر",
+                    "عرض": "595 میلیمتر",
+                    "عمق": "520 میلیمتر",
+                    "سایر مشخصات": "دارای قابلیت ادامه برنامه شستشو در صورت قطع و وصل برق, سیستم تعادل خودکار البسه, سیستم كنترل هوشمند دمای آب, شیر ورودی آب سرد"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "نوع",
+                    "value": [
+                        "درب از جلو"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "ظرفیت",
+                    "value": [
+                        "۷ کیلوگرم"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "گرید انرژی",
+                    "value": [
+                        "A+++"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "تعداد برنامه",
+                    "value": [
+                        "۱۶ برنامه"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "نوع موتور",
+                    "value": [
+                        "Universal"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "ماشین-لباسشویی-ایکس-ویژن-مدل-tg72",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&limit=24&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+    "torob_category": 201,
+    "no_index": false,
+    "buy_box_price_text": "از ۶۲٫۰۰۰٫۰۰۰ تومان تا ۹۰٫۳۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=0f4d5b8e-b2d3-4c0e-9067-b7614111c04c&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از اول از ما",
+    "new_buy_box_button_text2": "۶۳٫۴۹۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ضمانت ترب",
+    "new_buy_box_button_badge_style": "guaranteed",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4e471970cdbe44ad5501d0432e&suid=01a0de4e471970cdbe44ad5501d0432e&bvid=01a0de4e6d4473b18b164742d7d889c1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4e471970cdbe44ad5501d0432e&prk=d53beff5-46c9-47fe-acd7-f784fb1101c0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4e471970cdbe44ad5501d0432e&buy_box_reason=guarantee",
+    "new_buy_box_button_scrol_to_prk": "d0add4eb-1b72-495b-80ea-b07e4166ab73",
+    "new_buy_box_source_prk": "d53beff5-46c9-47fe-acd7-f784fb1101c0",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۲۸ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

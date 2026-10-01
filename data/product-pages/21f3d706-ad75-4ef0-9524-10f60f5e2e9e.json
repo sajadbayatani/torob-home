@@ -1,0 +1,206 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "21f3d706-ad75-4ef0-9524-10f60f5e2e9e",
+    "name1": "ست میز و صندلی ناهار خوری چوبی ۱۲ نفره مدل آرکا",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de47163473039c0d1b53e4b1fe53&search_id=01a0de47163473039c0d1b53e4b1fe53&cities=&province=&init_suid=01a0de47163473039c0d1b53e4b1fe53&algorithm=text_similarity&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e",
+    "web_client_absolute_url": "/p/21f3d706-ad75-4ef0-9524-10f60f5e2e9e/%D8%B3%D8%AA-%D9%85%DB%8C%D8%B2-%D9%88-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%86%D8%A7%D9%87%D8%A7%D8%B1-%D8%AE%D9%88%D8%B1%DB%8C-%DA%86%D9%88%D8%A8%DB%8C-12-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AF%D9%84-%D8%A7%D8%B1%DA%A9%D8%A7/",
+    "price": 86040000,
+    "price_prefix": "cheapest",
+    "price_text": "۸۶٫۰۴۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در هومتاز",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&limit=24&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&discover_method=search_image_base_pdp&prev_uid=01a0de47163473039c0d1b53e4b1fe53&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/2X/Ql/2XQlRaAMmHhBbsLJ.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/g1/F1/g1F1SGc-qvFUKgZ6.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/5H/Lg/5HLgrI7a0lY80jW2.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/2X/Ql/2XQlRaAMmHhBbsLJ.webp",
+    "image_count": 3,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&bvid=01a0de472d35717095bc1a767d77458c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de47163473039c0d1b53e4b1fe53&prk=3e09516c-cc28-4124-8dbc-782c7004287d&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "ست میز و صندلی ناهار خوری چوبی 6 و 8 و 10 و 12 نفره مدل آرکا",
+                "name2": "",
+                "shop_name": "هومتاز",
+                "shop_name2": "اسلامشهر",
+                "shop_id": 29889,
+                "has_public_torob_profile": true,
+                "prk": "3e09516c-cc28-4124-8dbc-782c7004287d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&bvid=01a0de472d35717095bc1a767d77458c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de47163473039c0d1b53e4b1fe53&prk=3e09516c-cc28-4124-8dbc-782c7004287d&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 86040000,
+                "price_text": "۸۶٫۰۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۸۶٫۰۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435601",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&bvid=01a0de472d35717095bc1a767d77458c&suid=01a0de47163473039c0d1b53e4b1fe53&cities=&province=&algorithm=text_similarity&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&list_type=products_info&seed=1790435601"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435601",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&cities=&province=&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&list_type=products_in_store_info&seed=1790435601&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&source=next_desktop&discover_method=search&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&seed=1790435601&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&source=next_desktop&discover_method=search&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&seed=1790435601&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de47163473039c0d1b53e4b1fe53&search_id=01a0de47163473039c0d1b53e4b1fe53&cities=&province=&init_suid=01a0de47163473039c0d1b53e4b1fe53&algorithm=text_similarity&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&bvid=01a0de472d35717095bc1a767d77458c&no_log=true&seed=1790435601",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&base_id=120837709&source=next_desktop&bvid=01a0de472d35717095bc1a767d77458c&init_suid=01a0de47163473039c0d1b53e4b1fe53"
+    },
+    "min_price": 86040000,
+    "max_price": 86040000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 349,
+            "title": "ست میز و صندلی غذاخوری",
+            "url": "/browse/349/%D8%B3%D8%AA-%D9%85%DB%8C%D8%B2-%D9%88-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-dining-table/",
+            "cat_id": 349,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "ست-میز-و-صندلی-ناهار-خوری-چوبی-12-نفره-مدل-ارکا",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=21f3d706-ad75-4ef0-9524-10f60f5e2e9e&limit=24&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+    "torob_category": 349,
+    "no_index": false,
+    "buy_box_price_text": "۸۶٫۰۴۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&bvid=01a0de472d35717095bc1a767d77458c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de47163473039c0d1b53e4b1fe53&prk=3e09516c-cc28-4124-8dbc-782c7004287d&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de47163473039c0d1b53e4b1fe53",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از هومتاز",
+    "new_buy_box_button_text2": "۸۶٫۰۴۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de47163473039c0d1b53e4b1fe53&suid=01a0de47163473039c0d1b53e4b1fe53&bvid=01a0de472d35717095bc1a767d77458c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de47163473039c0d1b53e4b1fe53&prk=3e09516c-cc28-4124-8dbc-782c7004287d&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de47163473039c0d1b53e4b1fe53&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "3e09516c-cc28-4124-8dbc-782c7004287d",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/g1/F1/g1F1SGc-qvFUKgZ6.webp",
+                "https://image.torob.com/base/images/5H/Lg/5HLgrI7a0lY80jW2.webp"
+            ]
+        }
+    ]
+}

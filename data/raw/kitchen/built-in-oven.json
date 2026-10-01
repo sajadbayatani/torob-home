@@ -1,0 +1,2003 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37",
+            "name1": "فر توکار آ ا گ مدل BPK556260B ظرفیت ۷۱ لیتر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=result_adv&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&ad=01a0ddd7ab0971948612bbc0a32df166&rank=0",
+            "web_client_absolute_url": "/p/868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7-%D8%A7-%DA%AF-%D9%85%D8%AF%D9%84-bpk556260b-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-71-%D9%84%DB%8C%D8%AA%D8%B1/",
+            "price": 210000000,
+            "price_prefix": "cheapest",
+            "price_text": "۲۱۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در لوازم خانگی کالای نیک",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=868ac42c-4e02-4f15-9e3f-b5cd2ddf9d37&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/yt/A5/ytA5mapptBTlTtGu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/MH/Ws/MHWsSHASEfdLRzQf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/pq/Ql/pqQl7gMLrXTDIb2H.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qi/A5/qiA5ckTmEmBw3Ki0.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/yt/A5/ytA5mapptBTlTtGu.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "239728cd-5c44-4e61-9f60-e724abe13c87",
+            "name1": "فر توکار تکنو مکس مدل FE-7",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=239728cd-5c44-4e61-9f60-e724abe13c87&rank=1",
+            "web_client_absolute_url": "/p/239728cd-5c44-4e61-9f60-e724abe13c87/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AA%DA%A9%D9%86%D9%88-%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-fe-7/",
+            "price": 22000000,
+            "price_prefix": "cheapest",
+            "price_text": "۲۲٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در سیتی گاز",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=239728cd-5c44-4e61-9f60-e724abe13c87&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=239728cd-5c44-4e61-9f60-e724abe13c87&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tz/tB/tztBF6l8aFXq9sKB.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/tz/tB/tztBF6l8aFXq9sKB.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "c1d03bcb-6382-4e6c-9f09-df8093b21792",
+            "name1": "فر توکار اخوان مدل F17 مشکی",
+            "name1_max_lines": 3,
+            "name2": "Akhavan F17 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=c1d03bcb-6382-4e6c-9f09-df8093b21792&rank=2",
+            "web_client_absolute_url": "/p/c1d03bcb-6382-4e6c-9f09-df8093b21792/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-f17-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 31869188,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۱٫۸۶۹٫۱۸۸ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c1d03bcb-6382-4e6c-9f09-df8093b21792&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=c1d03bcb-6382-4e6c-9f09-df8093b21792&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/LH/qo/LHqotRedurG6_yFt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/TV/Dr/TVDrDWg7Xy5HyibS.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/yn/9O/yn9OCT072b-DAz7J.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/LH/qo/LHqotRedurG6_yFt.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f4ceecc1-661b-4f43-a6a5-b49cf6547feb",
+            "name1": "فر توکار آلتون مدل V310B مشکی",
+            "name1_max_lines": 3,
+            "name2": "Alton V310B Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=f4ceecc1-661b-4f43-a6a5-b49cf6547feb&rank=3",
+            "web_client_absolute_url": "/p/f4ceecc1-661b-4f43-a6a5-b49cf6547feb/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-v310b-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 56000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۶٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f4ceecc1-661b-4f43-a6a5-b49cf6547feb&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f4ceecc1-661b-4f43-a6a5-b49cf6547feb&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/OB/0G/OB0Gea31mOlIrrqy.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1M/dq/1MdqZJDXzUPMPjm2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/CY/Fw/CYFwOwsM_EZNq_DC.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vu/dq/vudq0qgYEGj3Cgmw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zm/kW/zmkW-ZxyAd1nmgIt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qI/Eh/qIEhCrux9je2SRXM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/kj/m8/kjm8PzrlVgmefc2C.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/OB/0G/OB0Gea31mOlIrrqy.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "9b773e15-1a2f-4d5d-b37b-597745c33986",
+            "name1": "فر توکار آلتون مدل V100B-مشکی بژ",
+            "name1_max_lines": 3,
+            "name2": "Alton V100B Built-in Oven-Black Beige",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=9b773e15-1a2f-4d5d-b37b-597745c33986&rank=4",
+            "web_client_absolute_url": "/p/9b773e15-1a2f-4d5d-b37b-597745c33986/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-v100b-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%DA%98/",
+            "price": 40933200,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۰٫۹۳۳٫۲۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9b773e15-1a2f-4d5d-b37b-597745c33986&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9b773e15-1a2f-4d5d-b37b-597745c33986&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Sy/GF/SyGF-VyempM0uV8P.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0G/-b/0G-bzeysf9bjcUCB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/LG/Sp/LGSp3FEZiMCI68ao.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Sy/GF/SyGF-VyempM0uV8P.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "32fea909-8ec3-4af8-ba18-e6f4a18a57b6",
+            "name1": "فر توکار بیمکث مدل E300 مشکی",
+            "name1_max_lines": 3,
+            "name2": "Bimax E300 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=32fea909-8ec3-4af8-ba18-e6f4a18a57b6&rank=5",
+            "web_client_absolute_url": "/p/32fea909-8ec3-4af8-ba18-e6f4a18a57b6/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-e300-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 32016000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۲٫۰۱۶٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=32fea909-8ec3-4af8-ba18-e6f4a18a57b6&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=32fea909-8ec3-4af8-ba18-e6f4a18a57b6&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/2x/OO/2xOO_c1duxAd1Rno.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Au/QD/AuQDGfMBgB-6yW6m.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/2x/OO/2xOO_c1duxAd1Rno.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "45d0b8b8-807f-4a79-b64a-695dc7583381",
+            "name1": "فر توکار کن مدل E6500-مشکی سیلور",
+            "name1_max_lines": 3,
+            "name2": "Can E6500 Built-in Oven-Black Silver",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=45d0b8b8-807f-4a79-b64a-695dc7583381&rank=6",
+            "web_client_absolute_url": "/p/45d0b8b8-807f-4a79-b64a-695dc7583381/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%DA%A9%D9%86-%D9%85%D8%AF%D9%84-e6500-%D9%85%D8%B4%DA%A9%DB%8C-%D8%B3%DB%8C%D9%84%D9%88%D8%B1/",
+            "price": 57000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۷٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=45d0b8b8-807f-4a79-b64a-695dc7583381&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=45d0b8b8-807f-4a79-b64a-695dc7583381&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/04/jb/04jbfdzWZghI97di.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l1/-A/l1-AH03Ufxo_Oo_y.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Sq/JH/SqJHrXCNSopZT4tf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/RB/DA/RBDAzlDR30SD9B7s.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/D_/ra/D_raHiS6CrSsTigC.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/V8/ej/V8ejisce0PaTVVpT.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/E-/cC/E-cC7iqQ3NDg1Oam.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/04/jb/04jbfdzWZghI97di.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "7fae0bcd-3160-4e08-8f45-1d0fc10a5971",
+            "name1": "فر توکار تکنو مکس مدل TF-09",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=7fae0bcd-3160-4e08-8f45-1d0fc10a5971&rank=7",
+            "web_client_absolute_url": "/p/7fae0bcd-3160-4e08-8f45-1d0fc10a5971/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AA%DA%A9%D9%86%D9%88-%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-tf-09/",
+            "price": 23000000,
+            "price_prefix": "cheapest",
+            "price_text": "۲۳٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در سیتی گاز",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=7fae0bcd-3160-4e08-8f45-1d0fc10a5971&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=7fae0bcd-3160-4e08-8f45-1d0fc10a5971&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Lr/RO/LrROznMUwdP7ELfc.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Lr/RO/LrROznMUwdP7ELfc.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4de72454-6638-46c0-ba76-029965c6a03a",
+            "name1": "فر برقی بیمکث مدل MF 0022 N",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=4de72454-6638-46c0-ba76-029965c6a03a&rank=8",
+            "web_client_absolute_url": "/p/4de72454-6638-46c0-ba76-029965c6a03a/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-mf-0022-n/",
+            "price": 8800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4de72454-6638-46c0-ba76-029965c6a03a&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4de72454-6638-46c0-ba76-029965c6a03a&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/IN/cx/INcx_yJ-i7fcspJG.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-c/bZ/-cbZp-E6Fc870Pl2.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ab/Da/AbDafO5ObwfMpmD1.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Dy/Q7/DyQ77eMSp1VG9RUs.webp",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "732c93d9-9165-479b-8d19-66fb2b734879",
+            "name1": "فر توکار داتیس مدل DF-694U سفید ولوم طلایی",
+            "name1_max_lines": 3,
+            "name2": "Datees DF-694 Ultra Built-in Oven-White",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=732c93d9-9165-479b-8d19-66fb2b734879&rank=9",
+            "web_client_absolute_url": "/p/732c93d9-9165-479b-8d19-66fb2b734879/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-df-694u-%D8%B3%D9%81%DB%8C%D8%AF-%D9%88%D9%84%D9%88%D9%85-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C/",
+            "price": 41734614,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۱٫۷۳۴٫۶۱۴ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=732c93d9-9165-479b-8d19-66fb2b734879&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=732c93d9-9165-479b-8d19-66fb2b734879&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/eK/_0/eK_0rd1OHYBaSNfF.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/eK/_0/eK_0rd1OHYBaSNfF.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "7c4c2dbe-4a75-40c7-a82b-0abc2101ef06",
+            "name1": "فر برقی توکار تایسز مدل TO3544 ظرفیت ۹۲ لیتر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=result_adv&prk=7c4c2dbe-4a75-40c7-a82b-0abc2101ef06&ad=01a0ddd7ab0971948612bbc1614113da&rank=10",
+            "web_client_absolute_url": "/p/7c4c2dbe-4a75-40c7-a82b-0abc2101ef06/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AA%D8%A7%DB%8C%D8%B3%D8%B2-%D9%85%D8%AF%D9%84-to3544-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-92-%D9%84%DB%8C%D8%AA%D8%B1/",
+            "price": 108403000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۰۸٫۴۰۳٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در همسا",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=7c4c2dbe-4a75-40c7-a82b-0abc2101ef06&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=7c4c2dbe-4a75-40c7-a82b-0abc2101ef06&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/gM/gc/gMgcowQ8gg3aNRxt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lZ/A8/lZA8Hi1r2SQKfnWO.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/gM/gc/gMgcowQ8gg3aNRxt.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "8bf858c7-cb2d-4735-9f85-3a8bd6f46fd9",
+            "name1": "فر توکار کن مدل E6503 B مشکی",
+            "name1_max_lines": 3,
+            "name2": "Can 6503-b built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=8bf858c7-cb2d-4735-9f85-3a8bd6f46fd9&rank=11",
+            "web_client_absolute_url": "/p/8bf858c7-cb2d-4735-9f85-3a8bd6f46fd9/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%DA%A9%D9%86-%D9%85%D8%AF%D9%84-e6503-b-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 35300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۵٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8bf858c7-cb2d-4735-9f85-3a8bd6f46fd9&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=8bf858c7-cb2d-4735-9f85-3a8bd6f46fd9&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/EV/hm/EVhmtv6FZI3GWGFc.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M4/Io/M4Io5WfYqoSPGKMR.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zo/6u/Zo6uI1jNNYbFD6u8.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bf/bN/bfbN_VbwZb1Zu-c3.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4w/dx/4wdxBBmxizGJemnj.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Sq/sW/SqsWpRk5ne4HqlGI.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/EV/hm/EVhmtv6FZI3GWGFc.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2d1518ff-7305-48a6-a49d-f03044cc92d7",
+            "name1": "فر توکار اسنوا مدل SEO7-8323 مشکی",
+            "name1_max_lines": 3,
+            "name2": "Snowa SEO7-8323 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=2d1518ff-7305-48a6-a49d-f03044cc92d7&rank=12",
+            "web_client_absolute_url": "/p/2d1518ff-7305-48a6-a49d-f03044cc92d7/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D8%B3%D9%86%D9%88%D8%A7-%D9%85%D8%AF%D9%84-seo7-8323-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 48664524,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۸٫۶۶۴٫۵۲۴ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2d1518ff-7305-48a6-a49d-f03044cc92d7&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2d1518ff-7305-48a6-a49d-f03044cc92d7&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hF/vX/hFvXLi9ZuwRhF37G.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Aw/v-/Awv-RR5B79TjeJWQ.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/B5/Cf/B5Cf5PxMeCNO-pkG.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/hF/vX/hFvXLi9ZuwRhF37G.webp",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "abf1da19-a573-4f29-9fe5-a05b211c5eac",
+            "name1": "فر توکار آلتون مدل V402BN مشکی",
+            "name1_max_lines": 3,
+            "name2": "Alton V402BN Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=abf1da19-a573-4f29-9fe5-a05b211c5eac&rank=13",
+            "web_client_absolute_url": "/p/abf1da19-a573-4f29-9fe5-a05b211c5eac/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-v402bn-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 58500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۸٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=abf1da19-a573-4f29-9fe5-a05b211c5eac&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=abf1da19-a573-4f29-9fe5-a05b211c5eac&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9c/Bf/9cBfaHDV4fS80HMU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Np/w9/Npw9sqPp0XJiBg7d.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1-/5T/1-5TErc6XTFdJ6IE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/IP/PE/IPPE4ITUyrtMyeeZ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/A0/aO/A0aOAbY6Omfu5QsY.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/9c/Bf/9cBfaHDV4fS80HMU.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "01fdb07d-35cd-466c-8384-834240a8f8d0",
+            "name1": "فر توکار داتیس مدل DF-684U سفید",
+            "name1_max_lines": 3,
+            "name2": "Datees DF684 Ultra Built-in Oven-White",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=01fdb07d-35cd-466c-8384-834240a8f8d0&rank=14",
+            "web_client_absolute_url": "/p/01fdb07d-35cd-466c-8384-834240a8f8d0/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-df-684u-%D8%B3%D9%81%DB%8C%D8%AF/",
+            "price": 38947516,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۸٫۹۴۷٫۵۱۶ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=01fdb07d-35cd-466c-8384-834240a8f8d0&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=01fdb07d-35cd-466c-8384-834240a8f8d0&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/o0/ek/o0ekBqAZu3-Uuyvm.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/o0/ek/o0ekBqAZu3-Uuyvm.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [
+                {
+                    "text": "کارکرده",
+                    "icon": null,
+                    "tooltip": null,
+                    "badge_type": "stock_status"
+                }
+            ],
+            "discount_info": [],
+            "random_key": "ada6f521-cbf0-49de-8946-b124fb7c9216",
+            "name1": "فر توکار برقی ۷۰ لیتری بایوماتیک (استوک)",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=ada6f521-cbf0-49de-8946-b124fb7c9216&rank=15",
+            "web_client_absolute_url": "/p/ada6f521-cbf0-49de-8946-b124fb7c9216/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-70-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%DB%8C%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A7%D8%B3%D8%AA%D9%88%DA%A9/",
+            "price": 35500000,
+            "price_prefix": "cheapest",
+            "price_text": "۳۵٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ایمار کالا",
+            "stock_status": "کارکرده",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ada6f521-cbf0-49de-8946-b124fb7c9216&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ada6f521-cbf0-49de-8946-b124fb7c9216&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jn/e8/jne8FgzNnJyuYxw0.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ln/9Q/Ln9QaUvwK5wNx2Ks.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/8d/iz/8dizKtSO1fIFE6in.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lT/1O/lT1OQTdku9auS_g-.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/WY/wR/WYwRQm1c9KvxA8tN.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jn/e8/jne8FgzNnJyuYxw0.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0dae7025-0157-4eb9-9db2-e7d63b36792d",
+            "name1": "فر توکار داتیس مدل DF645 مشکی",
+            "name1_max_lines": 3,
+            "name2": "Datees DF645 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=0dae7025-0157-4eb9-9db2-e7d63b36792d&rank=16",
+            "web_client_absolute_url": "/p/0dae7025-0157-4eb9-9db2-e7d63b36792d/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-df645-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 42936395,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۲٫۹۳۶٫۳۹۵ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0dae7025-0157-4eb9-9db2-e7d63b36792d&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0dae7025-0157-4eb9-9db2-e7d63b36792d&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/x3/DZ/x3DZGuWbf8bK4bvM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mu/7m/mu7mGw_eP5ec9-nh.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/x3/DZ/x3DZGuWbf8bK4bvM.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ec8203e2-db90-48fe-83b0-4a88c861d9f3",
+            "name1": "فر توکار اخوان مدل F28-مشکی",
+            "name1_max_lines": 3,
+            "name2": "Akhavan F28 Built-in Oven -Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=ec8203e2-db90-48fe-83b0-4a88c861d9f3&rank=17",
+            "web_client_absolute_url": "/p/ec8203e2-db90-48fe-83b0-4a88c861d9f3/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-f28-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 36327753,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۶٫۳۲۷٫۷۵۳ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ec8203e2-db90-48fe-83b0-4a88c861d9f3&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ec8203e2-db90-48fe-83b0-4a88c861d9f3&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3D/OZ/3DOZ4KGjI_WaFWoY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/cU/a6/cUa6A4py4RMnOZD-.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/37/Eb/37Eba3ZC0qdUp6Ol.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/3D/OZ/3DOZ4KGjI_WaFWoY.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "6928ee80-a8af-4cf6-8acb-1d9d1b9e386d",
+            "name1": "فر توکار داتیس  مدل DF-694 مشکی ولوم طلایی",
+            "name1_max_lines": 3,
+            "name2": "Datees DF-694 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=6928ee80-a8af-4cf6-8acb-1d9d1b9e386d&rank=18",
+            "web_client_absolute_url": "/p/6928ee80-a8af-4cf6-8acb-1d9d1b9e386d/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-df-694-%D9%85%D8%B4%DA%A9%DB%8C-%D9%88%D9%84%D9%88%D9%85-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C/",
+            "price": 37942973,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۷٫۹۴۲٫۹۷۳ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=6928ee80-a8af-4cf6-8acb-1d9d1b9e386d&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=6928ee80-a8af-4cf6-8acb-1d9d1b9e386d&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/n9/a2/n9a26spCLivmtqNw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l0/Ds/l0DsxqmjlK9ao4Dv.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/n9/a2/n9a26spCLivmtqNw.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "a55b4db6-0feb-4cbb-a0e9-3e3b53bd9474",
+            "name1": "فر توکار ایلیا استیل مدل FE54B-مشکی",
+            "name1_max_lines": 3,
+            "name2": "Ilia Steel FE54B Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=a55b4db6-0feb-4cbb-a0e9-3e3b53bd9474&rank=19",
+            "web_client_absolute_url": "/p/a55b4db6-0feb-4cbb-a0e9-3e3b53bd9474/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-fe54b-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 37639000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۷٫۶۳۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a55b4db6-0feb-4cbb-a0e9-3e3b53bd9474&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=a55b4db6-0feb-4cbb-a0e9-3e3b53bd9474&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1R/Wi/1RWischxlEUp6iJU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/LN/Oc/LNOcToNqKxOLkoTz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Wj/Ey/WjEyjISbDRcEQOtn.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M8/YZ/M8YZEvMV1NrqYGfh.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/1R/Wi/1RWischxlEUp6iJU.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0e4b401e-6ec1-4d72-adc8-954f1d057bcf",
+            "name1": "فر توکار سینجر 70 لیتر برقی مدل(7608A+) SLA 8 پلاس",
+            "name1_max_lines": 3,
+            "name2": "sl 708_248637",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=0e4b401e-6ec1-4d72-adc8-954f1d057bcf&rank=20",
+            "web_client_absolute_url": "/p/0e4b401e-6ec1-4d72-adc8-954f1d057bcf/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%B3%DB%8C%D9%86%D8%AC%D8%B1-70-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%D8%AF%D9%84-7608a%2B-sla-8-%D9%BE%D9%84%D8%A7%D8%B3/",
+            "price": 40000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0e4b401e-6ec1-4d72-adc8-954f1d057bcf&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0e4b401e-6ec1-4d72-adc8-954f1d057bcf&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/KZ/ST/KZSTBNj8Wfpqwnfg.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/KZ/ST/KZSTBNj8Wfpqwnfg.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "85125ceb-a62e-4f84-a90b-98cafa553908",
+            "name1": "فر توکار تمام برقی پاتینو لمسی ۱۳ برنامه با ضمانت",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=85125ceb-a62e-4f84-a90b-98cafa553908&rank=21",
+            "web_client_absolute_url": "/p/85125ceb-a62e-4f84-a90b-98cafa553908/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AA%D9%85%D8%A7%D9%85-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%D8%AA%DB%8C%D9%86%D9%88-%D9%84%D9%85%D8%B3%DB%8C-13-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D8%A7-%D8%B6%D9%85%D8%A7%D9%86%D8%AA/",
+            "price": 37989000,
+            "price_prefix": "cheapest",
+            "price_text": "۳۷٫۹۸۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مهدوی شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=85125ceb-a62e-4f84-a90b-98cafa553908&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=85125ceb-a62e-4f84-a90b-98cafa553908&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/i0/o6/i0o6VgGuAw4ZL9CY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9-/6r/9-6r7dpw4DD_iE9d.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ly/RF/lyRF67nhT6noY6HL.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/i0/o6/i0o6VgGuAw4ZL9CY.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f004ee68-caee-4352-a9b6-8dd24cf471cf",
+            "name1": "فر توکار ایلیا استیل مدل IO201-مشکی",
+            "name1_max_lines": 3,
+            "name2": "Ilia Steel IO201 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&rank=22",
+            "web_client_absolute_url": "/p/f004ee68-caee-4352-a9b6-8dd24cf471cf/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-io201-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 38159250,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۸٫۱۵۹٫۲۵۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/My/-Z/My-ZlxLtS-V_7_Fz.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/My/-Z/My-ZlxLtS-V_7_Fz.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "101413c1-e4db-472c-9ef4-380ec6178cf9",
+            "name1": "فر توکار استیل البرز مدل FGE6-سیلور",
+            "name1_max_lines": 3,
+            "name2": "Steel Alborz FGE6 Built-in Oven-Silver",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=101413c1-e4db-472c-9ef4-380ec6178cf9&rank=23",
+            "web_client_absolute_url": "/p/101413c1-e4db-472c-9ef4-380ec6178cf9/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D9%85%D8%AF%D9%84-fge6-%D8%B3%DB%8C%D9%84%D9%88%D8%B1/",
+            "price": 44935000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۴٫۹۳۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=101413c1-e4db-472c-9ef4-380ec6178cf9&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=101413c1-e4db-472c-9ef4-380ec6178cf9&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9C/jT/9CjT2pJ730aSqdlq.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/r-/58/r-58-FwRt7gjhDTW.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jF/7b/jF7b9H8yiNKvS1Ho.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Iy/0b/Iy0bIQeu_ncMwDKo.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/9C/jT/9CjT2pJ730aSqdlq.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "d3ca20f3-0c9b-48f6-ac64-982c23c4bceb",
+            "name1": "فر توکار داتیس مدل 679-DF مشکی",
+            "name1_max_lines": 3,
+            "name2": "Datees DF-679 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=d3ca20f3-0c9b-48f6-ac64-982c23c4bceb&rank=24",
+            "web_client_absolute_url": "/p/d3ca20f3-0c9b-48f6-ac64-982c23c4bceb/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-679-df-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 34987149,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۴٫۹۸۷٫۱۴۹ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d3ca20f3-0c9b-48f6-ac64-982c23c4bceb&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d3ca20f3-0c9b-48f6-ac64-982c23c4bceb&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jg/mx/jgmx-eEeU1paYCLf.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jg/mx/jgmx-eEeU1paYCLf.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f1faef25-c0a4-452a-ac7f-ac45a1a882e9",
+            "name1": "فر توکار داتیس مدل DF-685 مشکی ولوم استیل",
+            "name1_max_lines": 3,
+            "name2": "Datees DF-685 Built-in Oven-Black",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&search_id=01a0ddd7a9ba7762a7a8cd406d954c47&cities=&province=&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47&algorithm=rerank&prk=f1faef25-c0a4-452a-ac7f-ac45a1a882e9&rank=25",
+            "web_client_absolute_url": "/p/f1faef25-c0a4-452a-ac7f-ac45a1a882e9/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-df-685-%D9%85%D8%B4%DA%A9%DB%8C-%D9%88%D9%84%D9%88%D9%85-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84/",
+            "price": 35739000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۵٫۷۳۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f1faef25-c0a4-452a-ac7f-ac45a1a882e9&limit=24&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f1faef25-c0a4-452a-ac7f-ac45a1a882e9&discover_method=search_image_base&prev_uid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/a0/Cr/a0CrOgdqGJhG7DTn.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xg/cb/Xgcbumfc3Za-S1xQ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/a0/Cr/a0CrOgdqGJhG7DTn.webp",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 1279000000,
+    "min_price": 1950,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": null,
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&q=%D9%81%D8%B1+%D8%AA%D9%88%DA%A9%D8%A7%D8%B1&discover_method=search_autocomplete&_search_landing=header&source=next_desktop&_landing_page=home&rank_offset=26&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd7a9ba7762a7a8cd406d954c47&init_suid=01a0ddd7a9ba7762a7a8cd406d954c47",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "فر توکار",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 35234,
+                    "slug": "alton-%D8%A7%D9%84%D8%AA%D9%88%D9%86",
+                    "name1": "آلتون",
+                    "name2": "ALTON"
+                },
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 81,
+                    "slug": "akhavan-%D8%A7%D8%AE%D9%88%D8%A7%D9%86",
+                    "name1": "اخوان",
+                    "name2": "Akhavan"
+                },
+                {
+                    "id": 246,
+                    "slug": "bimax-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB",
+                    "name1": "بیمکث",
+                    "name2": "Bimax"
+                },
+                {
+                    "id": 2928,
+                    "slug": "ilia-steel-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "ایلیا استیل",
+                    "name2": "Ilia Steel"
+                },
+                {
+                    "id": 2744,
+                    "slug": "sinjer-%D8%B3%DB%8C%D9%86%D8%AC%D8%B1",
+                    "name1": "سینجر",
+                    "name2": "Sinjer"
+                },
+                {
+                    "id": 8630,
+                    "slug": "parnian-%D9%BE%D8%B1%D9%86%DB%8C%D8%A7%D9%86",
+                    "name1": "پرنیان",
+                    "name2": "Parnian"
+                },
+                {
+                    "id": 35248,
+                    "slug": "tacnogold-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D9%84%D8%AF",
+                    "name1": "تاکنوگلد",
+                    "name2": "Tacnogold"
+                },
+                {
+                    "id": 3528,
+                    "slug": "steel-alborz-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2",
+                    "name1": "استیل البرز",
+                    "name2": "Steel Alborz"
+                },
+                {
+                    "id": 6474,
+                    "slug": "master-plus-%D9%85%D8%B3%D8%AA%D8%B1-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "مستر پلاس",
+                    "name2": "Master Plus"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 816,
+                    "slug": "dorsa-%D8%AF%D8%B1%D8%B3%D8%A7",
+                    "name1": "درسا",
+                    "name2": "Dorsa"
+                },
+                {
+                    "id": 11446,
+                    "slug": "tecnogas-%D8%AA%DA%A9%D9%86%D9%88%DA%AF%D8%B3",
+                    "name1": "تکنوگس",
+                    "name2": "Tecnogas"
+                },
+                {
+                    "id": 55299,
+                    "slug": "mixplus-%D9%85%DB%8C%DA%A9%D8%B3-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "میکس پلاس",
+                    "name2": "MixPlus"
+                },
+                {
+                    "id": 54608,
+                    "slug": "tayses-%D8%AA%D8%A7%DB%8C%D8%B3%D8%B2",
+                    "name1": "تایسز",
+                    "name2": "TAYSES"
+                },
+                {
+                    "id": 16360,
+                    "slug": "t-and-d-%D8%AA%DB%8C-%D8%A7%D9%86%D8%AF-%D8%AF%DB%8C",
+                    "name1": "تی اند دی",
+                    "name2": "T and D"
+                },
+                {
+                    "id": 53874,
+                    "slug": "rabits-%D8%B1%D8%A7%D8%A8%DB%8C%D8%AA%D8%B3",
+                    "name1": "رابیتس",
+                    "name2": "Rabits"
+                },
+                {
+                    "id": 17109,
+                    "slug": "romega-%D8%B1%D9%85%DA%AF%D8%A7",
+                    "name1": "رمگا",
+                    "name2": "ROMEGA"
+                },
+                {
+                    "id": 2926,
+                    "slug": "leto-%D9%84%D8%AA%D9%88",
+                    "name1": "لتو",
+                    "name2": "Leto"
+                },
+                {
+                    "id": 2930,
+                    "slug": "simer-%D8%B3%DB%8C%D9%85%D8%B1",
+                    "name1": "سیمر",
+                    "name2": "Simer"
+                },
+                {
+                    "id": 54313,
+                    "slug": "monogram-%D9%85%D9%88%D9%86%D9%88%DA%AF%D8%B1%D8%A7%D9%85",
+                    "name1": "مونوگرام",
+                    "name2": "Monogram"
+                },
+                {
+                    "id": 13822,
+                    "slug": "morano-%D9%85%D9%88%D8%B1%D8%A7%D9%86%D9%88",
+                    "name1": "مورانو",
+                    "name2": "Morano"
+                },
+                {
+                    "id": 6887,
+                    "slug": "guffer-%DA%AF%D9%88%D9%81%D8%B1",
+                    "name1": "گوفر",
+                    "name2": "guffer"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 35239,
+                    "slug": "torino-plus-%D8%AA%D9%88%D8%B1%DB%8C%D9%86%D9%88-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "تورینو پلاس",
+                    "name2": "Torino Plus"
+                },
+                {
+                    "id": 30238,
+                    "slug": "palermo-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88",
+                    "name1": "پالرمو",
+                    "name2": "Palermo"
+                },
+                {
+                    "id": 9487,
+                    "slug": "hidika-%D9%87%DB%8C%D8%AF%DB%8C%DA%A9%D8%A7",
+                    "name1": "هیدیکا",
+                    "name2": "HIDIKA"
+                },
+                {
+                    "id": 55345,
+                    "slug": "techno-max-%D8%AA%DA%A9%D9%86%D9%88-%D9%85%DA%A9%D8%B3",
+                    "name1": "تکنو مکس",
+                    "name2": "Techno Max"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 1482,
+                    "slug": "derakhshan-%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86",
+                    "name1": "درخشان",
+                    "name2": "Derakhshan"
+                },
+                {
+                    "id": 53584,
+                    "slug": "sargatti-%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AA%DB%8C",
+                    "name1": "سارگاتی",
+                    "name2": "Sargatti"
+                },
+                {
+                    "id": 55340,
+                    "slug": "pilot-%D9%BE%DB%8C%D9%84%D9%88%D8%AA",
+                    "name1": "پیلوت",
+                    "name2": "PILOT"
+                },
+                {
+                    "id": 692,
+                    "slug": "emersun-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86",
+                    "name1": "امرسان",
+                    "name2": "Emersun"
+                },
+                {
+                    "id": 53508,
+                    "slug": "tacnogas-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D8%A7%D8%B2",
+                    "name1": "تاکنوگاز",
+                    "name2": "Tacnogas"
+                },
+                {
+                    "id": 2936,
+                    "slug": "aroma-%D8%A7%D8%B1%D9%88%D9%85%D8%A7",
+                    "name1": "آروما",
+                    "name2": "Aroma"
+                },
+                {
+                    "id": 15821,
+                    "slug": "himalia-%D9%87%DB%8C%D9%85%D8%A7%D9%84%DB%8C%D8%A7",
+                    "name1": "هیمالیا",
+                    "name2": "Himalia"
+                },
+                {
+                    "id": 2939,
+                    "slug": "bornik-%D8%A8%D9%88%D8%B1%D9%86%DB%8C%DA%A9",
+                    "name1": "بورنیک",
+                    "name2": "Bornik"
+                },
+                {
+                    "id": 9451,
+                    "slug": "mondo-%D9%85%D9%88%D9%86%D8%AF%D9%88",
+                    "name1": "موندو",
+                    "name2": "Mondo"
+                },
+                {
+                    "id": 12035,
+                    "slug": "life-%D9%84%D8%A7%DB%8C%D9%81",
+                    "name1": "لایف",
+                    "name2": "Life"
+                },
+                {
+                    "id": 17250,
+                    "slug": "diverso-%D8%AF%DB%8C%D9%88%D8%B1%D8%B3%D9%88",
+                    "name1": "دیورسو",
+                    "name2": "diverso"
+                },
+                {
+                    "id": 1073,
+                    "slug": "bishel-%D8%A8%DB%8C%D8%B4%D9%84",
+                    "name1": "بیشل",
+                    "name2": "Bishel"
+                },
+                {
+                    "id": 53500,
+                    "slug": "stone-%D8%A7%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "استون",
+                    "name2": "Stone"
+                },
+                {
+                    "id": 55878,
+                    "slug": "adler-%D8%A7%D8%AF%D9%84%D8%B1",
+                    "name1": "آدلر",
+                    "name2": "Adler"
+                },
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 4148,
+                    "slug": "bismark-%D8%A8%DB%8C%D8%B3%D9%85%D8%A7%D8%B1%DA%A9",
+                    "name1": "بیسمارک",
+                    "name2": "Bismark"
+                },
+                {
+                    "id": 4360,
+                    "slug": "milano-%D9%85%DB%8C%D9%84%D8%A7%D9%86%D9%88",
+                    "name1": "میلانو",
+                    "name2": "Milano"
+                },
+                {
+                    "id": 13465,
+                    "slug": "sunny-%D8%B3%D8%A7%D9%86%DB%8C",
+                    "name1": "سانی",
+                    "name2": "Sunny"
+                },
+                {
+                    "id": 13718,
+                    "slug": "indesit-%D8%A7%DB%8C%D9%86%D8%AF%D8%B2%DB%8C%D8%AA",
+                    "name1": "ایندزیت",
+                    "name2": "Indesit"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=2520"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 1950,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 1279000000,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 35234,
+                    "slug": "alton-%D8%A7%D9%84%D8%AA%D9%88%D9%86",
+                    "name1": "آلتون",
+                    "name2": "ALTON"
+                },
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 81,
+                    "slug": "akhavan-%D8%A7%D8%AE%D9%88%D8%A7%D9%86",
+                    "name1": "اخوان",
+                    "name2": "Akhavan"
+                },
+                {
+                    "id": 246,
+                    "slug": "bimax-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB",
+                    "name1": "بیمکث",
+                    "name2": "Bimax"
+                },
+                {
+                    "id": 2928,
+                    "slug": "ilia-steel-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "ایلیا استیل",
+                    "name2": "Ilia Steel"
+                },
+                {
+                    "id": 2744,
+                    "slug": "sinjer-%D8%B3%DB%8C%D9%86%D8%AC%D8%B1",
+                    "name1": "سینجر",
+                    "name2": "Sinjer"
+                },
+                {
+                    "id": 8630,
+                    "slug": "parnian-%D9%BE%D8%B1%D9%86%DB%8C%D8%A7%D9%86",
+                    "name1": "پرنیان",
+                    "name2": "Parnian"
+                },
+                {
+                    "id": 35248,
+                    "slug": "tacnogold-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D9%84%D8%AF",
+                    "name1": "تاکنوگلد",
+                    "name2": "Tacnogold"
+                },
+                {
+                    "id": 3528,
+                    "slug": "steel-alborz-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2",
+                    "name1": "استیل البرز",
+                    "name2": "Steel Alborz"
+                },
+                {
+                    "id": 6474,
+                    "slug": "master-plus-%D9%85%D8%B3%D8%AA%D8%B1-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "مستر پلاس",
+                    "name2": "Master Plus"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 816,
+                    "slug": "dorsa-%D8%AF%D8%B1%D8%B3%D8%A7",
+                    "name1": "درسا",
+                    "name2": "Dorsa"
+                },
+                {
+                    "id": 11446,
+                    "slug": "tecnogas-%D8%AA%DA%A9%D9%86%D9%88%DA%AF%D8%B3",
+                    "name1": "تکنوگس",
+                    "name2": "Tecnogas"
+                },
+                {
+                    "id": 55299,
+                    "slug": "mixplus-%D9%85%DB%8C%DA%A9%D8%B3-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "میکس پلاس",
+                    "name2": "MixPlus"
+                },
+                {
+                    "id": 54608,
+                    "slug": "tayses-%D8%AA%D8%A7%DB%8C%D8%B3%D8%B2",
+                    "name1": "تایسز",
+                    "name2": "TAYSES"
+                },
+                {
+                    "id": 16360,
+                    "slug": "t-and-d-%D8%AA%DB%8C-%D8%A7%D9%86%D8%AF-%D8%AF%DB%8C",
+                    "name1": "تی اند دی",
+                    "name2": "T and D"
+                },
+                {
+                    "id": 53874,
+                    "slug": "rabits-%D8%B1%D8%A7%D8%A8%DB%8C%D8%AA%D8%B3",
+                    "name1": "رابیتس",
+                    "name2": "Rabits"
+                },
+                {
+                    "id": 17109,
+                    "slug": "romega-%D8%B1%D9%85%DA%AF%D8%A7",
+                    "name1": "رمگا",
+                    "name2": "ROMEGA"
+                },
+                {
+                    "id": 2926,
+                    "slug": "leto-%D9%84%D8%AA%D9%88",
+                    "name1": "لتو",
+                    "name2": "Leto"
+                },
+                {
+                    "id": 2930,
+                    "slug": "simer-%D8%B3%DB%8C%D9%85%D8%B1",
+                    "name1": "سیمر",
+                    "name2": "Simer"
+                },
+                {
+                    "id": 54313,
+                    "slug": "monogram-%D9%85%D9%88%D9%86%D9%88%DA%AF%D8%B1%D8%A7%D9%85",
+                    "name1": "مونوگرام",
+                    "name2": "Monogram"
+                },
+                {
+                    "id": 13822,
+                    "slug": "morano-%D9%85%D9%88%D8%B1%D8%A7%D9%86%D9%88",
+                    "name1": "مورانو",
+                    "name2": "Morano"
+                },
+                {
+                    "id": 6887,
+                    "slug": "guffer-%DA%AF%D9%88%D9%81%D8%B1",
+                    "name1": "گوفر",
+                    "name2": "guffer"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 35239,
+                    "slug": "torino-plus-%D8%AA%D9%88%D8%B1%DB%8C%D9%86%D9%88-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "تورینو پلاس",
+                    "name2": "Torino Plus"
+                },
+                {
+                    "id": 30238,
+                    "slug": "palermo-%D9%BE%D8%A7%D9%84%D8%B1%D9%85%D9%88",
+                    "name1": "پالرمو",
+                    "name2": "Palermo"
+                },
+                {
+                    "id": 9487,
+                    "slug": "hidika-%D9%87%DB%8C%D8%AF%DB%8C%DA%A9%D8%A7",
+                    "name1": "هیدیکا",
+                    "name2": "HIDIKA"
+                },
+                {
+                    "id": 55345,
+                    "slug": "techno-max-%D8%AA%DA%A9%D9%86%D9%88-%D9%85%DA%A9%D8%B3",
+                    "name1": "تکنو مکس",
+                    "name2": "Techno Max"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 1482,
+                    "slug": "derakhshan-%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86",
+                    "name1": "درخشان",
+                    "name2": "Derakhshan"
+                },
+                {
+                    "id": 53584,
+                    "slug": "sargatti-%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AA%DB%8C",
+                    "name1": "سارگاتی",
+                    "name2": "Sargatti"
+                },
+                {
+                    "id": 55340,
+                    "slug": "pilot-%D9%BE%DB%8C%D9%84%D9%88%D8%AA",
+                    "name1": "پیلوت",
+                    "name2": "PILOT"
+                },
+                {
+                    "id": 692,
+                    "slug": "emersun-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86",
+                    "name1": "امرسان",
+                    "name2": "Emersun"
+                },
+                {
+                    "id": 53508,
+                    "slug": "tacnogas-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D8%A7%D8%B2",
+                    "name1": "تاکنوگاز",
+                    "name2": "Tacnogas"
+                },
+                {
+                    "id": 2936,
+                    "slug": "aroma-%D8%A7%D8%B1%D9%88%D9%85%D8%A7",
+                    "name1": "آروما",
+                    "name2": "Aroma"
+                },
+                {
+                    "id": 15821,
+                    "slug": "himalia-%D9%87%DB%8C%D9%85%D8%A7%D9%84%DB%8C%D8%A7",
+                    "name1": "هیمالیا",
+                    "name2": "Himalia"
+                },
+                {
+                    "id": 2939,
+                    "slug": "bornik-%D8%A8%D9%88%D8%B1%D9%86%DB%8C%DA%A9",
+                    "name1": "بورنیک",
+                    "name2": "Bornik"
+                },
+                {
+                    "id": 9451,
+                    "slug": "mondo-%D9%85%D9%88%D9%86%D8%AF%D9%88",
+                    "name1": "موندو",
+                    "name2": "Mondo"
+                },
+                {
+                    "id": 12035,
+                    "slug": "life-%D9%84%D8%A7%DB%8C%D9%81",
+                    "name1": "لایف",
+                    "name2": "Life"
+                },
+                {
+                    "id": 17250,
+                    "slug": "diverso-%D8%AF%DB%8C%D9%88%D8%B1%D8%B3%D9%88",
+                    "name1": "دیورسو",
+                    "name2": "diverso"
+                },
+                {
+                    "id": 1073,
+                    "slug": "bishel-%D8%A8%DB%8C%D8%B4%D9%84",
+                    "name1": "بیشل",
+                    "name2": "Bishel"
+                },
+                {
+                    "id": 53500,
+                    "slug": "stone-%D8%A7%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "استون",
+                    "name2": "Stone"
+                },
+                {
+                    "id": 55878,
+                    "slug": "adler-%D8%A7%D8%AF%D9%84%D8%B1",
+                    "name1": "آدلر",
+                    "name2": "Adler"
+                },
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 4148,
+                    "slug": "bismark-%D8%A8%DB%8C%D8%B3%D9%85%D8%A7%D8%B1%DA%A9",
+                    "name1": "بیسمارک",
+                    "name2": "Bismark"
+                },
+                {
+                    "id": 4360,
+                    "slug": "milano-%D9%85%DB%8C%D9%84%D8%A7%D9%86%D9%88",
+                    "name1": "میلانو",
+                    "name2": "Milano"
+                },
+                {
+                    "id": 13465,
+                    "slug": "sunny-%D8%B3%D8%A7%D9%86%DB%8C",
+                    "name1": "سانی",
+                    "name2": "Sunny"
+                },
+                {
+                    "id": 13718,
+                    "slug": "indesit-%D8%A7%DB%8C%D9%86%D8%AF%D8%B2%DB%8C%D8%AA",
+                    "name1": "ایندزیت",
+                    "name2": "Indesit"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=2520"
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "فر برقی و گازی",
+            "cat_id": 2520,
+            "cat_slug": "فر-برقی-و-گازی",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "2520",
+            "slug": "فر-برقی-و-گازی"
+        },
+        {
+            "title": "مایکروویو",
+            "cat_id": 668,
+            "cat_slug": "مایکروویو",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "668",
+            "slug": "مایکروویو"
+        },
+        {
+            "title": "اون توستر",
+            "cat_id": 718,
+            "cat_slug": "اون-توستر",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "718",
+            "slug": "اون-توستر"
+        },
+        {
+            "title": "لوازم یدکی آشپزخانه",
+            "cat_id": 1452,
+            "cat_slug": "لوازم-یدکی-اشپزخانه",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "1452",
+            "slug": "لوازم-یدکی-اشپزخانه"
+        },
+        {
+            "title": "تنور",
+            "cat_id": 1924,
+            "cat_slug": "تنور",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "1924",
+            "slug": "تنور"
+        },
+        {
+            "title": "قطعات جانبی ماکروویو و توستر",
+            "cat_id": 7344,
+            "cat_slug": "قطعات-جانبی-ماکروویو-و-توستر",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "7344",
+            "slug": "قطعات-جانبی-ماکروویو-و-توستر"
+        },
+        {
+            "title": "لولا",
+            "cat_id": 4459,
+            "cat_slug": "لولا",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "4459",
+            "slug": "لولا"
+        },
+        {
+            "title": "سایر لوازم آشپزخانه و پخت و پز",
+            "cat_id": 200,
+            "cat_slug": "سایر-لوازم-اشپزخانه-و-پخت-و-پز",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "200",
+            "slug": "سایر-لوازم-اشپزخانه-و-پخت-و-پز"
+        },
+        {
+            "title": "کابینت آشپزخانه",
+            "cat_id": 1423,
+            "cat_slug": "کابینت-اشپزخانه",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "1423",
+            "slug": "کابینت-اشپزخانه"
+        },
+        {
+            "title": "ست تجهیزات آشپزخانه",
+            "cat_id": 2423,
+            "cat_slug": "ست-تجهیزات-اشپزخانه",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "2423",
+            "slug": "ست-تجهیزات-اشپزخانه"
+        }
+    ],
+    "parent_categories": []
+}

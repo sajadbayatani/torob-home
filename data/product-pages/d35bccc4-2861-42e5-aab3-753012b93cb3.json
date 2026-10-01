@@ -1,0 +1,251 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "d35bccc4-2861-42e5-aab3-753012b93cb3",
+    "name1": "مایکروویو لمسی چراغدار لندگرین",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de5517c97143a8c75a9e0bf1e92e&search_id=01a0de5517c97143a8c75a9e0bf1e92e&cities=&province=&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&algorithm=text_similarity&prk=d35bccc4-2861-42e5-aab3-753012b93cb3",
+    "web_client_absolute_url": "/p/d35bccc4-2861-42e5-aab3-753012b93cb3/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88-%D9%84%D9%85%D8%B3%DB%8C-%DA%86%D8%B1%D8%A7%D8%BA%D8%AF%D8%A7%D8%B1-%D9%84%D9%86%D8%AF%DA%AF%D8%B1%DB%8C%D9%86/",
+    "price": 8200000,
+    "price_prefix": "cheapest",
+    "price_text": "۸٫۲۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در آتروپات تبریز",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&limit=24&init_suid=01a0de5517c97143a8c75a9e0bf1e92e",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&discover_method=search_image_base_pdp&prev_uid=01a0de5517c97143a8c75a9e0bf1e92e&init_suid=01a0de5517c97143a8c75a9e0bf1e92e",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/lT/hI/lThIMpsLCWvCUG69.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/bI/Mh/bIMhhk3tlSHymcpv.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ev/WM/EvWMS7pxrSM4nB80.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/65/GQ/65GQKgNYWfMTd5gg.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/7m/af/7maf5_qkc5k732IP.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/oI/em/oIemUiCq11pseWCR.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/CV/p6/CVp6hgPpWubK7V-h.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/lT/hI/lThIMpsLCWvCUG69.jpg",
+    "image_count": 7,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "توستر مایکروفر لمسی چراغدار لندگرین",
+                "name2": "",
+                "shop_name": "آتروپات تبریز",
+                "shop_name2": "تبریز",
+                "shop_id": 153626,
+                "has_public_torob_profile": true,
+                "prk": "5a385dec-e2fe-48d9-b8c8-6aa14d2e11cc",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de5517c97143a8c75a9e0bf1e92e&suid=01a0de5517c97143a8c75a9e0bf1e92e&bvid=01a0de55308f737da89b888a40ed0b17&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&prk=5a385dec-e2fe-48d9-b8c8-6aa14d2e11cc&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de5517c97143a8c75a9e0bf1e92e",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 8200000,
+                "price_text": "۸٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۸٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۲۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436520",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de5517c97143a8c75a9e0bf1e92e&bvid=01a0de55308f737da89b888a40ed0b17&suid=01a0de5517c97143a8c75a9e0bf1e92e&cities=&province=&algorithm=text_similarity&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&list_type=products_info&seed=1790436520"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790436520",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de5517c97143a8c75a9e0bf1e92e&cities=&province=&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&list_type=products_in_store_info&seed=1790436520&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=d35bccc4-2861-42e5-aab3-753012b93cb3&source=next_desktop&discover_method=search&search_id=01a0de5517c97143a8c75a9e0bf1e92e&suid=01a0de5517c97143a8c75a9e0bf1e92e&seed=1790436520&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=d35bccc4-2861-42e5-aab3-753012b93cb3&source=next_desktop&discover_method=search&search_id=01a0de5517c97143a8c75a9e0bf1e92e&suid=01a0de5517c97143a8c75a9e0bf1e92e&seed=1790436520&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de5517c97143a8c75a9e0bf1e92e&search_id=01a0de5517c97143a8c75a9e0bf1e92e&cities=&province=&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&algorithm=text_similarity&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&bvid=01a0de55308f737da89b888a40ed0b17&no_log=true&seed=1790436520",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=d35bccc4-2861-42e5-aab3-753012b93cb3&base_id=303770803&source=next_desktop&bvid=01a0de55308f737da89b888a40ed0b17&init_suid=01a0de5517c97143a8c75a9e0bf1e92e"
+    },
+    "min_price": 8200000,
+    "max_price": 8200000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 194,
+            "title": "لوازم برقی پخت و پز",
+            "url": "/browse/194/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 194,
+            "brand_id": null
+        },
+        {
+            "id": 668,
+            "title": "مایکروویو",
+            "url": "/browse/668/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88/",
+            "cat_id": 668,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "مارک": "لندگرین",
+                    "نوع عملکرد": "تمام لمسی",
+                    "چراغ": "دارد",
+                    "قابلیت تنظیم دما": "دارد",
+                    "تعداد المنت": "۲ عدد بالا + ۲ عدد پایین",
+                    "تنوع رنگ": "مشکی,سفید,نقره ای"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "مایکروویو-لمسی-چراغدار-لندگرین",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=d35bccc4-2861-42e5-aab3-753012b93cb3",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d35bccc4-2861-42e5-aab3-753012b93cb3&limit=24&init_suid=01a0de5517c97143a8c75a9e0bf1e92e",
+    "torob_category": 668,
+    "no_index": false,
+    "buy_box_price_text": "۸٫۲۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de5517c97143a8c75a9e0bf1e92e&suid=01a0de5517c97143a8c75a9e0bf1e92e&bvid=01a0de55308f737da89b888a40ed0b17&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&prk=5a385dec-e2fe-48d9-b8c8-6aa14d2e11cc&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de5517c97143a8c75a9e0bf1e92e",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از آتروپات تبریز",
+    "new_buy_box_button_text2": "۸٫۲۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de5517c97143a8c75a9e0bf1e92e&suid=01a0de5517c97143a8c75a9e0bf1e92e&bvid=01a0de55308f737da89b888a40ed0b17&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&prk=5a385dec-e2fe-48d9-b8c8-6aa14d2e11cc&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de5517c97143a8c75a9e0bf1e92e&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "5a385dec-e2fe-48d9-b8c8-6aa14d2e11cc",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/bI/Mh/bIMhhk3tlSHymcpv.jpg",
+                "https://image.torob.com/base/images/Ev/WM/EvWMS7pxrSM4nB80.jpg",
+                "https://image.torob.com/base/images/65/GQ/65GQKgNYWfMTd5gg.jpg",
+                "https://image.torob.com/base/images/7m/af/7maf5_qkc5k732IP.jpg",
+                "https://image.torob.com/base/images/oI/em/oIemUiCq11pseWCR.jpg",
+                "https://image.torob.com/base/images/CV/p6/CVp6hgPpWubK7V-h.jpg"
+            ]
+        }
+    ]
+}

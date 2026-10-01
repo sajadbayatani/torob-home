@@ -1,0 +1,2364 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+    "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4dba1873c28f2d3acaa9ea3489&search_id=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&algorithm=text_similarity&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+    "web_client_absolute_url": "/p/be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-na9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-96-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+    "price": 18300000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۸٫۳۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۱۳ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&limit=24&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&discover_method=search_image_base_pdp&prev_uid=01a0de4dba1873c28f2d3acaa9ea3489&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما 9.6 کیلویی مدل NA9",
+                "name2": "",
+                "shop_name": "پارسیان البرز",
+                "shop_name2": "قم",
+                "shop_id": 212519,
+                "has_public_torob_profile": true,
+                "prk": "5fcf16c9-1cd1-4e2e-adb1-1ef0799a50bd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=5fcf16c9-1cd1-4e2e-adb1-1ef0799a50bd&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de4dd3cb708db05c5cf3c88e0012&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23000000,
+                "price_text": "۲۳٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "از طریق پست\nاز طریق دکاپست\nاز طریق تیپاکس\nاز طریق باربری"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "لباسشویی دوقلو 9.6 کیلو نیمه‌اتوماتیک پاکشوما- سفید- مدل NA9",
+                "name2": "",
+                "shop_name": "شیپور",
+                "shop_name2": "تهران",
+                "shop_id": 1890,
+                "has_public_torob_profile": true,
+                "prk": "0ac9a2ce-9aaf-413b-a806-8598705fd1f9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=0ac9a2ce-9aaf-413b-a806-8598705fd1f9&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 18300000,
+                "price_text": "۱۸٫۳۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۸٫۳۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دو قلو 9.6 کیلوگرم نیمه‌اتوماتیک پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "خانگی باما",
+                "shop_name2": "تهران",
+                "shop_id": 191259,
+                "has_public_torob_profile": true,
+                "prk": "01f4e458-fcbd-46a3-8157-0e2195994fe8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=01f4e458-fcbd-46a3-8157-0e2195994fe8&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20500000,
+                "price_text": "۲۰٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تمامی کالاهای کوچک و متوسط با اسنپ باکس زیر ۴ ساعت ارسال میشه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۹ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "پاکشوما لباسشويي NA9 دوقلو 9.6 KG درب ABS",
+                "name2": "",
+                "shop_name": "قسط کده دات کام",
+                "shop_name2": "کرج",
+                "shop_id": 387498,
+                "has_public_torob_profile": true,
+                "prk": "bc233bc6-4037-4b9a-94b4-3e7fd7ae4bff",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=bc233bc6-4037-4b9a-94b4-3e7fd7ae4bff&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 22103550,
+                "price_text": "۲۲٫۱۰۳٫۵۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲٫۱۰۳٫۵۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو نیمه‌اتوماتیک پاکشوما مدل NA9 ظرفیت 9.6 کیلوگرم",
+                "name2": "",
+                "shop_name": "راگا سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 68323,
+                "has_public_torob_profile": true,
+                "prk": "df2dd53d-0242-45d1-91f3-ea440ca80991",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=df2dd53d-0242-45d1-91f3-ea440ca80991&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 22500000,
+                "price_text": "۲۲٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما 9.6 کیلویی مدل NA9",
+                "name2": "",
+                "shop_name": "پارسیان البرز",
+                "shop_name2": "قم",
+                "shop_id": 212519,
+                "has_public_torob_profile": true,
+                "prk": "5fcf16c9-1cd1-4e2e-adb1-1ef0799a50bd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=5fcf16c9-1cd1-4e2e-adb1-1ef0799a50bd&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23000000,
+                "price_text": "۲۳٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "از طریق پست\nاز طریق دکاپست\nاز طریق تیپاکس\nاز طریق باربری"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 9.6 کیلوگرمی دوقلو پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "لوازم خانگی سرای گیلانی",
+                "shop_name2": "رشت",
+                "shop_id": 339651,
+                "has_public_torob_profile": true,
+                "prk": "20b2dd13-ea3d-42d0-9eaa-ca28ed0d0a63",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=20b2dd13-ea3d-42d0-9eaa-ca28ed0d0a63&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23577000,
+                "price_text": "۲۳٫۵۷۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۵۷۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۷ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۷ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                "name2": "",
+                "shop_name": "هایپر خانگی اسدی",
+                "shop_name2": "رشت",
+                "shop_id": 241325,
+                "has_public_torob_profile": true,
+                "prk": "8c65e3e1-7a64-46cf-b6a3-298ea7f1ffac",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=8c65e3e1-7a64-46cf-b6a3-298ea7f1ffac&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&installment=135,2,96:1xAUCb:fPth-I6zxk8bAtYI49VNQiTq6kxq498C4Qv1TgkE7nI",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23577000,
+                "price_text": "۲۳٫۵۷۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۵۷۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای آستانه اشرفیه، اسلام آباد، بندر انزلی، خمام، رشت، رودبار، رودبار، سنگر، صومعه سرا، فومن، لاهیجان، لوشان، منجیل، کوچصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        },
+                        {
+                            "title": "اقساط 15 ماهه بدون پیش پرداخت",
+                            "short_title": "امکان خرید قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/1ab5909ca779.png",
+                            "name": "هایپر خانگی اسدی",
+                            "description": "امکان استفاده از طرح اقساطی سامانه بتا بانک رفاه",
+                            "more_info_url": null
+                        },
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                "name2": "دارد",
+                "shop_name": "دیلی شاپ",
+                "shop_name2": "علی آباد",
+                "shop_id": 326089,
+                "has_public_torob_profile": true,
+                "prk": "b20ac508-bf70-4b11-b6e1-1f82a5665f73",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=b20ac508-bf70-4b11-b6e1-1f82a5665f73&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 24000000,
+                "price_text": "۲۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "/static/ckeditor/ckeditor-init.js\" data-ckeditor-basepath=\"/static/ckeditor/ckeditor/\" id=\"ckeditor-init-script"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی پاکشوما 9.6‌ کیلویی مدل NA9 سفید",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "ae2ad6ab-884e-48b7-92b6-6037eba68cb3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=ae2ad6ab-884e-48b7-92b6-6037eba68cb3&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 24500000,
+                "price_text": "۲۴٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                "name2": "",
+                "shop_name": "لوازم خانگی ویترین شاپ",
+                "shop_name2": "کرج",
+                "shop_id": 143821,
+                "has_public_torob_profile": true,
+                "prk": "da3258df-9789-44f5-a4e1-70e5f4dea92e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=da3258df-9789-44f5-a4e1-70e5f4dea92e&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 25700000,
+                "price_text": "۲۵٫۷۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۵٫۷۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA-9",
+                "name2": "",
+                "shop_name": "آکو 2020",
+                "shop_name2": "شیراز",
+                "shop_id": 269651,
+                "has_public_torob_profile": true,
+                "prk": "c1515f1b-426b-4861-a847-130ddf652f35",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=c1515f1b-426b-4861-a847-130ddf652f35&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 26000000,
+                "price_text": "۲۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "لباسشویی دو قلو 9.6 کیلویی پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "بهاران کالا مشهد",
+                "shop_name2": "مشهد",
+                "shop_id": 168538,
+                "has_public_torob_profile": true,
+                "prk": "c3e8333c-4f7a-48e8-b81e-10cd6d6643ef",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=c3e8333c-4f7a-48e8-b81e-10cd6d6643ef&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 26860000,
+                "price_text": "۲۶٫۸۶۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۶٫۸۶۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان در مشهد در کمتر از 24 ساعت\nو ارسال بصورت پس کرایه برای دیگر شهرستان ها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دو قلو 9.6 کیلوگرم نیمه‌اتوماتیک پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "اعتبار ما",
+                "shop_name2": "زرند",
+                "shop_id": 192368,
+                "has_public_torob_profile": true,
+                "prk": "f4339244-b3f8-457e-9923-be18a071e388",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=f4339244-b3f8-457e-9923-be18a071e388&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 29464400,
+                "price_text": "۲۹٫۴۶۴٫۴۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۹٫۴۶۴٫۴۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "به هر روشی که خریدار اعلام نماید به صورت کتبی بنده ارسال میکنم"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۹ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی پاکشوما 9.6‌ کیلویی مدل NA۹",
+                "name2": "",
+                "shop_name": "تکنولایف",
+                "shop_name2": "تهران",
+                "shop_id": 310,
+                "has_public_torob_profile": true,
+                "prk": "0de2e400-2121-426d-a191-4c9eabf8336b",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=0de2e400-2121-426d-a191-4c9eabf8336b&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&installment=228:1xAUCb:CL1v_6OktGZwiHOr1jQ3IQt0c5pKghtDsSDyGbJhbwA",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۱۷٫۹۵۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۱۷٫۹۵۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال ۳ ساعته برای شهر تهران\n- ارسال همان روز برای شهر کرج\n- ارسال سریع سفارش ها به سراسر کشور"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰۰ تا ۶۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "24 قسط تا سقف 150 میلیون تومان با سود سالانه 23%",
+                            "short_title": "امکان خرید قسطی",
+                            "logo": "https://ext-storage.torob.com/ticketing-storage/shop_310/ticket_2597101/c48d587fa078c8a6eadc178fe81e80ed.jpg",
+                            "name": "تکنولایف",
+                            "description": "خرید قسطی از درگاه قسطی تکنو پی",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دو قلو 9.6 کیلوگرم نیمه‌اتوماتیک پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "140کالا",
+                "shop_name2": "مرودشت",
+                "shop_id": 174535,
+                "has_public_torob_profile": true,
+                "prk": "4b5a0619-0138-4c4a-856e-610d6a0c3b0b",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=4b5a0619-0138-4c4a-856e-610d6a0c3b0b&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۱۸٫۷۰۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۱۸٫۷۰۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای مرودشت با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "باربری یا شرکت های پستی خصوصی"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دو قلو 9.6 کیلوگرم پاکشوما مدل NA9",
+                "name2": "24 ماهه پاک سرویس",
+                "shop_name": "سام انتخاب",
+                "shop_name2": "تهران",
+                "shop_id": 6206,
+                "has_public_torob_profile": true,
+                "prk": "93b60e67-d9db-400f-ae12-11959e026e23",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=93b60e67-d9db-400f-ae12-11959e026e23&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۲۲٫۰۰۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۲۲٫۰۰۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی 9.6 کیلویی دوقلو پاکشوما NA9 رنگ سفید",
+                "name2": "24 ماهه پاک سرویس",
+                "shop_name": "پناه من",
+                "shop_name2": "تهران",
+                "shop_id": 168797,
+                "has_public_torob_profile": true,
+                "prk": "3735549e-d7cc-47ed-b5fe-c9f14d0af78f",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=3735549e-d7cc-47ed-b5fe-c9f14d0af78f&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۲۳٫۵۷۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۲۳٫۵۷۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو ۹/۶ کیلویی پاکشوما مدل NA۹",
+                "name2": "",
+                "shop_name": "هایپر خانگی",
+                "shop_name2": "تهران",
+                "shop_id": 41306,
+                "has_public_torob_profile": true,
+                "prk": "027d7e77-bc28-4f16-98d3-e871bf130bfb",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=027d7e77-bc28-4f16-98d3-e871bf130bfb&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۲۳٫۸۰۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۲۳٫۸۰۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "کالاهای سنگین و فوق سنگین از طریق باربری و ما بقی کالاها از طریق شرکت های حمل و نقل برای مشتریان عزیز ارسال می شود. لازم به ذکر است هزینه ی ارسال سفارشات برای هر نوع کالایی به عهده ی مشتریان گرامی می باشد."
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                "name2": "۷ روز ضمانت بازگشت کالا",
+                "shop_name": "لیراکو",
+                "shop_name2": "بهبهان",
+                "shop_id": 266269,
+                "has_public_torob_profile": true,
+                "prk": "e87d60ae-a7ab-420a-aad3-7b1cf32eaeb1",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=e87d60ae-a7ab-420a-aad3-7b1cf32eaeb1&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در بهبهان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای بهبهان با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "بسته های مشتریان توسط تیپاکس به صورت پس کرایه ارسال می‌شوند.(هزینه ارسال با مشتریان عزیز می باشد)\nهمچنین امکان تحویل حضوری بسته ی شما در  شهر \"بهبهان\" وجود دارد.\n\n – شرایط حمل و تحویل کالا :\nحمل کلیه سفارشات توسط شرکت تیپاکس صورت می پذیرد و فروشگاه اینترنتی لیراکو هیچ کنترلی بر زمان و فرآیند حمل توسط تیپاکس ندارد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۰ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما ۹.۶ کیلویی مدل NA9",
+                "name2": "۲۴ ماهه پاک سرویس",
+                "shop_name": "پارسیان هوم",
+                "shop_name2": "تهران",
+                "shop_id": 42239,
+                "has_public_torob_profile": true,
+                "prk": "16e9ed25-45a0-4a7d-a65e-8ee6d5cb7663",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=16e9ed25-45a0-4a7d-a65e-8ee6d5cb7663&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&installment=30:1xAUCb:a5CHuFEDCKAObIxKeT03ikunNKMnN13hyXV-jexDcPY",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال شهری - ارسال با باربری - ارسال با تیپاکس - نقد و اقساط"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم ا ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                "name2": "",
+                "shop_name": "لوازم خانگی دبی شاپ",
+                "shop_name2": "دزفول",
+                "shop_id": 398055,
+                "has_public_torob_profile": true,
+                "prk": "fcaf4276-3963-48d1-9aee-2c92f30ca414",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=fcaf4276-3963-48d1-9aee-2c92f30ca414&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای دزفول با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال همان روز یا یک روز بعد تحویل در دزفول همان روز"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "لباسشویی پاکشوما دو قلو 9.6 کیلویی مدل NA9",
+                "name2": "24 ماه گارانتی پاک سرویس",
+                "shop_name": "ام اس جی کالا",
+                "shop_name2": "شیراز",
+                "shop_id": 7127,
+                "has_public_torob_profile": true,
+                "prk": "a69e8a87-793a-41ff-a0c0-317ae110f88b",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=a69e8a87-793a-41ff-a0c0-317ae110f88b&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در شیراز با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان کمتر از 3 ساعت ویژه شهر شیراز / ارسال فوری کالا به تمام نقاط کشور …"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "لباسشویی دوقلو ۹.۶ کیلو NA9 درب ABS پاکشوما",
+                "name2": "",
+                "shop_name": "درسا کالا",
+                "shop_name2": "اصفهان",
+                "shop_id": 222649,
+                "has_public_torob_profile": true,
+                "prk": "945ceeb1-2429-41df-8d4d-f5bdd0671dc5",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=945ceeb1-2429-41df-8d4d-f5bdd0671dc5&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال‌ها فقط بصورت پس کرایه و باتوجه به ابعاد و وزن محصولات که از ۱ کیلو تا ۲۲ تن ممکن است متغیر باشد از طریق: اداره پست، تیپاکس، چاپار، اتوبوس، باربری، ۱۰ چرخ یا تریلی و... انجام می‌شود. \n\nبه‌دلیل فروش هم‌زمان حضوری و آنلاین، ممکن است موجودی وب‌سایت در برخی موارد به‌روز نباشد. در چنین شرایطی، سفارش شما بین ۱ روز کاری تا سه هفته آماده‌سازی و بدون هیچ‌گونه تأخیر غیرضروری به مقصد شما ارسال خواهد شد در نظر داشته باشید که تولیدات فرش با نخ نیستند و چاپ فرشینه‌ای چاپی هستند.\n\n\nما متعهد هستیم که روند تهیه و ارسال کالا با شفافیت کامل انجام شود و در صورت هرگونه تغییر در زمان تحویل، تیم پشتیبانی در اولین فرصت با شما در ارتباط خواهد بود.\nبا اطمینان خرید کنید؛ ما در تمام مراحل همراه شما هستیم.\nهزینه‌های ارسال، باربری، تخلیه، طبقات و انبارداری\n\nهزینه ارسال بر اساس نوع کالا، مقصد و روش ارسال تعیین می‌شود و ممکن است در فاکتور نهایی اعمال گردد.\n12) شرایط اختصاصی کالاها\n\n12-1) لوازم خانگی برقی\n\nمشتری موظف است پیش از استفاده، دفترچه/راهنما را مطالعه کند و از نصب/راه‌اندازی صحیح (توسط فرد مجاز در صورت نیاز) اطمینان حاصل نماید.\nآسیب‌های ناشی از نوسان برق، اتصال نادرست، استفاده خارج از استاندارد یا تعمیر توسط افراد غیرمجاز، می‌تواند موجب خروج از گارانتی شود.\nبرای برخی کالاهای برقی، استفاده/راه‌اندازی ممکن است به‌عنوان «قبول عملی کالا» تلقی گردد و امکان مرجوعی سلیقه‌ای را محدود کند (طبق شرایط مرجوعی و نظر کارشناس).\n \n\n12-2) لوازم خانگی غیر برقی\n\nمشخصات ابعادی، جنس، رنگ و کاربرد باید قبل از خرید دقیق بررسی شود. اختلاف‌های جزئی ناشی از تولید سری، تفاوت رنگ در نمایشگرها، یا تلرانس‌های استاندارد تولید، در حد متعارف، «مغایرت» محسوب نمی‌گردد.\n\n \n\n12-3) مخازن آب\n\nمخازن به‌سبب ماهیت حجیم و شرایط حمل، حساس به ضربه و بد حملی‌اند؛ مشتری موظف است هنگام تحویل، به‌صورت دقیق بدنه، اتصالات، درپوش، و سلامت ظاهری را بررسی کند.\nنصب مخزن باید مطابق اصول فنی (سطح تراز، زیرسازی مناسب، عدم تماس با اجسام تیز، عدم اعمال فشار نامتقارن، اتصالات استاندارد) انجام شود.\nترک/شکستگی ناشی از نصب نادرست، زیرسازی نامناسب، حمل غیراستاندارد پس از تحویل، یا استفاده خارج از محدوده توصیه‌شده، مشمول مرجوعی/گارانتی نخواهد بود.\n \n\n12-4) محصولات چوبی\n\nچوب دارای ویژگی‌های طبیعی است و ممکن است تفاوت‌های جزئی در گره، رگه، طیف رنگ و بافت وجود داشته باشد؛ این موارد در حد عرف، ایراد محسوب نمی‌شود.\nآسیب ناشی از رطوبت، تابش مستقیم آفتاب، حرارت بالا، جابجایی غیراصولی، یا مواد شوینده نامناسب، از مسئولیت درساکالا خارج است.\nبرای محصولات مونتاژی/نیمه‌مونتاژی، مسئولیت نصب صحیح طبق دستورالعمل بر عهده مشتری است مگر خدمات نصب جداگانه خریداری شده باشد.\n \n\n12-5) محصولات پلاستیکی\n\nتفاوت‌های جزئی رنگ/شفافیت یا خطوط قالب‌گیری در محصولات پلاستیکی در حد استاندارد تولید، عیب محسوب نمی‌گردد.\nآسیب ناشی از تماس با حرارت بالا، مواد شیمیایی خورنده، یا تابش طولانی‌مدت آفتاب (در برخی مواد)، از شمول مسئولیت فروشگاه خارج است.\n \n\n13) وظایف مشتری هنگام تحویل\n\nمشتری موظف است قبل از امضا/تأیید دریافت، موارد زیر را بررسی کند:\n– سلامت ظاهری بسته‌بندی/کالا\n\n– تطابق مدل/رنگ/ابعاد (تا حد قابل تشخیص)\n\n– وجود متعلقات (کابل، دفترچه، اتصالات، کارت گارانتی و…)\n\nدر صورت مشاهده آسیب یا مغایرت، مشتری باید از تحویل گرفتن خودداری کرده و همان لحظه به پشتیبانی اعلام نماید.\nدر صورت تحویل‌گیری و تأیید دریافت، ادعاهای مربوط به آسیب‌های ظاهری قابل تشخیص هنگام تحویل ممکن است غیرقابل پذیرش باشد.\n \n\n\nهزینه‌های باربری شامل انبارداری، هزینه شهری، حق توقف، هزینه تخلیه، هزینه طبقات، جرثقیل/لیفتراک، بسته‌بندی ویژه یا بیمه (حسب مورد) ممکن است توسط باربری مطالبه شود که پرداخت آن‌ها بر عهده مشتری است؛ مگر آنکه کتبا خلاف آن توافق شود.\nبرای کالاهای حجیم (مانند برخی لوازم خانگی یا مخازن آب)، مسئولیت فراهم کردن نیروی تخلیه و امکانات لازم در محل تحویل، بر عهده مشتری است مگر توافق خلاف."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9-ظرفیت ۹.۶ کیلوگرم",
+                "name2": "",
+                "shop_name": "آی هوم",
+                "shop_name2": "تهران",
+                "shop_id": 23706,
+                "has_public_torob_profile": true,
+                "prk": "936f5504-2f0a-4ba5-9b20-7a74a92d1526",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=936f5504-2f0a-4ba5-9b20-7a74a92d1526&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو نیمه‌ اتوماتیک پاکشوما مدل NA9",
+                "name2": "۲۴ ماه پاک سرویس+تحویل و تسویه در محل +امکان خرید اقساطی ۰۹۱۰۳۰۳۳8۰۰",
+                "shop_name": "آسان جهاز",
+                "shop_name2": "تهران",
+                "shop_id": 626,
+                "has_public_torob_profile": true,
+                "prk": "2aa7ed9d-4fe7-4efd-abe3-7d5fb497747a",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=2aa7ed9d-4fe7-4efd-abe3-7d5fb497747a&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&installment=56:1xAUCb:SzgoB5hys0rqMrHnbRk4hnmbtuMzCveVUx45E6uVEbo",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، تهران، نجف آباد، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال فوری تهران\nارسال به تمام شهرهای ایران\nارسال از انبارهای اصفهان  تهران و کرج"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما 9.6 کیلویی مدل NA9",
+                "name2": "",
+                "shop_name": "ری کالا",
+                "shop_name2": "تهران",
+                "shop_id": 18023,
+                "has_public_torob_profile": true,
+                "prk": "f5f9ceea-158b-4d2f-8299-fbf89af9fa86",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=f5f9ceea-158b-4d2f-8299-fbf89af9fa86&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، ری، شهریار، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، ری، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای شهر تهران ارسال فوری سه ساعته انجام میشود. حومه تهران نیز در همان روز ارسال میشود. ارسال به شهرستان 2 روزه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی پاکشوما دوقلو 9.6 کيلویی مدل NA9",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "e241fed6-9a59-4ce7-957c-6bc16d9c66c0",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=e241fed6-9a59-4ce7-957c-6bc16d9c66c0&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9",
+                "name2": "",
+                "shop_name": "تهرانسل",
+                "shop_name2": "تهران",
+                "shop_id": 83206,
+                "has_public_torob_profile": true,
+                "prk": "e96d46dd-6fab-4f2a-a8ac-d5898d119a2e",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=e96d46dd-6fab-4f2a-a8ac-d5898d119a2e&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "لباسشویی دوقلو 9 کیلو پاکشوما مدلNA9 ا PAKSHOMA",
+                "name2": "",
+                "shop_name": "شیپر کالا",
+                "shop_name2": "اسلامشهر",
+                "shop_id": 141209,
+                "has_public_torob_profile": true,
+                "prk": "f87e1666-3392-479b-8517-8e1fc0119287",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=f87e1666-3392-479b-8517-8e1fc0119287&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436037",
+        "count": 36,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&suid=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&algorithm=text_similarity&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&list_type=products_info&seed=1790436037"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790436037",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&list_type=products_in_store_info&seed=1790436037&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&source=next_desktop&discover_method=search&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&seed=1790436037&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&source=next_desktop&discover_method=search&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&seed=1790436037&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۲۳٫۵۷۷٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۲۳٫۵۷۷٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۱۸٫۳۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4dba1873c28f2d3acaa9ea3489&search_id=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&algorithm=text_similarity&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&no_log=true&seed=1790436037",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&base_id=160171488&source=next_desktop&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&init_suid=01a0de4dba1873c28f2d3acaa9ea3489"
+    },
+    "min_price": 18300000,
+    "max_price": 29464400,
+    "variants": [
+        {
+            "title": "ظرفیت",
+            "items": [
+                {
+                    "badges": [],
+                    "discount_info": [],
+                    "random_key": "be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+                    "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+                    "name1_max_lines": 3,
+                    "name2": "",
+                    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=variant&_bt__experiment=sir28__c&suid=01a0de4dba1873c28f2d3acaa9ea3489&search_id=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&pre_prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+                    "web_client_absolute_url": "/p/be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-na9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-96-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+                    "price": 18300000,
+                    "price_prefix": "cheapest",
+                    "price_text": "از ۱۸٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "shop_text": "در ۱۳ فروشگاه",
+                    "stock_status": "",
+                    "delivery_city_name": null,
+                    "delivery_city_flag": null,
+                    "is_adv": false,
+                    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&limit=24&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&discover_method=search_image_base&prev_uid=01a0de4dba1873c28f2d3acaa9ea3489&pre_prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                    "card_type": "cover-img",
+                    "estimated_sell": "",
+                    "media_urls": [
+                        {
+                            "type": "image",
+                            "url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp"
+                        }
+                    ],
+                    "image_url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp",
+                    "image_count": 1,
+                    "direct_cta": null,
+                    "has_nearby_shop": false,
+                    "has_wiki": true,
+                    "is_authentic": false,
+                    "selected": true,
+                    "title": "۹.۶ کیلوگرم",
+                    "slug_name": "ماشین-لباسشویی-دوقلو-پاکشوما-مدل-na9-ظرفیت-96-کیلوگرم",
+                    "show_image": false,
+                    "attributes": {
+                        "type": "دوقلو",
+                        "color": [
+                            "سفید",
+                            "اینوکس"
+                        ],
+                        "model": "9654",
+                        "capacity": "9.6 kg",
+                        "engine_type": "belt",
+                        "originality": "",
+                        "energy_grade": "a",
+                        "stock_status": "new",
+                        "program_count": "3 برنامه"
+                    }
+                },
+                {
+                    "badges": [],
+                    "discount_info": [],
+                    "random_key": "27944616-9871-438d-9287-a491cee432ee",
+                    "name1": "ماشین لباسشویی پاکشوما مدل PWT9654AJ ظرفیت 9 کیلوگرم",
+                    "name1_max_lines": 3,
+                    "name2": "",
+                    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=variant&_bt__experiment=sir28__c&suid=01a0de4dba1873c28f2d3acaa9ea3489&search_id=01a0de4dba1873c28f2d3acaa9ea3489&cities=&province=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=27944616-9871-438d-9287-a491cee432ee&pre_prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+                    "web_client_absolute_url": "/p/27944616-9871-438d-9287-a491cee432ee/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-pwt9654aj-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+                    "price": 0,
+                    "price_prefix": "cheapest",
+                    "price_text": "ناموجود",
+                    "price_text_mode": "disabled",
+                    "shop_text": "در سام انتخاب",
+                    "stock_status": "",
+                    "delivery_city_name": null,
+                    "delivery_city_flag": null,
+                    "is_adv": false,
+                    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=27944616-9871-438d-9287-a491cee432ee&limit=24&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=27944616-9871-438d-9287-a491cee432ee&discover_method=search_image_base&prev_uid=01a0de4dba1873c28f2d3acaa9ea3489&pre_prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+                    "card_type": "cover-img",
+                    "estimated_sell": "",
+                    "media_urls": [
+                        {
+                            "type": "image",
+                            "url": "https://image.torob.com/base/images/gq/Wb/gqWbUY3DVRt9QJFc.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://image.torob.com/base/images/bP/iz/bPizh9g8_KKxAuzh.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://image.torob.com/base/images/Kw/ap/KwapELCNecaNFi8G.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://image.torob.com/base/images/nH/oB/nHoB4O34MVSER_HY.jpg"
+                        }
+                    ],
+                    "image_url": "https://image.torob.com/base/images/gq/Wb/gqWbUY3DVRt9QJFc.jpg",
+                    "image_count": 4,
+                    "direct_cta": null,
+                    "has_nearby_shop": false,
+                    "has_wiki": false,
+                    "is_authentic": false,
+                    "selected": false,
+                    "title": "۹ کیلوگرم",
+                    "slug_name": "ماشین-لباسشویی-پاکشوما-مدل-pwt9654aj-ظرفیت-9-کیلوگرم",
+                    "show_image": false,
+                    "attributes": {
+                        "type": "",
+                        "color": "",
+                        "model": "9654",
+                        "capacity": "9 kg",
+                        "engine_type": "",
+                        "originality": "",
+                        "energy_grade": "",
+                        "stock_status": "new",
+                        "program_count": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 134,
+            "title": "شستشو و نظافت",
+            "url": "/browse/134/%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA-cleaning-equipment/",
+            "cat_id": 134,
+            "brand_id": null
+        },
+        {
+            "id": 6729,
+            "title": "دستگاه‌های شستشو و نظافت",
+            "url": "/browse/6729/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA/",
+            "cat_id": 6729,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "ماشین لباسشویی",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/",
+            "cat_id": 201,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "پاکشوما (Pakshoma)",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/b/5804/pakshoma-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7/",
+            "cat_id": 201,
+            "brand_id": 5804
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "جهت باز شدن در": "به سمت بالا",
+                    "ظرفیت دیگ": "9.6 کیلوگرم (شستشو) / 4 کیلوگرم (خشک‌کن)",
+                    "نوع": "دوقلو",
+                    "گرید انرژی": "A",
+                    "تعداد برنامه شستشو": "3",
+                    "نوع موتور": "تسمه‌ای",
+                    "رنگ محصول": "سفید",
+                    "ابعاد": "47x80x96 سانتی‌ متر",
+                    "صفحه نمایش": "ندارد",
+                    "سرعت چرخش موتور": "800 دور بر دقیقه",
+                    "خشک کن": "دارد",
+                    "قابلیت اضافه کردن لباس حین کار": "دارد",
+                    "قفل کودک": "ندارد",
+                    "پشتیبانی از برنامه‌ ها و حالت‌ های خاص": "پروانه حباب ساز",
+                    "سایر ویژگی‌ ها": "بدنه پلاستیک دو لایه سبک، دارای دو موتور شستشو و خشک‌ کن، دارای پمپ تخلیه، دارای سیستم ایرجت، دارای فیلتر جذب پرزگیر البسه"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "نوع",
+                    "value": [
+                        "دوقلو"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "ظرفیت",
+                    "value": [
+                        "۹.۶ کیلوگرم"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "گرید انرژی",
+                    "value": [
+                        "A"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "تعداد برنامه",
+                    "value": [
+                        "۳ برنامه"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "نوع موتور",
+                    "value": [
+                        "تسمه‌ای"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "ماشین-لباسشویی-دوقلو-پاکشوما-مدل-na9-ظرفیت-96-کیلوگرم",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&limit=24&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+    "torob_category": 201,
+    "no_index": false,
+    "buy_box_price_text": "از ۱۸٫۳۰۰٫۰۰۰ تومان تا ۲۹٫۴۶۴٫۴۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=0ac9a2ce-9aaf-413b-a806-8598705fd1f9&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از شیپور",
+    "new_buy_box_button_text2": "۱۸٫۳۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4dba1873c28f2d3acaa9ea3489&suid=01a0de4dba1873c28f2d3acaa9ea3489&bvid=01a0de4dd3a277bda9dd02cc6fb6bb4a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&prk=0ac9a2ce-9aaf-413b-a806-8598705fd1f9&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4dba1873c28f2d3acaa9ea3489&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "5fcf16c9-1cd1-4e2e-adb1-1ef0799a50bd",
+    "new_buy_box_source_prk": "0ac9a2ce-9aaf-413b-a806-8598705fd1f9",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۱۲ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

@@ -1,0 +1,1811 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe",
+            "name1": "شیر توالت توکار پتسا مدل کارن Karen | شیر آفتابه توکار مدرن و لوکس",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=result_adv&prk=4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe&ad=01a0ddca34437418972977688e4bc55c&rank=0",
+            "web_client_absolute_url": "/p/4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D9%BE%D8%AA%D8%B3%D8%A7-%D9%85%D8%AF%D9%84-%DA%A9%D8%A7%D8%B1%D9%86-karen-%D8%B4%DB%8C%D8%B1-%D8%A7%D9%81%D8%AA%D8%A7%D8%A8%D9%87-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D9%85%D8%AF%D8%B1%D9%86-%D9%88-%D9%84%D9%88%DA%A9%D8%B3/",
+            "price": 9350000,
+            "price_prefix": "cheapest",
+            "price_text": "۹٫۳۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در هلدینگ ساختمانی ایروا",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/pn/4U/pn4UtUS0eJ8H_HoG.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3m/p0/3mp0JXvgQsyvz-vf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/pn/4U/pn4UtUS0eJ8H_HoG.webp",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "da6fea48-6484-4064-852e-36a568fbff88",
+            "name1": "شیر توالت اهرمی دسته اردکی کروم کارتریج ۴۰",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=da6fea48-6484-4064-852e-36a568fbff88&rank=1",
+            "web_client_absolute_url": "/p/da6fea48-6484-4064-852e-36a568fbff88/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%D8%AF%DA%A9%DB%8C-%DA%A9%D8%B1%D9%88%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA%D8%B1%DB%8C%D8%AC-40/",
+            "price": 1690000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۶۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=da6fea48-6484-4064-852e-36a568fbff88&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=da6fea48-6484-4064-852e-36a568fbff88&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ND/v9/NDv9vdJaq0JgoC7p.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ND/v9/NDv9vdJaq0JgoC7p.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "cfd87d91-7647-400c-8ca5-932d81b23435",
+            "name1": "شیر توالت قهرمان مدل آیدا همراه با شلنگ و لوازم نصب",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=cfd87d91-7647-400c-8ca5-932d81b23435&rank=2",
+            "web_client_absolute_url": "/p/cfd87d91-7647-400c-8ca5-932d81b23435/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A7%DB%8C%D8%AF%D8%A7-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D9%84%D9%86%DA%AF-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%86%D8%B5%D8%A8/",
+            "price": 1850000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۸۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=cfd87d91-7647-400c-8ca5-932d81b23435&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=cfd87d91-7647-400c-8ca5-932d81b23435&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/7f/vs/7fvsdX46uRn3sO-6.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/7f/vs/7fvsdX46uRn3sO-6.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "94c28068-d601-48a5-a1b5-f6af01be308f",
+            "name1": "شیر توالت اهرمی استاندارد کاتریج ۴۰",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=94c28068-d601-48a5-a1b5-f6af01be308f&rank=3",
+            "web_client_absolute_url": "/p/94c28068-d601-48a5-a1b5-f6af01be308f/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%DA%A9%D8%A7%D8%AA%D8%B1%DB%8C%D8%AC-40/",
+            "price": 1685000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۶۸۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=94c28068-d601-48a5-a1b5-f6af01be308f&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=94c28068-d601-48a5-a1b5-f6af01be308f&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jM/TE/jMTE3GAAxuIrKDIU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1k/Y1/1kY1vVFtbOdxqXQz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9w/Ow/9wOwqfccwuPwVlgp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tU/i3/tUi3DeSb2uzmiLNC.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jM/TE/jMTE3GAAxuIrKDIU.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4ffe8df2-bb5b-4d5c-9a59-ec2887615d02",
+            "name1": "شیر توالت قهرمان مدل تندیس کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=4ffe8df2-bb5b-4d5c-9a59-ec2887615d02&rank=4",
+            "web_client_absolute_url": "/p/4ffe8df2-bb5b-4d5c-9a59-ec2887615d02/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%AA%D9%86%D8%AF%DB%8C%D8%B3-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 4520000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۵۲۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4ffe8df2-bb5b-4d5c-9a59-ec2887615d02&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4ffe8df2-bb5b-4d5c-9a59-ec2887615d02&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sg/AP/sgAPsVXpxzQ41SIm.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/aV/lX/aVlXjqHFrz8J8qhE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6C/Bj/6CBjwcVY7N4_HwZu.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/sg/AP/sgAPsVXpxzQ41SIm.webp",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2dc4aa13-610d-4d76-a0a1-881f03562820",
+            "name1": "شیر توالت اهرمی قو دیواری",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=2dc4aa13-610d-4d76-a0a1-881f03562820&rank=5",
+            "web_client_absolute_url": "/p/2dc4aa13-610d-4d76-a0a1-881f03562820/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D9%82%D9%88-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C/",
+            "price": 790000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2dc4aa13-610d-4d76-a0a1-881f03562820&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2dc4aa13-610d-4d76-a0a1-881f03562820&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Qm/Bq/QmBqbtaFeWT1XWPJ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lN/Di/lNDifUj3IjAwJ0HR.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Qm/Bq/QmBqbtaFeWT1XWPJ.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f75d45db-8fb8-46f7-a44b-033d88a104ad",
+            "name1": "شیر توالت قهرمان مدل ایتالیایی کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=f75d45db-8fb8-46f7-a44b-033d88a104ad&rank=6",
+            "web_client_absolute_url": "/p/f75d45db-8fb8-46f7-a44b-033d88a104ad/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 4820000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۸۲۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f75d45db-8fb8-46f7-a44b-033d88a104ad&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f75d45db-8fb8-46f7-a44b-033d88a104ad&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zU/By/zUByx33ushL-Rs2x.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Q6/hV/Q6hVOslLD1Oozexg.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6m/H1/6mH1eyhNbTU7M8bI.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Po/6R/Po6R1whxs9baHno3.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/oe/oX/oeoXQDy2ZGaAc9A3.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/zU/By/zUByx33ushL-Rs2x.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "97c579a6-9301-4341-8d6e-8228a0d5945a",
+            "name1": "شیر توالت قاجاری کروم همراه با شلنگ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=97c579a6-9301-4341-8d6e-8228a0d5945a&rank=7",
+            "web_client_absolute_url": "/p/97c579a6-9301-4341-8d6e-8228a0d5945a/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D9%88%D9%85-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D9%84%D9%86%DA%AF/",
+            "price": 2000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=97c579a6-9301-4341-8d6e-8228a0d5945a&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=97c579a6-9301-4341-8d6e-8228a0d5945a&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_0/bX/_0bX5EAC8fbmRRFg.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/z1/WX/z1WXHeW3qltTSpNH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ci/eX/CieXW57DCdAoS5c3.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/_0/bX/_0bX5EAC8fbmRRFg.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4a2c5782-c7b9-419d-99a2-50946f4aac2d",
+            "name1": "شیر توالت قهرمان مدل دنیز دو تکه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=4a2c5782-c7b9-419d-99a2-50946f4aac2d&rank=8",
+            "web_client_absolute_url": "/p/4a2c5782-c7b9-419d-99a2-50946f4aac2d/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%AF%D9%86%DB%8C%D8%B2-%D8%AF%D9%88-%D8%AA%DA%A9%D9%87/",
+            "price": 1900000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4a2c5782-c7b9-419d-99a2-50946f4aac2d&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4a2c5782-c7b9-419d-99a2-50946f4aac2d&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qB/SW/qBSW-bK6_SjmEEIV.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/qB/SW/qBSW-bK6_SjmEEIV.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "740653a6-3dae-426e-83a1-d23bf1588eab",
+            "name1": "شیر توالت قهرمان مدل فلت کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=740653a6-3dae-426e-83a1-d23bf1588eab&rank=9",
+            "web_client_absolute_url": "/p/740653a6-3dae-426e-83a1-d23bf1588eab/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D9%81%D9%84%D8%AA-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 5272000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۲۷۲٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=740653a6-3dae-426e-83a1-d23bf1588eab&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=740653a6-3dae-426e-83a1-d23bf1588eab&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zg/4Y/zg4Y3USJcy9wW1yA.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/c1/qk/c1qkW8-CsZg1oM_t.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ul/ti/ultiixSpdUo_fz6A.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zy/qg/ZyqgfMUlPGpQwOi7.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/zg/4Y/zg4Y3USJcy9wW1yA.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "8f5309c8-44e3-43f5-8da4-7bbdb1d1888d",
+            "name1": "شیر سرویس بهداشتی کسری مدل فیروزه به همراه شلنگ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=result_adv&prk=8f5309c8-44e3-43f5-8da4-7bbdb1d1888d&ad=01a0ddca344575aa947ebd41b7337809&rank=10",
+            "web_client_absolute_url": "/p/8f5309c8-44e3-43f5-8da4-7bbdb1d1888d/%D8%B4%DB%8C%D8%B1-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%DA%A9%D8%B3%D8%B1%DB%8C-%D9%85%D8%AF%D9%84-%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D9%87-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%D9%84%D9%86%DA%AF/",
+            "price": 12150000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۲٫۱۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در شیرآلات کسری",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8f5309c8-44e3-43f5-8da4-7bbdb1d1888d&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=8f5309c8-44e3-43f5-8da4-7bbdb1d1888d&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wi/KB/wiKBELYIfjaPF2SB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wi/KB/wiKBELYIfjaPF2SB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M8/rG/M8rG_Vew5GspyLLK.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1f/VR/1fVRFgB2KO7JJYS2.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/wi/KB/wiKBELYIfjaPF2SB.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "12524b2e-2410-44a8-a4c6-4929049a7d8e",
+            "name1": "شیر توالت قهرمان ۲ تکه مدل آیدا همراه با شلنگ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=12524b2e-2410-44a8-a4c6-4929049a7d8e&rank=11",
+            "web_client_absolute_url": "/p/12524b2e-2410-44a8-a4c6-4929049a7d8e/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-2-%D8%AA%DA%A9%D9%87-%D9%85%D8%AF%D9%84-%D8%A7%DB%8C%D8%AF%D8%A7-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%B4%D9%84%D9%86%DA%AF/",
+            "price": 2271000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲٫۲۷۱٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=12524b2e-2410-44a8-a4c6-4929049a7d8e&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=12524b2e-2410-44a8-a4c6-4929049a7d8e&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qB/SW/qBSW-bK6_SjmEEIV.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/qB/SW/qBSW-bK6_SjmEEIV.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "321267f9-c69c-40df-a634-db10067d8f16",
+            "name1": "شیر   توالت   شودر   مدل  اطلس تو پلاس کروم",
+            "name1_max_lines": 3,
+            "name2": "SHouder atlas two plus toilet faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=321267f9-c69c-40df-a634-db10067d8f16&rank=12",
+            "web_client_absolute_url": "/p/321267f9-c69c-40df-a634-db10067d8f16/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B4%D9%88%D8%AF%D8%B1-%D9%85%D8%AF%D9%84-%D8%A7%D8%B7%D9%84%D8%B3-%D8%AA%D9%88-%D9%BE%D9%84%D8%A7%D8%B3-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 5400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=321267f9-c69c-40df-a634-db10067d8f16&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=321267f9-c69c-40df-a634-db10067d8f16&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/JG/N1/JGN1Ccq20XrFJyIW.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/C4/JB/C4JB4RwoK95JaHcm.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/JG/N1/JGN1Ccq20XrFJyIW.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "53f161ac-768d-4199-8ab1-fd12cd8572d8",
+            "name1": "شیر توالت قهرمان مدل بهادر  کروم",
+            "name1_max_lines": 3,
+            "name2": "GHahraman  bahador  toilet faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=53f161ac-768d-4199-8ab1-fd12cd8572d8&rank=13",
+            "web_client_absolute_url": "/p/53f161ac-768d-4199-8ab1-fd12cd8572d8/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A8%D9%87%D8%A7%D8%AF%D8%B1-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 5375000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۳۷۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=53f161ac-768d-4199-8ab1-fd12cd8572d8&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=53f161ac-768d-4199-8ab1-fd12cd8572d8&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ot/6l/ot6lKJ52fgyoo72R.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lS/ff/lSffZTF6PxnXS9Z1.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ua/6j/Ua6jBypHeeVLcA02.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ot/6l/ot6lKJ52fgyoo72R.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2ab5b3ff-e29e-46d6-ad5a-e3ed872e36c7",
+            "name1": "شیر توالت دسته اردکی کروم به همراه شلنگ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=2ab5b3ff-e29e-46d6-ad5a-e3ed872e36c7&rank=14",
+            "web_client_absolute_url": "/p/2ab5b3ff-e29e-46d6-ad5a-e3ed872e36c7/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B1%D8%AF%DA%A9%DB%8C-%DA%A9%D8%B1%D9%88%D9%85-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%D9%84%D9%86%DA%AF/",
+            "price": 1870000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۸۷۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2ab5b3ff-e29e-46d6-ad5a-e3ed872e36c7&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2ab5b3ff-e29e-46d6-ad5a-e3ed872e36c7&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xm/G0/xmG0xMco0oDCGQZO.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zj/nI/ZjnIf7ax9doahtSB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ji/XQ/jiXQIJAWn2PrpOxx.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/xm/G0/xmG0xMco0oDCGQZO.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "24b13367-8c08-49ab-aa4a-f12dc83099b3",
+            "name1": "شير توالت رويال بهريزان",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=24b13367-8c08-49ab-aa4a-f12dc83099b3&rank=15",
+            "web_client_absolute_url": "/p/24b13367-8c08-49ab-aa4a-f12dc83099b3/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%D8%A8%D9%87%D8%B1%DB%8C%D8%B2%D8%A7%D9%86/",
+            "price": 2343000,
+            "price_prefix": "cheapest",
+            "price_text": "۲٫۳۴۳٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مارو شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=24b13367-8c08-49ab-aa4a-f12dc83099b3&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=24b13367-8c08-49ab-aa4a-f12dc83099b3&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/H5/vp/H5vpYzkjQk-D-uRW.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/H5/vp/H5vpYzkjQk-D-uRW.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0d952825-d613-4bc9-a9d6-986bbb191bbf",
+            "name1": "شیر توالت قهرمان مدل اسپانیایی کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=0d952825-d613-4bc9-a9d6-986bbb191bbf&rank=16",
+            "web_client_absolute_url": "/p/0d952825-d613-4bc9-a9d6-986bbb191bbf/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 6350000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶٫۳۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0d952825-d613-4bc9-a9d6-986bbb191bbf&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0d952825-d613-4bc9-a9d6-986bbb191bbf&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1E/BH/1EBHC_1fIjSyB771.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wO/PL/wOPLnQXw0tTDcsX5.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/g2/AZ/g2AZbHKaTeGl36Ta.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Pr/4E/Pr4E27rtu-yTgzAj.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/1E/BH/1EBHC_1fIjSyB771.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ee2cc0d8-b648-49a4-a8d4-05ec5095d39f",
+            "name1": "شیر توالت   شودر   مدل  آلپ  کروم",
+            "name1_max_lines": 3,
+            "name2": "SHouder  alp   toilet  faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=ee2cc0d8-b648-49a4-a8d4-05ec5095d39f&rank=17",
+            "web_client_absolute_url": "/p/ee2cc0d8-b648-49a4-a8d4-05ec5095d39f/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B4%D9%88%D8%AF%D8%B1-%D9%85%D8%AF%D9%84-%D8%A7%D9%84%D9%BE-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 6059000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶٫۰۵۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ee2cc0d8-b648-49a4-a8d4-05ec5095d39f&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ee2cc0d8-b648-49a4-a8d4-05ec5095d39f&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wY/Ta/wYTae8i3nrurFDnE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1n/qU/1nqUs4Yq_OiCVXB6.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/wY/Ta/wYTae8i3nrurFDnE.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2ff03979-13c8-4686-8279-42eab4dd374e",
+            "name1": "شیر توالت مدل S2000 کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=2ff03979-13c8-4686-8279-42eab4dd374e&rank=18",
+            "web_client_absolute_url": "/p/2ff03979-13c8-4686-8279-42eab4dd374e/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%85%D8%AF%D9%84-s2000-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 1640000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۶۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2ff03979-13c8-4686-8279-42eab4dd374e&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2ff03979-13c8-4686-8279-42eab4dd374e&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1D/LX/1DLXXEj5aHfcyS4q.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/1D/LX/1DLXXEj5aHfcyS4q.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "79700359-2536-473d-9eb4-365b7d41095a",
+            "name1": "شیر توالت هوادیائو مدل سرد و گرم به همراه شاتاف و شلنگ دودی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=79700359-2536-473d-9eb4-365b7d41095a&rank=19",
+            "web_client_absolute_url": "/p/79700359-2536-473d-9eb4-365b7d41095a/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%87%D9%88%D8%A7%D8%AF%DB%8C%D8%A7%DB%8C%D9%88-%D9%85%D8%AF%D9%84-%D8%B3%D8%B1%D8%AF-%D9%88-%DA%AF%D8%B1%D9%85-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%D8%A7%D8%AA%D8%A7%D9%81-%D9%88-%D8%B4%D9%84%D9%86%DA%AF-%D8%AF%D9%88%D8%AF%DB%8C/",
+            "price": 9000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۹٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=79700359-2536-473d-9eb4-365b7d41095a&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=79700359-2536-473d-9eb4-365b7d41095a&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3f/bq/3fbqNAzBasKF9dPE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0i/w0/0iw0ZyyaJFJf4NqJ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/GQ/py/GQpy4vaPIfE6lfIL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6W/PL/6WPLiDLgTRt89nrH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/RB/2L/RB2LD6r52nWlavIB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ce/5M/Ce5M_ddjRXqbQcu2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/m6/iX/m6iXm42TXdAMLAmN.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/3f/bq/3fbqNAzBasKF9dPE.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "77d36076-abe3-411f-9027-bbf93e006128",
+            "name1": "شیر توالت شودر مدل  یونیک   کروم",
+            "name1_max_lines": 3,
+            "name2": "SHouder  unique  toilet  faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=77d36076-abe3-411f-9027-bbf93e006128&rank=20",
+            "web_client_absolute_url": "/p/77d36076-abe3-411f-9027-bbf93e006128/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B4%D9%88%D8%AF%D8%B1-%D9%85%D8%AF%D9%84-%DB%8C%D9%88%D9%86%DB%8C%DA%A9-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 11100000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱٫۱۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=77d36076-abe3-411f-9027-bbf93e006128&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=77d36076-abe3-411f-9027-bbf93e006128&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/NJ/By/NJByHaPGip90sh9S.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xU/uB/xUuBHJ0Npua5ALru.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1E/0A/1E0A9upw0qiVVxSz.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/kK/Gg/kKGgb_wfOH0ssoV4.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-3/r_/-3r_CNb7Tr5p67Q8.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/NJ/By/NJByHaPGip90sh9S.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0a495fc5-3bb5-444e-aef4-e20b0af99341",
+            "name1": "شیر توالت  راسان مدل تیدا  ۱/۲  اهرمی کروم",
+            "name1_max_lines": 3,
+            "name2": "Rassan tida toilet faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=0a495fc5-3bb5-444e-aef4-e20b0af99341&rank=21",
+            "web_client_absolute_url": "/p/0a495fc5-3bb5-444e-aef4-e20b0af99341/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%AA%DB%8C%D8%AF%D8%A7-1-2-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 1935000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۹۳۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0a495fc5-3bb5-444e-aef4-e20b0af99341&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0a495fc5-3bb5-444e-aef4-e20b0af99341&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0v/J7/0vJ7lN4IPc4ftr0n.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/0v/J7/0vJ7lN4IPc4ftr0n.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "694368a0-3a77-4c97-a12b-46b99685b8bc",
+            "name1": "شیر توالت    البرز روز     ونتو     کروم",
+            "name1_max_lines": 3,
+            "name2": "Alborz roz  vento   toilet    faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=694368a0-3a77-4c97-a12b-46b99685b8bc&rank=22",
+            "web_client_absolute_url": "/p/694368a0-3a77-4c97-a12b-46b99685b8bc/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%B1%D9%88%D8%B2-%D9%88%D9%86%D8%AA%D9%88-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 4536250,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۵۳۶٫۲۵۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=694368a0-3a77-4c97-a12b-46b99685b8bc&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=694368a0-3a77-4c97-a12b-46b99685b8bc&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/yX/qv/yXqvswIwCDsHdzif.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M2/RO/M2ROTrCyYErhgxg0.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/MN/oe/MNoeYk3VwzKc9lcE.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/yX/qv/yXqvswIwCDsHdzif.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "aa4b15f1-63ef-448c-8eab-d8dbcf98f8b9",
+            "name1": "شیر توالت توکار کلار مدل فلت لاکچری رنگ کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=aa4b15f1-63ef-448c-8eab-d8dbcf98f8b9&rank=23",
+            "web_client_absolute_url": "/p/aa4b15f1-63ef-448c-8eab-d8dbcf98f8b9/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%DA%A9%D9%84%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D9%81%D9%84%D8%AA-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 5035000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۰۳۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=aa4b15f1-63ef-448c-8eab-d8dbcf98f8b9&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=aa4b15f1-63ef-448c-8eab-d8dbcf98f8b9&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9F/Yb/9FYbykK4PpsifAwp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/MY/x7/MYx7B7wbHI2CwOFr.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/9F/Yb/9FYbykK4PpsifAwp.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "1066232f-e481-4934-bc67-fe4ed8d47f29",
+            "name1": "شیر توالت قاجاری طلایی و کروم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=1066232f-e481-4934-bc67-fe4ed8d47f29&rank=24",
+            "web_client_absolute_url": "/p/1066232f-e481-4934-bc67-fe4ed8d47f29/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D9%82%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%88-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 1940000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱٫۹۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=1066232f-e481-4934-bc67-fe4ed8d47f29&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=1066232f-e481-4934-bc67-fe4ed8d47f29&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ba/HA/BaHAxoGJ8GqutfnX.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ba/HA/BaHAxoGJ8GqutfnX.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "be76d50c-ba7e-48cf-a602-fc78a52c4c2c",
+            "name1": "شیر توالت راسان مدل درسا اهرمی کروم",
+            "name1_max_lines": 3,
+            "name2": "Rassan dorsa toilet faucet",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&search_id=01a0ddca32be70e18d5e1dcb36e8d60d&cities=&province=&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d&algorithm=rerank&prk=be76d50c-ba7e-48cf-a602-fc78a52c4c2c&rank=25",
+            "web_client_absolute_url": "/p/be76d50c-ba7e-48cf-a602-fc78a52c4c2c/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%D8%AF%D8%B1%D8%B3%D8%A7-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%DA%A9%D8%B1%D9%88%D9%85/",
+            "price": 4960000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۹۶۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=be76d50c-ba7e-48cf-a602-fc78a52c4c2c&limit=24&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=be76d50c-ba7e-48cf-a602-fc78a52c4c2c&discover_method=search_image_base&prev_uid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/HP/Hw/HPHwj9UM2Ko_HyZx.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/HP/Hw/HPHwj9UM2Ko_HyZx.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 55251006906900,
+    "min_price": 252480,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": "https://api.torob.com/v4/search/feedback/?search_uid=01a0ddca32be70e18d5e1dcb36e8d60d&discover_method=search&source=next_desktop&experiment=qcr1__a",
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&query=%D8%B4%DB%8C%D8%B1+%D8%AA%D9%88%D8%A7%D9%84%D8%AA&_search_landing=header&q=%D8%B4%DB%8C%D8%B1+%D8%AA%D9%88%D8%A7%D9%84%D8%AA&_landing_page=home&_http_referrer=https%3A%2F%2Ftorob.com%2F&source=next_desktop&rank_offset=26&_bt__experiment=qcr1__a&suid=01a0ddca32be70e18d5e1dcb36e8d60d&init_suid=01a0ddca32be70e18d5e1dcb36e8d60d",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "شیر توالت",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 1479,
+                    "slug": "shouder-%D8%B4%D9%88%D8%AF%D8%B1",
+                    "name1": "شودر",
+                    "name2": "Shouder"
+                },
+                {
+                    "id": 5894,
+                    "slug": "alborzrooz-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%B1%D9%88%D8%B2",
+                    "name1": "البرز روز",
+                    "name2": "Alborzrooz"
+                },
+                {
+                    "id": 30945,
+                    "slug": "rassan-%D8%B1%D8%A7%D8%B3%D8%A7%D9%86",
+                    "name1": "راسان",
+                    "name2": "Rassan"
+                },
+                {
+                    "id": 3684,
+                    "slug": "kelar-%DA%A9%D9%84%D8%A7%D8%B1",
+                    "name1": "کلار",
+                    "name2": "KELAR"
+                },
+                {
+                    "id": 1470,
+                    "slug": "kwc-%DA%A9%DB%8C-%D8%AF%D8%A8%D9%84%DB%8C%D9%88-%D8%B3%DB%8C",
+                    "name1": "کی دبلیو سی",
+                    "name2": "KWC"
+                },
+                {
+                    "id": 12838,
+                    "slug": "ghahreman-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86",
+                    "name1": "قهرمان",
+                    "name2": "Ghahreman"
+                },
+                {
+                    "id": 1476,
+                    "slug": "kasra-%DA%A9%D8%B3%D8%B1%DB%8C",
+                    "name1": "کسری",
+                    "name2": "Kasra"
+                },
+                {
+                    "id": 53930,
+                    "slug": "kavian-%DA%A9%D8%A7%D9%88%DB%8C%D8%A7%D9%86",
+                    "name1": "کاویان",
+                    "name2": "Kavian"
+                },
+                {
+                    "id": 31151,
+                    "slug": "artin-%D8%A7%D8%B1%D8%AA%DB%8C%D9%86",
+                    "name1": "آرتین",
+                    "name2": "Artin"
+                },
+                {
+                    "id": 8991,
+                    "slug": "toofan-felez-%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D9%81%D9%84%D8%B2",
+                    "name1": "طوفان فلز",
+                    "name2": "Toofan Felez"
+                },
+                {
+                    "id": 1482,
+                    "slug": "derakhshan-%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86",
+                    "name1": "درخشان",
+                    "name2": "Derakhshan"
+                },
+                {
+                    "id": 16938,
+                    "slug": "behfar-%D8%A8%D9%87%D9%81%D8%B1",
+                    "name1": "بهفر",
+                    "name2": "behfar"
+                },
+                {
+                    "id": 1486,
+                    "slug": "kian-%DA%A9%DB%8C%D8%A7%D9%86",
+                    "name1": "کیان",
+                    "name2": "Kian"
+                },
+                {
+                    "id": 1481,
+                    "slug": "shibeh-%D8%B4%DB%8C%D8%A8%D9%87",
+                    "name1": "شیبه",
+                    "name2": "Shibeh"
+                },
+                {
+                    "id": 53927,
+                    "slug": "kig-%DA%A9%DB%8C-%D8%A7%DB%8C-%D8%AC%DB%8C",
+                    "name1": "کی آی جی",
+                    "name2": "KIG"
+                },
+                {
+                    "id": 1488,
+                    "slug": "owj-%D8%A7%D9%88%D8%AC",
+                    "name1": "اوج",
+                    "name2": "owj"
+                },
+                {
+                    "id": 17217,
+                    "slug": "grohe-%DA%AF%D8%B1%D9%88%D9%87%D9%87",
+                    "name1": "گروهه",
+                    "name2": "Grohe"
+                },
+                {
+                    "id": 1705,
+                    "slug": "kaviran-azar-%DA%A9%D9%88%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B0%D8%B1",
+                    "name1": "کویران آذر",
+                    "name2": "kaviran azar"
+                },
+                {
+                    "id": 10999,
+                    "slug": "raboo-%D8%B1%D8%A7%D8%A8%D9%88",
+                    "name1": "رابو",
+                    "name2": "Raboo"
+                },
+                {
+                    "id": 7322,
+                    "slug": "classic-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9",
+                    "name1": "کلاسیک",
+                    "name2": "Classic"
+                },
+                {
+                    "id": 1487,
+                    "slug": "sitco-%D8%B3%DB%8C%D8%AA%DA%A9%D9%88",
+                    "name1": "سیتکو",
+                    "name2": "Sitco"
+                },
+                {
+                    "id": 53787,
+                    "slug": "sania-%D8%B3%D8%A7%D9%86%DB%8C%D8%A7",
+                    "name1": "سانیا",
+                    "name2": "Sania"
+                },
+                {
+                    "id": 10517,
+                    "slug": "zarsham-%D8%B2%D8%B1%D8%B4%D8%A7%D9%85",
+                    "name1": "زرشام",
+                    "name2": "Zarsham"
+                },
+                {
+                    "id": 8731,
+                    "slug": "karen-%DA%A9%D8%A7%D8%B1%D9%86",
+                    "name1": "کارن",
+                    "name2": "Karen"
+                },
+                {
+                    "id": 53988,
+                    "slug": "taps-%D8%AA%D9%BE%D8%B3",
+                    "name1": "تپس",
+                    "name2": "Taps"
+                },
+                {
+                    "id": 53877,
+                    "slug": "snapple-%D8%A7%D8%B3%D9%86%D8%A7%D9%BE%D9%84",
+                    "name1": "اسناپل",
+                    "name2": "Snapple"
+                },
+                {
+                    "id": 1473,
+                    "slug": "notryka-%D9%86%D9%88%D8%AA%D8%B1%DB%8C%DA%A9%D8%A7",
+                    "name1": "نوتریکا",
+                    "name2": "notryka"
+                },
+                {
+                    "id": 11016,
+                    "slug": "fariz-shower-%D9%81%D8%B1%DB%8C%D8%B2-%D8%B4%D8%A7%D9%88%D8%B1",
+                    "name1": "فریز شاور",
+                    "name2": "fariz shower"
+                },
+                {
+                    "id": 1464,
+                    "slug": "nobili-%D9%86%D9%88%D8%A8%DB%8C%D9%84%DB%8C",
+                    "name1": "نوبیلی",
+                    "name2": "Nobili"
+                },
+                {
+                    "id": 15852,
+                    "slug": "most-%D9%85%D9%88%D8%B3%D8%AA",
+                    "name1": "موست",
+                    "name2": "Most"
+                },
+                {
+                    "id": 8145,
+                    "slug": "jazireh-%D8%AC%D8%B2%DB%8C%D8%B1%D9%87",
+                    "name1": "جزیره",
+                    "name2": "jazireh"
+                },
+                {
+                    "id": 11316,
+                    "slug": "bolanda-%D8%A8%D9%84%D9%86%D8%AF%D8%A7",
+                    "name1": "بلندا",
+                    "name2": "Bolanda"
+                },
+                {
+                    "id": 20182,
+                    "slug": "shadan-%D8%B4%D8%A7%D8%AF%D8%A7%D9%86",
+                    "name1": "شادان",
+                    "name2": "SHADAN"
+                },
+                {
+                    "id": 8585,
+                    "slug": "rastaak-%D8%B1%D8%B3%D8%AA%D8%A7%DA%A9",
+                    "name1": "رستاک",
+                    "name2": "Rastaak"
+                },
+                {
+                    "id": 12710,
+                    "slug": "tancer-%D8%AA%D9%86%D8%B3%D8%B1",
+                    "name1": "تنسر",
+                    "name2": "Tancer"
+                },
+                {
+                    "id": 1477,
+                    "slug": "risco-%D8%B1%DB%8C%D8%B3%DA%A9%D9%88",
+                    "name1": "ریسکو",
+                    "name2": "Risco"
+                },
+                {
+                    "id": 12131,
+                    "slug": "milan-%D9%85%DB%8C%D9%84%D8%A7%D9%86",
+                    "name1": "میلان",
+                    "name2": "Milan"
+                },
+                {
+                    "id": 3697,
+                    "slug": "morvarid-%D9%85%D8%B1%D9%88%D8%A7%D8%B1%DB%8C%D8%AF",
+                    "name1": "مروارید",
+                    "name2": "Morvarid"
+                },
+                {
+                    "id": 9845,
+                    "slug": "kaiser-%DA%A9%D8%A7%DB%8C%D8%B2%D8%B1",
+                    "name1": "کایزر",
+                    "name2": "Kaiser"
+                },
+                {
+                    "id": 55127,
+                    "slug": "tidumax-%D8%AA%DB%8C%D8%AF%D9%88%D9%85%DA%A9%D8%AB",
+                    "name1": "تیدومکث",
+                    "name2": "Tidumax"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 12090,
+                    "slug": "justime-%D8%AC%D8%A7%D8%B3-%D8%AA%D8%A7%DB%8C%D9%85",
+                    "name1": "جاس‌تایم",
+                    "name2": "justime"
+                },
+                {
+                    "id": 1467,
+                    "slug": "huayi-%D9%87%D9%88%D8%A7%DB%8C%DB%8C",
+                    "name1": "هوآیی",
+                    "name2": "Huayi"
+                },
+                {
+                    "id": 11045,
+                    "slug": "nortex-%D9%86%D9%88%D8%B1%D8%AA%DA%A9%D8%B3",
+                    "name1": "نورتکس",
+                    "name2": "NORTEX"
+                },
+                {
+                    "id": 55120,
+                    "slug": "jumeirah-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7",
+                    "name1": "جمیرا",
+                    "name2": "Jumeirah"
+                },
+                {
+                    "id": 2936,
+                    "slug": "aroma-%D8%A7%D8%B1%D9%88%D9%85%D8%A7",
+                    "name1": "آروما",
+                    "name2": "Aroma"
+                },
+                {
+                    "id": 55567,
+                    "slug": "hyshin-%D9%87%D8%A7%DB%8C%D8%B4%D9%86",
+                    "name1": "هایشن",
+                    "name2": "hyshin"
+                },
+                {
+                    "id": 644,
+                    "slug": "maral-%D9%85%D8%A7%D8%B1%D8%A7%D9%84",
+                    "name1": "مارال",
+                    "name2": "Maral"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=2417"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 252480,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 55251006906900,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 1479,
+                    "slug": "shouder-%D8%B4%D9%88%D8%AF%D8%B1",
+                    "name1": "شودر",
+                    "name2": "Shouder"
+                },
+                {
+                    "id": 5894,
+                    "slug": "alborzrooz-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%B1%D9%88%D8%B2",
+                    "name1": "البرز روز",
+                    "name2": "Alborzrooz"
+                },
+                {
+                    "id": 30945,
+                    "slug": "rassan-%D8%B1%D8%A7%D8%B3%D8%A7%D9%86",
+                    "name1": "راسان",
+                    "name2": "Rassan"
+                },
+                {
+                    "id": 3684,
+                    "slug": "kelar-%DA%A9%D9%84%D8%A7%D8%B1",
+                    "name1": "کلار",
+                    "name2": "KELAR"
+                },
+                {
+                    "id": 1470,
+                    "slug": "kwc-%DA%A9%DB%8C-%D8%AF%D8%A8%D9%84%DB%8C%D9%88-%D8%B3%DB%8C",
+                    "name1": "کی دبلیو سی",
+                    "name2": "KWC"
+                },
+                {
+                    "id": 12838,
+                    "slug": "ghahreman-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86",
+                    "name1": "قهرمان",
+                    "name2": "Ghahreman"
+                },
+                {
+                    "id": 1476,
+                    "slug": "kasra-%DA%A9%D8%B3%D8%B1%DB%8C",
+                    "name1": "کسری",
+                    "name2": "Kasra"
+                },
+                {
+                    "id": 53930,
+                    "slug": "kavian-%DA%A9%D8%A7%D9%88%DB%8C%D8%A7%D9%86",
+                    "name1": "کاویان",
+                    "name2": "Kavian"
+                },
+                {
+                    "id": 31151,
+                    "slug": "artin-%D8%A7%D8%B1%D8%AA%DB%8C%D9%86",
+                    "name1": "آرتین",
+                    "name2": "Artin"
+                },
+                {
+                    "id": 8991,
+                    "slug": "toofan-felez-%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D9%81%D9%84%D8%B2",
+                    "name1": "طوفان فلز",
+                    "name2": "Toofan Felez"
+                },
+                {
+                    "id": 1482,
+                    "slug": "derakhshan-%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86",
+                    "name1": "درخشان",
+                    "name2": "Derakhshan"
+                },
+                {
+                    "id": 16938,
+                    "slug": "behfar-%D8%A8%D9%87%D9%81%D8%B1",
+                    "name1": "بهفر",
+                    "name2": "behfar"
+                },
+                {
+                    "id": 1486,
+                    "slug": "kian-%DA%A9%DB%8C%D8%A7%D9%86",
+                    "name1": "کیان",
+                    "name2": "Kian"
+                },
+                {
+                    "id": 1481,
+                    "slug": "shibeh-%D8%B4%DB%8C%D8%A8%D9%87",
+                    "name1": "شیبه",
+                    "name2": "Shibeh"
+                },
+                {
+                    "id": 53927,
+                    "slug": "kig-%DA%A9%DB%8C-%D8%A7%DB%8C-%D8%AC%DB%8C",
+                    "name1": "کی آی جی",
+                    "name2": "KIG"
+                },
+                {
+                    "id": 1488,
+                    "slug": "owj-%D8%A7%D9%88%D8%AC",
+                    "name1": "اوج",
+                    "name2": "owj"
+                },
+                {
+                    "id": 17217,
+                    "slug": "grohe-%DA%AF%D8%B1%D9%88%D9%87%D9%87",
+                    "name1": "گروهه",
+                    "name2": "Grohe"
+                },
+                {
+                    "id": 1705,
+                    "slug": "kaviran-azar-%DA%A9%D9%88%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B0%D8%B1",
+                    "name1": "کویران آذر",
+                    "name2": "kaviran azar"
+                },
+                {
+                    "id": 10999,
+                    "slug": "raboo-%D8%B1%D8%A7%D8%A8%D9%88",
+                    "name1": "رابو",
+                    "name2": "Raboo"
+                },
+                {
+                    "id": 7322,
+                    "slug": "classic-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9",
+                    "name1": "کلاسیک",
+                    "name2": "Classic"
+                },
+                {
+                    "id": 1487,
+                    "slug": "sitco-%D8%B3%DB%8C%D8%AA%DA%A9%D9%88",
+                    "name1": "سیتکو",
+                    "name2": "Sitco"
+                },
+                {
+                    "id": 53787,
+                    "slug": "sania-%D8%B3%D8%A7%D9%86%DB%8C%D8%A7",
+                    "name1": "سانیا",
+                    "name2": "Sania"
+                },
+                {
+                    "id": 10517,
+                    "slug": "zarsham-%D8%B2%D8%B1%D8%B4%D8%A7%D9%85",
+                    "name1": "زرشام",
+                    "name2": "Zarsham"
+                },
+                {
+                    "id": 8731,
+                    "slug": "karen-%DA%A9%D8%A7%D8%B1%D9%86",
+                    "name1": "کارن",
+                    "name2": "Karen"
+                },
+                {
+                    "id": 53988,
+                    "slug": "taps-%D8%AA%D9%BE%D8%B3",
+                    "name1": "تپس",
+                    "name2": "Taps"
+                },
+                {
+                    "id": 53877,
+                    "slug": "snapple-%D8%A7%D8%B3%D9%86%D8%A7%D9%BE%D9%84",
+                    "name1": "اسناپل",
+                    "name2": "Snapple"
+                },
+                {
+                    "id": 1473,
+                    "slug": "notryka-%D9%86%D9%88%D8%AA%D8%B1%DB%8C%DA%A9%D8%A7",
+                    "name1": "نوتریکا",
+                    "name2": "notryka"
+                },
+                {
+                    "id": 11016,
+                    "slug": "fariz-shower-%D9%81%D8%B1%DB%8C%D8%B2-%D8%B4%D8%A7%D9%88%D8%B1",
+                    "name1": "فریز شاور",
+                    "name2": "fariz shower"
+                },
+                {
+                    "id": 1464,
+                    "slug": "nobili-%D9%86%D9%88%D8%A8%DB%8C%D9%84%DB%8C",
+                    "name1": "نوبیلی",
+                    "name2": "Nobili"
+                },
+                {
+                    "id": 15852,
+                    "slug": "most-%D9%85%D9%88%D8%B3%D8%AA",
+                    "name1": "موست",
+                    "name2": "Most"
+                },
+                {
+                    "id": 8145,
+                    "slug": "jazireh-%D8%AC%D8%B2%DB%8C%D8%B1%D9%87",
+                    "name1": "جزیره",
+                    "name2": "jazireh"
+                },
+                {
+                    "id": 11316,
+                    "slug": "bolanda-%D8%A8%D9%84%D9%86%D8%AF%D8%A7",
+                    "name1": "بلندا",
+                    "name2": "Bolanda"
+                },
+                {
+                    "id": 20182,
+                    "slug": "shadan-%D8%B4%D8%A7%D8%AF%D8%A7%D9%86",
+                    "name1": "شادان",
+                    "name2": "SHADAN"
+                },
+                {
+                    "id": 8585,
+                    "slug": "rastaak-%D8%B1%D8%B3%D8%AA%D8%A7%DA%A9",
+                    "name1": "رستاک",
+                    "name2": "Rastaak"
+                },
+                {
+                    "id": 12710,
+                    "slug": "tancer-%D8%AA%D9%86%D8%B3%D8%B1",
+                    "name1": "تنسر",
+                    "name2": "Tancer"
+                },
+                {
+                    "id": 1477,
+                    "slug": "risco-%D8%B1%DB%8C%D8%B3%DA%A9%D9%88",
+                    "name1": "ریسکو",
+                    "name2": "Risco"
+                },
+                {
+                    "id": 12131,
+                    "slug": "milan-%D9%85%DB%8C%D9%84%D8%A7%D9%86",
+                    "name1": "میلان",
+                    "name2": "Milan"
+                },
+                {
+                    "id": 3697,
+                    "slug": "morvarid-%D9%85%D8%B1%D9%88%D8%A7%D8%B1%DB%8C%D8%AF",
+                    "name1": "مروارید",
+                    "name2": "Morvarid"
+                },
+                {
+                    "id": 9845,
+                    "slug": "kaiser-%DA%A9%D8%A7%DB%8C%D8%B2%D8%B1",
+                    "name1": "کایزر",
+                    "name2": "Kaiser"
+                },
+                {
+                    "id": 55127,
+                    "slug": "tidumax-%D8%AA%DB%8C%D8%AF%D9%88%D9%85%DA%A9%D8%AB",
+                    "name1": "تیدومکث",
+                    "name2": "Tidumax"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 12090,
+                    "slug": "justime-%D8%AC%D8%A7%D8%B3-%D8%AA%D8%A7%DB%8C%D9%85",
+                    "name1": "جاس‌تایم",
+                    "name2": "justime"
+                },
+                {
+                    "id": 1467,
+                    "slug": "huayi-%D9%87%D9%88%D8%A7%DB%8C%DB%8C",
+                    "name1": "هوآیی",
+                    "name2": "Huayi"
+                },
+                {
+                    "id": 11045,
+                    "slug": "nortex-%D9%86%D9%88%D8%B1%D8%AA%DA%A9%D8%B3",
+                    "name1": "نورتکس",
+                    "name2": "NORTEX"
+                },
+                {
+                    "id": 55120,
+                    "slug": "jumeirah-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7",
+                    "name1": "جمیرا",
+                    "name2": "Jumeirah"
+                },
+                {
+                    "id": 2936,
+                    "slug": "aroma-%D8%A7%D8%B1%D9%88%D9%85%D8%A7",
+                    "name1": "آروما",
+                    "name2": "Aroma"
+                },
+                {
+                    "id": 55567,
+                    "slug": "hyshin-%D9%87%D8%A7%DB%8C%D8%B4%D9%86",
+                    "name1": "هایشن",
+                    "name2": "hyshin"
+                },
+                {
+                    "id": 644,
+                    "slug": "maral-%D9%85%D8%A7%D8%B1%D8%A7%D9%84",
+                    "name1": "مارال",
+                    "name2": "Maral"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=2417"
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "شیر توالت",
+            "cat_id": 2417,
+            "cat_slug": "شیر-توالت",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "2417",
+            "slug": "شیر-توالت"
+        }
+    ],
+    "parent_categories": []
+}

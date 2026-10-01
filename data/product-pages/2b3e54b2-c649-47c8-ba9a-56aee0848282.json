@@ -1,0 +1,196 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "2b3e54b2-c649-47c8-ba9a-56aee0848282",
+    "name1": "استند کمد باربی",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de49c6967788b516500b495d9d0a&search_id=01a0de49c6967788b516500b495d9d0a&cities=&province=&init_suid=01a0de49c6967788b516500b495d9d0a&algorithm=text_similarity&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282",
+    "web_client_absolute_url": "/p/2b3e54b2-c649-47c8-ba9a-56aee0848282/%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%DA%A9%D9%85%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C/",
+    "price": 250000,
+    "price_prefix": "cheapest",
+    "price_text": "۲۵۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در گالری خورشید 61",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&limit=24&init_suid=01a0de49c6967788b516500b495d9d0a",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&discover_method=search_image_base_pdp&prev_uid=01a0de49c6967788b516500b495d9d0a&init_suid=01a0de49c6967788b516500b495d9d0a",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/fK/H3/fKH3OcJfmvxrl5ds.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/fK/H3/fKH3OcJfmvxrl5ds.jpg",
+    "image_count": 1,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&bvid=01a0de49e4b8731aa6aadae913f75160&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de49c6967788b516500b495d9d0a&prk=5e523f09-376b-4374-83c1-3585805c2052&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de49c6967788b516500b495d9d0a",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "استند کمد باربی",
+                "name2": "",
+                "shop_name": "گالری خورشید 61",
+                "shop_name2": "شیراز",
+                "shop_id": 354433,
+                "has_public_torob_profile": true,
+                "prk": "5e523f09-376b-4374-83c1-3585805c2052",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&bvid=01a0de49e4b8731aa6aadae913f75160&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de49c6967788b516500b495d9d0a&prk=5e523f09-376b-4374-83c1-3585805c2052&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de49c6967788b516500b495d9d0a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 250000,
+                "price_text": "۲۵۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۲۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435779",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&bvid=01a0de49e4b8731aa6aadae913f75160&suid=01a0de49c6967788b516500b495d9d0a&cities=&province=&algorithm=text_similarity&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&list_type=products_info&seed=1790435779"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435779",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&cities=&province=&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&list_type=products_in_store_info&seed=1790435779&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&source=next_desktop&discover_method=search&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&seed=1790435779&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&source=next_desktop&discover_method=search&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&seed=1790435779&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de49c6967788b516500b495d9d0a&search_id=01a0de49c6967788b516500b495d9d0a&cities=&province=&init_suid=01a0de49c6967788b516500b495d9d0a&algorithm=text_similarity&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&bvid=01a0de49e4b8731aa6aadae913f75160&no_log=true&seed=1790435779",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&base_id=247376519&source=next_desktop&bvid=01a0de49e4b8731aa6aadae913f75160&init_suid=01a0de49c6967788b516500b495d9d0a"
+    },
+    "min_price": 250000,
+    "max_price": 250000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 379,
+            "title": "کمد و قفسه",
+            "url": "/browse/379/%DA%A9%D9%85%D8%AF-%D9%88-%D9%82%D9%81%D8%B3%D9%87-others-furniture/",
+            "cat_id": 379,
+            "brand_id": null
+        },
+        {
+            "id": 339,
+            "title": "کمد، بوفه و قفسه دیواری",
+            "url": "/browse/339/%DA%A9%D9%85%D8%AF-%D8%A8%D9%88%D9%81%D9%87-%D9%88-%D9%82%D9%81%D8%B3%D9%87-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-dresser/",
+            "cat_id": 339,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "استند-کمد-باربی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=2b3e54b2-c649-47c8-ba9a-56aee0848282",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2b3e54b2-c649-47c8-ba9a-56aee0848282&limit=24&init_suid=01a0de49c6967788b516500b495d9d0a",
+    "torob_category": 339,
+    "no_index": false,
+    "buy_box_price_text": "۲۵۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&bvid=01a0de49e4b8731aa6aadae913f75160&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de49c6967788b516500b495d9d0a&prk=5e523f09-376b-4374-83c1-3585805c2052&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de49c6967788b516500b495d9d0a",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از گالری خورشید 61",
+    "new_buy_box_button_text2": "۲۵۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de49c6967788b516500b495d9d0a&suid=01a0de49c6967788b516500b495d9d0a&bvid=01a0de49e4b8731aa6aadae913f75160&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de49c6967788b516500b495d9d0a&prk=5e523f09-376b-4374-83c1-3585805c2052&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de49c6967788b516500b495d9d0a&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "5e523f09-376b-4374-83c1-3585805c2052",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

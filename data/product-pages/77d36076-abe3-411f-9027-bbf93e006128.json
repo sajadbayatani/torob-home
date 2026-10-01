@@ -1,0 +1,3473 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "77d36076-abe3-411f-9027-bbf93e006128",
+    "name1": "شیر توالت شودر مدل  یونیک   کروم",
+    "name1_max_lines": 3,
+    "name2": "SHouder  unique  toilet  faucet",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de2e4437702ba93c354465aa8fa5&search_id=01a0de2e4437702ba93c354465aa8fa5&cities=&province=&init_suid=01a0de2e4437702ba93c354465aa8fa5&algorithm=text_similarity&prk=77d36076-abe3-411f-9027-bbf93e006128",
+    "web_client_absolute_url": "/p/77d36076-abe3-411f-9027-bbf93e006128/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%B4%D9%88%D8%AF%D8%B1-%D9%85%D8%AF%D9%84-%DB%8C%D9%88%D9%86%DB%8C%DA%A9-%DA%A9%D8%B1%D9%88%D9%85/",
+    "price": 11100000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۱٫۱۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۱۹ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=77d36076-abe3-411f-9027-bbf93e006128&limit=24&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=77d36076-abe3-411f-9027-bbf93e006128&discover_method=search_image_base_pdp&prev_uid=01a0de2e4437702ba93c354465aa8fa5&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/NJ/By/NJByHaPGip90sh9S.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/xU/uB/xUuBHJ0Npua5ALru.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/1E/0A/1E0A9upw0qiVVxSz.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/kK/Gg/kKGgb_wfOH0ssoV4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/-3/r_/-3r_CNb7Tr5p67Q8.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/NJ/By/NJByHaPGip90sh9S.jpg",
+    "image_count": 5,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "seo_title": "",
+    "seo_description": "شیر توالت یونیک از شودر با رنگ سفید کروم، کروم، طلایی، مشکی، مشکی طلایی و شیری. محصول جدید بدون اصالت.",
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "تاسیسات پارس صنعت",
+                "shop_name2": "تهران",
+                "shop_id": 169332,
+                "has_public_torob_profile": true,
+                "prk": "fe07c967-ea75-4e8c-8f37-27db06277bb3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=fe07c967-ea75-4e8c-8f37-27db06277bb3&btn=buy&shop_rank=&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&ad=01a0de2e774577ff941528e0b8ee806e&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 12201000,
+                "price_text": "۱۲٫۲۰۱٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲٫۲۰۱٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "",
+                "shop_name": "پخش الماس پویا",
+                "shop_name2": "تهران",
+                "shop_id": 430624,
+                "has_public_torob_profile": true,
+                "prk": "86bd7f72-d948-411c-b89b-343fb61045da",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=86bd7f72-d948-411c-b89b-343fb61045da&btn=buy&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11100000,
+                "price_text": "۱۱٫۱۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۱۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۷۴ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "",
+                "shop_name": "خیابان بنی هاشم",
+                "shop_name2": "تهران",
+                "shop_id": 15022,
+                "has_public_torob_profile": true,
+                "prk": "11a48a6e-19ad-4c65-a79c-08f6c6c6dc7d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=11a48a6e-19ad-4c65-a79c-08f6c6c6dc7d&btn=buy&shop_rank=1&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11135000,
+                "price_text": "۱۱٫۱۳۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۱۳۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال تهران در کمترین زمان\nارسال شهرستان بر اساس انتخاب مشتری به شکل های مرسوم (تیپاکس،باربری،ترمینال،پست) صورت می پذیرد \nقبل از ارسال هزینه حمل به مشتری اعلام می گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "",
+                "shop_name": "رها شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 36197,
+                "has_public_torob_profile": true,
+                "prk": "02478889-8eae-4c7f-98ec-6ca00d40b0ac",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=02478889-8eae-4c7f-98ec-6ca00d40b0ac&btn=buy&shop_rank=2&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11435000,
+                "price_text": "۱۱٫۴۳۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۴۳۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "گالری بنیتو",
+                "shop_name2": "تهران",
+                "shop_id": 41466,
+                "has_public_torob_profile": true,
+                "prk": "be028b32-1534-4704-b6fc-393a0352af48",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=be028b32-1534-4704-b6fc-393a0352af48&btn=buy&shop_rank=3&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11528000,
+                "price_text": "۱۱٫۵۲۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۵۲۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال توسط باربری و یا تیپاکس"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۲۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "",
+                "shop_name": "خیابان بنی هاشم",
+                "shop_name2": "تهران",
+                "shop_id": 15022,
+                "has_public_torob_profile": true,
+                "prk": "07265b6b-f493-442b-afa2-c8a6a23f5eaf",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=07265b6b-f493-442b-afa2-c8a6a23f5eaf&btn=buy&shop_rank=4&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 12070000,
+                "price_text": "۱۲٫۰۷۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲٫۰۷۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال تهران در کمترین زمان\nارسال شهرستان بر اساس انتخاب مشتری به شکل های مرسوم (تیپاکس،باربری،ترمینال،پست) صورت می پذیرد \nقبل از ارسال هزینه حمل به مشتری اعلام می گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "تاسیسات پارس صنعت",
+                "shop_name2": "تهران",
+                "shop_id": 169332,
+                "has_public_torob_profile": true,
+                "prk": "fe07c967-ea75-4e8c-8f37-27db06277bb3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=fe07c967-ea75-4e8c-8f37-27db06277bb3&btn=buy&shop_rank=5&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 12201000,
+                "price_text": "۱۲٫۲۰۱٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲٫۲۰۱٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیرآلات شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "هایپرساز",
+                "shop_name2": "تجریش",
+                "shop_id": 10827,
+                "has_public_torob_profile": true,
+                "prk": "c6e1f138-5762-4dc2-aba3-cdeb2a5a8ebc",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=c6e1f138-5762-4dc2-aba3-cdeb2a5a8ebc&btn=buy&shop_rank=6&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=30:1xATfS:oyY4mMDy0um7BmKyyjtcHkjpmIuw7QAAfhk5RNqRQLM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 13100000,
+                "price_text": "۱۳٫۱۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳٫۱۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال کالا در تمامی روزهای هفته به جز پنجشنبه، جمعه و تعطیلات رسمی امکان پذیر می‌باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "نوین هوم",
+                "shop_name2": "تهران",
+                "shop_id": 15577,
+                "has_public_torob_profile": true,
+                "prk": "c214161c-4b2a-4d5b-9a92-d5cd00534295",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=c214161c-4b2a-4d5b-9a92-d5cd00534295&btn=buy&shop_rank=7&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=23:1xATfS:h368y5pha43sls_gxYbrDs_jKUBGPpQAVuhQ7HfOdmM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 13100000,
+                "price_text": "۱۳٫۱۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳٫۱۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پیش پرداخت+ اقساط 1 الی 5 ماهه",
+                            "short_title": "امکان پرداخت با چک صیادی",
+                            "logo": null,
+                            "name": "نوین هوم",
+                            "description": "امکان خرید قسطی از طریق تماس تلفنی",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "شیرآلات",
+                "shop_name2": "تهران",
+                "shop_id": 5067,
+                "has_public_torob_profile": true,
+                "prk": "3bc2364e-1748-402c-b016-ef186888fd9c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=3bc2364e-1748-402c-b016-ef186888fd9c&btn=buy&shop_rank=8&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=52:1xATfS:gCqoYBqh8m8VPvyvhVwXQDwh9Xj0TEy3rner2hsG9bY",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 13755000,
+                "price_text": "۱۳٫۷۵۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳٫۷۵۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "فروش اقساطی برای اشخاص حقیقی و حقوقی",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/0e88162d9535.png",
+                            "name": "ایران اخوان",
+                            "description": "فروش اقساطی برای اشخاص حقیقی و حقوقی تا سقف 50 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "خانه استور",
+                "shop_name2": "تهران",
+                "shop_id": 1197,
+                "has_public_torob_profile": true,
+                "prk": "3d830774-3c28-48c5-ac43-f022179e57cf",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=3d830774-3c28-48c5-ac43-f022179e57cf&btn=buy&shop_rank=9&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=52:1xATfS:uI9QjiBB9BAa1eOdfkddTqp9AZhsIwVCtfjYqUnIn6s",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 13886000,
+                "price_text": "۱۳٫۸۸۶٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳٫۸۸۶٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "فروش اقساطی برای اشخاص حقیقی و حقوقی",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/0e88162d9535.png",
+                            "name": "ایران اخوان",
+                            "description": "فروش اقساطی برای اشخاص حقیقی و حقوقی تا سقف 50 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "خانه استور",
+                "shop_name2": "تهران",
+                "shop_id": 1197,
+                "has_public_torob_profile": true,
+                "prk": "4a537682-b008-415f-afb2-fdcf73446c28",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=4a537682-b008-415f-afb2-fdcf73446c28&btn=buy&shop_rank=10&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=52:1xATfS:haPjLe97ixREd7pHOLsdYC387sbv9ikX_gfLTYGJAYA",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 13886000,
+                "price_text": "۱۳٫۸۸۶٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳٫۸۸۶٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "فروش اقساطی برای اشخاص حقیقی و حقوقی",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/0e88162d9535.png",
+                            "name": "ایران اخوان",
+                            "description": "فروش اقساطی برای اشخاص حقیقی و حقوقی تا سقف 50 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "",
+                "shop_name": "سیتی سازه",
+                "shop_name2": "تهران",
+                "shop_id": 372,
+                "has_public_torob_profile": true,
+                "prk": "b0a8fb5c-c698-4610-bff4-eda03316e9e7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=b0a8fb5c-c698-4610-bff4-eda03316e9e7&btn=buy&shop_rank=11&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=16:1xATfS:Pbz79ldr-IOH_8QneJY2gpUa0rUFaDysRhWdJl-CBrg",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14148000,
+                "price_text": "۱۴٫۱۴۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۱۴۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.6,
+                    "score_text": "★۴.۶ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۶ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پرداخت چکی چهار قسطه یا استفاده از نسیبا و فدک",
+                            "short_title": "امکان پرداخت چکی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/citysaze.jpg",
+                            "name": "سیتی سازه",
+                            "description": "پرداخت چکی چهار قسطه یا استفاده از نسیبا و فدک تا سقف 200 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "",
+                "shop_name": "هایپرساز",
+                "shop_name2": "تجریش",
+                "shop_id": 10827,
+                "has_public_torob_profile": true,
+                "prk": "37b11c94-8d15-4918-bdfd-e025ef892e4f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=37b11c94-8d15-4918-bdfd-e025ef892e4f&btn=buy&shop_rank=12&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&installment=30:1xATfS:3aR8AmYbg_0Nkh4MznSHUvaCtnrOhYdmLR7wOJbLf9E",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14200000,
+                "price_text": "۱۴٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال کالا در تمامی روزهای هفته به جز پنجشنبه، جمعه و تعطیلات رسمی امکان پذیر می‌باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک رنگ کروم براق",
+                "name2": "گارانتی : 5 +1 سال رسمی شرکت شودر",
+                "shop_name": "شیرنو",
+                "shop_name2": "کرج",
+                "shop_id": 303445,
+                "has_public_torob_profile": true,
+                "prk": "653a3490-60d1-425b-b9df-f288286e960f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=653a3490-60d1-425b-b9df-f288286e960f&btn=buy&shop_rank=13&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14311750,
+                "price_text": "۱۴٫۳۱۱٫۷۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۳۱۱٫۷۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، فردیس، هشتگرد، کرج، کمال شهر با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال با بسته بندی کامل و امن با پست و یا تیپاکس"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۰ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "",
+                "shop_name": "مدرن ساختمان",
+                "shop_name2": "تهران",
+                "shop_id": 8226,
+                "has_public_torob_profile": true,
+                "prk": "79f4e6c9-cb95-4c0b-a801-2fbed459356a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=79f4e6c9-cb95-4c0b-a801-2fbed459356a&btn=buy&shop_rank=14&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14317500,
+                "price_text": "۱۴٫۳۱۷٫۵۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۳۱۷٫۵۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال با هزینه مشتری بصورت پس کرایه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "",
+                "shop_name": "مدرن ساختمان",
+                "shop_name2": "تهران",
+                "shop_id": 8226,
+                "has_public_torob_profile": true,
+                "prk": "75c4a998-7dad-4d85-b6f3-5ac6581b4c9a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=75c4a998-7dad-4d85-b6f3-5ac6581b4c9a&btn=buy&shop_rank=15&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14363500,
+                "price_text": "۱۴٫۳۶۳٫۵۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۳۶۳٫۵۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال با هزینه مشتری بصورت پس کرایه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت یونیک شودر",
+                "name2": "",
+                "shop_name": "نگین نکس",
+                "shop_name2": "تهران",
+                "shop_id": 399683,
+                "has_public_torob_profile": true,
+                "prk": "13b1dd9a-8dac-4b70-bcac-b105df68b238",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=13b1dd9a-8dac-4b70-bcac-b105df68b238&btn=buy&shop_rank=16&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14410000,
+                "price_text": "۱۴٫۴۱۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۴۱۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "مبلغ بالای ۲۰ ملیون تومان مناطق ۲۲گانه تهران تحویل رایگان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳ تا ۵ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "دارای 5 سال ضمانت و خدمات پس از فروش",
+                "shop_name": "شیرآلات حافظ",
+                "shop_name2": "تهران",
+                "shop_id": 51109,
+                "has_public_torob_profile": true,
+                "prk": "71dff0cd-bc71-4232-9cf3-6c68633d3504",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=71dff0cd-bc71-4232-9cf3-6c68633d3504&btn=buy&shop_rank=17&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14410000,
+                "price_text": "۱۴٫۴۱۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۴۱۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "5 سال",
+                "shop_name": "یونیک لند",
+                "shop_name2": "تهران",
+                "shop_id": 29613,
+                "has_public_torob_profile": true,
+                "prk": "068c590b-a149-47cd-9e0c-8ebffa80c109",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=068c590b-a149-47cd-9e0c-8ebffa80c109&btn=buy&shop_rank=18&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14412148,
+                "price_text": "۱۴٫۴۱۲٫۱۴۸ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۴۱۲٫۱۴۸ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیرالات شودر - شیر توالت یونیک",
+                "name2": "",
+                "shop_name": "گلسرام استور",
+                "shop_name2": "کرج",
+                "shop_id": 171268,
+                "has_public_torob_profile": true,
+                "prk": "9cb93a3b-26b4-4c4f-b725-0521bee117f9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=9cb93a3b-26b4-4c4f-b725-0521bee117f9&btn=buy&shop_rank=19&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 14998200,
+                "price_text": "۱۴٫۹۹۸٫۲۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴٫۹۹۸٫۲۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اندیشه، تهران، شهر جدید هشتگرد، شهریار، فردیس، محمدشهر، محمدشهر، هشتگرد، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال درون شهری با اسنپ و پیک، \n ارسال به شهرهای دیگه با سرویسهای پستی و باربری معتمد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "دارد",
+                "shop_name": "آزادگان",
+                "shop_name2": "تهران",
+                "shop_id": 16255,
+                "has_public_torob_profile": true,
+                "prk": "624f04a3-2383-43f8-a464-dd33344a6ada",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=624f04a3-2383-43f8-a464-dd33344a6ada&btn=buy&shop_rank=20&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15100000,
+                "price_text": "۱۵٫۱۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۱۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت یونیک کروم شودر ا Unic Chrome Toilet",
+                "name2": "گارانتی اصالت",
+                "shop_name": "جیتوکالا",
+                "shop_name2": "تهران",
+                "shop_id": 4940,
+                "has_public_torob_profile": true,
+                "prk": "e259dd83-4568-4d3c-b8df-5bdd0d378c4c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=e259dd83-4568-4d3c-b8df-5bdd0d378c4c&btn=buy&shop_rank=21&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15196000,
+                "price_text": "۱۵٫۱۹۶٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۱۹۶٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "این نوع ارسال برای اکثر شهرهای کشور فعال می باشد. همچنین از ویزگی های منحصر به فرد در ارسال جیتواکسپرس قیمت بسیار پایین آن در مقایسه با نرخ های ارسال کالا در بازار میباشد. \n\nاین امکان برای شهر تهران و کرج به 2 صورت ارسال رایگان و ارسال فوری میباشد. \n\nارسال رایگان \n\nمشتریان عزیزی که در شهر تهران سفارش خود را انجام دهند طی 72 ساعت کاری با ارسال رایگان به دستشان میرسد و برای شهر کرج حداکثر تا 5 روز کاری  ارسال می گردد . \n\nارسال فوری\n\nبرای سفارشات ثبت شده تا قبل از ساعت 11:00 در صورتی که کالای مورد نظر در انبار جیتوکالا موجود باشد ارسال در همان روز صورت می گیرد.  و برای سفارش ثبت شده بعد از ساعت 11:00 فردای همان روز ارسال می گردد . این حالت از ارسال شامل هزینه ارسال می باشد اما این نوع ارسال نیز شامل تخفیف جیتوکالا می باشد و ارزان تر از نرخ معمول بازار است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک رنگ کروم مات",
+                "name2": "گارانتی : 5 +1 سال رسمی شرکت شودر",
+                "shop_name": "شیرنو",
+                "shop_name2": "کرج",
+                "shop_id": 303445,
+                "has_public_torob_profile": true,
+                "prk": "6aa4c67b-87c3-43a0-a713-6676254a0a31",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=6aa4c67b-87c3-43a0-a713-6676254a0a31&btn=buy&shop_rank=22&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15513500,
+                "price_text": "۱۵٫۵۱۳٫۵۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۵۱۳٫۵۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، فردیس، هشتگرد، کرج، کمال شهر با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال با بسته بندی کامل و امن با پست و یا تیپاکس"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۰ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "دارای 5 سال ضمانت و خدمات پس از فروش",
+                "shop_name": "شیرآلات حافظ",
+                "shop_name2": "تهران",
+                "shop_id": 51109,
+                "has_public_torob_profile": true,
+                "prk": "311ec8f7-0015-4bf5-9d63-b6e323a05a12",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=311ec8f7-0015-4bf5-9d63-b6e323a05a12&btn=buy&shop_rank=23&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15620000,
+                "price_text": "۱۵٫۶۲۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۶۲۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم",
+                "name2": "",
+                "shop_name": "کابی لند",
+                "shop_name2": "مشهد",
+                "shop_id": 16515,
+                "has_public_torob_profile": true,
+                "prk": "99756646-c2e3-48b7-90a8-a5c28786cb90",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=99756646-c2e3-48b7-90a8-a5c28786cb90&btn=buy&shop_rank=24&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15720000,
+                "price_text": "۱۵٫۷۲۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۷۲۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال رایگان سفارشات بیش از 10 میلیون تومان به سراسر کشور\nارسال به سراسر کشور از طریق چاپار، تیپاکس و باربری\nارسال با پیک سفارشات شهر مشهد"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۵ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت یونیک کروم مات شودر ا Unic Chrome Mat Toilet",
+                "name2": "گارانتی اصالت",
+                "shop_name": "جیتوکالا",
+                "shop_name2": "تهران",
+                "shop_id": 4940,
+                "has_public_torob_profile": true,
+                "prk": "5400c685-8922-424c-8591-ff42990a28da",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=5400c685-8922-424c-8591-ff42990a28da&btn=buy&shop_rank=25&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 16472000,
+                "price_text": "۱۶٫۴۷۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۶٫۴۷۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "این نوع ارسال برای اکثر شهرهای کشور فعال می باشد. همچنین از ویزگی های منحصر به فرد در ارسال جیتواکسپرس قیمت بسیار پایین آن در مقایسه با نرخ های ارسال کالا در بازار میباشد. \n\nاین امکان برای شهر تهران و کرج به 2 صورت ارسال رایگان و ارسال فوری میباشد. \n\nارسال رایگان \n\nمشتریان عزیزی که در شهر تهران سفارش خود را انجام دهند طی 72 ساعت کاری با ارسال رایگان به دستشان میرسد و برای شهر کرج حداکثر تا 5 روز کاری  ارسال می گردد . \n\nارسال فوری\n\nبرای سفارشات ثبت شده تا قبل از ساعت 11:00 در صورتی که کالای مورد نظر در انبار جیتوکالا موجود باشد ارسال در همان روز صورت می گیرد.  و برای سفارش ثبت شده بعد از ساعت 11:00 فردای همان روز ارسال می گردد . این حالت از ارسال شامل هزینه ارسال می باشد اما این نوع ارسال نیز شامل تخفیف جیتوکالا می باشد و ارزان تر از نرخ معمول بازار است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "",
+                "shop_name": "کابی لند",
+                "shop_name2": "مشهد",
+                "shop_id": 16515,
+                "has_public_torob_profile": true,
+                "prk": "88af59b6-0e6e-4d43-bc79-a9ce97ecc5e3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=88af59b6-0e6e-4d43-bc79-a9ce97ecc5e3&btn=buy&shop_rank=26&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 17040000,
+                "price_text": "۱۷٫۰۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۷٫۰۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال رایگان سفارشات بیش از 10 میلیون تومان به سراسر کشور\nارسال به سراسر کشور از طریق چاپار، تیپاکس و باربری\nارسال با پیک سفارشات شهر مشهد"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۵ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "شیر توالت شودر مدل یونیک کروم مات",
+                "name2": "5 سال",
+                "shop_name": "یونیک لند",
+                "shop_name2": "تهران",
+                "shop_id": 29613,
+                "has_public_torob_profile": true,
+                "prk": "306a4295-a0a7-4120-8029-a8eb180dd586",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=306a4295-a0a7-4120-8029-a8eb180dd586&btn=buy&shop_rank=27&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 17416683,
+                "price_text": "۱۷٫۴۱۶٫۶۸۳ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۷٫۴۱۶٫۶۸۳ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "شیر توالت شودر مدل یونیک",
+                "name2": "گارانتی 72 ماهه شودر",
+                "shop_name": "ساختمان استور",
+                "shop_name2": "تهران",
+                "shop_id": 160917,
+                "has_public_torob_profile": true,
+                "prk": "2b4db977-0e52-430b-8cfe-0266fe39c56c",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=2b4db977-0e52-430b-8cfe-0266fe39c56c&btn=buy&shop_rank=28&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۱۱٫۳۹۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۱۱٫۳۹۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "در شهر تهران ارسال سفارش از طریق مامورین ارسال ساختمان استور و یا پیک صورت می گیرد و هزینه ارسال در مناطق 22 گانه 250.000 تومان می باشد ( برای شهرستان های حومه تهران شرایط ارسال متفاوت می باشد )\nبرای سایر شهرها بسته به نوع و ماهیت کالا و یا درخواست خود مشتری ارسال از طریق باربری های بین شهری و یا تیپاکس و پست صورت میگیرد. در این حالت هزینه ارسال تا باربری و یا تیپاکس رایگان بوده و هزینه ارسال از تهران به شهر شما به صورت پس کرایه ودر هنگام تحویل کالا پرداخت خواهد شد .\nتحویل حضوری برخی کالاها درب انبار با هماهنگی قبلی امکان پذیر می باشد ."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790433982",
+        "count": 41,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&suid=01a0de2e4437702ba93c354465aa8fa5&cities=&province=&algorithm=text_similarity&prk=77d36076-abe3-411f-9027-bbf93e006128&list_type=products_info&seed=1790433982"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "26857f0e-177d-4c5d-9a59-950fd8d8796c",
+                "shop_id": 255207,
+                "name1": "بلوار آیت الله کاشانی...",
+                "name2": "",
+                "shop_name": "اسلب کلکسیون",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 8800000,
+                "price_string": "۸٫۸۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۸ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/50b24b730230.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=26857f0e-177d-4c5d-9a59-950fd8d8796c&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=255207&member_type=product_in_store",
+                    "count": 3
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=26857f0e-177d-4c5d-9a59-950fd8d8796c&btn=buy&shop_rank=0&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار آیت الله کاشانی...",
+                "installment": null
+            },
+            {
+                "prk": "aae017b5-b6b4-4c28-a664-faaf0aa800fe",
+                "shop_id": 314735,
+                "name1": "هوانیروز، سی و پنج...",
+                "name2": "۶سال ضمانت و خدمات پس از فروش",
+                "shop_name": "کاشی تبریز دریاچه",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۱۰:۳۰ - ۱۵:۰۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 10900000,
+                "price_string": "۱۰٫۹۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۵ ماه و ۴ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/4b796794e36c.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=aae017b5-b6b4-4c28-a664-faaf0aa800fe&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=314735&member_type=product_in_store",
+                    "count": 4
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=aae017b5-b6b4-4c28-a664-faaf0aa800fe&btn=buy&shop_rank=1&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "هوانیروز، سی و پنج...",
+                "installment": null
+            },
+            {
+                "prk": "8e1dbad1-5507-4765-a161-a163d83a5a80",
+                "shop_id": 420574,
+                "name1": "بزرگراه رسالت، خیابان بنی...",
+                "name2": "پخش و نمایندگی رسمی شودر\nخرید با اطمینان از اصالت کالا\nتخفیف‌های واقعی، بدون هزینه‌های پنهان\nبرای استعلام قیمت و خرید حضوری با ما تماس بگیرید",
+                "shop_name": "کلینیک ساختمانی مهربان",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "بسته",
+                        "text": "تا ۱۰:۰۰ فردا"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۱۰:۰۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": "ساعت کاری این فروشگاه از ۱۰:۰۰ تا ۱۷:۰۰ است. می‌خواهید با فروشگاه تماس بگیرید؟"
+                },
+                "is_open": false,
+                "price": 11004000,
+                "price_string": "۱۱٫۰۰۴٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۸ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/c826dab4c838.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=8e1dbad1-5507-4765-a161-a163d83a5a80&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=420574&member_type=product_in_store",
+                    "count": 2
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=8e1dbad1-5507-4765-a161-a163d83a5a80&btn=buy&shop_rank=2&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بزرگراه رسالت، خیابان بنی...",
+                "installment": null
+            },
+            {
+                "prk": "86bd7f72-d948-411c-b89b-343fb61045da",
+                "shop_id": 430624,
+                "name1": "بزرگراه رسالت، خیابان بنی...",
+                "name2": "",
+                "shop_name": "پخش الماس پویا",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 11100000,
+                "price_string": "۱۱٫۱۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۱۸ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/00f2559d0909.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=86bd7f72-d948-411c-b89b-343fb61045da&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=430624&member_type=product_page",
+                    "count": 4
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=86bd7f72-d948-411c-b89b-343fb61045da&btn=buy&shop_rank=3&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بزرگراه رسالت، خیابان بنی...",
+                "installment": null
+            },
+            {
+                "prk": "11a48a6e-19ad-4c65-a79c-08f6c6c6dc7d",
+                "shop_id": 15022,
+                "name1": "خیابان بنی هاشم ...",
+                "name2": "",
+                "shop_name": "میلاد تهران",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۰۰:۰۰ - ۰۰:۰۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 11135000,
+                "price_string": "۱۱٫۱۳۵٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۴ ماه و ۱۵ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/8d49fe776b91.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=11a48a6e-19ad-4c65-a79c-08f6c6c6dc7d&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=15022&member_type=product_page",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=11a48a6e-19ad-4c65-a79c-08f6c6c6dc7d&btn=buy&shop_rank=4&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان بنی هاشم ...",
+                "installment": null
+            },
+            {
+                "prk": "97f1f512-c90f-4e2f-951f-5911a6a78726",
+                "shop_id": 89176,
+                "name1": "خیابان شهیدان غربی، بعد...",
+                "name2": "",
+                "shop_name": "کلینیک ساختمانی جهان نما گستر",
+                "shop_badge": null,
+                "shop_name2": "اصفهان",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰ | ۱۶:۰۰ - ۲۰:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰ | ۱۶:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰ | ۱۶:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰ | ۱۶:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰ | ۱۶:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۱۴:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۰۰:۰۰ - ۲۳:۵۹",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 11520000,
+                "price_string": "۱۱٫۵۲۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۴ ماه و ۲۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/f02a75c11904.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=97f1f512-c90f-4e2f-951f-5911a6a78726&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=89176&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=97f1f512-c90f-4e2f-951f-5911a6a78726&btn=buy&shop_rank=5&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان شهیدان غربی، بعد...",
+                "installment": null
+            },
+            {
+                "prk": "be028b32-1534-4704-b6fc-393a0352af48",
+                "shop_id": 41466,
+                "name1": "بزرگراه رسالت، خیابان بنی...",
+                "name2": "",
+                "shop_name": "گالری بنیتو",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 11528000,
+                "price_string": "۱۱٫۵۲۸٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۲۹ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=be028b32-1534-4704-b6fc-393a0352af48&btn=buy&shop_rank=6&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بزرگراه رسالت، خیابان بنی...",
+                "installment": null
+            },
+            {
+                "prk": "1542fa33-e198-4c30-bb8a-f783336dd535",
+                "shop_id": 69669,
+                "name1": "کاشانی٬خیابان وفاآذر شکالی٬پلاک۴۷",
+                "name2": "",
+                "shop_name": "فروشگاه آزمون",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰ | ۰۱:۳۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۱۱:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 11800000,
+                "price_string": "۱۱٫۸۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۴ ماه و ۹ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=1542fa33-e198-4c30-bb8a-f783336dd535&btn=buy&shop_rank=7&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "کاشانی٬خیابان وفاآذر شکالی٬پلاک۴۷",
+                "installment": null
+            },
+            {
+                "prk": "df348c37-f369-40e0-900e-cb941c3daa00",
+                "shop_id": 395371,
+                "name1": "میدان بسیج، پلاک ۱...",
+                "name2": "",
+                "shop_name": "سهند تکنیک گرمسار",
+                "shop_badge": null,
+                "shop_name2": "گرمسار",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۱۳:۰۰ | ۱۶:۳۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 11960000,
+                "price_string": "۱۱٫۹۶۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۲ ماه و ۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/eb25b16091f1.jpeg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=df348c37-f369-40e0-900e-cb941c3daa00&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=395371&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=df348c37-f369-40e0-900e-cb941c3daa00&btn=buy&shop_rank=8&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "میدان بسیج، پلاک ۱...",
+                "installment": null
+            },
+            {
+                "prk": "f3d04555-9b13-4687-8a51-bf48ded20b4c",
+                "shop_id": 75452,
+                "name1": "بلوار آیت الله کاشانی...",
+                "name2": "",
+                "shop_name": "کلکسیون",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۱۰:۰۰ - ۱۴:۰۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 12445000,
+                "price_string": "۱۲٫۴۴۵٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۴ ماه و ۲۷ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/682249f23f69.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=f3d04555-9b13-4687-8a51-bf48ded20b4c&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=75452&member_type=product_in_store",
+                    "count": 5
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=f3d04555-9b13-4687-8a51-bf48ded20b4c&btn=buy&shop_rank=9&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار آیت الله کاشانی...",
+                "installment": null
+            },
+            {
+                "prk": "c214161c-4b2a-4d5b-9a92-d5cd00534295",
+                "shop_id": 15577,
+                "name1": "خیابان بنی هاشم، کوچه...",
+                "name2": "",
+                "shop_name": "نوین هوم",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 13100000,
+                "price_string": "۱۳٫۱۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/3ebf1787223d.jpeg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=c214161c-4b2a-4d5b-9a92-d5cd00534295&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=15577&member_type=product_page",
+                    "count": 2
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=c214161c-4b2a-4d5b-9a92-d5cd00534295&btn=buy&shop_rank=10&ct=1&pdp_display=seller_card&view=&app_ver=&installment=23%3A1xATfS%3Ah368y5pha43sls_gxYbrDs_jKUBGPpQAVuhQ7HfOdmM",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان بنی هاشم، کوچه...",
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پیش پرداخت+ اقساط 1 الی 5 ماهه",
+                            "short_title": "امکان پرداخت با چک صیادی",
+                            "logo": null,
+                            "name": "نوین هوم",
+                            "description": "امکان خرید قسطی از طریق تماس تلفنی",
+                            "more_info_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "prk": "653a3490-60d1-425b-b9df-f288286e960f",
+                "shop_id": 303445,
+                "name1": "سه راه گوهردشت، بلوار...",
+                "name2": "گارانتی : ۵ +۱ سال رسمی شرکت شودر",
+                "shop_name": "شیرنو",
+                "shop_badge": null,
+                "shop_name2": "کرج",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "بسته",
+                        "text": "تا ۰۹:۳۰ فردا"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۲۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": "امروز فروشگاه تعطیل است. میخواهید با فروشگاه تماس بگیرید؟"
+                },
+                "is_open": false,
+                "price": 14311750,
+                "price_string": "۱۴٫۳۱۱٫۷۵۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۲ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/4f4e7f440000.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=653a3490-60d1-425b-b9df-f288286e960f&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=303445&member_type=product_page",
+                    "count": 5
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=653a3490-60d1-425b-b9df-f288286e960f&btn=buy&shop_rank=11&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "سه راه گوهردشت، بلوار...",
+                "installment": null
+            },
+            {
+                "prk": "71dff0cd-bc71-4232-9cf3-6c68633d3504",
+                "shop_id": 51109,
+                "name1": "بازارآهن شادآباد، بلوار طاووس...",
+                "name2": "دارای ۵ سال ضمانت و خدمات پس از فروش",
+                "shop_name": "شیرآلات حافظ",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 14410000,
+                "price_string": "۱۴٫۴۱۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=71dff0cd-bc71-4232-9cf3-6c68633d3504&btn=buy&shop_rank=12&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بازارآهن شادآباد، بلوار طاووس...",
+                "installment": null
+            },
+            {
+                "prk": "068c590b-a149-47cd-9e0c-8ebffa80c109",
+                "shop_id": 29613,
+                "name1": "خیابان شهید عراقی ...",
+                "name2": "۵ سال",
+                "shop_name": "یونیک لند",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 14412148,
+                "price_string": "۱۴٫۴۱۲٫۱۴۸ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱۵ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=068c590b-a149-47cd-9e0c-8ebffa80c109&btn=buy&shop_rank=13&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان شهید عراقی ...",
+                "installment": null
+            },
+            {
+                "prk": "99756646-c2e3-48b7-90a8-a5c28786cb90",
+                "shop_id": 16515,
+                "name1": "بلوار کشاورز، کشاورز یک...",
+                "name2": "",
+                "shop_name": "کابی لند",
+                "shop_badge": null,
+                "shop_name2": "مشهد",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 15720000,
+                "price_string": "۱۵٫۷۲۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/c891602d9930.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=99756646-c2e3-48b7-90a8-a5c28786cb90&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=16515&member_type=product_page",
+                    "count": 4
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=99756646-c2e3-48b7-90a8-a5c28786cb90&btn=buy&shop_rank=14&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار کشاورز، کشاورز یک...",
+                "installment": null
+            },
+            {
+                "prk": "af33546a-c24e-48dc-9a1e-6ca63c36f531",
+                "shop_id": 128480,
+                "name1": "چهارراه گلوبندک، پاساژ برلیان...",
+                "name2": "قیمت رنگ کروم درج شده است",
+                "shop_name": "پارس صنعت تاسیسات",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۱۹:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۳۰ - ۱۹:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۳۰ - ۱۹:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۳۰ - ۱۹:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۳۰ - ۱۹:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۳۰ - ۱۹:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۳۰ - ۱۴:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 10900000,
+                "price_string": "۱۰٫۹۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": true,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۳ ماه و ۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/b295580a9f01.jpeg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=af33546a-c24e-48dc-9a1e-6ca63c36f531&base_rk=77d36076-abe3-411f-9027-bbf93e006128&shop_id=128480&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=af33546a-c24e-48dc-9a1e-6ca63c36f531&btn=buy&shop_rank=15&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "چهارراه گلوبندک، پاساژ برلیان...",
+                "installment": null
+            }
+        ],
+        "seed": "1790433982",
+        "count": 16,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&cities=&province=&prk=77d36076-abe3-411f-9027-bbf93e006128&list_type=products_in_store_info&seed=1790433982&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=77d36076-abe3-411f-9027-bbf93e006128&source=next_desktop&discover_method=search&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&seed=1790433982&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=77d36076-abe3-411f-9027-bbf93e006128&source=next_desktop&discover_method=search&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&seed=1790433982&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۱۳٫۱۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "انتخاب شهر من",
+                "type": "city_select_empty",
+                "action": "is_filtered_by_city",
+                "price_str": "",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۱۱٫۱۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 5,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 5,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de2e4437702ba93c354465aa8fa5&search_id=01a0de2e4437702ba93c354465aa8fa5&cities=&province=&init_suid=01a0de2e4437702ba93c354465aa8fa5&algorithm=text_similarity&prk=77d36076-abe3-411f-9027-bbf93e006128&bvid=01a0de2e770174e2b9d07098596ffe0c&no_log=true&seed=1790433982",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=77d36076-abe3-411f-9027-bbf93e006128&base_id=9607352&source=next_desktop&bvid=01a0de2e770174e2b9d07098596ffe0c&init_suid=01a0de2e4437702ba93c354465aa8fa5"
+    },
+    "min_price": 11100000,
+    "max_price": 17416683,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 125,
+            "title": "تجهیزات ساختمان",
+            "url": "/browse/125/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-building-tools/",
+            "cat_id": 125,
+            "brand_id": null
+        },
+        {
+            "id": 6154,
+            "title": "تجهیزات آشپزخانه و بهداشتی ساختمان",
+            "url": "/browse/6154/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86/",
+            "cat_id": 6154,
+            "brand_id": null
+        },
+        {
+            "id": 442,
+            "title": "سینک ظرفشویی و شیرآلات",
+            "url": "/browse/442/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-sink/",
+            "cat_id": 442,
+            "brand_id": null
+        },
+        {
+            "id": 1628,
+            "title": "شیرآلات ساختمانی",
+            "url": "/browse/1628/%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C/",
+            "cat_id": 1628,
+            "brand_id": null
+        },
+        {
+            "id": 2420,
+            "title": "شیرآلات سرویس بهداشتی و حمام",
+            "url": "/browse/2420/%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D9%88-%D8%AD%D9%85%D8%A7%D9%85/",
+            "cat_id": 2420,
+            "brand_id": null
+        },
+        {
+            "id": 2417,
+            "title": "شیر توالت",
+            "url": "/browse/2417/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA/",
+            "cat_id": 2417,
+            "brand_id": null
+        },
+        {
+            "id": 2417,
+            "title": "شودر (Shouder)",
+            "url": "/browse/2417/%D8%B4%DB%8C%D8%B1-%D8%AA%D9%88%D8%A7%D9%84%D8%AA/b/1479/shouder-%D8%B4%D9%88%D8%AF%D8%B1/",
+            "cat_id": 2417,
+            "brand_id": 1479
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "نام تجاری": "شودر",
+                    "رنگ": "کروم مات",
+                    "مدل": "یونیک",
+                    "دسته بندی برند": "ایرانی",
+                    "جنس بدنه": "آلیاژ برنج",
+                    "کارتریج": "سرامیکی",
+                    "دسته": "اهرمی",
+                    "تعداد دسته": "1",
+                    "تعداد خروجی آب": "1",
+                    "نرخ جریان آب(دبی)": "8-9",
+                    "شلنگ توالت": "جداگانه باید تهیه شود",
+                    "کشور سازنده": "ایران",
+                    "سایر توضیحات": "دارای بسته بندی مناسب جهت جلوگیری از آسیب به شیرالات"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "شیر-توالت-شودر-مدل-یونیک-کروم",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=77d36076-abe3-411f-9027-bbf93e006128",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=77d36076-abe3-411f-9027-bbf93e006128&limit=24&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+    "torob_category": 2417,
+    "no_index": false,
+    "buy_box_price_text": "از ۱۱٫۱۰۰٫۰۰۰ تومان تا ۱۷٫۴۱۶٫۶۸۳ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=86bd7f72-d948-411c-b89b-343fb61045da&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از پخش الماس پویا",
+    "new_buy_box_button_text2": "۱۱٫۱۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de2e4437702ba93c354465aa8fa5&suid=01a0de2e4437702ba93c354465aa8fa5&bvid=01a0de2e770174e2b9d07098596ffe0c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de2e4437702ba93c354465aa8fa5&prk=86bd7f72-d948-411c-b89b-343fb61045da&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de2e4437702ba93c354465aa8fa5&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "fe07c967-ea75-4e8c-8f37-27db06277bb3",
+    "new_buy_box_source_prk": "86bd7f72-d948-411c-b89b-343fb61045da",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۱۸ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/xU/uB/xUuBHJ0Npua5ALru.jpg",
+                "https://image.torob.com/base/images/1E/0A/1E0A9upw0qiVVxSz.jpg",
+                "https://image.torob.com/base/images/kK/Gg/kKGgb_wfOH0ssoV4.jpg",
+                "https://image.torob.com/base/images/-3/r_/-3r_CNb7Tr5p67Q8.jpg"
+            ]
+        }
+    ]
+}

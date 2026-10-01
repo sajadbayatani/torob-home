@@ -1,0 +1,232 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "8f46ad0f-6821-4713-9a4b-739462f63c24",
+    "name1": "مبل راحتی مدل پیندو ۸ نفره تدی",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4822087039bef54296fab86224&search_id=01a0de4822087039bef54296fab86224&cities=&province=&init_suid=01a0de4822087039bef54296fab86224&algorithm=text_similarity&prk=8f46ad0f-6821-4713-9a4b-739462f63c24",
+    "web_client_absolute_url": "/p/8f46ad0f-6821-4713-9a4b-739462f63c24/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-%D9%BE%DB%8C%D9%86%D8%AF%D9%88-8-%D9%86%D9%81%D8%B1%D9%87-%D8%AA%D8%AF%DB%8C/",
+    "price": 41500000,
+    "price_prefix": "cheapest",
+    "price_text": "۴۱٫۵۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در آوینا چوب شاپ",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&limit=24&init_suid=01a0de4822087039bef54296fab86224",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&discover_method=search_image_base_pdp&prev_uid=01a0de4822087039bef54296fab86224&init_suid=01a0de4822087039bef54296fab86224",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/LT/bZ/LTbZGgZANlu2YK64.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/XE/jq/XEjqIeG7V25KrUVP.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/JJ/QO/JJQO-ODFrsmL0Hsd.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/AT/mE/ATmEbiKreeg7qsCo.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/LT/bZ/LTbZGgZANlu2YK64.jpg",
+    "image_count": 4,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&bvid=01a0de485d3274a899830ad9a8e2dac8&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4822087039bef54296fab86224&prk=be451919-cb82-4ad9-8f46-5c28232fc8d6&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de4822087039bef54296fab86224",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل پیندو ۸ نفره تدی",
+                "name2": "",
+                "shop_name": "آوینا چوب شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 305770,
+                "has_public_torob_profile": true,
+                "prk": "be451919-cb82-4ad9-8f46-5c28232fc8d6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&bvid=01a0de485d3274a899830ad9a8e2dac8&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4822087039bef54296fab86224&prk=be451919-cb82-4ad9-8f46-5c28232fc8d6&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4822087039bef54296fab86224",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 41500000,
+                "price_text": "۴۱٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۱٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435679",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&bvid=01a0de485d3274a899830ad9a8e2dac8&suid=01a0de4822087039bef54296fab86224&cities=&province=&algorithm=text_similarity&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&list_type=products_info&seed=1790435679"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435679",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&cities=&province=&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&list_type=products_in_store_info&seed=1790435679&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=8f46ad0f-6821-4713-9a4b-739462f63c24&source=next_desktop&discover_method=search&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&seed=1790435679&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=8f46ad0f-6821-4713-9a4b-739462f63c24&source=next_desktop&discover_method=search&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&seed=1790435679&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4822087039bef54296fab86224&search_id=01a0de4822087039bef54296fab86224&cities=&province=&init_suid=01a0de4822087039bef54296fab86224&algorithm=text_similarity&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&bvid=01a0de485d3274a899830ad9a8e2dac8&no_log=true&seed=1790435679",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=8f46ad0f-6821-4713-9a4b-739462f63c24&base_id=179468165&source=next_desktop&bvid=01a0de485d3274a899830ad9a8e2dac8&init_suid=01a0de4822087039bef54296fab86224"
+    },
+    "min_price": 41500000,
+    "max_price": 41500000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 348,
+            "title": "مبلمان منزل",
+            "url": "/browse/348/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B2%D9%84-furniture/",
+            "cat_id": 348,
+            "brand_id": null
+        },
+        {
+            "id": 2605,
+            "title": "مبل راحتی",
+            "url": "/browse/2605/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 2605,
+            "brand_id": null
+        },
+        {
+            "id": 1545,
+            "title": "سایر  مبل راحتی",
+            "url": "/browse/1545/%D8%B3%D8%A7%DB%8C%D8%B1-%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 1545,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "نوع‌پارچه": "دیاموند"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "مبل-راحتی-مدل-پیندو-8-نفره-تدی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=8f46ad0f-6821-4713-9a4b-739462f63c24",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8f46ad0f-6821-4713-9a4b-739462f63c24&limit=24&init_suid=01a0de4822087039bef54296fab86224",
+    "torob_category": 1545,
+    "no_index": false,
+    "buy_box_price_text": "۴۱٫۵۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&bvid=01a0de485d3274a899830ad9a8e2dac8&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4822087039bef54296fab86224&prk=be451919-cb82-4ad9-8f46-5c28232fc8d6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4822087039bef54296fab86224",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از آوینا چوب شاپ",
+    "new_buy_box_button_text2": "۴۱٫۵۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4822087039bef54296fab86224&suid=01a0de4822087039bef54296fab86224&bvid=01a0de485d3274a899830ad9a8e2dac8&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4822087039bef54296fab86224&prk=be451919-cb82-4ad9-8f46-5c28232fc8d6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4822087039bef54296fab86224&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "be451919-cb82-4ad9-8f46-5c28232fc8d6",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/XE/jq/XEjqIeG7V25KrUVP.jpg",
+                "https://image.torob.com/base/images/JJ/QO/JJQO-ODFrsmL0Hsd.jpg",
+                "https://image.torob.com/base/images/AT/mE/ATmEbiKreeg7qsCo.jpg"
+            ]
+        }
+    ]
+}

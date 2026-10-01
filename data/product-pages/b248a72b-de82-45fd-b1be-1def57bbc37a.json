@@ -1,0 +1,252 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "b248a72b-de82-45fd-b1be-1def57bbc37a",
+    "name1": "کاسه توالت ایرانی آنتی باکتریال گلچین",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3439e1702b8311d2aa8b2e0130&search_id=01a0de3439e1702b8311d2aa8b2e0130&cities=&province=&init_suid=01a0de3439e1702b8311d2aa8b2e0130&algorithm=text_similarity&prk=b248a72b-de82-45fd-b1be-1def57bbc37a",
+    "web_client_absolute_url": "/p/b248a72b-de82-45fd-b1be-1def57bbc37a/%DA%A9%D8%A7%D8%B3%D9%87-%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%AA%DB%8C-%D8%A8%D8%A7%DA%A9%D8%AA%D8%B1%DB%8C%D8%A7%D9%84-%DA%AF%D9%84%DA%86%DB%8C%D9%86/",
+    "price": 19700000,
+    "price_prefix": "cheapest",
+    "price_text": "۱۹٫۷۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در راندماکس",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&limit=24&init_suid=01a0de3439e1702b8311d2aa8b2e0130",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&discover_method=search_image_base_pdp&prev_uid=01a0de3439e1702b8311d2aa8b2e0130&init_suid=01a0de3439e1702b8311d2aa8b2e0130",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/4c/I0/4cI04ydKb_xlpDNv.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ej/0U/Ej0Upzj5cJ1MQ58T.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/4c/0M/4c0MTzSY-CaPGNq4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Fj/GC/FjGC_pelx6ubzJFr.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ln/Bf/LnBfKtk0XXjs_5ST.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/oG/wo/oGwo5YPrE3KykPyR.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Hb/c4/Hbc4cbesELN9zkEj.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/4c/I0/4cI04ydKb_xlpDNv.jpg",
+    "image_count": 7,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "کاسه توالت ایرانی آنتی باکتریال استیل گلچین",
+                "name2": "",
+                "shop_name": "راندماکس",
+                "shop_name2": "تهران",
+                "shop_id": 9947,
+                "has_public_torob_profile": true,
+                "prk": "300dd16c-7115-4d31-a16a-6e288aab2edd",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3439e1702b8311d2aa8b2e0130&suid=01a0de3439e1702b8311d2aa8b2e0130&bvid=01a0de349bb677a0a196296a9f409e8c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3439e1702b8311d2aa8b2e0130&prk=300dd16c-7115-4d31-a16a-6e288aab2edd&btn=buy&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3439e1702b8311d2aa8b2e0130",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 19700000,
+                "price_text": "۱۹٫۷۰۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۱۹٫۷۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "1-پیک در تهران\n2-باربری برای شهرستانها\n3-پست\n4-تیپاکس\n5-پست بار\n6-سایر شرکتهای حمل بار"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434384",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3439e1702b8311d2aa8b2e0130&bvid=01a0de349bb677a0a196296a9f409e8c&suid=01a0de3439e1702b8311d2aa8b2e0130&cities=&province=&algorithm=text_similarity&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&list_type=products_info&seed=1790434384"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434384",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3439e1702b8311d2aa8b2e0130&cities=&province=&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&list_type=products_in_store_info&seed=1790434384&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=b248a72b-de82-45fd-b1be-1def57bbc37a&source=next_desktop&discover_method=search&search_id=01a0de3439e1702b8311d2aa8b2e0130&suid=01a0de3439e1702b8311d2aa8b2e0130&seed=1790434384&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=b248a72b-de82-45fd-b1be-1def57bbc37a&source=next_desktop&discover_method=search&search_id=01a0de3439e1702b8311d2aa8b2e0130&suid=01a0de3439e1702b8311d2aa8b2e0130&seed=1790434384&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3439e1702b8311d2aa8b2e0130&search_id=01a0de3439e1702b8311d2aa8b2e0130&cities=&province=&init_suid=01a0de3439e1702b8311d2aa8b2e0130&algorithm=text_similarity&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&bvid=01a0de349bb677a0a196296a9f409e8c&no_log=true&seed=1790434384",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=b248a72b-de82-45fd-b1be-1def57bbc37a&base_id=44790014&source=next_desktop&bvid=01a0de349bb677a0a196296a9f409e8c&init_suid=01a0de3439e1702b8311d2aa8b2e0130"
+    },
+    "min_price": 19700000,
+    "max_price": 19700000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 149,
+            "title": "حمام و دستشویی",
+            "url": "/browse/149/%D8%AD%D9%85%D8%A7%D9%85-%D9%88-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-toilet-and-bath/",
+            "cat_id": 149,
+            "brand_id": null
+        },
+        {
+            "id": 396,
+            "title": "لوازم دستشویی",
+            "url": "/browse/396/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-bathroom-instruments/",
+            "cat_id": 396,
+            "brand_id": null
+        },
+        {
+            "id": 1610,
+            "title": "توالت ایرانی",
+            "url": "/browse/1610/%D8%AA%D9%88%D8%A7%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/",
+            "cat_id": 1610,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "برند": "گلچین (golchin)",
+                    "جنس بدنه": "استینلس استیل",
+                    "رنگ": "مشکی مات, نسکافه ای, هفتت رنگ, استیل, طلایی, قرمز",
+                    "ابعاد": "18*50*60, 18*60*62"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "کاسه-توالت-ایرانی-انتی-باکتریال-گلچین",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=b248a72b-de82-45fd-b1be-1def57bbc37a",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b248a72b-de82-45fd-b1be-1def57bbc37a&limit=24&init_suid=01a0de3439e1702b8311d2aa8b2e0130",
+    "torob_category": 1610,
+    "no_index": false,
+    "buy_box_price_text": "۱۹٫۷۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3439e1702b8311d2aa8b2e0130&suid=01a0de3439e1702b8311d2aa8b2e0130&bvid=01a0de349bb677a0a196296a9f409e8c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3439e1702b8311d2aa8b2e0130&prk=300dd16c-7115-4d31-a16a-6e288aab2edd&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3439e1702b8311d2aa8b2e0130",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از راندماکس",
+    "new_buy_box_button_text2": "۱۹٫۷۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3439e1702b8311d2aa8b2e0130&suid=01a0de3439e1702b8311d2aa8b2e0130&bvid=01a0de349bb677a0a196296a9f409e8c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3439e1702b8311d2aa8b2e0130&prk=300dd16c-7115-4d31-a16a-6e288aab2edd&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3439e1702b8311d2aa8b2e0130&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "300dd16c-7115-4d31-a16a-6e288aab2edd",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/Ej/0U/Ej0Upzj5cJ1MQ58T.jpg",
+                "https://image.torob.com/base/images/4c/0M/4c0MTzSY-CaPGNq4.jpg",
+                "https://image.torob.com/base/images/Fj/GC/FjGC_pelx6ubzJFr.jpg",
+                "https://image.torob.com/base/images/Ln/Bf/LnBfKtk0XXjs_5ST.jpg",
+                "https://image.torob.com/base/images/oG/wo/oGwo5YPrE3KykPyR.jpg",
+                "https://image.torob.com/base/images/Hb/c4/Hbc4cbesELN9zkEj.jpg"
+            ]
+        }
+    ]
+}

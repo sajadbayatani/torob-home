@@ -1,0 +1,1883 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "302f6a14-d7b8-4b54-82cd-bfdae40eb83d",
+            "name1": "ماشین لباسشویی ال جی مدل WT2116BRK ظرفیت ۱۶ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=result_adv&prk=302f6a14-d7b8-4b54-82cd-bfdae40eb83d&ad=01a0dddb71cc7562b694665d2636464e&rank=0",
+            "web_client_absolute_url": "/p/302f6a14-d7b8-4b54-82cd-bfdae40eb83d/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-wt2116brk-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-16-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 630000000,
+            "price_prefix": "cheapest",
+            "price_text": "۶۳۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در پریما کالا",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=302f6a14-d7b8-4b54-82cd-bfdae40eb83d&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=302f6a14-d7b8-4b54-82cd-bfdae40eb83d&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mF/6w/mF6wz2is9IY1mZI6.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/gs/Be/gsBenYb3zqjq8iAM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ka/dx/kadxqyW6t8z74vIi.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Q8/kR/Q8kR1dUmureRO5fx.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6e/kI/6ekIeIu5Cc77YViF.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/mF/6w/mF6wz2is9IY1mZI6.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "7c7acd1a-b518-4a26-bb52-ec6247ae12db",
+            "name1": "ماشین لباسشویی پاکشوما مدل L9 ظرفیت ۹ کیلوگرم درب از جلو با موتور BLDC",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=7c7acd1a-b518-4a26-bb52-ec6247ae12db&rank=1",
+            "web_client_absolute_url": "/p/7c7acd1a-b518-4a26-bb52-ec6247ae12db/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-l9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-bldc/",
+            "price": 85000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۵٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=7c7acd1a-b518-4a26-bb52-ec6247ae12db&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=7c7acd1a-b518-4a26-bb52-ec6247ae12db&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/B1/x5/B1x585us2r_cuOxk.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/B1/x5/B1x585us2r_cuOxk.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "bc0d88aa-d223-40b3-b6bd-86331a72ac7b",
+            "name1": "ماشین لباسشویی ال جی F4R5VYL2P",
+            "name1_max_lines": 3,
+            "name2": "LG 9 kg washing machine model F4R5VYL2P",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=bc0d88aa-d223-40b3-b6bd-86331a72ac7b&rank=2",
+            "web_client_absolute_url": "/p/bc0d88aa-d223-40b3-b6bd-86331a72ac7b/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-f4r5vyl2p/",
+            "price": 98000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۹۸٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۹۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=bc0d88aa-d223-40b3-b6bd-86331a72ac7b&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=bc0d88aa-d223-40b3-b6bd-86331a72ac7b&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/8S/tw/8Stw8S-bM3BOd1AM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nR/oN/nRoNvVoR5bgFnL4W.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/8S/tw/8Stw8S-bM3BOd1AM.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "74f5d748-7ae5-45b9-ab2d-77f6a0ed8366",
+            "name1": "ماشین لباسشویی پاکشوما مدل X106 ظرفیت ۱۱ کیلوگرم درب از جلو با موتور BLDC و ۱۶ برنامه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=74f5d748-7ae5-45b9-ab2d-77f6a0ed8366&rank=3",
+            "web_client_absolute_url": "/p/74f5d748-7ae5-45b9-ab2d-77f6a0ed8366/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-x106-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-11-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-bldc-%D9%88-16-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87/",
+            "price": 105000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰۵٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=74f5d748-7ae5-45b9-ab2d-77f6a0ed8366&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=74f5d748-7ae5-45b9-ab2d-77f6a0ed8366&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/df/yd/dfyd_tWj-LgsKcIZ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/DH/5u/DH5urlFz1RMb11go.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9K/WB/9KWBDZA57ItZSgXn.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/dJ/3M/dJ3MaNe6-6aSMxVL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Z1/Tw/Z1TwtBXXOrj1biUb.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Fa/l4/Fal4zyX2iW0CF02B.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/df/yd/dfyd_tWj-LgsKcIZ.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b4b39e79-d96b-40b7-8034-e1edce2e4f8a",
+            "name1": "ماشین لباسشویی دوو LM-830S ظرفیت ۸ کیلوگرم درب از جلو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=b4b39e79-d96b-40b7-8034-e1edce2e4f8a&rank=4",
+            "web_client_absolute_url": "/p/b4b39e79-d96b-40b7-8034-e1edce2e4f8a/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%88-lm-830s-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88/",
+            "price": 71400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۱٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b4b39e79-d96b-40b7-8034-e1edce2e4f8a&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b4b39e79-d96b-40b7-8034-e1edce2e4f8a&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/RL/sX/RLsX8u1N3gqv4XG9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/uY/-i/uY-iwjLNQeTujLkP.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/RL/sX/RLsX8u1N3gqv4XG9.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "efc1c63a-367a-4cbb-b6db-1266e6cad68d",
+            "name1": "ماشین لباسشویی پاکشوما مدل TLX7001W ظرفیت ۷ کیلوگرم درب از بالا",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=efc1c63a-367a-4cbb-b6db-1266e6cad68d&rank=5",
+            "web_client_absolute_url": "/p/efc1c63a-367a-4cbb-b6db-1266e6cad68d/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-tlx7001w-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-7-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%84%D8%A7/",
+            "price": 26400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۶٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=efc1c63a-367a-4cbb-b6db-1266e6cad68d&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=efc1c63a-367a-4cbb-b6db-1266e6cad68d&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4q/cP/4qcP-jKOoxbuPbpj.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/4q/cP/4qcP-jKOoxbuPbpj.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "608c6b50-94f4-4c98-a508-ba1ba93b7336",
+            "name1": "ماشین لباسشویی ال جی مدل WY1409MVP ظرفیت ۹ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "LG Washing Machine 9kg WY1409MVP",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=608c6b50-94f4-4c98-a508-ba1ba93b7336&rank=6",
+            "web_client_absolute_url": "/p/608c6b50-94f4-4c98-a508-ba1ba93b7336/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-wy1409mvp-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 106100000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰۶٫۱۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=608c6b50-94f4-4c98-a508-ba1ba93b7336&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=608c6b50-94f4-4c98-a508-ba1ba93b7336&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/eT/ua/eTua9U4Ji39Q2U9S.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/US/sV/USsVHh-4w2g72Cef.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lq/d9/lqd9GRVyKICaP_if.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/to/EK/toEKPVB63FQEE3sJ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5j/39/5j39luhkVGxk5Hch.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Lx/4u/Lx4uIgfvOA6m0z6t.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/kb/C0/kbC0pyPLRDQGEWhR.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/eT/ua/eTua9U4Ji39Q2U9S.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "17de8598-ee9f-46ac-b009-c68b3f82ada5",
+            "name1": "ماشین لباسشویی 9 کیلویی ال جی مدل F4V5VYP0W / F4V5VYP2T",
+            "name1_max_lines": 3,
+            "name2": "LG F4V5 / V5 Washing Machine 9Kg",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=17de8598-ee9f-46ac-b009-c68b3f82ada5&rank=7",
+            "web_client_absolute_url": "/p/17de8598-ee9f-46ac-b009-c68b3f82ada5/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-9-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-f4v5vyp0w-f4v5vyp2t/",
+            "price": 101800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰۱٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=17de8598-ee9f-46ac-b009-c68b3f82ada5&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=17de8598-ee9f-46ac-b009-c68b3f82ada5&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vk/lz/Vklz-XkUESJxQS5U.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/f5/5n/f55nz-aMFMAhmR7q.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mX/tT/mXtTyb7HuBTaecUu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Sj/CZ/SjCZh5Q3Ter1JEt5.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ND/dv/NDdvU49STjlV8Sp2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Cs/7R/Cs7RtM2vZCumbOoU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xq/-D/xq-D-iP55fL6p5-A.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Vk/lz/Vklz-XkUESJxQS5U.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "027626a7-de3f-4c38-9fec-228501a79319",
+            "name1": "ماشین لباسشویی پاکشوما مدل TLAB1201",
+            "name1_max_lines": 3,
+            "name2": "Pakshoma TLAB1201 Washing Machine",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=027626a7-de3f-4c38-9fec-228501a79319&rank=8",
+            "web_client_absolute_url": "/p/027626a7-de3f-4c38-9fec-228501a79319/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-tlab1201/",
+            "price": 47980000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۷٫۹۸۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=027626a7-de3f-4c38-9fec-228501a79319&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=027626a7-de3f-4c38-9fec-228501a79319&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/NQ/tF/NQtFXGBdj5Mx97wQ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/NQ/tF/NQtFXGBdj5Mx97wQ.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "6434e15b-fc44-43f4-9de9-a6278119149f",
+            "name1": "ماشین لباسشویی پاکشوما مدل I8 ظرفیت ۸ کیلوگرم اتوماتیک",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=6434e15b-fc44-43f4-9de9-a6278119149f&rank=9",
+            "web_client_absolute_url": "/p/6434e15b-fc44-43f4-9de9-a6278119149f/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-i8-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9/",
+            "price": 73800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۳٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=6434e15b-fc44-43f4-9de9-a6278119149f&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=6434e15b-fc44-43f4-9de9-a6278119149f&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/2r/uD/2ruDRogt0A8esD6P.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/2r/uD/2ruDRogt0A8esD6P.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "a8c44afa-0a45-4e9a-a448-afdd3f7df91e",
+            "name1": "ماشین لباسشویی پاکشوما مدل S-8 ظرفیت ۸ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=result_adv&prk=a8c44afa-0a45-4e9a-a448-afdd3f7df91e&ad=01a0dddb71ce7720ade478fd8f99d133&rank=10",
+            "web_client_absolute_url": "/p/a8c44afa-0a45-4e9a-a448-afdd3f7df91e/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-s-8-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 122030000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۲۲٫۰۳۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در همسا",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a8c44afa-0a45-4e9a-a448-afdd3f7df91e&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=a8c44afa-0a45-4e9a-a448-afdd3f7df91e&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ab/IE/abIEIJ6f9fvwCcqH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Z3/FN/Z3FNp9WvE0-dt9kg.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/V9/9F/V99F0SDU3EpJEuW6.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ab/IE/abIEIJ6f9fvwCcqH.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "cee77f6c-0f48-40c6-8157-abfe84ac8b87",
+            "name1": "ماشین لباسشویی پاکشوما مدل Q9 ظرفیت ۹ کیلوگرم درب از جلو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=cee77f6c-0f48-40c6-8157-abfe84ac8b87&rank=11",
+            "web_client_absolute_url": "/p/cee77f6c-0f48-40c6-8157-abfe84ac8b87/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-q9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88/",
+            "price": 83000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۳٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=cee77f6c-0f48-40c6-8157-abfe84ac8b87&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=cee77f6c-0f48-40c6-8157-abfe84ac8b87&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wM/WM/wMWM7k_HD6UTktfD.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/wM/WM/wMWM7k_HD6UTktfD.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2",
+            "name1": "ماشین لباسشویی پاکشوما مدل L8 ظرفیت ۸ کیلوگرم درب از جلو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2&rank=12",
+            "web_client_absolute_url": "/p/cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-l8-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88/",
+            "price": 82500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۲٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/XM/w0/XMw0tt4vSmtGkd_B.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/XM/w0/XMw0tt4vSmtGkd_B.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "800e0719-e5ac-48e9-965a-8640119cd3c2",
+            "name1": "ماشین لباسشویی دوو سری سنیور مدل LM-990",
+            "name1_max_lines": 3,
+            "name2": "Daewoo Senior Series 9 kg washing machine model LM-990",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=800e0719-e5ac-48e9-965a-8640119cd3c2&rank=13",
+            "web_client_absolute_url": "/p/800e0719-e5ac-48e9-965a-8640119cd3c2/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%88-%D8%B3%D8%B1%DB%8C-%D8%B3%D9%86%DB%8C%D9%88%D8%B1-%D9%85%D8%AF%D9%84-lm-990/",
+            "price": 105800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰۵٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=800e0719-e5ac-48e9-965a-8640119cd3c2&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=800e0719-e5ac-48e9-965a-8640119cd3c2&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/P0/K5/P0K5Twbo1tE__p6t.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/P0/K5/P0K5Twbo1tE__p6t.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "bf1e5c0e-b629-4db6-b1c7-1a36e1c18051",
+            "name1": "ماشین لباسشویی اسنوا مدل SWM-C81 ظرفیت ۸ کیلوگرم درب از جلو با موتور BLDC و ۱۴ برنامه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=bf1e5c0e-b629-4db6-b1c7-1a36e1c18051&rank=14",
+            "web_client_absolute_url": "/p/bf1e5c0e-b629-4db6-b1c7-1a36e1c18051/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D8%B3%D9%86%D9%88%D8%A7-%D9%85%D8%AF%D9%84-swm-c81-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-bldc-%D9%88-14-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87/",
+            "price": 66500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶۶٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=bf1e5c0e-b629-4db6-b1c7-1a36e1c18051&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=bf1e5c0e-b629-4db6-b1c7-1a36e1c18051&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/T7/Ri/T7Ri2evNcIArLi-x.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/T7/Ri/T7Ri2evNcIArLi-x.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2452c5ea-2c2f-406b-a3b6-cbb796e4d274",
+            "name1": "ماشین لباسشویی ایکس ویژن مدل TG72",
+            "name1_max_lines": 3,
+            "name2": "TG72",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&rank=15",
+            "web_client_absolute_url": "/p/2452c5ea-2c2f-406b-a3b6-cbb796e4d274/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-tg72/",
+            "price": 59500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۹٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2452c5ea-2c2f-406b-a3b6-cbb796e4d274&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/iW/aJ/iWaJnrerJfIPicWX.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/iW/aJ/iWaJnrerJfIPicWX.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "56b41829-62cd-4a19-8458-ad587a870638",
+            "name1": "ماشین لباسشویی ال جی FH2J3 ظرفیت ۷ کیلو درب از جلو با موتور BLDC و ۱۰ برنامه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=56b41829-62cd-4a19-8458-ad587a870638&rank=16",
+            "web_client_absolute_url": "/p/56b41829-62cd-4a19-8458-ad587a870638/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-fh2j3-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-7-%DA%A9%DB%8C%D9%84%D9%88-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-bldc-%D9%88-10-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87/",
+            "price": 78300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۸٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=56b41829-62cd-4a19-8458-ad587a870638&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=56b41829-62cd-4a19-8458-ad587a870638&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0-/Rj/0-RjVCm3Y7fINgqm.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Gb/m6/Gbm6t-j1rfwJzx8F.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jy/S6/jyS65yOo2SZgbE2O.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Jx/jA/JxjAM2DElKLPZ3-u.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hH/Zh/hHZhM_rU08HnSg76.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ym/aB/YmaBmLYOZSy7zeQp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3D/6c/3D6cCxJ28JSUaf31.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/0-/Rj/0-RjVCm3Y7fINgqm.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4bfe7415-6b46-4a6f-b93f-70aacc083986",
+            "name1": "ماشین لباسشویی دیپوینت 9 کیلویی مدل WMFW0901S",
+            "name1_max_lines": 3,
+            "name2": "Depoint 9 kg washing machine WMFW0901",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=4bfe7415-6b46-4a6f-b93f-70aacc083986&rank=17",
+            "web_client_absolute_url": "/p/4bfe7415-6b46-4a6f-b93f-70aacc083986/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%DB%8C%D9%BE%D9%88%DB%8C%D9%86%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-wmfw0901s/",
+            "price": 84000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۴٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4bfe7415-6b46-4a6f-b93f-70aacc083986&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4bfe7415-6b46-4a6f-b93f-70aacc083986&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/h1/ER/h1ERNyhvOHFWzBcj.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/f7/We/f7WeY0sVIrcWTHiQ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/h1/ER/h1ERNyhvOHFWzBcj.webp",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "66aeb2dd-66ae-4672-accc-b2f9d32abc19",
+            "name1": "ماشین لباسشویی ال جی مدل F2Y1TYP6J ظرفیت ۸ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=66aeb2dd-66ae-4672-accc-b2f9d32abc19&rank=18",
+            "web_client_absolute_url": "/p/66aeb2dd-66ae-4672-accc-b2f9d32abc19/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-f2y1typ6j-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 75800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۵٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=66aeb2dd-66ae-4672-accc-b2f9d32abc19&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=66aeb2dd-66ae-4672-accc-b2f9d32abc19&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/WJ/bT/WJbTm09jNMCKkqNA.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_d/9X/_d9XP5jrCm9DLCU1.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZU/GJ/ZUGJlxypJrhDce9j.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nO/jr/nOjrf5YQA_4Zcort.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/g7/2j/g72j0ohOv8_s0JzY.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/WJ/bT/WJbTm09jNMCKkqNA.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+            "name1": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&rank=19",
+            "web_client_absolute_url": "/p/be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-na9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-96-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 18300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۸٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/BC/Pt/BCPtdBtTJtGPLYwe.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "757aa3d7-bb51-4b5c-86d2-15204e664ac7",
+            "name1": "ماشین لباسشویی پاکشوما 9 کيلويي مدل U9",
+            "name1_max_lines": 3,
+            "name2": "pakshoma washing machine model u9",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=757aa3d7-bb51-4b5c-86d2-15204e664ac7&rank=20",
+            "web_client_absolute_url": "/p/757aa3d7-bb51-4b5c-86d2-15204e664ac7/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-9-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-u9/",
+            "price": 84950000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۴٫۹۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=757aa3d7-bb51-4b5c-86d2-15204e664ac7&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=757aa3d7-bb51-4b5c-86d2-15204e664ac7&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/H7/H8/H7H8-rC5ptab_bTY.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/H7/H8/H7H8-rC5ptab_bTY.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "a0659e81-fae1-41ca-9ffa-d38536e4f9c6",
+            "name1": "ماشین لباسشویی دوقلو پاکشوما مدل FA21 ظرفیت ۲۱ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=a0659e81-fae1-41ca-9ffa-d38536e4f9c6&rank=21",
+            "web_client_absolute_url": "/p/a0659e81-fae1-41ca-9ffa-d38536e4f9c6/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-fa21-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-21-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 26000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۶٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a0659e81-fae1-41ca-9ffa-d38536e4f9c6&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=a0659e81-fae1-41ca-9ffa-d38536e4f9c6&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vO/6N/vO6NfCA1XIfb0nMw.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/vO/6N/vO6NfCA1XIfb0nMw.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ed633162-cd93-40c0-b8fd-a18fd72c0efc",
+            "name1": "ماشین لباسشویی دوو مدل LM9120 ظرفیت ۹ کیلوگرم درب از جلو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=ed633162-cd93-40c0-b8fd-a18fd72c0efc&rank=22",
+            "web_client_absolute_url": "/p/ed633162-cd93-40c0-b8fd-a18fd72c0efc/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-lm9120-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-9-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AC%D9%84%D9%88/",
+            "price": 82900000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۸۲٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ed633162-cd93-40c0-b8fd-a18fd72c0efc&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ed633162-cd93-40c0-b8fd-a18fd72c0efc&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3h/Bn/3hBnH4HCrCt76aMf.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Hk/q1/Hkq1ScnICn5PvFGg.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_3/-X/_3-XoOqm1IAH1VPt.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l7/q3/l7q3uH-qAo8dFohW.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/3h/Bn/3hBnH4HCrCt76aMf.webp",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "c99af502-e9c7-42d7-a78d-d3f3e5259842",
+            "name1": "ماشین لباسشویی دوو مدل LM-811 ظرفیت ۸ کیلوگرم",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&rank=23",
+            "web_client_absolute_url": "/p/c99af502-e9c7-42d7-a78d-d3f3e5259842/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-lm-811-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+            "price": 70910000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷۰٫۹۱۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ut/lO/UtlOpMmKf9CkAqdl.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ut/lO/UtlOpMmKf9CkAqdl.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "85af5a34-9287-4907-8990-c408ebb1cdc8",
+            "name1": "ماشین لباسشویی ال جی مدل R9 ظرفیت ۱۱ کیلوگرم دودی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=85af5a34-9287-4907-8990-c408ebb1cdc8&rank=24",
+            "web_client_absolute_url": "/p/85af5a34-9287-4907-8990-c408ebb1cdc8/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-r9-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-11-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AF%D9%88%D8%AF%DB%8C/",
+            "price": 118400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱۸٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=85af5a34-9287-4907-8990-c408ebb1cdc8&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=85af5a34-9287-4907-8990-c408ebb1cdc8&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Po/Mk/PoMkW20mjlw0zM18.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vl/kF/VlkFdyRdgLbll4v8.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/QY/Jh/QYJhInYP7B0ZJdiO.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/y0/YC/y0YC6mbRl2cLZK_0.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Im/pY/ImpYuwFXAE4LhEj0.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/X3/2Y/X32Yd-Xel1ZtDkhS.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6o/iG/6oiG22fkj24s8kkY.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Po/Mk/PoMkW20mjlw0zM18.webp",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91",
+            "name1": "ماشین لباسشویی  ایکس ویژن مدل TE62",
+            "name1_max_lines": 3,
+            "name2": "X.Vision TE62-AW/AS Washing Machine 6 Kg",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&search_id=01a0dddb7037749dab725d3d51aa117c&cities=&province=&init_suid=01a0dddb7037749dab725d3d51aa117c&algorithm=rerank&prk=2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91&rank=25",
+            "web_client_absolute_url": "/p/2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86-%D9%85%D8%AF%D9%84-te62/",
+            "price": 59990000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵۹٫۹۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91&limit=24&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91&discover_method=search_image_base&prev_uid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jy/dg/jydgrVGayhuf-Pc9.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jy/dg/jydgrVGayhuf-Pc9.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 2590000000,
+    "min_price": 1,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": "https://api.torob.com/v4/search/feedback/?search_uid=01a0dddb7037749dab725d3d51aa117c&discover_method=search_autocomplete&source=next_desktop&experiment=qcr1__a",
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&q=%D9%85%D8%A7%D8%B4%DB%8C%D9%86+%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C&discover_method=search_autocomplete&_search_landing=header&source=next_desktop&_landing_page=home&rank_offset=26&_bt__experiment=qcr1__a&suid=01a0dddb7037749dab725d3d51aa117c&init_suid=01a0dddb7037749dab725d3d51aa117c",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "ماشین لباسشویی",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 5804,
+                    "slug": "pakshoma-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7",
+                    "name1": "پاکشوما",
+                    "name2": "Pakshoma"
+                },
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 4616,
+                    "slug": "gplus-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "جی پلاس",
+                    "name2": "GPlus"
+                },
+                {
+                    "id": 6,
+                    "slug": "lg-%D8%A7%D9%84-%D8%AC%DB%8C",
+                    "name1": "ال جی",
+                    "name2": "LG"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 5,
+                    "slug": "samsung-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF",
+                    "name1": "سامسونگ",
+                    "name2": "Samsung"
+                },
+                {
+                    "id": 53978,
+                    "slug": "bost-%D8%A8%D8%B3%D8%AA",
+                    "name1": "بُست",
+                    "name2": "Bost"
+                },
+                {
+                    "id": 4615,
+                    "slug": "x.vision-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86",
+                    "name1": "ایکس ویژن",
+                    "name2": "X.Vision"
+                },
+                {
+                    "id": 2189,
+                    "slug": "sam-%D8%B3%D8%A7%D9%85",
+                    "name1": "سام",
+                    "name2": "SAM"
+                },
+                {
+                    "id": 698,
+                    "slug": "beko-%D8%A8%DA%A9%D9%88",
+                    "name1": "بکو",
+                    "name2": "Beko"
+                },
+                {
+                    "id": 5436,
+                    "slug": "aabsal-%D8%A7%D8%A8%D8%B3%D8%A7%D9%84",
+                    "name1": "آبسال",
+                    "name2": "Aabsal"
+                },
+                {
+                    "id": 13594,
+                    "slug": "blanton-%D8%A8%D9%84%D8%A7%D9%86%D8%AA%D9%88%D9%86",
+                    "name1": "بلانتون",
+                    "name2": "Blanton"
+                },
+                {
+                    "id": 28,
+                    "slug": "tcl-%D8%AA%DB%8C-%D8%B3%DB%8C-%D8%A7%D9%84",
+                    "name1": "تی سی ال",
+                    "name2": "TCL"
+                },
+                {
+                    "id": 55541,
+                    "slug": "aplus-%D8%A7%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "آپلاس",
+                    "name2": "APlus"
+                },
+                {
+                    "id": 977,
+                    "slug": "candy-%DA%A9%D9%86%D8%AF%DB%8C",
+                    "name1": "کندی",
+                    "name2": "Candy"
+                },
+                {
+                    "id": 7645,
+                    "slug": "zerowatt-%D8%B2%DB%8C%D8%B1%D9%88%D9%88%D8%A7%D8%AA",
+                    "name1": "زیرووات",
+                    "name2": "Zerowatt"
+                },
+                {
+                    "id": 15194,
+                    "slug": "clever-%DA%A9%D9%84%D9%88%D8%B1",
+                    "name1": "کلور",
+                    "name2": "Clever"
+                },
+                {
+                    "id": 15214,
+                    "slug": "hisense-%D9%87%D8%A7%DB%8C%D8%B3%D9%86%D8%B3",
+                    "name1": "هایسنس",
+                    "name2": "Hisense"
+                },
+                {
+                    "id": 1767,
+                    "slug": "international-anil-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84-%D8%A7%D9%86%DB%8C%D9%84",
+                    "name1": "اینترنشنال آنیل",
+                    "name2": "International Anil"
+                },
+                {
+                    "id": 5222,
+                    "slug": "uneva-%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%A7",
+                    "name1": "یونیوا",
+                    "name2": "Uneva"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 13172,
+                    "slug": "coral-%DA%A9%D8%B1%D8%A7%D9%84",
+                    "name1": "کرال",
+                    "name2": "Coral"
+                },
+                {
+                    "id": 30,
+                    "slug": "green-%DA%AF%D8%B1%DB%8C%D9%86",
+                    "name1": "گرین",
+                    "name2": "Green"
+                },
+                {
+                    "id": 1438,
+                    "slug": "sepehr-electric-%D8%B3%D9%BE%D9%87%D8%B1-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9",
+                    "name1": "سپهر الکتریک",
+                    "name2": "Sepehr Electric"
+                },
+                {
+                    "id": 2296,
+                    "slug": "magic-%D9%85%D8%AC%DB%8C%DA%A9",
+                    "name1": "مجیک",
+                    "name2": "Magic"
+                },
+                {
+                    "id": 8008,
+                    "slug": "reyton-%D8%B1%DB%8C%D8%AA%D9%88%D9%86",
+                    "name1": "ریتون",
+                    "name2": "Reyton"
+                },
+                {
+                    "id": 268,
+                    "slug": "hyundai-%D9%87%DB%8C%D9%88%D9%86%D8%AF%D8%A7%DB%8C",
+                    "name1": "هیوندای",
+                    "name2": "Hyundai"
+                },
+                {
+                    "id": 15821,
+                    "slug": "himalia-%D9%87%DB%8C%D9%85%D8%A7%D9%84%DB%8C%D8%A7",
+                    "name1": "هیمالیا",
+                    "name2": "Himalia"
+                },
+                {
+                    "id": 72,
+                    "slug": "kenwood-%DA%A9%D9%86%D9%88%D9%88%D8%AF",
+                    "name1": "کنوود",
+                    "name2": "Kenwood"
+                },
+                {
+                    "id": 2557,
+                    "slug": "midea-%D9%85%D8%A7%DB%8C%D8%AF%DB%8C%D8%A7",
+                    "name1": "مایدیا",
+                    "name2": "Midea"
+                },
+                {
+                    "id": 2924,
+                    "slug": "ariston-%D8%A7%D8%B1%DB%8C%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "آریستون",
+                    "name2": "Ariston"
+                },
+                {
+                    "id": 9089,
+                    "slug": "siemens-%D8%B2%DB%8C%D9%85%D9%86%D8%B3",
+                    "name1": "زیمنس",
+                    "name2": "Siemens"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 53513,
+                    "slug": "national-%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84",
+                    "name1": "ناسیونال",
+                    "name2": "National"
+                },
+                {
+                    "id": 13718,
+                    "slug": "indesit-%D8%A7%DB%8C%D9%86%D8%AF%D8%B2%DB%8C%D8%AA",
+                    "name1": "ایندزیت",
+                    "name2": "Indesit"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": 692,
+                    "slug": "emersun-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86",
+                    "name1": "امرسان",
+                    "name2": "Emersun"
+                },
+                {
+                    "id": 12921,
+                    "slug": "silver-lux-%D8%B3%DB%8C%D9%84%D9%88%D8%B1-%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "سیلور لوکس",
+                    "name2": "Silver Lux"
+                },
+                {
+                    "id": 4182,
+                    "slug": "arcelik-%D8%A7%D8%B1%DA%86%D9%84%DB%8C%DA%A9",
+                    "name1": "آرچلیک",
+                    "name2": "Arcelik"
+                },
+                {
+                    "id": 247,
+                    "slug": "hitachi-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C",
+                    "name1": "هیتاچی",
+                    "name2": "Hitachi"
+                },
+                {
+                    "id": 11206,
+                    "slug": "rtc-%D8%A7%D8%B1-%D8%AA%DB%8C-%D8%B3%DB%8C",
+                    "name1": "آر تی سی",
+                    "name2": "RTC"
+                },
+                {
+                    "id": 2922,
+                    "slug": "electrolux-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "الکترولوکس",
+                    "name2": "ELECTROLUX"
+                },
+                {
+                    "id": 14508,
+                    "slug": "crop-%DA%A9%D8%B1%D9%88%D9%BE",
+                    "name1": "کروپ",
+                    "name2": "Crop"
+                },
+                {
+                    "id": 54218,
+                    "slug": "leoco-%D9%84%DB%8C%D9%88%DA%A9%D9%88",
+                    "name1": "لئوکو",
+                    "name2": "Leoco"
+                },
+                {
+                    "id": 117,
+                    "slug": "hoover-%D9%87%D9%88%D9%88%D8%B1",
+                    "name1": "هوور",
+                    "name2": "Hoover"
+                },
+                {
+                    "id": 1755,
+                    "slug": "best-%D8%A8%D8%B3%D8%AA",
+                    "name1": "بست",
+                    "name2": "Best"
+                },
+                {
+                    "id": 3112,
+                    "slug": "feridolin-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%84%DB%8C%D9%86",
+                    "name1": "فریدولین",
+                    "name2": "Feridolin"
+                },
+                {
+                    "id": 9634,
+                    "slug": "whirlpool-%D9%88%DB%8C%D8%B1%D9%BE%D9%88%D9%84",
+                    "name1": "ویرپول",
+                    "name2": "Whirlpool"
+                },
+                {
+                    "id": 16983,
+                    "slug": "westpoint-%D9%88%D8%B3%D8%AA-%D9%BE%D9%88%DB%8C%D9%86%D8%AA",
+                    "name1": "وست پوینت",
+                    "name2": "westpoint"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=201"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 1,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 2590000000,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 5804,
+                    "slug": "pakshoma-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7",
+                    "name1": "پاکشوما",
+                    "name2": "Pakshoma"
+                },
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 4616,
+                    "slug": "gplus-%D8%AC%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "جی پلاس",
+                    "name2": "GPlus"
+                },
+                {
+                    "id": 6,
+                    "slug": "lg-%D8%A7%D9%84-%D8%AC%DB%8C",
+                    "name1": "ال جی",
+                    "name2": "LG"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 5,
+                    "slug": "samsung-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF",
+                    "name1": "سامسونگ",
+                    "name2": "Samsung"
+                },
+                {
+                    "id": 53978,
+                    "slug": "bost-%D8%A8%D8%B3%D8%AA",
+                    "name1": "بُست",
+                    "name2": "Bost"
+                },
+                {
+                    "id": 4615,
+                    "slug": "x.vision-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86",
+                    "name1": "ایکس ویژن",
+                    "name2": "X.Vision"
+                },
+                {
+                    "id": 2189,
+                    "slug": "sam-%D8%B3%D8%A7%D9%85",
+                    "name1": "سام",
+                    "name2": "SAM"
+                },
+                {
+                    "id": 698,
+                    "slug": "beko-%D8%A8%DA%A9%D9%88",
+                    "name1": "بکو",
+                    "name2": "Beko"
+                },
+                {
+                    "id": 5436,
+                    "slug": "aabsal-%D8%A7%D8%A8%D8%B3%D8%A7%D9%84",
+                    "name1": "آبسال",
+                    "name2": "Aabsal"
+                },
+                {
+                    "id": 13594,
+                    "slug": "blanton-%D8%A8%D9%84%D8%A7%D9%86%D8%AA%D9%88%D9%86",
+                    "name1": "بلانتون",
+                    "name2": "Blanton"
+                },
+                {
+                    "id": 28,
+                    "slug": "tcl-%D8%AA%DB%8C-%D8%B3%DB%8C-%D8%A7%D9%84",
+                    "name1": "تی سی ال",
+                    "name2": "TCL"
+                },
+                {
+                    "id": 55541,
+                    "slug": "aplus-%D8%A7%D9%BE%D9%84%D8%A7%D8%B3",
+                    "name1": "آپلاس",
+                    "name2": "APlus"
+                },
+                {
+                    "id": 977,
+                    "slug": "candy-%DA%A9%D9%86%D8%AF%DB%8C",
+                    "name1": "کندی",
+                    "name2": "Candy"
+                },
+                {
+                    "id": 7645,
+                    "slug": "zerowatt-%D8%B2%DB%8C%D8%B1%D9%88%D9%88%D8%A7%D8%AA",
+                    "name1": "زیرووات",
+                    "name2": "Zerowatt"
+                },
+                {
+                    "id": 15194,
+                    "slug": "clever-%DA%A9%D9%84%D9%88%D8%B1",
+                    "name1": "کلور",
+                    "name2": "Clever"
+                },
+                {
+                    "id": 15214,
+                    "slug": "hisense-%D9%87%D8%A7%DB%8C%D8%B3%D9%86%D8%B3",
+                    "name1": "هایسنس",
+                    "name2": "Hisense"
+                },
+                {
+                    "id": 1767,
+                    "slug": "international-anil-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84-%D8%A7%D9%86%DB%8C%D9%84",
+                    "name1": "اینترنشنال آنیل",
+                    "name2": "International Anil"
+                },
+                {
+                    "id": 5222,
+                    "slug": "uneva-%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%A7",
+                    "name1": "یونیوا",
+                    "name2": "Uneva"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 13172,
+                    "slug": "coral-%DA%A9%D8%B1%D8%A7%D9%84",
+                    "name1": "کرال",
+                    "name2": "Coral"
+                },
+                {
+                    "id": 30,
+                    "slug": "green-%DA%AF%D8%B1%DB%8C%D9%86",
+                    "name1": "گرین",
+                    "name2": "Green"
+                },
+                {
+                    "id": 1438,
+                    "slug": "sepehr-electric-%D8%B3%D9%BE%D9%87%D8%B1-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9",
+                    "name1": "سپهر الکتریک",
+                    "name2": "Sepehr Electric"
+                },
+                {
+                    "id": 2296,
+                    "slug": "magic-%D9%85%D8%AC%DB%8C%DA%A9",
+                    "name1": "مجیک",
+                    "name2": "Magic"
+                },
+                {
+                    "id": 8008,
+                    "slug": "reyton-%D8%B1%DB%8C%D8%AA%D9%88%D9%86",
+                    "name1": "ریتون",
+                    "name2": "Reyton"
+                },
+                {
+                    "id": 268,
+                    "slug": "hyundai-%D9%87%DB%8C%D9%88%D9%86%D8%AF%D8%A7%DB%8C",
+                    "name1": "هیوندای",
+                    "name2": "Hyundai"
+                },
+                {
+                    "id": 15821,
+                    "slug": "himalia-%D9%87%DB%8C%D9%85%D8%A7%D9%84%DB%8C%D8%A7",
+                    "name1": "هیمالیا",
+                    "name2": "Himalia"
+                },
+                {
+                    "id": 72,
+                    "slug": "kenwood-%DA%A9%D9%86%D9%88%D9%88%D8%AF",
+                    "name1": "کنوود",
+                    "name2": "Kenwood"
+                },
+                {
+                    "id": 2557,
+                    "slug": "midea-%D9%85%D8%A7%DB%8C%D8%AF%DB%8C%D8%A7",
+                    "name1": "مایدیا",
+                    "name2": "Midea"
+                },
+                {
+                    "id": 2924,
+                    "slug": "ariston-%D8%A7%D8%B1%DB%8C%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "آریستون",
+                    "name2": "Ariston"
+                },
+                {
+                    "id": 9089,
+                    "slug": "siemens-%D8%B2%DB%8C%D9%85%D9%86%D8%B3",
+                    "name1": "زیمنس",
+                    "name2": "Siemens"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 53513,
+                    "slug": "national-%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84",
+                    "name1": "ناسیونال",
+                    "name2": "National"
+                },
+                {
+                    "id": 13718,
+                    "slug": "indesit-%D8%A7%DB%8C%D9%86%D8%AF%D8%B2%DB%8C%D8%AA",
+                    "name1": "ایندزیت",
+                    "name2": "Indesit"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": 692,
+                    "slug": "emersun-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86",
+                    "name1": "امرسان",
+                    "name2": "Emersun"
+                },
+                {
+                    "id": 12921,
+                    "slug": "silver-lux-%D8%B3%DB%8C%D9%84%D9%88%D8%B1-%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "سیلور لوکس",
+                    "name2": "Silver Lux"
+                },
+                {
+                    "id": 4182,
+                    "slug": "arcelik-%D8%A7%D8%B1%DA%86%D9%84%DB%8C%DA%A9",
+                    "name1": "آرچلیک",
+                    "name2": "Arcelik"
+                },
+                {
+                    "id": 247,
+                    "slug": "hitachi-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C",
+                    "name1": "هیتاچی",
+                    "name2": "Hitachi"
+                },
+                {
+                    "id": 11206,
+                    "slug": "rtc-%D8%A7%D8%B1-%D8%AA%DB%8C-%D8%B3%DB%8C",
+                    "name1": "آر تی سی",
+                    "name2": "RTC"
+                },
+                {
+                    "id": 2922,
+                    "slug": "electrolux-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "الکترولوکس",
+                    "name2": "ELECTROLUX"
+                },
+                {
+                    "id": 14508,
+                    "slug": "crop-%DA%A9%D8%B1%D9%88%D9%BE",
+                    "name1": "کروپ",
+                    "name2": "Crop"
+                },
+                {
+                    "id": 54218,
+                    "slug": "leoco-%D9%84%DB%8C%D9%88%DA%A9%D9%88",
+                    "name1": "لئوکو",
+                    "name2": "Leoco"
+                },
+                {
+                    "id": 117,
+                    "slug": "hoover-%D9%87%D9%88%D9%88%D8%B1",
+                    "name1": "هوور",
+                    "name2": "Hoover"
+                },
+                {
+                    "id": 1755,
+                    "slug": "best-%D8%A8%D8%B3%D8%AA",
+                    "name1": "بست",
+                    "name2": "Best"
+                },
+                {
+                    "id": 3112,
+                    "slug": "feridolin-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%84%DB%8C%D9%86",
+                    "name1": "فریدولین",
+                    "name2": "Feridolin"
+                },
+                {
+                    "id": 9634,
+                    "slug": "whirlpool-%D9%88%DB%8C%D8%B1%D9%BE%D9%88%D9%84",
+                    "name1": "ویرپول",
+                    "name2": "Whirlpool"
+                },
+                {
+                    "id": 16983,
+                    "slug": "westpoint-%D9%88%D8%B3%D8%AA-%D9%BE%D9%88%DB%8C%D9%86%D8%AA",
+                    "name1": "وست پوینت",
+                    "name2": "westpoint"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=201"
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "ماشین لباسشویی",
+            "cat_id": 201,
+            "cat_slug": "ماشین-لباسشویی-washing-machine",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "201",
+            "slug": "ماشین-لباسشویی-washing-machine"
+        }
+    ],
+    "parent_categories": []
+}

@@ -1,0 +1,325 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0",
+    "name1": "میز مدیریت سناتور سوپر مات طول ۲۶۰ عرض ۲۰۰ ارتفاع ۷۶",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de43b50a72eab08dce8b2064f979&search_id=01a0de43b50a72eab08dce8b2064f979&cities=&province=&init_suid=01a0de43b50a72eab08dce8b2064f979&algorithm=text_similarity&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0",
+    "web_client_absolute_url": "/p/ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%D9%88%D9%BE%D8%B1-%D9%85%D8%A7%D8%AA-%D8%B7%D9%88%D9%84-260-%D8%B9%D8%B1%D8%B6-200-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-76/",
+    "price": 191400000,
+    "price_prefix": "cheapest",
+    "price_text": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در دکو سرو",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&limit=24&init_suid=01a0de43b50a72eab08dce8b2064f979",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&discover_method=search_image_base_pdp&prev_uid=01a0de43b50a72eab08dce8b2064f979&init_suid=01a0de43b50a72eab08dce8b2064f979",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Vl/0E/Vl0E0EcC3t-OqhQO.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/k1/Au/k1Au0cRHgZgCmFU7.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/rf/k8/rfk8toZU-HPFyV_A.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/KY/fn/KYfnsckVx3LCp0gh.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Es/HI/EsHI825ie0B5hk2B.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/sm/RP/smRP8pnMxfWH80ka.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/Vl/0E/Vl0E0EcC3t-OqhQO.jpg",
+    "image_count": 6,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de43b50a72eab08dce8b2064f979&prk=6c54f3af-6a6a-43f5-b5a4-040f7a8832c7&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de43b50a72eab08dce8b2064f979",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "میز مدیریت مدل سناتور (اکسترا) - طول ۲۴۰، عرض۲۰۰، ارتفاع ۷۶ / مشکی / سوپرمات ا Senator management desk",
+                "name2": "گارانتی طلایی ۲۴ ماهه دکو سرو",
+                "shop_name": "دکو سرو",
+                "shop_name2": "ری",
+                "shop_id": 27762,
+                "has_public_torob_profile": true,
+                "prk": "6c54f3af-6a6a-43f5-b5a4-040f7a8832c7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de43b50a72eab08dce8b2064f979&prk=6c54f3af-6a6a-43f5-b5a4-040f7a8832c7&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de43b50a72eab08dce8b2064f979",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 191400000,
+                "price_text": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "میز مدیریت مدل سناتور (اکسترا) - طول ۲۶۰، عرض ۲۰۰، ارتفاع ۷۶ / مشکی / سوپرمات ا Senator management desk",
+                "name2": "گارانتی طلایی ۲۴ ماهه دکو سرو",
+                "shop_name": "دکو سرو",
+                "shop_name2": "ری",
+                "shop_id": 27762,
+                "has_public_torob_profile": true,
+                "prk": "3a38d634-c0eb-4bfa-9d54-1bfe59abdb65",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de43b50a72eab08dce8b2064f979&prk=3a38d634-c0eb-4bfa-9d54-1bfe59abdb65&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de43b50a72eab08dce8b2064f979",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 198000000,
+                "price_text": "۱۹۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۹۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435381",
+        "count": 2,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&suid=01a0de43b50a72eab08dce8b2064f979&cities=&province=&algorithm=text_similarity&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&list_type=products_info&seed=1790435381"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435381",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&cities=&province=&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&list_type=products_in_store_info&seed=1790435381&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&source=next_desktop&discover_method=search&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&seed=1790435381&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&source=next_desktop&discover_method=search&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&seed=1790435381&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de43b50a72eab08dce8b2064f979&search_id=01a0de43b50a72eab08dce8b2064f979&cities=&province=&init_suid=01a0de43b50a72eab08dce8b2064f979&algorithm=text_similarity&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&bvid=01a0de43d0497523bfeebc9573632727&no_log=true&seed=1790435381",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&base_id=80072009&source=next_desktop&bvid=01a0de43d0497523bfeebc9573632727&init_suid=01a0de43b50a72eab08dce8b2064f979"
+    },
+    "min_price": 191400000,
+    "max_price": 198000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 4342,
+            "title": "مبلمان و لوازم اداری",
+            "url": "/browse/4342/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/",
+            "cat_id": 4342,
+            "brand_id": null
+        },
+        {
+            "id": 2486,
+            "title": "میز اداری",
+            "url": "/browse/2486/%D9%85%DB%8C%D8%B2-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/",
+            "cat_id": 2486,
+            "brand_id": null
+        },
+        {
+            "id": 2437,
+            "title": "میز مدیریت",
+            "url": "/browse/2437/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA/",
+            "cat_id": 2437,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "ابعاد": "طول ۲۶۰، عرض ۲۰۰، ارتفاع ۷۶",
+                    "رنگ": "مشکی",
+                    "متریال": "سوپرمات",
+                    "محل قرارگیری کنسول/ ال جانبی": "امکان نصب در سمت راست یا چپ، با توجه به نیاز مشتری",
+                    "امکانات موجود به همراه میز": "سه کشو. دارای ریل آرام بند و کف کشو چرمی همرنگ و کشوی اول قفل دار، محل قرارگیری کیف، محل قرارگیری کیث کامپیوتر به همراه دریچه اختصاصی تهویه کیث و عبور سیم، در نمای جانبی کنسول، محل قرارگیری کتاب یا پرینتر. دریچه عبور سیم مستطیلی فلزی روی صفحه اصلی.",
+                    "آپشن های قابل افزودن": "دیوایدر کشو، شارژر وایرلس، الکتریک باکس، سطل زباله ریلی توکار، سیف باکس",
+                    "مکانیزم کشو ها": "ریل آرام بند",
+                    "سایر محصولات قابل سفارش به صورت ست": "میز کنفرانس، کتابخانه، میز جلومبلی، مبل، کردنزا، کافی بار، تی وی وال، کاور رادیاتور",
+                    "نوع بسته بندی": "نایلون حبابدار ضخیم و نبشی کارتنی جهت جلوگیری از آسیب دیدگی"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "میز-مدیریت-سناتور-سوپر-مات-طول-260-عرض-200-ارتفاع-76",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&limit=24&init_suid=01a0de43b50a72eab08dce8b2064f979",
+    "torob_category": 2437,
+    "no_index": false,
+    "buy_box_price_text": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de43b50a72eab08dce8b2064f979&prk=6c54f3af-6a6a-43f5-b5a4-040f7a8832c7&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de43b50a72eab08dce8b2064f979",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از دکو سرو",
+    "new_buy_box_button_text2": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de43b50a72eab08dce8b2064f979&suid=01a0de43b50a72eab08dce8b2064f979&bvid=01a0de43d0497523bfeebc9573632727&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de43b50a72eab08dce8b2064f979&prk=6c54f3af-6a6a-43f5-b5a4-040f7a8832c7&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de43b50a72eab08dce8b2064f979&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "6c54f3af-6a6a-43f5-b5a4-040f7a8832c7",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/k1/Au/k1Au0cRHgZgCmFU7.jpg",
+                "https://image.torob.com/base/images/rf/k8/rfk8toZU-HPFyV_A.jpg",
+                "https://image.torob.com/base/images/KY/fn/KYfnsckVx3LCp0gh.jpg",
+                "https://image.torob.com/base/images/Es/HI/EsHI825ie0B5hk2B.jpg",
+                "https://image.torob.com/base/images/sm/RP/smRP8pnMxfWH80ka.jpg"
+            ]
+        }
+    ]
+}

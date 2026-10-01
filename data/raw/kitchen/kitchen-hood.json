@@ -1,0 +1,1723 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "9dec93ca-8497-4838-8394-1f999b08badf",
+            "name1": "هود جزیره ای مشکی چیاکی استوانه ای",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=result_adv&prk=9dec93ca-8497-4838-8394-1f999b08badf&ad=01a0ddd6a78e723988131b72e6f80e06&rank=0",
+            "web_client_absolute_url": "/p/9dec93ca-8497-4838-8394-1f999b08badf/%D9%87%D9%88%D8%AF-%D8%AC%D8%B2%DB%8C%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C-%DA%86%DB%8C%D8%A7%DA%A9%DB%8C-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%A7%DB%8C/",
+            "price": 67000000,
+            "price_prefix": "cheapest",
+            "price_text": "۶۷٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ماهینیا",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9dec93ca-8497-4838-8394-1f999b08badf&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9dec93ca-8497-4838-8394-1f999b08badf&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/IP/A6/IPA6l9HNa7WbqFYe.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/fI/vN/fIvNiFGLLdOR-8fH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/rm/Kz/rmKzvfW39Q78htNE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/qa/Pa/qaPajHxPPC8BL1FP.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/iO/7D/iO7DKn_5GXIusd7m.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/uu/Bv/uuBv-5yY0VTrt4XD.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/IP/A6/IPA6l9HNa7WbqFYe.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "12b8afe6-e754-4256-bd4a-d3ea13b0a561",
+            "name1": "هود آشپزخانه مورب نوریس مدل N1 لمسی ۴ سرعته با قدرت مکش ۸۵۰ CFM",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=12b8afe6-e754-4256-bd4a-d3ea13b0a561&rank=1",
+            "web_client_absolute_url": "/p/12b8afe6-e754-4256-bd4a-d3ea13b0a561/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D9%86%D9%88%D8%B1%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-n1-%D9%84%D9%85%D8%B3%DB%8C-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-850-cfm/",
+            "price": 4150000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۱۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=12b8afe6-e754-4256-bd4a-d3ea13b0a561&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=12b8afe6-e754-4256-bd4a-d3ea13b0a561&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/55/KM/55KM83GCJoO3VdGy.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wL/_R/wL_R4nblSyG_kWi5.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/55/KM/55KM83GCJoO3VdGy.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "e40319a4-9f66-4538-8ef0-c395ea0c0fd5",
+            "name1": "هود آشپزخانه مورب لمسی افق ظرفیت ۳۵۰ CFM سایز ۹۰ سانتیمتر ۴ سرعته",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=e40319a4-9f66-4538-8ef0-c395ea0c0fd5&rank=2",
+            "web_client_absolute_url": "/p/e40319a4-9f66-4538-8ef0-c395ea0c0fd5/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D9%84%D9%85%D8%B3%DB%8C-%D8%A7%D9%81%D9%82-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-350-cfm-%D8%B3%D8%A7%DB%8C%D8%B2-90-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87/",
+            "price": 4340000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۳۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e40319a4-9f66-4538-8ef0-c395ea0c0fd5&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=e40319a4-9f66-4538-8ef0-c395ea0c0fd5&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/z0/lr/z0lr7GRO1AX5iHg1.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/VP/XN/VPXNFJVd3nMS6_eK.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-B/xJ/-BxJTKWmSIhLMZUn.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6u/Ra/6uRawv1Lp5RcC1oM.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/z0/lr/z0lr7GRO1AX5iHg1.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "1a6ad5bf-ef6a-4973-a74c-7225303ad731",
+            "name1": "هود آشپزخانه مورب نوریس مدل M4 با قدرت مکش ۴۵۰ CFM و ۳ سرعته لمسی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=1a6ad5bf-ef6a-4973-a74c-7225303ad731&rank=3",
+            "web_client_absolute_url": "/p/1a6ad5bf-ef6a-4973-a74c-7225303ad731/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D9%86%D9%88%D8%B1%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-m4-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-450-cfm-%D9%88-3-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D9%84%D9%85%D8%B3%DB%8C/",
+            "price": 4105000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۱۰۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=1a6ad5bf-ef6a-4973-a74c-7225303ad731&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=1a6ad5bf-ef6a-4973-a74c-7225303ad731&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bA/RL/bARLderbmdGCWEZ9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vz/Mm/VzMm9dWXHwODWYRu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6y/g1/6yg1VprSe-sl3LfG.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-I/Y2/-IY2bPMKzg_S4rkY.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/bA/RL/bARLderbmdGCWEZ9.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "6bd38676-32df-40eb-9eef-2741e7a5a736",
+            "name1": "هود آشپزخانه مورب جنرال مدل OS-19 سایز ۹۰ سانتیمتر ۴ سرعته با قدرت مکش ۵۰۰ CFM",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=6bd38676-32df-40eb-9eef-2741e7a5a736&rank=4",
+            "web_client_absolute_url": "/p/6bd38676-32df-40eb-9eef-2741e7a5a736/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%85%D8%AF%D9%84-os-19-%D8%B3%D8%A7%DB%8C%D8%B2-90-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-500-cfm/",
+            "price": 4150000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۱۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=6bd38676-32df-40eb-9eef-2741e7a5a736&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=6bd38676-32df-40eb-9eef-2741e7a5a736&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0i/h7/0ih7acBLdX_JoHkr.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/0i/h7/0ih7acBLdX_JoHkr.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "5db02e13-1572-4662-a10d-f0e6cd632704",
+            "name1": "هود آشپزخانه مورب لمسی مدل H3 سایز ۹۰ سانتی‌متر",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=5db02e13-1572-4662-a10d-f0e6cd632704&rank=5",
+            "web_client_absolute_url": "/p/5db02e13-1572-4662-a10d-f0e6cd632704/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D9%84%D9%85%D8%B3%DB%8C-%D9%85%D8%AF%D9%84-h3-%D8%B3%D8%A7%DB%8C%D8%B2-90-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1/",
+            "price": 6490000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶٫۴۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5db02e13-1572-4662-a10d-f0e6cd632704&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5db02e13-1572-4662-a10d-f0e6cd632704&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/PL/Wi/PLWitkRoOuqFIGtN.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ih/1V/ih1VvZc1QJvRcckt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/8s/uP/8suPeH9xXOYCYtnB.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/PL/Wi/PLWitkRoOuqFIGtN.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ca96f284-c1a1-4a17-bd1a-66d5d37bbded",
+            "name1": "هود مخفی هاریکا مدل T1 سایز ۷۰ سانتیمتر لمسی ۴ سرعته",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=ca96f284-c1a1-4a17-bd1a-66d5d37bbded&rank=6",
+            "web_client_absolute_url": "/p/ca96f284-c1a1-4a17-bd1a-66d5d37bbded/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-%D9%87%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%AF%D9%84-t1-%D8%B3%D8%A7%DB%8C%D8%B2-70-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87/",
+            "price": 4000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ca96f284-c1a1-4a17-bd1a-66d5d37bbded&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ca96f284-c1a1-4a17-bd1a-66d5d37bbded&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/D5/QN/D5QNU5F2CATZCk62.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/39/-J/39-Jg6VEo62gcW8a.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M5/QY/M5QYeWnFvaGlI9Qv.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vo/rx/Vorx6Tay1fdxsqSu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/fL/kn/fLkn9M6WznDwiEAB.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/D5/QN/D5QNU5F2CATZCk62.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b897512b-854d-4e64-bdfd-8164e45235ec",
+            "name1": "هود آشپزخانه اخوان مدل H21",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=b897512b-854d-4e64-bdfd-8164e45235ec&rank=7",
+            "web_client_absolute_url": "/p/b897512b-854d-4e64-bdfd-8164e45235ec/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-h21/",
+            "price": 647731,
+            "price_prefix": "cheapest",
+            "price_text": "۶۴۷٫۷۳۱ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در آرین پخش همایونی",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b897512b-854d-4e64-bdfd-8164e45235ec&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b897512b-854d-4e64-bdfd-8164e45235ec&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Wu/3l/Wu3lO1wQV39SBf-4.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Wu/3l/Wu3lO1wQV39SBf-4.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b49a27d7-fb02-4662-8e46-339607e5b74f",
+            "name1": "هود مخفی لمسی جنرال اقتصادی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=b49a27d7-fb02-4662-8e46-339607e5b74f&rank=8",
+            "web_client_absolute_url": "/p/b49a27d7-fb02-4662-8e46-339607e5b74f/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-%D9%84%D9%85%D8%B3%DB%8C-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C/",
+            "price": 5900000,
+            "price_prefix": "cheapest",
+            "price_text": "۵٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در سینکو پخش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b49a27d7-fb02-4662-8e46-339607e5b74f&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b49a27d7-fb02-4662-8e46-339607e5b74f&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xi/yj/XiyjbAiUqjJbKbQV.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Xi/yj/XiyjbAiUqjJbKbQV.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "64e74181-4bed-4851-b026-5a5c383aacc3",
+            "name1": "هود آشپزخانه مورب نوریس مدل G102 با قدرت مکش ۸۵۰ CFM و ۴ سرعته لمسی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=64e74181-4bed-4851-b026-5a5c383aacc3&rank=9",
+            "web_client_absolute_url": "/p/64e74181-4bed-4851-b026-5a5c383aacc3/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D9%86%D9%88%D8%B1%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-g102-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-850-cfm-%D9%88-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D9%84%D9%85%D8%B3%DB%8C/",
+            "price": 4600000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۶۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=64e74181-4bed-4851-b026-5a5c383aacc3&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=64e74181-4bed-4851-b026-5a5c383aacc3&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hp/yp/hpypLF2oyuNmVgvD.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/hp/yp/hpypLF2oyuNmVgvD.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "da78512d-6bdd-4597-9df9-272044baa76e",
+            "name1": "هود مخفی ۹۰ سانتیمتری افق مدل GENERAL ۴ سرعته لمسی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=result_adv&prk=da78512d-6bdd-4597-9df9-272044baa76e&ad=01a0ddd6a7907070949da4d49628f23e&rank=10",
+            "web_client_absolute_url": "/p/da78512d-6bdd-4597-9df9-272044baa76e/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-90-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%81%D9%82-%D9%85%D8%AF%D9%84-general-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D9%84%D9%85%D8%B3%DB%8C/",
+            "price": 4800000,
+            "price_prefix": "cheapest",
+            "price_text": "۴٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در کالاخانی",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=da78512d-6bdd-4597-9df9-272044baa76e&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=da78512d-6bdd-4597-9df9-272044baa76e&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Tj/Yq/TjYqWS_Igp93ytj5.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/DB/Uh/DBUhGbD7Mt58i33J.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Tj/Yq/TjYqWS_Igp93ytj5.webp",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "c80ecb21-ea97-41a8-ba17-4aa13c5f5c38",
+            "name1": "هود آشپزخانه اخوان مدل H11 سایز 90",
+            "name1_max_lines": 3,
+            "name2": "Akhavan Kitchen Hood H-11 90CM",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=c80ecb21-ea97-41a8-ba17-4aa13c5f5c38&rank=11",
+            "web_client_absolute_url": "/p/c80ecb21-ea97-41a8-ba17-4aa13c5f5c38/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-h11-%D8%B3%D8%A7%DB%8C%D8%B2-90/",
+            "price": 15283559,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۵٫۲۸۳٫۵۵۹ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c80ecb21-ea97-41a8-ba17-4aa13c5f5c38&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=c80ecb21-ea97-41a8-ba17-4aa13c5f5c38&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tH/q6/tHq6h5_c_NZQvrLt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3_/eh/3_ehPYItRhV0fDVf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/VX/0g/VX0gW9JXqjghugB4.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5_/Yq/5_YqRcMmPbGLc0Cj.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/y3/h8/y3h8MH9pfjM0Hpfi.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hT/61/hT61yfm2JJKD93Zd.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/tH/q6/tHq6h5_c_NZQvrLt.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "05c66131-36c1-494a-9cd5-17b3a8ac843c",
+            "name1": "هود مخفی بیمکث مدل 2052 سایز 70",
+            "name1_max_lines": 3,
+            "name2": "Bimax Kitchen Hood B2052U",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=05c66131-36c1-494a-9cd5-17b3a8ac843c&rank=12",
+            "web_client_absolute_url": "/p/05c66131-36c1-494a-9cd5-17b3a8ac843c/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-2052-%D8%B3%D8%A7%DB%8C%D8%B2-70/",
+            "price": 14800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۴٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=05c66131-36c1-494a-9cd5-17b3a8ac843c&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=05c66131-36c1-494a-9cd5-17b3a8ac843c&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/d1/6r/d16ruHp-CQTxrTNT.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5X/20/5X20eeoUSGU5V6Rb.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/us/fn/usfnrovhPpanUFAA.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sT/Qu/sTQu2lOSHAlo38uv.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Q1/Ax/Q1Axj-5MYfFTriFY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/I5/yJ/I5yJKdf1hqSWgMZB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/OC/hF/OChFHdR3DaUOLC7R.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/d1/6r/d16ruHp-CQTxrTNT.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4f620167-37f1-4b3f-b427-b99971640933",
+            "name1": "هود اخوان مدل H64-CS-MF",
+            "name1_max_lines": 3,
+            "name2": "Akhavan Hood H64-CS-MF",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=4f620167-37f1-4b3f-b427-b99971640933&rank=13",
+            "web_client_absolute_url": "/p/4f620167-37f1-4b3f-b427-b99971640933/%D9%87%D9%88%D8%AF-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-h64-cs-mf/",
+            "price": 16947996,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۶٫۹۴۷٫۹۹۶ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4f620167-37f1-4b3f-b427-b99971640933&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4f620167-37f1-4b3f-b427-b99971640933&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bh/Pa/bhPaIWH6F4tJ3Nf_.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ra/34/ra34chAhaZGLBgCo.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/q8/WL/q8WLWOnUt3cCa7zY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/7g/Sb/7gSb_Tq82sjTMzNy.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/bh/Pa/bhPaIWH6F4tJ3Nf_.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "14b22860-be2d-428a-a994-a9fa7baa0d9d",
+            "name1": "هود آشپزخانه پاردیک خم تمام مشکی با موتور فلز",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=14b22860-be2d-428a-a994-a9fa7baa0d9d&rank=14",
+            "web_client_absolute_url": "/p/14b22860-be2d-428a-a994-a9fa7baa0d9d/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B1%D8%AF%DB%8C%DA%A9-%D8%AE%D9%85-%D8%AA%D9%85%D8%A7%D9%85-%D9%85%D8%B4%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%81%D9%84%D8%B2/",
+            "price": 10889000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰٫۸۸۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=14b22860-be2d-428a-a994-a9fa7baa0d9d&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=14b22860-be2d-428a-a994-a9fa7baa0d9d&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jv/cB/jvcBV8eN4qRignWn.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jv/cB/jvcBV8eN4qRignWn.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f8d17ea4-8f56-4539-8a2d-196df976855f",
+            "name1": "هود شومینه ای اخوان مدل H49",
+            "name1_max_lines": 3,
+            "name2": "Akhavan Kitchen Hood H-49",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=f8d17ea4-8f56-4539-8a2d-196df976855f&rank=15",
+            "web_client_absolute_url": "/p/f8d17ea4-8f56-4539-8a2d-196df976855f/%D9%87%D9%88%D8%AF-%D8%B4%D9%88%D9%85%DB%8C%D9%86%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-h49/",
+            "price": 17053386,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۷٫۰۵۳٫۳۸۶ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f8d17ea4-8f56-4539-8a2d-196df976855f&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f8d17ea4-8f56-4539-8a2d-196df976855f&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xA/xT/xAxTKKamqrNNv4pd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/LU/Xy/LUXyTsu4uEdqA9Fr.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3_/eh/3_ehPYItRhV0fDVf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/VX/0g/VX0gW9JXqjghugB4.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5_/Yq/5_YqRcMmPbGLc0Cj.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/y3/h8/y3h8MH9pfjM0Hpfi.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/xA/xT/xAxTKKamqrNNv4pd.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "73635020-6017-4289-acd2-b00a34fdc425",
+            "name1": "هود آشپزخانه مورب جنرال ۹۰ سانت لمسی ۴ سرعته با قدرت مکش ۴۵۰ CFM",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=73635020-6017-4289-acd2-b00a34fdc425&rank=16",
+            "web_client_absolute_url": "/p/73635020-6017-4289-acd2-b00a34fdc425/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B1%D8%A8-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-90-%D8%B3%D8%A7%D9%86%D8%AA-%D9%84%D9%85%D8%B3%DB%8C-4-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-450-cfm/",
+            "price": 4150000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۱۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=73635020-6017-4289-acd2-b00a34fdc425&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=73635020-6017-4289-acd2-b00a34fdc425&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/I2/CP/I2CPnzpqQMnwi55f.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/TB/6_/TB6_uk4Q5wPrczml.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/I2/CP/I2CPnzpqQMnwi55f.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "19a1adf9-9824-4ec2-bc34-3ec54d29779c",
+            "name1": "هود زیر کابینتی بیمکث مدل 4002 سایز 90",
+            "name1_max_lines": 3,
+            "name2": "Bimax Kitchen Hood B4002U",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=19a1adf9-9824-4ec2-bc34-3ec54d29779c&rank=17",
+            "web_client_absolute_url": "/p/19a1adf9-9824-4ec2-bc34-3ec54d29779c/%D9%87%D9%88%D8%AF-%D8%B2%DB%8C%D8%B1-%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D8%AA%DB%8C-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-4002-%D8%B3%D8%A7%DB%8C%D8%B2-90/",
+            "price": 13545770,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۳٫۵۴۵٫۷۷۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=19a1adf9-9824-4ec2-bc34-3ec54d29779c&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=19a1adf9-9824-4ec2-bc34-3ec54d29779c&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1s/Jy/1sJy4pLEg7VVMuzY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1z/uG/1zuGLsbRWgM9afHO.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/kP/Pn/kPPnHWi7iXgUe4eq.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1I/hE/1IhEFBOm-fo51NGk.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1S/Ye/1SYeCvPSGRxyHZXQ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vE/5_/vE5_Mi3Qp04hZ7MX.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/PL/F3/PLF3gyXbTRYGGoQo.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/1s/Jy/1sJy4pLEg7VVMuzY.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "9026e48e-217b-42c4-a75f-2240975cc577",
+            "name1": "هود مخفی اریس مدل H202 با کلید لمسی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=9026e48e-217b-42c4-a75f-2240975cc577&rank=18",
+            "web_client_absolute_url": "/p/9026e48e-217b-42c4-a75f-2240975cc577/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-%D8%A7%D8%B1%DB%8C%D8%B3-%D9%85%D8%AF%D9%84-h202-%D8%A8%D8%A7-%DA%A9%D9%84%DB%8C%D8%AF-%D9%84%D9%85%D8%B3%DB%8C/",
+            "price": 4590000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴٫۵۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9026e48e-217b-42c4-a75f-2240975cc577&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9026e48e-217b-42c4-a75f-2240975cc577&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/h3/bp/h3bpwxUqC_asDHgM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/h3/bp/h3bpwxUqC_asDHgM.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/h3/bp/h3bpwxUqC_asDHgM.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "3d58cb47-2544-4e00-af49-25699e489847",
+            "name1": "هود آشپزخانه دایسن طرح توکار مخفی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=3d58cb47-2544-4e00-af49-25699e489847&rank=19",
+            "web_client_absolute_url": "/p/3d58cb47-2544-4e00-af49-25699e489847/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%DB%8C%D8%B3%D9%86-%D8%B7%D8%B1%D8%AD-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D9%85%D8%AE%D9%81%DB%8C/",
+            "price": 4490000,
+            "price_prefix": "cheapest",
+            "price_text": "۴٫۴۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در نوروزی پلاس",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3d58cb47-2544-4e00-af49-25699e489847&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3d58cb47-2544-4e00-af49-25699e489847&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xw/qK/XwqKjCMsSsQkyOYB.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Xw/qK/XwqKjCMsSsQkyOYB.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "13d346f8-a2c2-46e7-851d-fd290a6ee2b5",
+            "name1": "هود آشپزخانه جنرال مورب لمسی کنترلی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=13d346f8-a2c2-46e7-851d-fd290a6ee2b5&rank=20",
+            "web_client_absolute_url": "/p/13d346f8-a2c2-46e7-851d-fd290a6ee2b5/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%85%D9%88%D8%B1%D8%A8-%D9%84%D9%85%D8%B3%DB%8C-%DA%A9%D9%86%D8%AA%D8%B1%D9%84%DB%8C/",
+            "price": 4800000,
+            "price_prefix": "cheapest",
+            "price_text": "۴٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در رادوین استور",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=13d346f8-a2c2-46e7-851d-fd290a6ee2b5&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=13d346f8-a2c2-46e7-851d-fd290a6ee2b5&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/YU/i8/YUi8jN0XzKEJoFv-.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZA/2c/ZA2cYr0KlOmo7Sru.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vT/LZ/vTLZsFH4hIWiVsKm.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zt/_Q/Zt_QnC9jUSaIosLq.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/j6/oa/j6oa7tFQFq-PvUea.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/YU/i8/YUi8jN0XzKEJoFv-.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ece00bba-bcee-40ab-83a4-2e4a524f1808",
+            "name1": "هود آشپزخانه تیدومکث مدل آرام مخفی ۷۰ سانتیمتر لمسی ۵ سرعته",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=ece00bba-bcee-40ab-83a4-2e4a524f1808&rank=21",
+            "web_client_absolute_url": "/p/ece00bba-bcee-40ab-83a4-2e4a524f1808/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%DB%8C%D8%AF%D9%88%D9%85%DA%A9%D8%AB-%D9%85%D8%AF%D9%84-%D8%A7%D8%B1%D8%A7%D9%85-%D9%85%D8%AE%D9%81%DB%8C-70-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1-%D9%84%D9%85%D8%B3%DB%8C-5-%D8%B3%D8%B1%D8%B9%D8%AA%D9%87/",
+            "price": 7300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ece00bba-bcee-40ab-83a4-2e4a524f1808&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ece00bba-bcee-40ab-83a4-2e4a524f1808&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nv/cI/nvcIbiWryuhGdW1y.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/FH/FX/FHFXNY0BKrtFbbT7.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hW/Cg/hWCgY8s2AZeYLTiB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Hj/ME/HjME9T0nZQK9cErk.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/nv/cI/nvcIbiWryuhGdW1y.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "3c496a28-e1bf-48d8-b4be-d530d3df7fa1",
+            "name1": "هود آشپزخانه پاردیک خم خط دار نارنجی با موتور فلز",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=3c496a28-e1bf-48d8-b4be-d530d3df7fa1&rank=22",
+            "web_client_absolute_url": "/p/3c496a28-e1bf-48d8-b4be-d530d3df7fa1/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B1%D8%AF%DB%8C%DA%A9-%D8%AE%D9%85-%D8%AE%D8%B7-%D8%AF%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D9%86%D8%AC%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%81%D9%84%D8%B2/",
+            "price": 10851000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰٫۸۵۱٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3c496a28-e1bf-48d8-b4be-d530d3df7fa1&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3c496a28-e1bf-48d8-b4be-d530d3df7fa1&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xu/T_/xuT_9A8jUxSmMnUs.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/xu/T_/xuT_9A8jUxSmMnUs.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d",
+            "name1": "هود آشپزخانه پاردیک مدل لمسی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d&rank=23",
+            "web_client_absolute_url": "/p/ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B1%D8%AF%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-%D9%84%D9%85%D8%B3%DB%8C/",
+            "price": 5990000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۹۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vB/wK/vBwKsJQX8CgsC5R8.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/vB/wK/vBwKsJQX8CgsC5R8.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "1ddbb57c-e75c-4965-96c7-9089d61f90cd",
+            "name1": "هود مخفی اخوان مدل H222 سایز ۷۰ سانتیمتر با قدرت مکش ۷۰۰ CFM",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=1ddbb57c-e75c-4965-96c7-9089d61f90cd&rank=24",
+            "web_client_absolute_url": "/p/1ddbb57c-e75c-4965-96c7-9089d61f90cd/%D9%87%D9%88%D8%AF-%D9%85%D8%AE%D9%81%DB%8C-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-h222-%D8%B3%D8%A7%DB%8C%D8%B2-70-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%DA%A9%D8%B4-700-cfm/",
+            "price": 21675118,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۱٫۶۷۵٫۱۱۸ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=1ddbb57c-e75c-4965-96c7-9089d61f90cd&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=1ddbb57c-e75c-4965-96c7-9089d61f90cd&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4n/C8/4nC8x5OwxfC2bXZo.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/6n/cj/6ncjU70goge8cS1f.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/li/UW/liUW8SY1AtWA6sFM.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ue/NJ/ueNJTOqPynNYwtfT.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Q0/my/Q0myEUniOBCwDarf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/4n/C8/4nC8x5OwxfC2bXZo.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "9b767588-f1ab-4e63-93cb-419fb31cbf72",
+            "name1": "هود آشپزخانه جنرال مکس مدل پادریک لمسی رنگ مشکی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&search_id=01a0ddd6a5b6738ebf49e179b9cefa10&cities=&province=&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10&algorithm=rerank&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&rank=25",
+            "web_client_absolute_url": "/p/9b767588-f1ab-4e63-93cb-419fb31cbf72/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-%D9%BE%D8%A7%D8%AF%D8%B1%DB%8C%DA%A9-%D9%84%D9%85%D8%B3%DB%8C-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C/",
+            "price": 6090000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶٫۰۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&limit=24&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&discover_method=search_image_base&prev_uid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/dz/Hk/dzHkdkZNjmAXQSyj.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/L7/1v/L71vQvcE8QwL8aVX.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/dz/Hk/dzHkdkZNjmAXQSyj.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 1575070000,
+    "min_price": 647731,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": null,
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&q=%D9%87%D9%88%D8%AF+%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87&discover_method=search_autocomplete&_search_landing=header&source=next_desktop&_landing_page=home&rank_offset=26&_bt__experiment=llm-cached-reranker__b&suid=01a0ddd6a5b6738ebf49e179b9cefa10&init_suid=01a0ddd6a5b6738ebf49e179b9cefa10",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "هود اشپزخانه",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 246,
+                    "slug": "bimax-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB",
+                    "name1": "بیمکث",
+                    "name2": "Bimax"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 81,
+                    "slug": "akhavan-%D8%A7%D8%AE%D9%88%D8%A7%D9%86",
+                    "name1": "اخوان",
+                    "name2": "Akhavan"
+                },
+                {
+                    "id": 35234,
+                    "slug": "alton-%D8%A7%D9%84%D8%AA%D9%88%D9%86",
+                    "name1": "آلتون",
+                    "name2": "ALTON"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 3528,
+                    "slug": "steel-alborz-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2",
+                    "name1": "استیل البرز",
+                    "name2": "Steel Alborz"
+                },
+                {
+                    "id": 2928,
+                    "slug": "ilia-steel-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "ایلیا استیل",
+                    "name2": "Ilia Steel"
+                },
+                {
+                    "id": 816,
+                    "slug": "dorsa-%D8%AF%D8%B1%D8%B3%D8%A7",
+                    "name1": "درسا",
+                    "name2": "Dorsa"
+                },
+                {
+                    "id": 12131,
+                    "slug": "milan-%D9%85%DB%8C%D9%84%D8%A7%D9%86",
+                    "name1": "میلان",
+                    "name2": "Milan"
+                },
+                {
+                    "id": 35225,
+                    "slug": "parnian-steel-%D9%BE%D8%B1%D9%86%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "پرنیان استیل",
+                    "name2": "PARNIAN STEEL"
+                },
+                {
+                    "id": 53874,
+                    "slug": "rabits-%D8%B1%D8%A7%D8%A8%DB%8C%D8%AA%D8%B3",
+                    "name1": "رابیتس",
+                    "name2": "Rabits"
+                },
+                {
+                    "id": 16360,
+                    "slug": "t-and-d-%D8%AA%DB%8C-%D8%A7%D9%86%D8%AF-%D8%AF%DB%8C",
+                    "name1": "تی اند دی",
+                    "name2": "T and D"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 35248,
+                    "slug": "tacnogold-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D9%84%D8%AF",
+                    "name1": "تاکنوگلد",
+                    "name2": "Tacnogold"
+                },
+                {
+                    "id": 53875,
+                    "slug": "deemund-%D8%AF%DB%8C%D9%85%D9%88%D9%86%D8%AF",
+                    "name1": "دیموند",
+                    "name2": "Deemund"
+                },
+                {
+                    "id": 11446,
+                    "slug": "tecnogas-%D8%AA%DA%A9%D9%86%D9%88%DA%AF%D8%B3",
+                    "name1": "تکنوگس",
+                    "name2": "Tecnogas"
+                },
+                {
+                    "id": 13913,
+                    "slug": "mas-%D9%85%D8%B3",
+                    "name1": "مس",
+                    "name2": "Mas"
+                },
+                {
+                    "id": 55127,
+                    "slug": "tidumax-%D8%AA%DB%8C%D8%AF%D9%88%D9%85%DA%A9%D8%AB",
+                    "name1": "تیدومکث",
+                    "name2": "Tidumax"
+                },
+                {
+                    "id": 2744,
+                    "slug": "sinjer-%D8%B3%DB%8C%D9%86%D8%AC%D8%B1",
+                    "name1": "سینجر",
+                    "name2": "Sinjer"
+                },
+                {
+                    "id": 2930,
+                    "slug": "simer-%D8%B3%DB%8C%D9%85%D8%B1",
+                    "name1": "سیمر",
+                    "name2": "Simer"
+                },
+                {
+                    "id": 35217,
+                    "slug": "clayberg-%DA%A9%D9%84%D8%A7%DB%8C%D8%A8%D8%B1%DA%AF",
+                    "name1": "کلایبرگ",
+                    "name2": "Clayberg"
+                },
+                {
+                    "id": 53584,
+                    "slug": "sargatti-%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AA%DB%8C",
+                    "name1": "سارگاتی",
+                    "name2": "Sargatti"
+                },
+                {
+                    "id": 2926,
+                    "slug": "leto-%D9%84%D8%AA%D9%88",
+                    "name1": "لتو",
+                    "name2": "Leto"
+                },
+                {
+                    "id": 55163,
+                    "slug": "shaina-%D8%B4%D8%A7%DB%8C%D9%86%D8%A7",
+                    "name1": "شاینا",
+                    "name2": "Shaina"
+                },
+                {
+                    "id": 728,
+                    "slug": "eagle-%D8%A7%DB%8C%DA%AF%D9%84",
+                    "name1": "ایگل",
+                    "name2": "Eagle"
+                },
+                {
+                    "id": 17109,
+                    "slug": "romega-%D8%B1%D9%85%DA%AF%D8%A7",
+                    "name1": "رمگا",
+                    "name2": "ROMEGA"
+                },
+                {
+                    "id": 55816,
+                    "slug": "norris-%D9%86%D9%88%D8%B1%DB%8C%D8%B3",
+                    "name1": "نوریس",
+                    "name2": "Norris"
+                },
+                {
+                    "id": 17250,
+                    "slug": "diverso-%D8%AF%DB%8C%D9%88%D8%B1%D8%B3%D9%88",
+                    "name1": "دیورسو",
+                    "name2": "diverso"
+                },
+                {
+                    "id": 35233,
+                    "slug": "astiak-%D8%A7%D8%B3%D8%AA%DB%8C%D8%A7%DA%A9",
+                    "name1": "آستیاک",
+                    "name2": "Astiak"
+                },
+                {
+                    "id": 53574,
+                    "slug": "suntra-%D8%B3%D8%A7%D9%86%D8%AA%D8%B1%D8%A7",
+                    "name1": "سانترا",
+                    "name2": "Suntra"
+                },
+                {
+                    "id": 53873,
+                    "slug": "faster-%D9%81%D8%B3%D8%AA%D8%B1",
+                    "name1": "فستر",
+                    "name2": "Faster"
+                },
+                {
+                    "id": 11195,
+                    "slug": "marvel-%D9%85%D8%A7%D8%B1%D9%88%D9%84",
+                    "name1": "مارول",
+                    "name2": "Marvel"
+                },
+                {
+                    "id": 697,
+                    "slug": "smeg-%D8%A7%D8%B3%D9%85%DA%AF",
+                    "name1": "اسمگ",
+                    "name2": "Smeg"
+                },
+                {
+                    "id": 1874,
+                    "slug": "lumiere-%D9%84%D9%88%D9%85%DB%8C%D8%B1",
+                    "name1": "لومیر",
+                    "name2": "Lumiere"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=199"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 647731,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 1575070000,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 246,
+                    "slug": "bimax-%D8%A8%DB%8C%D9%85%DA%A9%D8%AB",
+                    "name1": "بیمکث",
+                    "name2": "Bimax"
+                },
+                {
+                    "id": 8423,
+                    "slug": "can-%DA%A9%D9%86",
+                    "name1": "کن",
+                    "name2": "Can"
+                },
+                {
+                    "id": 81,
+                    "slug": "akhavan-%D8%A7%D8%AE%D9%88%D8%A7%D9%86",
+                    "name1": "اخوان",
+                    "name2": "Akhavan"
+                },
+                {
+                    "id": 35234,
+                    "slug": "alton-%D8%A7%D9%84%D8%AA%D9%88%D9%86",
+                    "name1": "آلتون",
+                    "name2": "ALTON"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 3528,
+                    "slug": "steel-alborz-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2",
+                    "name1": "استیل البرز",
+                    "name2": "Steel Alborz"
+                },
+                {
+                    "id": 2928,
+                    "slug": "ilia-steel-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "ایلیا استیل",
+                    "name2": "Ilia Steel"
+                },
+                {
+                    "id": 816,
+                    "slug": "dorsa-%D8%AF%D8%B1%D8%B3%D8%A7",
+                    "name1": "درسا",
+                    "name2": "Dorsa"
+                },
+                {
+                    "id": 12131,
+                    "slug": "milan-%D9%85%DB%8C%D9%84%D8%A7%D9%86",
+                    "name1": "میلان",
+                    "name2": "Milan"
+                },
+                {
+                    "id": 35225,
+                    "slug": "parnian-steel-%D9%BE%D8%B1%D9%86%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84",
+                    "name1": "پرنیان استیل",
+                    "name2": "PARNIAN STEEL"
+                },
+                {
+                    "id": 53874,
+                    "slug": "rabits-%D8%B1%D8%A7%D8%A8%DB%8C%D8%AA%D8%B3",
+                    "name1": "رابیتس",
+                    "name2": "Rabits"
+                },
+                {
+                    "id": 16360,
+                    "slug": "t-and-d-%D8%AA%DB%8C-%D8%A7%D9%86%D8%AF-%D8%AF%DB%8C",
+                    "name1": "تی اند دی",
+                    "name2": "T and D"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 35248,
+                    "slug": "tacnogold-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%DA%AF%D9%84%D8%AF",
+                    "name1": "تاکنوگلد",
+                    "name2": "Tacnogold"
+                },
+                {
+                    "id": 53875,
+                    "slug": "deemund-%D8%AF%DB%8C%D9%85%D9%88%D9%86%D8%AF",
+                    "name1": "دیموند",
+                    "name2": "Deemund"
+                },
+                {
+                    "id": 11446,
+                    "slug": "tecnogas-%D8%AA%DA%A9%D9%86%D9%88%DA%AF%D8%B3",
+                    "name1": "تکنوگس",
+                    "name2": "Tecnogas"
+                },
+                {
+                    "id": 13913,
+                    "slug": "mas-%D9%85%D8%B3",
+                    "name1": "مس",
+                    "name2": "Mas"
+                },
+                {
+                    "id": 55127,
+                    "slug": "tidumax-%D8%AA%DB%8C%D8%AF%D9%88%D9%85%DA%A9%D8%AB",
+                    "name1": "تیدومکث",
+                    "name2": "Tidumax"
+                },
+                {
+                    "id": 2744,
+                    "slug": "sinjer-%D8%B3%DB%8C%D9%86%D8%AC%D8%B1",
+                    "name1": "سینجر",
+                    "name2": "Sinjer"
+                },
+                {
+                    "id": 2930,
+                    "slug": "simer-%D8%B3%DB%8C%D9%85%D8%B1",
+                    "name1": "سیمر",
+                    "name2": "Simer"
+                },
+                {
+                    "id": 35217,
+                    "slug": "clayberg-%DA%A9%D9%84%D8%A7%DB%8C%D8%A8%D8%B1%DA%AF",
+                    "name1": "کلایبرگ",
+                    "name2": "Clayberg"
+                },
+                {
+                    "id": 53584,
+                    "slug": "sargatti-%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AA%DB%8C",
+                    "name1": "سارگاتی",
+                    "name2": "Sargatti"
+                },
+                {
+                    "id": 2926,
+                    "slug": "leto-%D9%84%D8%AA%D9%88",
+                    "name1": "لتو",
+                    "name2": "Leto"
+                },
+                {
+                    "id": 55163,
+                    "slug": "shaina-%D8%B4%D8%A7%DB%8C%D9%86%D8%A7",
+                    "name1": "شاینا",
+                    "name2": "Shaina"
+                },
+                {
+                    "id": 728,
+                    "slug": "eagle-%D8%A7%DB%8C%DA%AF%D9%84",
+                    "name1": "ایگل",
+                    "name2": "Eagle"
+                },
+                {
+                    "id": 17109,
+                    "slug": "romega-%D8%B1%D9%85%DA%AF%D8%A7",
+                    "name1": "رمگا",
+                    "name2": "ROMEGA"
+                },
+                {
+                    "id": 55816,
+                    "slug": "norris-%D9%86%D9%88%D8%B1%DB%8C%D8%B3",
+                    "name1": "نوریس",
+                    "name2": "Norris"
+                },
+                {
+                    "id": 17250,
+                    "slug": "diverso-%D8%AF%DB%8C%D9%88%D8%B1%D8%B3%D9%88",
+                    "name1": "دیورسو",
+                    "name2": "diverso"
+                },
+                {
+                    "id": 35233,
+                    "slug": "astiak-%D8%A7%D8%B3%D8%AA%DB%8C%D8%A7%DA%A9",
+                    "name1": "آستیاک",
+                    "name2": "Astiak"
+                },
+                {
+                    "id": 53574,
+                    "slug": "suntra-%D8%B3%D8%A7%D9%86%D8%AA%D8%B1%D8%A7",
+                    "name1": "سانترا",
+                    "name2": "Suntra"
+                },
+                {
+                    "id": 53873,
+                    "slug": "faster-%D9%81%D8%B3%D8%AA%D8%B1",
+                    "name1": "فستر",
+                    "name2": "Faster"
+                },
+                {
+                    "id": 11195,
+                    "slug": "marvel-%D9%85%D8%A7%D8%B1%D9%88%D9%84",
+                    "name1": "مارول",
+                    "name2": "Marvel"
+                },
+                {
+                    "id": 697,
+                    "slug": "smeg-%D8%A7%D8%B3%D9%85%DA%AF",
+                    "name1": "اسمگ",
+                    "name2": "Smeg"
+                },
+                {
+                    "id": 1874,
+                    "slug": "lumiere-%D9%84%D9%88%D9%85%DB%8C%D8%B1",
+                    "name1": "لومیر",
+                    "name2": "Lumiere"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=199"
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "هود آشپزخانه",
+            "cat_id": 199,
+            "cat_slug": "هود-اشپزخانه",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "199",
+            "slug": "هود-اشپزخانه"
+        }
+    ],
+    "parent_categories": []
+}

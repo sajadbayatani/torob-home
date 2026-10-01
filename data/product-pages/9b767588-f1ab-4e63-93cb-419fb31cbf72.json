@@ -1,0 +1,459 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "9b767588-f1ab-4e63-93cb-419fb31cbf72",
+    "name1": "هود آشپزخانه جنرال مکس مدل پادریک لمسی رنگ مشکی",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3ba6ce7169bce5699f5fb7d57a&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&cities=&province=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&algorithm=text_similarity&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72",
+    "web_client_absolute_url": "/p/9b767588-f1ab-4e63-93cb-419fb31cbf72/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-%D9%BE%D8%A7%D8%AF%D8%B1%DB%8C%DA%A9-%D9%84%D9%85%D8%B3%DB%8C-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C/",
+    "price": 6090000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۶٫۰۹۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۲ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&limit=24&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&discover_method=search_image_base_pdp&prev_uid=01a0de3ba6ce7169bce5699f5fb7d57a&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/dz/Hk/dzHkdkZNjmAXQSyj.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/L7/1v/L71vQvcE8QwL8aVX.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/dz/Hk/dzHkdkZNjmAXQSyj.jpg",
+    "image_count": 2,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "هود لمسی کنترل دار جنرال مکس رنگ مشکی مدل پاردیک سنسور دار",
+                "name2": "18ماه شرکتی",
+                "shop_name": "امین پلاس",
+                "shop_name2": "نسیم شهر",
+                "shop_id": 45173,
+                "has_public_torob_profile": true,
+                "prk": "b8155ac2-804d-48c8-bac9-fdbf750d4aa9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=b8155ac2-804d-48c8-bac9-fdbf750d4aa9&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de3bc9af7195a376e5d94eda7ca4&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 6400000,
+                "price_text": "۶٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق باربری و پس کرایه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "هود آشپزخانه جنرال مکس مدل پادریک لمسی رنگ مشکی",
+                "name2": "24 ماه ضمانت کل کشور",
+                "shop_name": "لوتنزو پلاس",
+                "shop_name2": "پردیس",
+                "shop_id": 134467,
+                "has_public_torob_profile": true,
+                "prk": "5a2d7a5e-2a4d-4369-8011-5284e4de5630",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=5a2d7a5e-2a4d-4369-8011-5284e4de5630&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 6090000,
+                "price_text": "۶٫۰۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶٫۰۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "هود لمسی کنترل دار جنرال مکس رنگ مشکی مدل پاردیک سنسور دار",
+                "name2": "18ماه شرکتی",
+                "shop_name": "امین پلاس",
+                "shop_name2": "نسیم شهر",
+                "shop_id": 45173,
+                "has_public_torob_profile": true,
+                "prk": "b8155ac2-804d-48c8-bac9-fdbf750d4aa9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=b8155ac2-804d-48c8-bac9-fdbf750d4aa9&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 6400000,
+                "price_text": "۶٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق باربری و پس کرایه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "هودجنرال مکس لمسی کنترل دار مدل پادریک",
+                "name2": "گارانتی 12 ماهه جنرال مکس",
+                "shop_name": "امین پلاس",
+                "shop_name2": "نسیم شهر",
+                "shop_id": 45173,
+                "has_public_torob_profile": true,
+                "prk": "6edaa9d6-b326-44ef-9baf-b3fbd9abd938",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=6edaa9d6-b326-44ef-9baf-b3fbd9abd938&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72000000,
+                "price_text": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق باربری و پس کرایه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434855",
+        "count": 4,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&cities=&province=&algorithm=text_similarity&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&list_type=products_info&seed=1790434855"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434855",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&cities=&province=&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&list_type=products_in_store_info&seed=1790434855&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&source=next_desktop&discover_method=search&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&seed=1790434855&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&source=next_desktop&discover_method=search&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&seed=1790434855&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۶٫۰۹۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۶٫۰۹۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 4,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3ba6ce7169bce5699f5fb7d57a&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&cities=&province=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&algorithm=text_similarity&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&no_log=true&seed=1790434855",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&base_id=51828763&source=next_desktop&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a"
+    },
+    "min_price": 6090000,
+    "max_price": 72000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 125,
+            "title": "تجهیزات ساختمان",
+            "url": "/browse/125/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-building-tools/",
+            "cat_id": 125,
+            "brand_id": null
+        },
+        {
+            "id": 6154,
+            "title": "تجهیزات آشپزخانه و بهداشتی ساختمان",
+            "url": "/browse/6154/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86/",
+            "cat_id": 6154,
+            "brand_id": null
+        },
+        {
+            "id": 199,
+            "title": "هود آشپزخانه",
+            "url": "/browse/199/%D9%87%D9%88%D8%AF-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87/",
+            "cat_id": 199,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "ریموت کنترل": "دارد",
+                    "نوع صفحه کنترل": "لمسی",
+                    "قدرت موتور": "850 مترمکعب بر ساعت",
+                    "نوع فیلتر": "1 عدد آلومینیومی قابل شستشو",
+                    "ابعاد": "۸۸"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "هود-اشپزخانه-جنرال-مکس-مدل-پادریک-لمسی-رنگ-مشکی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=9b767588-f1ab-4e63-93cb-419fb31cbf72",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9b767588-f1ab-4e63-93cb-419fb31cbf72&limit=24&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+    "torob_category": 199,
+    "no_index": false,
+    "buy_box_price_text": "از ۶٫۰۹۰٫۰۰۰ تومان تا ۷۲٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=5a2d7a5e-2a4d-4369-8011-5284e4de5630&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از لوتنزو پلاس",
+    "new_buy_box_button_text2": "۶٫۰۹۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3ba6ce7169bce5699f5fb7d57a&suid=01a0de3ba6ce7169bce5699f5fb7d57a&bvid=01a0de3bc9a67150a2283e6e2e2f6b7a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&prk=5a2d7a5e-2a4d-4369-8011-5284e4de5630&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3ba6ce7169bce5699f5fb7d57a&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "b8155ac2-804d-48c8-bac9-fdbf750d4aa9",
+    "new_buy_box_source_prk": "5a2d7a5e-2a4d-4369-8011-5284e4de5630",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۱ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/L7/1v/L71vQvcE8QwL8aVX.jpg"
+            ]
+        }
+    ]
+}

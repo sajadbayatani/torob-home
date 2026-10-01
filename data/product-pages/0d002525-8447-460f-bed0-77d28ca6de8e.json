@@ -1,0 +1,239 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "0d002525-8447-460f-bed0-77d28ca6de8e",
+    "name1": "تخت خواب کلاسیک دو نفره",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de41ea10712f9584f3725ed448f2&search_id=01a0de41ea10712f9584f3725ed448f2&cities=&province=&init_suid=01a0de41ea10712f9584f3725ed448f2&algorithm=text_similarity&prk=0d002525-8447-460f-bed0-77d28ca6de8e",
+    "web_client_absolute_url": "/p/0d002525-8447-460f-bed0-77d28ca6de8e/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%D8%AF%D9%88-%D9%86%D9%81%D8%B1%D9%87/",
+    "price": 70000000,
+    "price_prefix": "cheapest",
+    "price_text": "۷۰٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در سوفا مبل",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0d002525-8447-460f-bed0-77d28ca6de8e&limit=24&init_suid=01a0de41ea10712f9584f3725ed448f2",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0d002525-8447-460f-bed0-77d28ca6de8e&discover_method=search_image_base_pdp&prev_uid=01a0de41ea10712f9584f3725ed448f2&init_suid=01a0de41ea10712f9584f3725ed448f2",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/fg/le/fgleRJix0SzTqrGU.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/tP/wB/tPwBQte-5uwTuvuc.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Wy/6k/Wy6k5ggoFXJapvMd.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/55/TT/55TT11oPWINyy6vL.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/1U/vP/1UvPpvno7dYnJhhU.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/VL/rm/VLrm12pOAe3skkGw.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Rj/-z/Rj-ziOGJiWa8Dvjb.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/fg/le/fgleRJix0SzTqrGU.webp",
+    "image_count": 7,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&bvid=01a0de42004b75ca8d7925c8a13f88a1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de41ea10712f9584f3725ed448f2&prk=b693eab0-c859-4b9e-a2cf-01a6b57cba6b&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de41ea10712f9584f3725ed448f2",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "سرویس خواب کلاسیک تاج دو نفره",
+                "name2": "",
+                "shop_name": "سوفا مبل",
+                "shop_name2": "تهران",
+                "shop_id": 26729,
+                "has_public_torob_profile": true,
+                "prk": "b693eab0-c859-4b9e-a2cf-01a6b57cba6b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&bvid=01a0de42004b75ca8d7925c8a13f88a1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de41ea10712f9584f3725ed448f2&prk=b693eab0-c859-4b9e-a2cf-01a6b57cba6b&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de41ea10712f9584f3725ed448f2",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70000000,
+                "price_text": "۷۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال برای تهران توسط پیک تولیدی و برای شهرستان ها توسط باربرای\nارسال میز تلویزیون رایگان بوده و برای شهرستان ها به صورت رایگان تا باربری ارسال میگردد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435262",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&bvid=01a0de42004b75ca8d7925c8a13f88a1&suid=01a0de41ea10712f9584f3725ed448f2&cities=&province=&algorithm=text_similarity&prk=0d002525-8447-460f-bed0-77d28ca6de8e&list_type=products_info&seed=1790435262"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435262",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&cities=&province=&prk=0d002525-8447-460f-bed0-77d28ca6de8e&list_type=products_in_store_info&seed=1790435262&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=0d002525-8447-460f-bed0-77d28ca6de8e&source=next_desktop&discover_method=search&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&seed=1790435262&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=0d002525-8447-460f-bed0-77d28ca6de8e&source=next_desktop&discover_method=search&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&seed=1790435262&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de41ea10712f9584f3725ed448f2&search_id=01a0de41ea10712f9584f3725ed448f2&cities=&province=&init_suid=01a0de41ea10712f9584f3725ed448f2&algorithm=text_similarity&prk=0d002525-8447-460f-bed0-77d28ca6de8e&bvid=01a0de42004b75ca8d7925c8a13f88a1&no_log=true&seed=1790435262",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=0d002525-8447-460f-bed0-77d28ca6de8e&base_id=102906498&source=next_desktop&bvid=01a0de42004b75ca8d7925c8a13f88a1&init_suid=01a0de41ea10712f9584f3725ed448f2"
+    },
+    "min_price": 70000000,
+    "max_price": 70000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 153,
+            "title": "اتاق خواب",
+            "url": "/browse/153/%D8%A7%D8%AA%D8%A7%D9%82-%D8%AE%D9%88%D8%A7%D8%A8-room/",
+            "cat_id": 153,
+            "brand_id": null
+        },
+        {
+            "id": 353,
+            "title": "تخت خواب",
+            "url": "/browse/353/%D8%AA%D8%AE%D8%AA-%D8%AE%D9%88%D8%A7%D8%A8-bed-services/",
+            "cat_id": 353,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "تخت-خواب-کلاسیک-دو-نفره",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=0d002525-8447-460f-bed0-77d28ca6de8e",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0d002525-8447-460f-bed0-77d28ca6de8e&limit=24&init_suid=01a0de41ea10712f9584f3725ed448f2",
+    "torob_category": 353,
+    "no_index": false,
+    "buy_box_price_text": "۷۰٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&bvid=01a0de42004b75ca8d7925c8a13f88a1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de41ea10712f9584f3725ed448f2&prk=b693eab0-c859-4b9e-a2cf-01a6b57cba6b&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de41ea10712f9584f3725ed448f2",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از سوفا مبل",
+    "new_buy_box_button_text2": "۷۰٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de41ea10712f9584f3725ed448f2&suid=01a0de41ea10712f9584f3725ed448f2&bvid=01a0de42004b75ca8d7925c8a13f88a1&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de41ea10712f9584f3725ed448f2&prk=b693eab0-c859-4b9e-a2cf-01a6b57cba6b&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de41ea10712f9584f3725ed448f2&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "b693eab0-c859-4b9e-a2cf-01a6b57cba6b",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/tP/wB/tPwBQte-5uwTuvuc.jpg",
+                "https://image.torob.com/base/images/Wy/6k/Wy6k5ggoFXJapvMd.jpg",
+                "https://image.torob.com/base/images/55/TT/55TT11oPWINyy6vL.jpg",
+                "https://image.torob.com/base/images/1U/vP/1UvPpvno7dYnJhhU.jpg",
+                "https://image.torob.com/base/images/VL/rm/VLrm12pOAe3skkGw.jpg",
+                "https://image.torob.com/base/images/Rj/-z/Rj-ziOGJiWa8Dvjb.jpg"
+            ]
+        }
+    ]
+}

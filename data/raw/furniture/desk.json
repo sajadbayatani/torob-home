@@ -1,0 +1,1382 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0",
+            "name1": "میز مدیریت سناتور سوپر مات طول ۲۶۰ عرض ۲۰۰ ارتفاع ۷۶",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=result_adv&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&ad=01a0dddb052476b6a491f1f439779b7f&rank=0",
+            "web_client_absolute_url": "/p/ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%B3%D9%88%D9%BE%D8%B1-%D9%85%D8%A7%D8%AA-%D8%B7%D9%88%D9%84-260-%D8%B9%D8%B1%D8%B6-200-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-76/",
+            "price": 191400000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۹۱٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در دکو سرو",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ce9b1ac7-0bb9-4f75-aec3-2f64c3e7ece0&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vl/0E/Vl0E0EcC3t-OqhQO.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/k1/Au/k1Au0cRHgZgCmFU7.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/rf/k8/rfk8toZU-HPFyV_A.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/KY/fn/KYfnsckVx3LCp0gh.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Es/HI/EsHI825ie0B5hk2B.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sm/RP/smRP8pnMxfWH80ka.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Vl/0E/Vl0E0EcC3t-OqhQO.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "d062a9c3-c320-44c8-991b-24df981320f6",
+            "name1": "میز مدیریت لمسه غزال نیمه وکیوم ابعاد ۱۸۰ سانت با میز ال",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=d062a9c3-c320-44c8-991b-24df981320f6&rank=1",
+            "web_client_absolute_url": "/p/d062a9c3-c320-44c8-991b-24df981320f6/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%84%D9%85%D8%B3%D9%87-%D8%BA%D8%B2%D8%A7%D9%84-%D9%86%DB%8C%D9%85%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-180-%D8%B3%D8%A7%D9%86%D8%AA-%D8%A8%D8%A7-%D9%85%DB%8C%D8%B2-%D8%A7%D9%84/",
+            "price": 11950000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱٫۹۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d062a9c3-c320-44c8-991b-24df981320f6&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d062a9c3-c320-44c8-991b-24df981320f6&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/m_/r2/m_r2QAzD_lBsyww0.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Y5/sM/Y5sMWl142Yh--e4a.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vw/SN/vwSNj5Ax1nsJyUt_.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4-/2C/4-2C3FJmRaDH0gbc.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/eU/_1/eU_1g3YVuCamEQM9.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/8v/7u/8v7u6UPYScnU2ANN.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zH/Bj/zHBj4oe5H50V3j7d.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/m_/r2/m_r2QAzD_lBsyww0.webp",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "30fbb185-163a-478c-aa22-025e92073b0b",
+            "name1": "میز مدیریت غزال مدل DCK160 با جنس ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=30fbb185-163a-478c-aa22-025e92073b0b&rank=2",
+            "web_client_absolute_url": "/p/30fbb185-163a-478c-aa22-025e92073b0b/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%BA%D8%B2%D8%A7%D9%84-%D9%85%D8%AF%D9%84-dck160-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 11800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=30fbb185-163a-478c-aa22-025e92073b0b&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=30fbb185-163a-478c-aa22-025e92073b0b&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-G/ot/-Got52wb1OuIxMeH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/IU/1o/IU1o0zmqst6LvhQb.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-7/qP/-7qPjqEg-NLZ3Wlp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_O/MZ/_OMZQyPbsvqgIUws.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/uV/vE/uVvELXEg-nfm8IC5.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/-G/ot/-Got52wb1OuIxMeH.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f89b001c-f437-4f79-8939-abdc64924ccc",
+            "name1": "میز مدیریت هایگلاس کد 120",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=f89b001c-f437-4f79-8939-abdc64924ccc&rank=3",
+            "web_client_absolute_url": "/p/f89b001c-f437-4f79-8939-abdc64924ccc/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C%DA%AF%D9%84%D8%A7%D8%B3-%DA%A9%D8%AF-120/",
+            "price": 16930000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۶٫۹۳۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در فضاسیستم",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f89b001c-f437-4f79-8939-abdc64924ccc&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f89b001c-f437-4f79-8939-abdc64924ccc&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/e9/2N/e92Nmr2xo-prwnpH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1w/QH/1wQHjzkIKznORR1n.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/e9/2N/e92Nmr2xo-prwnpH.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=ec496de7-2286-4b83-86d4-b8c55fc3ee2d&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "02d3e9f2-3b52-4e8f-811d-59f861dcf227",
+            "name1": "میز مدیریت Morchoob-12020",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=02d3e9f2-3b52-4e8f-811d-59f861dcf227&rank=4",
+            "web_client_absolute_url": "/p/02d3e9f2-3b52-4e8f-811d-59f861dcf227/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-morchoob-12020/",
+            "price": 10700000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۰٫۷۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مورچوب شاپ",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=02d3e9f2-3b52-4e8f-811d-59f861dcf227&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=02d3e9f2-3b52-4e8f-811d-59f861dcf227&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Y2/q5/Y2q5thYh84sfgMOB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/JZ/ij/JZijfVKTMPgM3pY7.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bG/73/bG73_ROXRweME1xg.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ak/a5/aka5t38gwODNnv9b.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Y2/q5/Y2q5thYh84sfgMOB.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=68bb1167-1814-4cfc-90e0-0c7c6266c107&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "6272b84e-68d9-4c62-a4a9-71145af474d3",
+            "name1": "میز مدیریت لیندا ال دار",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=6272b84e-68d9-4c62-a4a9-71145af474d3&rank=5",
+            "web_client_absolute_url": "/p/6272b84e-68d9-4c62-a4a9-71145af474d3/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%84%DB%8C%D9%86%D8%AF%D8%A7-%D8%A7%D9%84-%D8%AF%D8%A7%D8%B1/",
+            "price": 15640000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۵٫۶۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=6272b84e-68d9-4c62-a4a9-71145af474d3&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=6272b84e-68d9-4c62-a4a9-71145af474d3&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sz/7t/sz7tIXMnqYM4LNsr.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/sz/7t/sz7tIXMnqYM4LNsr.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f2ff9cc2-c41d-4627-bc02-af46e8208227",
+            "name1": "میز مدیریت لمسه حلال",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=f2ff9cc2-c41d-4627-bc02-af46e8208227&rank=6",
+            "web_client_absolute_url": "/p/f2ff9cc2-c41d-4627-bc02-af46e8208227/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%84%D9%85%D8%B3%D9%87-%D8%AD%D9%84%D8%A7%D9%84/",
+            "price": 18000000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۸٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مبلمان اداری نایل",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f2ff9cc2-c41d-4627-bc02-af46e8208227&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f2ff9cc2-c41d-4627-bc02-af46e8208227&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/de/PC/dePCjI2a_iJ2-a9Z.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/de/PC/dePCjI2a_iJ2-a9Z.jpg",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=f70090d9-fe45-48d8-a5c4-05d89aa7a309&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "e3be4e7f-5fd2-4648-872a-ce99c6f483c8",
+            "name1": "میز مدیریت غزال ۲ متری با میز ال ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=e3be4e7f-5fd2-4648-872a-ce99c6f483c8&rank=7",
+            "web_client_absolute_url": "/p/e3be4e7f-5fd2-4648-872a-ce99c6f483c8/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%BA%D8%B2%D8%A7%D9%84-2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%85%DB%8C%D8%B2-%D8%A7%D9%84-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 13300000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۳٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e3be4e7f-5fd2-4648-872a-ce99c6f483c8&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=e3be4e7f-5fd2-4648-872a-ce99c6f483c8&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/oK/oJ/oKoJsi5dehn7Pvvf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tW/HY/tWHYaGdeNo0x4jdt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/76/vK/76vKwAKobTdvnDdm.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Wv/X-/WvX-WAVWVpenUzTU.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/oK/oJ/oKoJsi5dehn7Pvvf.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "56abd9bc-2318-4677-9f9f-ab9fc8d84689",
+            "name1": "میز مدیریت MDF مدل M107",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=56abd9bc-2318-4677-9f9f-ab9fc8d84689&rank=8",
+            "web_client_absolute_url": "/p/56abd9bc-2318-4677-9f9f-ab9fc8d84689/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-mdf-%D9%85%D8%AF%D9%84-m107/",
+            "price": 22500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۲٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=56abd9bc-2318-4677-9f9f-ab9fc8d84689&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=56abd9bc-2318-4677-9f9f-ab9fc8d84689&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/BC/QI/BCQIxrDQe8pAJLfj.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/BC/QI/BCQIxrDQe8pAJLfj.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "9bbeda21-d118-43de-95bb-aea081f21349",
+            "name1": "میز مدیریت فلزی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=9bbeda21-d118-43de-95bb-aea081f21349&rank=9",
+            "web_client_absolute_url": "/p/9bbeda21-d118-43de-95bb-aea081f21349/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%81%D9%84%D8%B2%DB%8C/",
+            "price": 13500000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۳٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در رستاک گالری",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=9bbeda21-d118-43de-95bb-aea081f21349&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=9bbeda21-d118-43de-95bb-aea081f21349&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_f/3a/_f3ajiX7LHtS_71C.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/T4/hz/T4hzuNB7fkNeWRmt.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nG/bi/nGbi_3jeLH6jtDs-.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/C3/pq/C3pqPpkmDKO3pPKz.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/_f/3a/_f3ajiX7LHtS_71C.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=ead9c934-6405-4845-a62c-9b5118d69a95&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25",
+            "name1": "میز مدیریتی سناتور فرامید طول ۲۲۰ عرض ۱۶۰ ارتفاع ۸۰",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=result_adv&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&ad=01a0dddb052476b6a491f1f55a373bc5&rank=10",
+            "web_client_absolute_url": "/p/ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%D8%B1%D8%A7%D9%85%DB%8C%D8%AF-%D8%B7%D9%88%D9%84-220-%D8%B9%D8%B1%D8%B6-160-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-80/",
+            "price": 97900000,
+            "price_prefix": "cheapest",
+            "price_text": "۹۷٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در دکو سرو",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Yx/Rq/YxRq6a8eHKwI65xH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/d0/gs/d0gsbHjGDQGDhgZY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/gM/uX/gMuXMWPZXPzpwvUC.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ov/_t/Ov_tRTSQqwb8XE8C.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Yx/Rq/YxRq6a8eHKwI65xH.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "d507fb38-b857-446d-9aae-ec657a1c64b7",
+            "name1": "میز مدیریت مدل رز پنل وکیوم ۱۴۰ سانت با کشو از MDF",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=d507fb38-b857-446d-9aae-ec657a1c64b7&rank=11",
+            "web_client_absolute_url": "/p/d507fb38-b857-446d-9aae-ec657a1c64b7/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%AF%D9%84-%D8%B1%D8%B2-%D9%BE%D9%86%D9%84-%D9%88%DA%A9%DB%8C%D9%88%D9%85-140-%D8%B3%D8%A7%D9%86%D8%AA-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88-%D8%A7%D8%B2-mdf/",
+            "price": 9550000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۹٫۵۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d507fb38-b857-446d-9aae-ec657a1c64b7&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d507fb38-b857-446d-9aae-ec657a1c64b7&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/s6/I8/s6I8Zx8TlHus3dIs.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Xv/xj/XvxjYhN0ZZcHP3uH.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/al/kp/alkpDu_HbwC--Fux.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l2/1p/l21pPXDTLddnJaZ1.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bz/C6/bzC6gQPlnghaOdDJ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/s6/I8/s6I8Zx8TlHus3dIs.webp",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "01a9ff4d-2530-4381-beb3-eff20bdde2f3",
+            "name1": "میز مدیریت فلزی مدل GF116",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=01a9ff4d-2530-4381-beb3-eff20bdde2f3&rank=12",
+            "web_client_absolute_url": "/p/01a9ff4d-2530-4381-beb3-eff20bdde2f3/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%81%D9%84%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-gf116/",
+            "price": 17325000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۷٫۳۲۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در گلد چوب",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=01a9ff4d-2530-4381-beb3-eff20bdde2f3&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=01a9ff4d-2530-4381-beb3-eff20bdde2f3&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lb/20/lb20Xl-dpiMBlxuQ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/q1/Ss/q1SsgfWL5qGzPFb9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/uA/L9/uAL9nmjr34NvxX_0.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/UM/xn/UMxnzhRRdWvcKIw5.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/J5/ze/J5zeurSQKA1pMjzR.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tm/Z4/tmZ4XGHgoAN7Zy7D.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/lb/20/lb20Xl-dpiMBlxuQ.jpg",
+            "image_count": 6,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=a1b9b45f-fee6-46f1-85cc-ea735b371c69&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "26815a7d-f99e-43ff-8b5d-2e6c362dde87",
+            "name1": "ست میز و مبلمان مدیریتی مدل موناکو",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=26815a7d-f99e-43ff-8b5d-2e6c362dde87&rank=13",
+            "web_client_absolute_url": "/p/26815a7d-f99e-43ff-8b5d-2e6c362dde87/%D8%B3%D8%AA-%D9%85%DB%8C%D8%B2-%D9%88-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%88%D9%86%D8%A7%DA%A9%D9%88/",
+            "price": 50000000,
+            "price_prefix": "cheapest",
+            "price_text": "۵۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در چوبی شو",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=26815a7d-f99e-43ff-8b5d-2e6c362dde87&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=26815a7d-f99e-43ff-8b5d-2e6c362dde87&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/h_/ag/h_agofZGJOoGR1Gb.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/h_/ag/h_agofZGJOoGR1Gb.jpg",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=bf401ed8-8c5d-4fff-9648-3db96d6d3d6d&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "5c68ca7b-c410-4803-8459-1b9503d1e685",
+            "name1": "میز مدیریت کد M101 قابل سفارش در ابعاد و رنگ های مختلف",
+            "name1_max_lines": 3,
+            "name2": "management desk M101",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=5c68ca7b-c410-4803-8459-1b9503d1e685&rank=14",
+            "web_client_absolute_url": "/p/5c68ca7b-c410-4803-8459-1b9503d1e685/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%DA%A9%D8%AF-m101-%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4-%D8%AF%D8%B1-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%D9%88-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%AE%D8%AA%D9%84%D9%81/",
+            "price": 24300000,
+            "price_prefix": "cheapest",
+            "price_text": "۲۴٫۳۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در بهساز",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5c68ca7b-c410-4803-8459-1b9503d1e685&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5c68ca7b-c410-4803-8459-1b9503d1e685&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/JY/UO/JYUOLbZU5b-BiEOG.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/JY/UO/JYUOLbZU5b-BiEOG.webp",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=d7c23ce4-166f-4183-93f0-b266a3ebd69f&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "8a2c6a99-05c3-46d9-a45c-67c97c6d6e17",
+            "name1": "میز مدیریت اداری کاترین با جنس ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&rank=15",
+            "web_client_absolute_url": "/p/8a2c6a99-05c3-46d9-a45c-67c97c6d6e17/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 16500000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۶٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در اداری فروش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/41/JK/41JKfhspgDqcnxY8.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zs/nm/zsnm2GvXlfDk3Xjw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vs/sM/VssM0I0OtbcT9H7L.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/q0/bQ/q0bQ5Kr1lEOuuWLM.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/41/JK/41JKfhspgDqcnxY8.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=ae28bde7-18df-495a-9b4d-bc847ea4d4b6&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4",
+            "name1": "میز مدیریت لمسه حلال وکیوم با جنس ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4&rank=16",
+            "web_client_absolute_url": "/p/2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%84%D9%85%D8%B3%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D9%88%DA%A9%DB%8C%D9%88%D9%85-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 10800000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۰٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در اداری فروش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/EG/Jg/EGJgadxmtJmMN14-.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/EG/Jg/EGJgadxmtJmMN14-.jpg",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=c0d282be-930f-4677-818d-ca5c47d13f32&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f2a18f0a-3246-475f-9e3b-e5d97a7bedbc",
+            "name1": "میز مدیریت پایه مثلثی مدل L",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=f2a18f0a-3246-475f-9e3b-e5d97a7bedbc&rank=17",
+            "web_client_absolute_url": "/p/f2a18f0a-3246-475f-9e3b-e5d97a7bedbc/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%BE%D8%A7%DB%8C%D9%87-%D9%85%D8%AB%D9%84%D8%AB%DB%8C-%D9%85%D8%AF%D9%84-l/",
+            "price": 7700000,
+            "price_prefix": "cheapest",
+            "price_text": "۷٫۷۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مصنوعات چی گل دکور",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f2a18f0a-3246-475f-9e3b-e5d97a7bedbc&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f2a18f0a-3246-475f-9e3b-e5d97a7bedbc&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1d/fu/1dfuoRQ2MPkUxGES.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Qz/ZF/QzZFcrxNUN7Apf5r.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/1d/fu/1dfuoRQ2MPkUxGES.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=e66a870c-849d-4b8a-b650-5df573b74128&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "32f56cc1-f327-4538-8cfd-e6cdd95e9139",
+            "name1": "میز اداری مدرن آداک با جنس MDF",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=32f56cc1-f327-4538-8cfd-e6cdd95e9139&rank=18",
+            "web_client_absolute_url": "/p/32f56cc1-f327-4538-8cfd-e6cdd95e9139/%D9%85%DB%8C%D8%B2-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%AF%D8%B1%D9%86-%D8%A7%D8%AF%D8%A7%DA%A9-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-mdf/",
+            "price": 10925000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۰٫۹۲۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در اداری فروش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=32f56cc1-f327-4538-8cfd-e6cdd95e9139&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=32f56cc1-f327-4538-8cfd-e6cdd95e9139&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/91/kB/91kBfRXEG9ZJ3eHf.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xC/v4/xCv46gOkRE8ugbqJ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/91/kB/91kBfRXEG9ZJ3eHf.webp",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=5247c768-2dc5-4247-86a0-b2ce2477cc1e&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25",
+            "name1": "میز مدیریتی سناتور فرامید طول ۲۲۰ عرض ۱۶۰ ارتفاع ۸۰",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&rank=19",
+            "web_client_absolute_url": "/p/ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D9%81%D8%B1%D8%A7%D9%85%DB%8C%D8%AF-%D8%B7%D9%88%D9%84-220-%D8%B9%D8%B1%D8%B6-160-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-80/",
+            "price": 97900000,
+            "price_prefix": "cheapest",
+            "price_text": "۹۷٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در دکو سرو",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Yx/Rq/YxRq6a8eHKwI65xH.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/d0/gs/d0gsbHjGDQGDhgZY.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/gM/uX/gMuXMWPZXPzpwvUC.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ov/_t/Ov_tRTSQqwb8XE8C.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Yx/Rq/YxRq6a8eHKwI65xH.jpg",
+            "image_count": 4,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=b7489fef-311e-4863-baea-6dbed4a6057e&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b6233d62-3f6f-4d0c-b5cc-f326c8fa7c20",
+            "name1": "میز مدیریت اداری پرنیا از ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=b6233d62-3f6f-4d0c-b5cc-f326c8fa7c20&rank=20",
+            "web_client_absolute_url": "/p/b6233d62-3f6f-4d0c-b5cc-f326c8fa7c20/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%B1%D9%86%DB%8C%D8%A7-%D8%A7%D8%B2-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 18816000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۸٫۸۱۶٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در اداری فروش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b6233d62-3f6f-4d0c-b5cc-f326c8fa7c20&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b6233d62-3f6f-4d0c-b5cc-f326c8fa7c20&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/S-/c5/S-c5kUuhu0ZCHeMU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lP/K_/lPK_gfvCGkNwJhZE.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/WR/ol/WRolw-T6e6BhaziQ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/S-/c5/S-c5kUuhu0ZCHeMU.jpg",
+            "image_count": 3,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=d707ed66-d8ea-4048-8a08-0b4213283c47&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "99a2d305-16ec-4fbb-adf0-23ca9e4dd62e",
+            "name1": "میز مدیریت و کنفرانس نایل",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=99a2d305-16ec-4fbb-adf0-23ca9e4dd62e&rank=21",
+            "web_client_absolute_url": "/p/99a2d305-16ec-4fbb-adf0-23ca9e4dd62e/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%88-%DA%A9%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D9%86%D8%A7%DB%8C%D9%84/",
+            "price": 20000000,
+            "price_prefix": "cheapest",
+            "price_text": "۲۰٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مبلمان اداری نایل",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=99a2d305-16ec-4fbb-adf0-23ca9e4dd62e&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=99a2d305-16ec-4fbb-adf0-23ca9e4dd62e&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ei/z3/Eiz3bEvBrs173D6I.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/XU/LO/XULOdsbmICzkwCON.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ei/z3/Eiz3bEvBrs173D6I.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=6102db50-48e7-45a7-8121-eba9ae728cf1&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0546522e-d381-4536-8ab3-29b26f9898fd",
+            "name1": "میز مدیریت مدرن مدل G1 با پایه فلزی از MDF",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=0546522e-d381-4536-8ab3-29b26f9898fd&rank=22",
+            "web_client_absolute_url": "/p/0546522e-d381-4536-8ab3-29b26f9898fd/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%AF%D8%B1%D9%86-%D9%85%D8%AF%D9%84-g1-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D8%A7%D8%B2-mdf/",
+            "price": 11712000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۱٫۷۱۲٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0546522e-d381-4536-8ab3-29b26f9898fd&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0546522e-d381-4536-8ab3-29b26f9898fd&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xZ/lc/xZlcD5o0B3rDXxJj.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lu/br/lubrl_jTC56cc5lN.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/aI/ov/aIovgii_QJc1k5lJ.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zg/23/Zg2330ZKN1F0qgo8.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/iY/Gq/iYGqywTDmCj8OKkF.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jy/qo/jyqo_YrKDvgX9KWJ.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/xZ/lc/xZlcD5o0B3rDXxJj.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b5894bf1-0c4a-4378-8937-4ffcbc3c8f07",
+            "name1": "میز مدیریت اداری آراد ۲ متری",
+            "name1_max_lines": 3,
+            "name2": "arad",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=b5894bf1-0c4a-4378-8937-4ffcbc3c8f07&rank=23",
+            "web_client_absolute_url": "/p/b5894bf1-0c4a-4378-8937-4ffcbc3c8f07/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%A7%D8%AF-2-%D9%85%D8%AA%D8%B1%DB%8C/",
+            "price": 19118000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۹٫۱۱۸٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در مبلمان اداری امپراطور استور",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b5894bf1-0c4a-4378-8937-4ffcbc3c8f07&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b5894bf1-0c4a-4378-8937-4ffcbc3c8f07&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9J/h3/9Jh3Fq3E_IAbMXEf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/9J/h3/9Jh3Fq3E_IAbMXEf.jpg",
+            "image_count": 1,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=70a5ac3c-ac71-400e-9d73-d068dc42501b&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b037ae15-5522-4c9c-9572-038dd9cd0439",
+            "name1": "میز نیمه وکیوم مدیریتی مستطیلی کد 224",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=b037ae15-5522-4c9c-9572-038dd9cd0439&rank=24",
+            "web_client_absolute_url": "/p/b037ae15-5522-4c9c-9572-038dd9cd0439/%D9%85%DB%8C%D8%B2-%D9%86%DB%8C%D9%85%D9%87-%D9%88%DA%A9%DB%8C%D9%88%D9%85-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D9%85%D8%B3%D8%AA%D8%B7%DB%8C%D9%84%DB%8C-%DA%A9%D8%AF-224/",
+            "price": 12865000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۲٫۸۶۵٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در فضاسیستم",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b037ae15-5522-4c9c-9572-038dd9cd0439&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b037ae15-5522-4c9c-9572-038dd9cd0439&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Qo/pa/Qopag6Pb5LQv8Pb4.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/mf/W5/mfW57XSVi2AJYOfg.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/n_/lX/n_lXJcW_4NMdGAgV.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Qo/pa/Qopag6Pb5LQv8Pb4.jpg",
+            "image_count": 3,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=c9d72355-11bb-4fc8-9c4a-470d41b01afb&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "eed4d2a5-44e4-4c03-a228-0630ddea0936",
+            "name1": "میز مدیریت اداری گابان با جنس ملامینه",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&search_id=01a0dddb0446704a9ec45d8ce6732935&cities=&province=&init_suid=01a0dddb0446704a9ec45d8ce6732935&algorithm=rerank&prk=eed4d2a5-44e4-4c03-a228-0630ddea0936&rank=25",
+            "web_client_absolute_url": "/p/eed4d2a5-44e4-4c03-a228-0630ddea0936/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+            "price": 11712000,
+            "price_prefix": "cheapest",
+            "price_text": "۱۱٫۷۱۲٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در اداری فروش",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=eed4d2a5-44e4-4c03-a228-0630ddea0936&limit=24&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=eed4d2a5-44e4-4c03-a228-0630ddea0936&discover_method=search_image_base&prev_uid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/eT/oe/eToeejNOiSOrWTy8.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/kF/X0/kFX0ZDD3booliu7r.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/eT/oe/eToeejNOiSOrWTy8.jpg",
+            "image_count": 2,
+            "direct_cta": {
+                "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=qcr1__a&search_id=01a0dddb0446704a9ec45d8ce6732935&suid=01a0dddb0446704a9ec45d8ce6732935&bvid=&session_id=vekbdbubksycgozsnpnguvmfoebzsbko&device_id=&algorithm=rerank&init_suid=01a0dddb0446704a9ec45d8ce6732935&prk=41f2c4bb-b30b-442d-94ad-006764cce0f5&btn=plp_cta&shop_rank=&user_delivery_city=0&pdp_display=&view=&app_ver=&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+                "label": "خرید اینترنتی",
+                "list_type": "online",
+                "icon": null
+            },
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 685229999,
+    "min_price": 0,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": null,
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&query=%D9%85%DB%8C%D8%B2+%DA%A9%D8%A7%D8%B1&_search_landing=header&q=%D9%85%DB%8C%D8%B2+%DA%A9%D8%A7%D8%B1&_landing_page=home&source=next_desktop&rank_offset=26&_bt__experiment=qcr1__a&suid=01a0dddb0446704a9ec45d8ce6732935&init_suid=01a0dddb0446704a9ec45d8ce6732935",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "میز کار",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 0,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 685229999,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "میز مدیریت",
+            "cat_id": 2437,
+            "cat_slug": "میز-مدیریت",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "2437",
+            "slug": "میز-مدیریت"
+        }
+    ],
+    "parent_categories": []
+}

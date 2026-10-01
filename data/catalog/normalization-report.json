@@ -1,0 +1,1669 @@
+{
+  "generated_by": "scripts/build_catalog.py",
+  "source": {
+    "directory": "data/raw",
+    "captures": 24,
+    "raw_products": 624,
+    "provider": "torob",
+    "raw_data_modified": false
+  },
+  "totals": {
+    "products_processed": 624,
+    "products_kept": 440,
+    "products_removed": 184,
+    "duplicates_removed": 70,
+    "excluded_missing_or_invalid_data": 1,
+    "removed_below_curation_cutoff": 113,
+    "offers_collected": 0
+  },
+  "exclusion_reasons": {
+    "below_curation_cutoff": 113,
+    "duplicate_id_other_subcategory": 60,
+    "duplicate_name_same_subcategory": 7,
+    "near_duplicate_same_brand": 3,
+    "not_new_stock": 1
+  },
+  "per_category": {
+    "appliance": {
+      "subcategories": 6,
+      "products_kept": 120,
+      "raw_products": 156
+    },
+    "bathroom": {
+      "subcategories": 5,
+      "products_kept": 100,
+      "raw_products": 130
+    },
+    "furniture": {
+      "subcategories": 6,
+      "products_kept": 120,
+      "raw_products": 156
+    },
+    "kitchen": {
+      "subcategories": 7,
+      "products_kept": 100,
+      "raw_products": 182
+    }
+  },
+  "per_subcategory": {
+    "appliance/dishwasher": {
+      "category": "appliance",
+      "subcategory": "dishwasher",
+      "source_file": "data/raw/appliance/dishwasher.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "appliance/microwave": {
+      "category": "appliance",
+      "subcategory": "microwave",
+      "source_file": "data/raw/appliance/microwave.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 4,
+      "duplicates_removed": 2,
+      "excluded_invalid": 0
+    },
+    "appliance/refrigerator": {
+      "category": "appliance",
+      "subcategory": "refrigerator",
+      "source_file": "data/raw/appliance/refrigerator.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "appliance/television": {
+      "category": "appliance",
+      "subcategory": "television",
+      "source_file": "data/raw/appliance/television.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "appliance/vacuum-cleaner": {
+      "category": "appliance",
+      "subcategory": "vacuum-cleaner",
+      "source_file": "data/raw/appliance/vacuum-cleaner.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "appliance/washing-machine": {
+      "category": "appliance",
+      "subcategory": "washing-machine",
+      "source_file": "data/raw/appliance/washing-machine.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "bathroom/bathroom-mirror": {
+      "category": "bathroom",
+      "subcategory": "bathroom-mirror",
+      "source_file": "data/raw/bathroom/bathroom-mirror.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "bathroom/sink": {
+      "category": "bathroom",
+      "subcategory": "sink",
+      "source_file": "data/raw/bathroom/sink.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 2,
+      "duplicates_removed": 4,
+      "excluded_invalid": 0
+    },
+    "bathroom/sink-faucet": {
+      "category": "bathroom",
+      "subcategory": "sink-faucet",
+      "source_file": "data/raw/bathroom/sink-faucet.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "bathroom/toilet": {
+      "category": "bathroom",
+      "subcategory": "toilet",
+      "source_file": "data/raw/bathroom/toilet.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 2,
+      "duplicates_removed": 4,
+      "excluded_invalid": 0
+    },
+    "bathroom/toilet-faucet": {
+      "category": "bathroom",
+      "subcategory": "toilet-faucet",
+      "source_file": "data/raw/bathroom/toilet-faucet.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "furniture/bed": {
+      "category": "furniture",
+      "subcategory": "bed",
+      "source_file": "data/raw/furniture/bed.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "furniture/desk": {
+      "category": "furniture",
+      "subcategory": "desk",
+      "source_file": "data/raw/furniture/desk.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "furniture/dining-chair": {
+      "category": "furniture",
+      "subcategory": "dining-chair",
+      "source_file": "data/raw/furniture/dining-chair.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "furniture/dining-table": {
+      "category": "furniture",
+      "subcategory": "dining-table",
+      "source_file": "data/raw/furniture/dining-table.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "furniture/sofa": {
+      "category": "furniture",
+      "subcategory": "sofa",
+      "source_file": "data/raw/furniture/sofa.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "furniture/wardrobe": {
+      "category": "furniture",
+      "subcategory": "wardrobe",
+      "source_file": "data/raw/furniture/wardrobe.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "kitchen/built-in-oven": {
+      "category": "kitchen",
+      "subcategory": "built-in-oven",
+      "source_file": "data/raw/kitchen/built-in-oven.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 0,
+      "excluded_invalid": 1
+    },
+    "kitchen/cooktop": {
+      "category": "kitchen",
+      "subcategory": "cooktop",
+      "source_file": "data/raw/kitchen/cooktop.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 5,
+      "duplicates_removed": 1,
+      "excluded_invalid": 0
+    },
+    "kitchen/kitchen-faucet": {
+      "category": "kitchen",
+      "subcategory": "kitchen-faucet",
+      "source_file": "data/raw/kitchen/kitchen-faucet.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "kitchen/kitchen-hood": {
+      "category": "kitchen",
+      "subcategory": "kitchen-hood",
+      "source_file": "data/raw/kitchen/kitchen-hood.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "kitchen/kitchen-sink": {
+      "category": "kitchen",
+      "subcategory": "kitchen-sink",
+      "source_file": "data/raw/kitchen/kitchen-sink.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 20,
+      "removed": 6,
+      "duplicates_removed": 0,
+      "excluded_invalid": 0
+    },
+    "kitchen/refrigerator": {
+      "category": "kitchen",
+      "subcategory": "refrigerator",
+      "source_file": "data/raw/kitchen/refrigerator.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 0,
+      "removed": 0,
+      "duplicates_removed": 26,
+      "excluded_invalid": 0
+    },
+    "kitchen/washing-machine": {
+      "category": "kitchen",
+      "subcategory": "washing-machine",
+      "source_file": "data/raw/kitchen/washing-machine.json",
+      "source_reported_count": 1200,
+      "raw_products": 26,
+      "kept": 0,
+      "removed": 0,
+      "duplicates_removed": 26,
+      "excluded_invalid": 0
+    }
+  },
+  "extraction": {
+    "brand": {
+      "vocabulary_size": 333,
+      "from_torob_brand_facet": 322,
+      "mined_and_corroborated": 11,
+      "products_with_brand": 254
+    },
+    "model": {
+      "products_with_model": 313
+    },
+    "brand_coverage_by_category": {
+      "appliance": {
+        "products": 120,
+        "with_brand": 116,
+        "distinct_brands": 37
+      },
+      "bathroom": {
+        "products": 100,
+        "with_brand": 55,
+        "distinct_brands": 18
+      },
+      "furniture": {
+        "products": 120,
+        "with_brand": 3,
+        "distinct_brands": 3
+      },
+      "kitchen": {
+        "products": 100,
+        "with_brand": 80,
+        "distinct_brands": 32
+      }
+    },
+    "note": "Most furniture and some bathroom titles in the source state no brand at all, so brand is null for them. No brand was guessed to fill the gap; those subcategories get their variety from type, model and price range instead.",
+    "attributes": {
+      "products_with_attributes": 208,
+      "keys": {
+        "color": 61,
+        "installation": 42,
+        "seat_count": 39,
+        "size_inch": 20,
+        "capacity_kg": 16,
+        "capacity_feet": 14,
+        "dimensions_cm": 14,
+        "capacity_liters": 13,
+        "door_type": 13,
+        "burner_count": 11,
+        "capacity_place_settings": 9
+      }
+    }
+  },
+  "rules": [
+    "At most 20 products per subcategory.",
+    "Each category and subcategory is processed independently.",
+    "The id is the original Torob random_key; a product appears in exactly one subcategory.",
+    "lowest_price_toman is the raw 'price' field, whose price_prefix is 'cheapest'.",
+    "brand is emitted only when a Torob brand-facet name appears verbatim in the title.",
+    "model is emitted only after an explicit مدل/کد marker followed by one identifier.",
+    "attributes are emitted only for values written literally in the title.",
+    "No seller offers are collected at this stage; offers is always an empty list.",
+    "Nothing under data/raw is modified."
+  ],
+  "redundant_sources": [
+    "kitchen/refrigerator",
+    "kitchen/washing-machine"
+  ],
+  "exclusions": [
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "11783512-af50-48b9-ae17-31ea2a7f5712",
+      "name": "ماشین ظرفشویی ال جی DF425HSS ظرفیت ۱۴ نفر مبله",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.500564 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "4585c9bb-de5e-4c79-ba55-41b9cea74139",
+      "name": "ماشین ظرفشویی ال جی مدل TB1505 ظرفیت ۱۵ نفر با ۱۰ برنامه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.501471 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "eb2cb94e-4164-4b7c-860f-84725caa5a20",
+      "name": "ماشین ظرفشویی بکو مدل BDFN36422WQ ظرفیت ۱۶ نفره",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.001272 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "3bc68df7-4c76-4095-a5e4-3cc8eac748b0",
+      "name": "ماشین ظرفشویی ال جی DFC435FW",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.000058 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "61572547-fc82-48a4-88f6-7ba026afaf6d",
+      "name": "ماشین ظرفشویی مدل DFC532FP بخارشور دار",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.502106 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/dishwasher",
+      "random_key": "0add8644-f073-48c7-bf22-03d406e69d6d",
+      "name": "ماشین ظرفشویی پاکشوما مدل J52 ظرفیت ۱۵ نفر",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.500614 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "7c95d05c-bc30-4f9d-9fda-0932d72760bb",
+      "name": "مایکروویو الجی مدل MH8265",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to appliance/microwave"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "3d0af8ba-3482-4756-8850-9227dc204aa8",
+      "name": "مایکروویو پاناسونیک مدل NN ST34Nb_w",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to appliance/microwave"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "144e92af-a826-4650-b9ec-5ce76ff92f53",
+      "name": "مایکروویو ال جی مدل MA3885SPB",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.502386 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "d31f8d47-aa85-447d-944d-f9e60b70c769",
+      "name": "مایکروویو ال جی مدل MS2032GAS با توان ۷۰۰ وات",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.502246 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "7c816ebb-7574-4c1e-9835-50b31ef07702",
+      "name": "مایکروویو ال جی MA3882RCW ظرفیت ۳۸ لیتر با ۱۲ برنامه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.5013 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/microwave",
+      "random_key": "3a7777c9-790a-45c0-ab34-fda0dca9a3b8",
+      "name": "مایکروویو سامسونگ MG40J5133AT ظرفیت ۴۰ لیتر با ۱۸ برنامه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.503434 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "3dda7f6f-a28c-4d1d-8960-40209df512b2",
+      "name": "یخچال فریزر ایستکول مدل 4321 ظرفیت ۱۳ فوت",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.502675 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "04e2e9ba-0ab1-4a41-95c0-0e90c5cd1059",
+      "name": "یخچال فریزر 27 فوت جنرال بست مدل 4670",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.503706 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "6d2488fd-c946-4988-adb4-6682af3016a5",
+      "name": "یخچال ایستکول 5 فوت مدل 2835",
+      "reason": "below_curation_cutoff",
+      "detail": "score 6.500492 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "ac0980a0-865f-4a55-b1c7-abaaa45b7faa",
+      "name": "یخچال فریزر 9 فوت ایستکول مدل 2919",
+      "reason": "below_curation_cutoff",
+      "detail": "score 6.503109 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "59c04f8e-2894-4612-a8cd-a8170fc3970b",
+      "name": "یخچال",
+      "reason": "below_curation_cutoff",
+      "detail": "score -1.996288 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/refrigerator",
+      "random_key": "bb20271f-332f-4044-b9bd-f0b88c1857a0",
+      "name": "یخچال فریزر فریزر بالا دیپوینت  T7",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.500666 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "9b909ab0-09de-4667-b0ed-5406d00dfd5c",
+      "name": "تلویزیون هوشمند ال جی مدل 2025 سایز ۴۳ اینچ Full HD",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.000362 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "62918a73-a0a0-4a01-b286-807a02a68841",
+      "name": "تلویزیون هوشمند سامسونگ مدل U8000F سایز ۵۵ اینچ Ultra HD 4K",
+      "reason": "below_curation_cutoff",
+      "detail": "score 8.500758 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "e16433f4-3ff8-411c-b44b-ad35c08756a1",
+      "name": "تلویزیون هوشمند ال جی مدل 55QNED86A سایز ۵۵ اینچ Ultra HD 4K",
+      "reason": "below_curation_cutoff",
+      "detail": "score 8.500493 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "d80ba167-155b-433f-ac3f-a7bdf31bbf93",
+      "name": "تلویزیون سامسونگ مدل 65U8000H سایز ۶۵ اینچ Ultra HD 4K LED",
+      "reason": "below_curation_cutoff",
+      "detail": "score 8.500201 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "5e810381-1efe-43c0-a07d-c665f1ea5c89",
+      "name": "تلویزیون ال جی 65UR8000 پرداخت درب منزل + تضمین اصالت + گارانتی معتبر",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.500955 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/television",
+      "random_key": "6b91df7a-4086-4936-b9b3-c98274872b70",
+      "name": "تلویزیون سامسونگ DU8000 سایز ۶۵ اینچ کیفیت تصویر Ultra HD 4K نوع صفحه LED",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.502859 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "0f24eec8-17e4-4a70-a192-649f9b17d90d",
+      "name": "جاروبرقی هیتاچی مدل CV-9800YJ",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to appliance/vacuum-cleaner"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "4e47d29c-f134-4ca3-8ef2-04374ab3845b",
+      "name": "جاروبرقی بوش مدل BGL8PRO5",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.001395 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "32ab39e5-697f-4e1c-817e-29015db6fc08",
+      "name": "جارو برقی مخزنی سامسونگ مدل 4570",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.502927 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "03ef5c25-39d7-4e78-bd90-b0ca86e3cd81",
+      "name": "جارو برقی پاناسونیک مدل MC-CG713 قدرت ۲۰۰۰ وات",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.000029 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "4fcf2070-f143-4393-9d1d-6481e02a562a",
+      "name": "جاروبرقی هیتاچی مدل CV-9800YJ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.002906 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/vacuum-cleaner",
+      "random_key": "4aad1694-0728-4cba-9b67-a64e4935d4bc",
+      "name": "جاروبرقی با پاکت پارس خزر توربو 2000",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.5 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "302f6a14-d7b8-4b54-82cd-bfdae40eb83d",
+      "name": "ماشین لباسشویی ال جی مدل WT2116BRK ظرفیت ۱۶ کیلوگرم",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.500696 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "bc0d88aa-d223-40b3-b6bd-86331a72ac7b",
+      "name": "ماشین لباسشویی ال جی F4R5VYL2P",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.502825 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "b4b39e79-d96b-40b7-8034-e1edce2e4f8a",
+      "name": "ماشین لباسشویی دوو LM-830S ظرفیت ۸ کیلوگرم درب از جلو",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.502091 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "027626a7-de3f-4c38-9fec-228501a79319",
+      "name": "ماشین لباسشویی پاکشوما مدل TLAB1201",
+      "reason": "below_curation_cutoff",
+      "detail": "score 8.000321 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "a8c44afa-0a45-4e9a-a448-afdd3f7df91e",
+      "name": "ماشین لباسشویی پاکشوما مدل S-8 ظرفیت ۸ کیلوگرم",
+      "reason": "below_curation_cutoff",
+      "detail": "score 7.503147 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "appliance/washing-machine",
+      "random_key": "56b41829-62cd-4a19-8458-ad587a870638",
+      "name": "ماشین لباسشویی ال جی FH2J3 ظرفیت ۷ کیلو درب از جلو با موتور BLDC و ۱۰ برنامه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 5.50081 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "fc18f1a5-cf00-4740-be45-cad4b1f2a765",
+      "name": "آینه باکس دار",
+      "reason": "below_curation_cutoff",
+      "detail": "score -1.497869 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "fd8cf117-bcde-4510-afa3-45b953f89a22",
+      "name": "آینه روشویی R502",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.503717 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "5e2fb299-b5bf-4f74-a165-a365dcccd402",
+      "name": "آینه سرویس بهداشتی باکس دار",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.000356 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "af6ffd63-469e-40ca-a4c7-7ee838306ec1",
+      "name": "فولست روشویی و آینه باکس هامبورگ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501547 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "6278273b-bc3b-447a-8fc2-e988bd8bdab8",
+      "name": "آینه دفرمه روشویی A139",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501146 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/bathroom-mirror",
+      "random_key": "d4f03356-73e9-40a0-9a6a-92571a34701f",
+      "name": "آینه باکس سرویس بهداشتی ضدآب باکس چپ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500552 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "af6ffd63-469e-40ca-a4c7-7ee838306ec1",
+      "name": "فولست روشویی و آینه باکس هامبورگ",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under bathroom/bathroom-mirror"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "fc18f1a5-cf00-4740-be45-cad4b1f2a765",
+      "name": "آینه باکس دار",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under bathroom/bathroom-mirror"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "a1882bc0-59bb-4b5d-94a4-989b96ef7e9d",
+      "name": "روشویی کابینتی ضدآب ۶۰ در ۴۰ با آینه و سنگ",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under bathroom/sink"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "81aec9cc-c2ac-4886-9e60-22aaeef9e15d",
+      "name": "آینه باکس دار سایز ۶۰×۶۰ کد ۱۰۲۶",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under bathroom/bathroom-mirror"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "a1882bc0-59bb-4b5d-94a4-989b96ef7e9d",
+      "name": "روشویی کابینتی ضدآب ۶۰ در ۴۰ با آینه و سنگ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003495 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink",
+      "random_key": "8d7a6fc5-9f1a-4892-b298-a5d9c3ce7994",
+      "name": "شلف سرویس بهداشتی و حمام مدرن کد ۱۰۴",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500179 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "5a400b05-ad0e-4223-9cd7-1112875c80b7",
+      "name": "شیر روشویی قهرمان مدل تندیس کروم",
+      "reason": "near_duplicate_same_brand",
+      "detail": "same product as a641d4a1-73c4-49b8-a277-43dbe6624dc9"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "94b3829f-82b3-42f8-8e3c-131eda61d1fe",
+      "name": "شیر روشویی چشمی GMS ترکیه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.502244 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "64bb41dd-b5ea-4b91-9485-9aa8a8516200",
+      "name": "شیر روشویی تلسکوپی حرفه‌ای",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501719 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "e75666ae-f1fc-4177-877e-bc35d1fe337f",
+      "name": "شیر روشویی اهرمی شمس کارتریج ۴۰ پرلاتور کم‌مصرف",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501566 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "5e1506f5-4de4-4dfa-b7bc-d011393f8988",
+      "name": "شیر تخم مرغی ۴ حالته سایز کوچک رنگ سفید",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500626 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/sink-faucet",
+      "random_key": "41d00873-5cbe-4909-85e9-59ff4d728abe",
+      "name": "شیر روشویی توکاسه ای با علم عصایی کروم",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501498 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "a254aae8-7d7f-45ad-adf2-1a47b5136255",
+      "name": "توالت ایرانی سنگی ساده درجه ۱ ریم باز",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under bathroom/toilet"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "541562f5-9445-463d-982d-ecf007bd210f",
+      "name": "توالت ایرانی مروارید مدل کرون",
+      "reason": "near_duplicate_same_brand",
+      "detail": "same product as 26e9705b-9210-4876-b3b8-b192d22860a9"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "5b0e69ef-48c1-4ae7-95ca-3ba9bb9b6f77",
+      "name": "توالت ایرانی مروارید مدل کرون درجه ۱",
+      "reason": "near_duplicate_same_brand",
+      "detail": "same product as 26e9705b-9210-4876-b3b8-b192d22860a9"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "bf1184ee-1dee-4c1c-89e1-d0d86bd081c9",
+      "name": "توالت ایرانی کسری مدل الوند ریم لس",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to bathroom/toilet"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "68dc70c2-553a-475e-b674-1b463e481918",
+      "name": "سنگ توالت آردین با کیفیت بالا",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.00069 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet",
+      "random_key": "a254aae8-7d7f-45ad-adf2-1a47b5136255",
+      "name": "توالت ایرانی سنگی ساده درجه ۱ ریم باز",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.000732 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "4cb36691-3f5b-481b-9c2a-f0d9f5fe06fe",
+      "name": "شیر توالت توکار پتسا مدل کارن Karen | شیر آفتابه توکار مدرن و لوکس",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.502216 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "da6fea48-6484-4064-852e-36a568fbff88",
+      "name": "شیر توالت اهرمی دسته اردکی کروم کارتریج ۴۰",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.000979 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "cfd87d91-7647-400c-8ca5-932d81b23435",
+      "name": "شیر توالت قهرمان مدل آیدا همراه با شلنگ و لوازم نصب",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.001147 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "94c28068-d601-48a5-a1b5-f6af01be308f",
+      "name": "شیر توالت اهرمی استاندارد کاتریج ۴۰",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501979 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "8f5309c8-44e3-43f5-8da4-7bbdb1d1888d",
+      "name": "شیر سرویس بهداشتی کسری مدل فیروزه به همراه شلنگ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 6.503429 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "bathroom/toilet-faucet",
+      "random_key": "79700359-2536-473d-9eb4-365b7d41095a",
+      "name": "شیر توالت هوادیائو مدل سرد و گرم به همراه شاتاف و شلنگ دودی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.50332 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "2455d3a8-7020-423a-8ff8-a843de10ed92",
+      "name": "تخت خواب ژاپنی تمام چوبی یک نفره",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.501903 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "04b5c830-22eb-40bd-9408-83ecedd17a4c",
+      "name": "سرویس خواب دو نفره مدل 831",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501069 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "aaac96a6-67ea-4d1e-befd-0c4226ca465c",
+      "name": "تخت خواب دو نفره سرویس کامل با دراور و فایل آینه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500326 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "3fea8075-8309-404e-b13c-e37e628c2ab8",
+      "name": "سرویس خواب دو نفره روما",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500387 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "1da1e734-8484-4e44-9dee-bf177cacdc39",
+      "name": "تخت خواب چوبی مدرن دو نفره HF511 با طراحی مینیمال",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.500123 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/bed",
+      "random_key": "16e4edde-415a-4e91-8658-ae517d215749",
+      "name": "سرویس خواب نوجوان مدل 242",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003574 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "ebd74daa-1cbe-4f3d-84bd-b10a9b82cf25",
+      "name": "میز مدیریتی سناتور فرامید طول ۲۲۰ عرض ۱۶۰ ارتفاع ۸۰",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under furniture/desk"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "f89b001c-f437-4f79-8939-abdc64924ccc",
+      "name": "میز مدیریت هایگلاس کد 120",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500156 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "6272b84e-68d9-4c62-a4a9-71145af474d3",
+      "name": "میز مدیریت لیندا ال دار",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003092 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "f2ff9cc2-c41d-4627-bc02-af46e8208227",
+      "name": "میز مدیریت لمسه حلال",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.000763 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "9bbeda21-d118-43de-95bb-aea081f21349",
+      "name": "میز مدیریت فلزی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.501908 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/desk",
+      "random_key": "2b7f7afc-4cae-4ba3-9ca8-876e6fe86df4",
+      "name": "میز مدیریت لمسه حلال وکیوم با جنس ملامینه",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003048 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "33f8f918-5259-43f1-a4eb-3debaa7b3b82",
+      "name": "صندلی حاد صنعت نوین تدی ناهار خوری فلزی - ناهارخوری",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to furniture/dining-chair"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "63896378-f394-4d25-9ab3-bcb4b41ba9b7",
+      "name": "صندلی حاد صنعت نوین تدی ناهار خوری فلزی - ناهارخوری",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501782 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "25c75877-9db8-4e25-a653-a082e4ddd3a3",
+      "name": "صندلی ناهار خوری لهستانی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.001019 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "24c9b6f7-15ba-4a18-a5ec-4c6cecbe88e5",
+      "name": "صندلی ناهار خوری آرک",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501673 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "bb952616-a168-486b-8459-febe3c5818fd",
+      "name": "صندلی ناهار خوری ریس",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.502363 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-chair",
+      "random_key": "f9ceb872-18cd-469c-aa3e-e615926a12ff",
+      "name": "صندلی حاد صنعت نوین تدی ناهار خوری فلزی - کانتری",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500752 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "97a97677-a18b-4d0e-a5f2-26e949448014",
+      "name": "میز و صندلی ناهار خوری چهار نفره تدی - دو نفره",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to furniture/dining-table"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "4fcd581a-6844-412c-8710-46a8703c14e1",
+      "name": "ست میز ناهار خوری ۴ نفره کرب و صندلی سولار",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501922 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "818cfa0b-fb3a-41f5-be6e-8fe5cbf376dc",
+      "name": "میز ناهار خوری چوبی ۶ نفره امریکانو",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.002115 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "bb641e58-a027-40d6-bdc4-98964d49e5d2",
+      "name": "میز و صندلی ناهار خوری چهار نفره تدی - دو نفره",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501054 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "cace7be7-7156-4d53-930b-69a265484e00",
+      "name": "میز ناهار خوری مدل مینیمال |نقد و اقساط",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500298 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/dining-table",
+      "random_key": "8a1e0609-3591-48dc-ba9d-3b780254c519",
+      "name": "ست ناهارخوری شش نفره کمجا (بیضی)",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500302 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "c96791d9-5efd-42fc-bfac-5ade68f3425c",
+      "name": "مبل راحتی ۸ نفره مینیمال لگنی",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under furniture/sofa"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "5dbe6793-56c5-4507-8126-66092d81af7f",
+      "name": "مبل راحتی مینیمال",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.503221 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "ebbfce1f-267c-4db8-bd31-a7bdac60b0ee",
+      "name": "ست مبلمان راحتی نیو کلاسیک",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500727 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "d0169f5f-f6ca-408e-a7d3-861634a1fe36",
+      "name": "مبل راحتی هلندی ۶۹ هشت نفره مینیمال",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.500067 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "5bdd00d2-a041-4656-aa1d-1827d58adb01",
+      "name": "مبل راحتی کامفورد ۸ نفره",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.501811 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/sofa",
+      "random_key": "48dcde29-c3f3-4418-93a4-adad056d97a4",
+      "name": "مبلمان راحتی مبل لورنت 8 نفره",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.500971 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "518073c1-e6d5-46f0-9cd7-8cd6b5a406a1",
+      "name": "کمد دیواری",
+      "reason": "duplicate_name_same_subcategory",
+      "detail": "identical title to furniture/wardrobe"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "d2ab1604-562a-4b7f-b71e-f7cafd4ef465",
+      "name": "کمد لباس سه کشو",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.500179 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "635898d3-6766-4c8a-b696-83c06dc6d252",
+      "name": "کمد دیواری هایگلاس",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.003646 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "a01b1fde-4fae-4cee-bf1f-bfab3757000a",
+      "name": "کمد دیواری",
+      "reason": "below_curation_cutoff",
+      "detail": "score -1.998585 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "1684ba10-662a-4e4f-b67f-e1b803c4f47a",
+      "name": "کمد نئوکلاسیک",
+      "reason": "below_curation_cutoff",
+      "detail": "score -1.496123 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "furniture/wardrobe",
+      "random_key": "297a1161-b683-4c1f-8a2b-d90030075498",
+      "name": "کمد دیواری فرامید",
+      "reason": "below_curation_cutoff",
+      "detail": "score 6.7e-05 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "ada6f521-cbf0-49de-8946-b124fb7c9216",
+      "name": "فر توکار برقی ۷۰ لیتری بایوماتیک (استوک)",
+      "reason": "not_new_stock",
+      "detail": "stock_status=کارکرده"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "732c93d9-9165-479b-8d19-66fb2b734879",
+      "name": "فر توکار داتیس مدل DF-694U سفید ولوم طلایی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 9.500486 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "01fdb07d-35cd-466c-8384-834240a8f8d0",
+      "name": "فر توکار داتیس مدل DF-684U سفید",
+      "reason": "below_curation_cutoff",
+      "detail": "score 9.500309 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "0e4b401e-6ec1-4d72-adc8-954f1d057bcf",
+      "name": "فر توکار سینجر 70 لیتر برقی مدل(7608A+) SLA 8 پلاس",
+      "reason": "below_curation_cutoff",
+      "detail": "score 9.500185 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "85125ceb-a62e-4f84-a90b-98cafa553908",
+      "name": "فر توکار تمام برقی پاتینو لمسی ۱۳ برنامه با ضمانت",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.500688 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/built-in-oven",
+      "random_key": "d3ca20f3-0c9b-48f6-ac64-982c23c4bceb",
+      "name": "فر توکار داتیس مدل 679-DF مشکی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 9.502501 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "39be9485-3016-4f38-9b96-71f3593e556f",
+      "name": "اجاق گاز داتیس ۵ شعله صفحه ای شیشه ای",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under kitchen/cooktop"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "39be9485-3016-4f38-9b96-71f3593e556f",
+      "name": "اجاق گاز داتیس ۵ شعله صفحه ای شیشه ای",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.000733 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "8c5ba3ad-e34f-4d87-851f-1c28e6703388",
+      "name": "اجاق گاز رومیزی آشین مدل سه شعله",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.502733 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "3a26f915-322d-4f65-8de8-6fd2a876b20f",
+      "name": "اجاق گاز رومیزی دو شعله پولاد",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.502676 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "74ae8391-c63e-4f58-ba63-5534c3adb131",
+      "name": "اجاق گاز استیل داتیس مدل DS518 سیلور",
+      "reason": "below_curation_cutoff",
+      "detail": "score 9.000504 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/cooktop",
+      "random_key": "312b1939-fd9b-4c91-ba5d-73436653f3e6",
+      "name": "اجاق گاز مهسان ۵ شعله طرح فر لعابی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.501039 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "d0da3163-4744-40ae-bcc7-51a2cd8b97a2",
+      "name": "شیر ظرفشویی هوشمند هایشنگ ۴ حالته ۳۶۰ درجه با نمایشگر دما",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.503354 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "fcea1e86-d7d8-43e1-8abb-248dcf8735da",
+      "name": "شیر ظرفشویی برنجی اقتصادی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.503335 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "2e7bacbd-524e-4586-a865-b92d2f9e921a",
+      "name": "شیر ظرفشویی اهرمی کاتریج ۴۰",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501182 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "3803382c-8598-44a6-b083-bb2f05f8b0cd",
+      "name": "شیر ظرفشویی قاصدک کروم",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003082 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "72990e3b-f657-46dd-91ac-60123ab81ccc",
+      "name": "شیر ظرفشویی دو منظوره برند هایشین شاوری با طراحی مدرن و 3 مدل پاشش اب و قابلیت سرد و گرم حالته 360 درجه مدل 545 - دودی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.503155 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-faucet",
+      "random_key": "1f0a0022-0188-48fd-95ce-ee741c2224ee",
+      "name": "شیر ظرفشویی لاکچری مدل دو منظوره تصفیه دار لوکس کد ۵۰۰۱ - کروم",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.50264 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "e40319a4-9f66-4538-8ef0-c395ea0c0fd5",
+      "name": "هود آشپزخانه مورب لمسی افق ظرفیت ۳۵۰ CFM سایز ۹۰ سانتیمتر ۴ سرعته",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.501306 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "da78512d-6bdd-4597-9df9-272044baa76e",
+      "name": "هود مخفی ۹۰ سانتیمتری افق مدل GENERAL ۴ سرعته لمسی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 3.500726 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "14b22860-be2d-428a-a994-a9fa7baa0d9d",
+      "name": "هود آشپزخانه پاردیک خم تمام مشکی با موتور فلز",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.003758 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "3d58cb47-2544-4e00-af49-25699e489847",
+      "name": "هود آشپزخانه دایسن طرح توکار مخفی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.0021 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "3c496a28-e1bf-48d8-b4be-d530d3df7fa1",
+      "name": "هود آشپزخانه پاردیک خم خط دار نارنجی با موتور فلز",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.001786 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-hood",
+      "random_key": "ee6ae0d8-e32e-4fec-ade6-d9a116e7c92d",
+      "name": "هود آشپزخانه پاردیک مدل لمسی",
+      "reason": "below_curation_cutoff",
+      "detail": "score 4.00105 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "b4c236bb-e9e4-45f5-9863-7375e91be409",
+      "name": "سینک ظرفشویی باکسی ۹۰ سانت دوپله لوزانو",
+      "reason": "below_curation_cutoff",
+      "detail": "score 0.500041 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "6fc3f3a7-4e45-42d2-a358-312676411720",
+      "name": "سینک ظرفشویی بنتو D104/B104/C104 (فروش ویژه) (ارسال رایگان)",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.002779 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "4098428b-070e-4579-8a6a-0f0504eedfeb",
+      "name": "سینک ظرفشویی آبشاری پیانویی 5 کلید هایشین",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.001176 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "53fa7f8b-bd0f-48eb-89bc-21df8871ba51",
+      "name": "سینک ظرفشویی بنتو D90 توکار ۲ لگن استیل",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.502958 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "ea980dbe-62ca-4489-8cb4-6928846cfa88",
+      "name": "سینک ظرفشویی هوادیایو ۹۰ سانت استیل ضدخش گرید A",
+      "reason": "below_curation_cutoff",
+      "detail": "score 2.501713 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/kitchen-sink",
+      "random_key": "331e0d2e-e025-4b0f-a3cd-66b216766d37",
+      "name": "سینک ظرفشویی پیانویی آبشاری 7 کلید فول آپشن برند هاشینگ",
+      "reason": "below_curation_cutoff",
+      "detail": "score 1.003647 ranked outside the top 20 for this subcategory"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "69807165-4cb2-4a88-994f-87589c8d85e2",
+      "name": "یخچال و فریزر دوقلو پارس مدل LRDST170WD-FRZNF170",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "8cadd71b-5327-47cc-acf5-cb5d2f8836b3",
+      "name": "یخچال فریزر دوقلو برفاب مدل BNF-BNR ظرفیت ۳۱ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "74476fbc-d8fc-4627-82a5-3f12727e6b62",
+      "name": "یخچال جنرال پین 27 فوت مدل RF-M22",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "5a004522-4869-4995-a743-5455e1cbd0bc",
+      "name": "یخچال فریزر پارس شوا مدل PS16 ظرفیت ۱۵ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "9c7e066f-8a44-4b16-b07d-a62d0fb43695",
+      "name": "یخچال فریزر دوقلو پاکشوما مدل RTRA RTFA901 ظرفیت ۴۰ فوت رنگ نقره ای",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "9c91dd12-bc37-4282-8822-b34884598044",
+      "name": "یخچال فریزر ساید بای ساید ایکس ویژن  TS552 ظرفیت ۲۸ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "b6a83329-3350-4943-9438-473731baec7d",
+      "name": "یخچال فریزر جنرال مدل GH27 ظرفیت ۲۷ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "17edcd52-2a53-42a4-9468-8a0e983223b7",
+      "name": "یخچال فریزر دوقلو تکسان مدل دور این دور ظرفیت ۴۴ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "3dda7f6f-a28c-4d1d-8960-40209df512b2",
+      "name": "یخچال فریزر ایستکول مدل 4321 ظرفیت ۱۳ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb",
+      "name": "یخچال و فریزر توکار میله Miele مدل K 2802 Vi و F 2813 Vi",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "7a0225ae-be78-4c6b-a52b-19c3871f3559",
+      "name": "یخچال فریزر ساید بای ساید ال جی مدل L287 ظرفیت ۳۰ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "5836700d-b2c2-41bb-bf49-7b201c3c7878",
+      "name": "یخچال فریزر دیپوینت مدل Decent",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "04e2e9ba-0ab1-4a41-95c0-0e90c5cd1059",
+      "name": "یخچال فریزر 27 فوت جنرال بست مدل 4670",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "b4dd5d23-62a9-425a-9b7f-b221bf269ea8",
+      "name": "یخچال فریزر دوقلو الکتروهاوس مدل ESRF-24 ظرفیت ۴۸ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "e9717096-079b-4164-977b-0345054926fd",
+      "name": "یخچال و فریزر 27 فوت جنرال رویال مدل RF-M22",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "b830740f-7ca7-44ed-b5b4-568a6c94865d",
+      "name": "یخچال فریزر کلاسیک امرسان مدل BFN20D321-CLA ظرفیت ۲۰ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "6d2488fd-c946-4988-adb4-6682af3016a5",
+      "name": "یخچال ایستکول 5 فوت مدل 2835",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "c374f677-9e9b-4d40-aa30-ea52625b05d4",
+      "name": "یخچال فریزر ساید بای ساید ایکس ویژن مدل TF541 ظرفیت ۲۸ فوت استیل",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "ac0980a0-865f-4a55-b1c7-abaaa45b7faa",
+      "name": "یخچال فریزر 9 فوت ایستکول مدل 2919",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "fe44afff-7cda-4751-a20c-72fb4eaed185",
+      "name": "یخچال فریزر ایکس ویژن مدل TT582 ظرفیت ۲۶ فوت رنگ نقره ای",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "dab9a6fb-a352-4e73-be38-726c2a6e70a4",
+      "name": "یخچال فریزر دوقلو الکترواستیل مدل ES21",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "c4b15df9-8ffa-4a69-835b-dd4cbaf8478c",
+      "name": "یخچال فریزر تیونیکس مدل REFDT4 ظرفیت ۱۴ فوت",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "59c04f8e-2894-4612-a8cd-a8170fc3970b",
+      "name": "یخچال",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "3f3b125d-e8c7-4fb6-8737-a28930c906a5",
+      "name": "یخچال ساید بای ساید ال جی مدل X24",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "d6178be4-573b-476d-b417-8d35c64af4ed",
+      "name": "یخچال فریزر دوقلوی جنرال مدل F17 دور این دور",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/refrigerator",
+      "random_key": "bb20271f-332f-4044-b9bd-f0b88c1857a0",
+      "name": "یخچال فریزر فریزر بالا دیپوینت  T7",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/refrigerator"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "302f6a14-d7b8-4b54-82cd-bfdae40eb83d",
+      "name": "ماشین لباسشویی ال جی مدل WT2116BRK ظرفیت ۱۶ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "7c7acd1a-b518-4a26-bb52-ec6247ae12db",
+      "name": "ماشین لباسشویی پاکشوما مدل L9 ظرفیت ۹ کیلوگرم درب از جلو با موتور BLDC",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "bc0d88aa-d223-40b3-b6bd-86331a72ac7b",
+      "name": "ماشین لباسشویی ال جی F4R5VYL2P",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "74f5d748-7ae5-45b9-ab2d-77f6a0ed8366",
+      "name": "ماشین لباسشویی پاکشوما مدل X106 ظرفیت ۱۱ کیلوگرم درب از جلو با موتور BLDC و ۱۶ برنامه",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "b4b39e79-d96b-40b7-8034-e1edce2e4f8a",
+      "name": "ماشین لباسشویی دوو LM-830S ظرفیت ۸ کیلوگرم درب از جلو",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "efc1c63a-367a-4cbb-b6db-1266e6cad68d",
+      "name": "ماشین لباسشویی پاکشوما مدل TLX7001W ظرفیت ۷ کیلوگرم درب از بالا",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "608c6b50-94f4-4c98-a508-ba1ba93b7336",
+      "name": "ماشین لباسشویی ال جی مدل WY1409MVP ظرفیت ۹ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "17de8598-ee9f-46ac-b009-c68b3f82ada5",
+      "name": "ماشین لباسشویی 9 کیلویی ال جی مدل F4V5VYP0W / F4V5VYP2T",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "027626a7-de3f-4c38-9fec-228501a79319",
+      "name": "ماشین لباسشویی پاکشوما مدل TLAB1201",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "6434e15b-fc44-43f4-9de9-a6278119149f",
+      "name": "ماشین لباسشویی پاکشوما مدل I8 ظرفیت ۸ کیلوگرم اتوماتیک",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "a8c44afa-0a45-4e9a-a448-afdd3f7df91e",
+      "name": "ماشین لباسشویی پاکشوما مدل S-8 ظرفیت ۸ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "cee77f6c-0f48-40c6-8157-abfe84ac8b87",
+      "name": "ماشین لباسشویی پاکشوما مدل Q9 ظرفیت ۹ کیلوگرم درب از جلو",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "cbf37ee3-fbc7-4ab2-92c2-a3f2e19fcff2",
+      "name": "ماشین لباسشویی پاکشوما مدل L8 ظرفیت ۸ کیلوگرم درب از جلو",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "800e0719-e5ac-48e9-965a-8640119cd3c2",
+      "name": "ماشین لباسشویی دوو سری سنیور مدل LM-990",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "bf1e5c0e-b629-4db6-b1c7-1a36e1c18051",
+      "name": "ماشین لباسشویی اسنوا مدل SWM-C81 ظرفیت ۸ کیلوگرم درب از جلو با موتور BLDC و ۱۴ برنامه",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "2452c5ea-2c2f-406b-a3b6-cbb796e4d274",
+      "name": "ماشین لباسشویی ایکس ویژن مدل TG72",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "56b41829-62cd-4a19-8458-ad587a870638",
+      "name": "ماشین لباسشویی ال جی FH2J3 ظرفیت ۷ کیلو درب از جلو با موتور BLDC و ۱۰ برنامه",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "4bfe7415-6b46-4a6f-b93f-70aacc083986",
+      "name": "ماشین لباسشویی دیپوینت 9 کیلویی مدل WMFW0901S",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "66aeb2dd-66ae-4672-accc-b2f9d32abc19",
+      "name": "ماشین لباسشویی ال جی مدل F2Y1TYP6J ظرفیت ۸ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "be1e9538-b2a6-4b3d-b1d0-67d0b5dc2088",
+      "name": "ماشین لباسشویی دوقلو پاکشوما مدل NA9 ظرفیت ۹.۶ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "757aa3d7-bb51-4b5c-86d2-15204e664ac7",
+      "name": "ماشین لباسشویی پاکشوما 9 کيلويي مدل U9",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "a0659e81-fae1-41ca-9ffa-d38536e4f9c6",
+      "name": "ماشین لباسشویی دوقلو پاکشوما مدل FA21 ظرفیت ۲۱ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "ed633162-cd93-40c0-b8fd-a18fd72c0efc",
+      "name": "ماشین لباسشویی دوو مدل LM9120 ظرفیت ۹ کیلوگرم درب از جلو",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "c99af502-e9c7-42d7-a78d-d3f3e5259842",
+      "name": "ماشین لباسشویی دوو مدل LM-811 ظرفیت ۸ کیلوگرم",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "85af5a34-9287-4907-8990-c408ebb1cdc8",
+      "name": "ماشین لباسشویی ال جی مدل R9 ظرفیت ۱۱ کیلوگرم دودی",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    },
+    {
+      "subcategory": "kitchen/washing-machine",
+      "random_key": "2ae9a9f6-0b12-4d08-9db1-00ec04d4fe91",
+      "name": "ماشین لباسشویی  ایکس ویژن مدل TE62",
+      "reason": "duplicate_id_other_subcategory",
+      "detail": "already kept under appliance/washing-machine"
+    }
+  ]
+}

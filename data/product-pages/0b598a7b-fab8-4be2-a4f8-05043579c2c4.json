@@ -1,0 +1,1639 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "0b598a7b-fab8-4be2-a4f8-05043579c2c4",
+    "name1": "سینک ظرفشویی اخوان مدل A8050 ظرفیت تک لگن روکار",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de371920766c86bb65cb68a9e05a&search_id=01a0de371920766c86bb65cb68a9e05a&cities=&province=&init_suid=01a0de371920766c86bb65cb68a9e05a&algorithm=text_similarity&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4",
+    "web_client_absolute_url": "/p/0b598a7b-fab8-4be2-a4f8-05043579c2c4/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-a8050-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%AA%DA%A9-%D9%84%DA%AF%D9%86-%D8%B1%D9%88%DA%A9%D8%A7%D8%B1/",
+    "price": 3364211,
+    "price_prefix": "cheapest",
+    "price_text": "از ۳٫۳۶۴٫۲۱۱ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۸ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&limit=24&init_suid=01a0de371920766c86bb65cb68a9e05a",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&discover_method=search_image_base_pdp&prev_uid=01a0de371920766c86bb65cb68a9e05a&init_suid=01a0de371920766c86bb65cb68a9e05a",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/ed/RV/edRVSo__BnQCl67W.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/ed/RV/edRVSo__BnQCl67W.jpg",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان",
+                "name2": "",
+                "shop_name": "زاگرس پخش",
+                "shop_name2": "تهران",
+                "shop_id": 421033,
+                "has_public_torob_profile": true,
+                "prk": "1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d&btn=buy&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3364211,
+                "price_text": "۳٫۳۶۴٫۲۱۱ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۳۶۴٫۲۱۱ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان",
+                "name2": "",
+                "shop_name": "اخوان تهران",
+                "shop_name2": "تهران",
+                "shop_id": 299713,
+                "has_public_torob_profile": true,
+                "prk": "f13b006b-fc25-47f3-a762-c5aa8838350c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=f13b006b-fc25-47f3-a762-c5aa8838350c&btn=buy&shop_rank=1&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3378838,
+                "price_text": "۳٫۳۷۸٫۸۳۸ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۳۷۸٫۸۳۸ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "https://akhavantehran.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۹ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان",
+                "name2": "",
+                "shop_name": "پرنیان پخش",
+                "shop_name2": "تهران",
+                "shop_id": 421014,
+                "has_public_torob_profile": true,
+                "prk": "96aca98d-b4ef-4aba-a185-4f419fd6f5f8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=96aca98d-b4ef-4aba-a185-4f419fd6f5f8&btn=buy&shop_rank=2&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3584483,
+                "price_text": "۳٫۵۸۴٫۴۸۳ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۵۸۴٫۴۸۳ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان",
+                "name2": "",
+                "shop_name": "آرین پخش همایونی",
+                "shop_name2": "تهران",
+                "shop_id": 40985,
+                "has_public_torob_profile": true,
+                "prk": "71067f3e-60fc-45f9-9c70-dc8c37b9f1b3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=71067f3e-60fc-45f9-9c70-dc8c37b9f1b3&btn=buy&shop_rank=3&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3599065,
+                "price_text": "۳٫۵۹۹٫۰۶۵ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۵۹۹٫۰۶۵ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "در تهران برای ارسال بار از اسنپ و تپسی و پیک استفاده میکنیم  و در صورت تمایل مشتری به تحویل حضوری برای همه مشتریان وجو دارد برای ارسال بار به شهرستان از باربری  و تیپاکس  و پست استفاده میشود"
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان",
+                "name2": "",
+                "shop_name": "هایتک شیر",
+                "shop_name2": "تهران",
+                "shop_id": 292028,
+                "has_public_torob_profile": true,
+                "prk": "aa821ca1-b722-40c3-943a-f23852e5168a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=aa821ca1-b722-40c3-943a-f23852e5168a&btn=buy&shop_rank=4&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 3900000,
+                "price_text": "۳٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۵ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان - لگن-راست-بدون-سیفون",
+                "name2": "",
+                "shop_name": "در تو در",
+                "shop_name2": "تهران",
+                "shop_id": 7153,
+                "has_public_torob_profile": true,
+                "prk": "7a141edc-9fd9-453d-af46-5ae405019040",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=7a141edc-9fd9-453d-af46-5ae405019040&btn=buy&shop_rank=5&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 4810000,
+                "price_text": "۴٫۸۱۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴٫۸۱۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اسلامشهر، تهران، رباط کریم، شهریار، پردیس، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "روش ارسال 1 - ارسال سریع توسط پیک در سریع ترین زمان ممکن برای شهر تهران \nروش ارسال 2 - ارسال با انتخاب زمان ارسال در زمان ثبت سفارش برای شهر تهران\nروش ارسال 3 - ارسال کالا از طریق باربری برای سایر استان ها ( هزینه نهایی ارسال تا پایانه باربری شهر مقصد در وبسایت محاسبه میشود )"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک روکار مدل A8050-6CR اخوان - لگن-چپ-بدون-سیفون",
+                "name2": "",
+                "shop_name": "در تو در",
+                "shop_name2": "تهران",
+                "shop_id": 7153,
+                "has_public_torob_profile": true,
+                "prk": "ed422ccb-b4c9-407a-a216-9bc0c54ef2ca",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=ed422ccb-b4c9-407a-a216-9bc0c54ef2ca&btn=buy&shop_rank=6&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 4810000,
+                "price_text": "۴٫۸۱۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴٫۸۱۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اسلامشهر، تهران، رباط کریم، شهریار، پردیس، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "روش ارسال 1 - ارسال سریع توسط پیک در سریع ترین زمان ممکن برای شهر تهران \nروش ارسال 2 - ارسال با انتخاب زمان ارسال در زمان ثبت سفارش برای شهر تهران\nروش ارسال 3 - ارسال کالا از طریق باربری برای سایر استان ها ( هزینه نهایی ارسال تا پایانه باربری شهر مقصد در وبسایت محاسبه میشود )"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک استیل معمولی روکار برند اخوان AKHAVAN مدل 8050 6CR",
+                "name2": "",
+                "shop_name": "نیک ساخت",
+                "shop_name2": "تهران",
+                "shop_id": 239972,
+                "has_public_torob_profile": true,
+                "prk": "1e115f2d-0dbf-470b-8ff9-954abd63bfb3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=1e115f2d-0dbf-470b-8ff9-954abd63bfb3&btn=buy&shop_rank=7&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 4821500,
+                "price_text": "۴٫۸۲۱٫۵۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴٫۸۲۱٫۵۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "پیک، تی پاکس، باربری"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک معمولی براق اخوان تک لگن سایز 80 × 50 بسته چهار عددی",
+                "name2": "",
+                "shop_name": "چارسو",
+                "shop_name2": "تهران",
+                "shop_id": 2558,
+                "has_public_torob_profile": true,
+                "prk": "db806a60-83df-4d9d-859d-d6b8649cad7d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=db806a60-83df-4d9d-859d-d6b8649cad7d&btn=buy&shop_rank=8&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a&installment=93:1xAToh:YVDbs1s2izSWwCnytgNHiIz1mPzOIl1TfFw50Ps2VDM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15988000,
+                "price_text": "۱۵٫۹۸۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۹۸۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "در تهران و کرج تحویل کالاها توسط مامورین ارسال چارسو انجام می‌شود. در این روش مشتریان گرامی می‌توانند کالای خود را به راحتی همان روز و نهایتا تا ۲۴ ساعت پس از ثبت سفارش درب منزل تحویل بگیرند. قبل از ارسال سفارش هماهنگی ارسال توسط چارسو انجام می‌شود.\nتحویل با تیپاکس : در این روش مشتریان سراسر ایران می‌توانند ۲۴ تا ۷۲ ساعت پس از ثبت سفارش، کالای خود را درب منزل تحویل بگیرند. تحویل با تیپاکس برای کالاهای کمتر از 10 کیلوگرم قابل ارسال است.\n\nتوجه کنید که اگر سفارشتان را تا ۱۰ صبح به ثبت برسانید محصولتان همان روز تحویل تیپاکس داده می‌شود و در روز بعدی به دستتان خواهد رسید. در غیر این‌صورت و در ثبت سفارش‌های بعد از ۱۰ صبح، کالا در صبح روز بعدی تحویل تیپاکس داده می‌شود.\nارسال به باربری : کالاهای بیش از 10 کیلوگرم (متوسط و بزرگ) در سایر نقاط کشور از طریق باربری ارسال می‌شوند. زمان تحویل سفارشات در این روش با توجه به مسافت شهر مقصد، بین ۱ تا ۴ روز کاری خواهد بود.\n\nلازم به ذکر است که این روش منوط به مراجعه حضوری شما به مراکز باربری شهرتان و دریافت سفارش است. هزینه ارسال بار به شهرستان‌ها با توجه به مسافت و وزن بسته، بر اساس تعرفه باربری محاسبه خواهد شد.\nارسال به شهرهای اطراف تهران و کرج : ارسال برای شهرهای اطراف استان تهران و البرز (شهرهای مانند دماوند ، لواسان ، ورامین ، هشتگرد و …) توسط پیک های ارسال بار (مانند اسنپ پیک) انجام می‌شود. \n\nلازم به ذکر است در این روش با توجه به اینکه امکان حضور مامورین چارسو نیست ، پرداخت فقط از طریق درگاه سایت بصورت آنلاین انجام می‌گیرد و امکان پرداخت در محل نیست. هزینه ارسال شهرهای اطراف تهران طبق جدول مندرج در صفحه رویه ارسال سایت چارسو دریافت میگردد.\nارسال رایگان : محصولات منتخب چارسو که دارای نشان “ارسال رایگان” هستند، به صورت رایگان ارسال خواهند شد. همچنین شما می‌توانید از ستون فیلتر‌ها در دسته‌بندی محصولات مورد نظر، با فعال کردن گرینه “ارسال رایگان”، کالاهای مشمول ارسال رایگان را به صورت یکجا ببینید.\n\n- کلیه کالاهای یک سبد خرید که حاوی یک کالای با نشان “ارسال رایگان” باشد، به طور کامل به صورت رایگان ارسال خواهد شد.\n- کالاهای که از طریق باربری ارسال می‌شوند (کالاهای بزرگ)، هزینه ارسال تنها تا باربری مبدا رایگان خواهد بود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "بازپرداخت در 4 و 6 قسط",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/ebce9246615c.png",
+                            "name": "چارسو",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک اخوان مدل A8050-6CR",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "32020bbd-9309-43c1-9000-11ca5e266d87",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=32020bbd-9309-43c1-9000-11ca5e266d87&btn=buy&shop_rank=9&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک ظرفشویی اخوان مدل Akhavan A8050-6CR-50 | تک لگنه نیمه فانتزی روکار",
+                "name2": "گارانتی 120 ماهه اخوان",
+                "shop_name": "سان کالا آنلاین",
+                "shop_name2": "تهران",
+                "shop_id": 42819,
+                "has_public_torob_profile": true,
+                "prk": "075eb180-bda1-496c-875d-bc5d9677927c",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=075eb180-bda1-496c-875d-bc5d9677927c&btn=buy&shop_rank=10&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک اخوان مدل 80*50 معمولی تک لگن روکار",
+                "name2": "",
+                "shop_name": "پارسا پلاس",
+                "shop_name2": "تهران",
+                "shop_id": 2849,
+                "has_public_torob_profile": true,
+                "prk": "fdc7b14e-2cd1-4816-9169-9e084c101a58",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=fdc7b14e-2cd1-4816-9169-9e084c101a58&btn=buy&shop_rank=11&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a&installment=71:1xAToh:b9YIaoLQZNDIromNfGPAQ3tbTGWCR2lfSFy-A2-9Jiw",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "زمان ارسال از 5 ساعت تا 3 روز کاری\nارسال برای شهرستان از طریق باربری (هزینه دریافت شده در سایت تا باربری تهران می باشد)"
+                },
+                "score_info": {
+                    "score": 4.5,
+                    "score_text": "★۴.۵ (۶ سال در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پیش پرداخت+اقساط 2 تا 5 ماهه",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/e406e5cd96d9.png",
+                            "name": "پارسا پلاس",
+                            "description": "میزان 25درصد مبلغ به صورت نقد و مابقی طی 2 تا 5 قسط",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434555",
+        "count": 12,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&suid=01a0de371920766c86bb65cb68a9e05a&cities=&province=&algorithm=text_similarity&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&list_type=products_info&seed=1790434555"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "057dd7f3-cf52-47f6-8cef-5c83a3c5333b",
+                "shop_id": 103704,
+                "name1": "بلوار شهید دشتی، ۱۰۰...",
+                "name2": "",
+                "shop_name": "تاسیسات کاریز",
+                "shop_badge": null,
+                "shop_name2": "یزد",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۰۹:۰۰ - ۱۸:۰۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 4490000,
+                "price_string": "۴٫۴۹۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۹ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/f0c162a1fca8.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=057dd7f3-cf52-47f6-8cef-5c83a3c5333b&base_rk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&shop_id=103704&member_type=product_in_store",
+                    "count": 4
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=057dd7f3-cf52-47f6-8cef-5c83a3c5333b&btn=buy&shop_rank=0&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار شهید دشتی، ۱۰۰...",
+                "installment": null
+            },
+            {
+                "prk": "9f584d8b-dac8-4aa5-a905-3000d2d1b5b6",
+                "shop_id": 134716,
+                "name1": "شاد آباد، بلوار شهیدان...",
+                "name2": "ارسال به سراسر کشور",
+                "shop_name": "پانوک",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۲۳:۵۹",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۰۸:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 4500000,
+                "price_string": "۴٫۵۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۲ ماه و ۲۳ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/57188405999e.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=9f584d8b-dac8-4aa5-a905-3000d2d1b5b6&base_rk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&shop_id=134716&member_type=product_in_store",
+                    "count": 4
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=9f584d8b-dac8-4aa5-a905-3000d2d1b5b6&btn=buy&shop_rank=1&ct=3&pdp_display=seller_card&view=&app_ver=&installment=126%3A1xAToh%3AOBjIZG_zhhFsUSeIxJDt5_Vgl2qfCkPXtY2vZqxOP8I",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "شاد آباد، بلوار شهیدان...",
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پرداخت نصف مبلغ به صورت نقدی و مابقی در 2 قسط",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": null,
+                            "name": "پانوک",
+                            "description": "برای خرید به صورت حضوری به فروشگاه مراجعه فرمایید.",
+                            "more_info_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "prk": "035e88a8-1f4d-40a2-abe7-69ff61f71960",
+                "shop_id": 76759,
+                "name1": "مصطفی خمینی، ۱۵ خرداد...",
+                "name2": "",
+                "shop_name": "آرشان سینک و گاز",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "بسته",
+                        "text": "تا ۰۷:۳۰ فردا"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۷:۳۰ - ۱۰:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۰۰:۰۰ - ۲۳:۵۹",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": "ساعت کاری این فروشگاه از ۰۷:۳۰ تا ۱۰:۳۰ است. می‌خواهید با فروشگاه تماس بگیرید؟"
+                },
+                "is_open": false,
+                "price": 4700000,
+                "price_string": "۴٫۷۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۳ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/product_in_stores/images/abc23e2793a6.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=035e88a8-1f4d-40a2-abe7-69ff61f71960&base_rk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&shop_id=76759&member_type=product_in_store",
+                    "count": 5
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=035e88a8-1f4d-40a2-abe7-69ff61f71960&btn=buy&shop_rank=2&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "مصطفی خمینی، ۱۵ خرداد...",
+                "installment": null
+            },
+            {
+                "prk": "7a141edc-9fd9-453d-af46-5ae405019040",
+                "shop_id": 7153,
+                "name1": "بزرگراه فتح، بلوار الغدیر...",
+                "name2": "",
+                "shop_name": "در تو در",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "بسته",
+                        "text": "تا ۰۹:۰۰ فردا"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۷:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۷:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۷:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۷:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۷:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۴:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": "ساعت کاری این فروشگاه از ۰۹:۰۰ تا ۱۷:۳۰ است. می‌خواهید با فروشگاه تماس بگیرید؟"
+                },
+                "is_open": false,
+                "price": 4810000,
+                "price_string": "۴٫۸۱۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/6822f1631088.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=7a141edc-9fd9-453d-af46-5ae405019040&base_rk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&shop_id=7153&member_type=product_page",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=7a141edc-9fd9-453d-af46-5ae405019040&btn=buy&shop_rank=3&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بزرگراه فتح، بلوار الغدیر...",
+                "installment": null
+            },
+            {
+                "prk": "1e115f2d-0dbf-470b-8ff9-954abd63bfb3",
+                "shop_id": 239972,
+                "name1": "بلوار آیت الله کاشانی...",
+                "name2": "",
+                "shop_name": "نیک ساخت",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۱۸:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۳۰ - ۱۸:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۱۸:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۱۸:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۸:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۱۸:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۷:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 4821500,
+                "price_string": "۴٫۸۲۱٫۵۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱۳ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=1e115f2d-0dbf-470b-8ff9-954abd63bfb3&btn=buy&shop_rank=4&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار آیت الله کاشانی...",
+                "installment": null
+            },
+            {
+                "prk": "192b7f77-2b38-4865-9134-7542ca7aacf2",
+                "shop_id": 243203,
+                "name1": "جاده کردکوی - بهشهر...",
+                "name2": "",
+                "shop_name": "لوازم بهداشتی ساختمانی جعفری",
+                "shop_badge": null,
+                "shop_name2": "بهشهر",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۲۰:۰۰ | ۰۴:۳۰ - ۲۰:۱۵",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۰:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۰:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "۱۱:۰۰ - ۲۰:۳۰",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 5000000,
+                "price_string": "۵٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۲ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": null,
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=192b7f77-2b38-4865-9134-7542ca7aacf2&btn=buy&shop_rank=5&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "جاده کردکوی - بهشهر...",
+                "installment": null
+            },
+            {
+                "prk": "6955f38f-8791-4a43-b192-b3651818e47e",
+                "shop_id": 125499,
+                "name1": "شهدای حجتی، بزرگراه چایکنار...",
+                "name2": "🤩 جشنواره فروش #( اقساطی )# به قیمت کارخانه 🤩 فروش ویژه، با نازلترین قیمت، با گارانتی معتبر شرکتی 💥حراجی، حراجی، حراجی 💥 جایزه ویژه فروش",
+                "shop_name": "پخش حاج سیفی",
+                "shop_badge": null,
+                "shop_name2": "تبریز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 5950000,
+                "price_string": "۵٫۹۵۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۱۳ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/d56a18aade1d.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=6955f38f-8791-4a43-b192-b3651818e47e&base_rk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&shop_id=125499&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=6955f38f-8791-4a43-b192-b3651818e47e&btn=buy&shop_rank=6&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "شهدای حجتی، بزرگراه چایکنار...",
+                "installment": null
+            }
+        ],
+        "seed": "1790434555",
+        "count": 7,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&cities=&province=&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&list_type=products_in_store_info&seed=1790434555&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&source=next_desktop&discover_method=search&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&seed=1790434555&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&source=next_desktop&discover_method=search&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&seed=1790434555&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۱۵٫۹۸۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۱۵٫۹۸۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "انتخاب شهر من",
+                "type": "city_select_empty",
+                "action": "is_filtered_by_city",
+                "price_str": "",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳٫۳۶۴٫۲۱۱ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 5,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 4,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de371920766c86bb65cb68a9e05a&search_id=01a0de371920766c86bb65cb68a9e05a&cities=&province=&init_suid=01a0de371920766c86bb65cb68a9e05a&algorithm=text_similarity&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&bvid=01a0de3734be75bfb4afbf4bb94d3233&no_log=true&seed=1790434555",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&base_id=9046328&source=next_desktop&bvid=01a0de3734be75bfb4afbf4bb94d3233&init_suid=01a0de371920766c86bb65cb68a9e05a"
+    },
+    "min_price": 3364211,
+    "max_price": 15988000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 125,
+            "title": "تجهیزات ساختمان",
+            "url": "/browse/125/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-building-tools/",
+            "cat_id": 125,
+            "brand_id": null
+        },
+        {
+            "id": 6154,
+            "title": "تجهیزات آشپزخانه و بهداشتی ساختمان",
+            "url": "/browse/6154/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86/",
+            "cat_id": 6154,
+            "brand_id": null
+        },
+        {
+            "id": 442,
+            "title": "سینک ظرفشویی و شیرآلات",
+            "url": "/browse/442/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-sink/",
+            "cat_id": 442,
+            "brand_id": null
+        },
+        {
+            "id": 1627,
+            "title": "سینک ظرفشویی",
+            "url": "/browse/1627/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C/",
+            "cat_id": 1627,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "وضعیت لگن سینک": "لگن راست",
+                    "نوع سینک": "روکار",
+                    "برند سینک": "اخوان",
+                    "رنگ سینک": "استیل",
+                    "ابعاد سینک (cm)": "50*80",
+                    "عمق سینک": "کم عمق",
+                    "جنس سینک": "استیل معمولی نازک",
+                    "تعداد لگن سینک": "1",
+                    "وضعیت سینی سینک": "تک سینی",
+                    "وضعیت میوه شور سینک": "ندارد",
+                    "سیفون اتوماتیک سینک": "ندارد",
+                    "جامایع استیل سینک": "ندارد",
+                    "آبریز سینی سینک": "ندارد",
+                    "سایر مشخصات سینک": "سیفون و زیرآب"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "نوع",
+                    "value": [
+                        "روکار"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "تعداد لگن",
+                    "value": [
+                        "یک لگن"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "سینک-ظرفشویی-اخوان-مدل-a8050-ظرفیت-تک-لگن-روکار",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0b598a7b-fab8-4be2-a4f8-05043579c2c4&limit=24&init_suid=01a0de371920766c86bb65cb68a9e05a",
+    "torob_category": 1627,
+    "no_index": false,
+    "buy_box_price_text": "از ۳٫۳۶۴٫۲۱۱ تومان تا ۱۵٫۹۸۸٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از زاگرس پخش",
+    "new_buy_box_button_text2": "۳٫۳۶۴٫۲۱۱ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de371920766c86bb65cb68a9e05a&suid=01a0de371920766c86bb65cb68a9e05a&bvid=01a0de3734be75bfb4afbf4bb94d3233&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de371920766c86bb65cb68a9e05a&prk=1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de371920766c86bb65cb68a9e05a&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d",
+    "new_buy_box_source_prk": "1eaa5c6d-4c7e-416e-a56d-9303cc37bf7d",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۷ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

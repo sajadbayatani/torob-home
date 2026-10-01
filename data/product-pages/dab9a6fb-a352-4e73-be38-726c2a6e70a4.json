@@ -1,0 +1,2736 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "dab9a6fb-a352-4e73-be38-726c2a6e70a4",
+    "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21",
+    "name1_max_lines": 3,
+    "name2": "Electrosteel Twin Refrigerator Freezer Model ES21",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4c09d5705bacb4e18fb821ec18&search_id=01a0de4c09d5705bacb4e18fb821ec18&cities=&province=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&algorithm=text_similarity&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4",
+    "web_client_absolute_url": "/p/dab9a6fb-a352-4e73-be38-726c2a6e70a4/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-es21/",
+    "price": 94000000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۹۴٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۳۳ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": "اهواز",
+    "delivery_city_flag": "offline",
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&limit=24&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&discover_method=search_image_base_pdp&prev_uid=01a0de4c09d5705bacb4e18fb821ec18&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/JH/9p/JH9p6bQ_90jTjyUz.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/mV/n-/mVn-QXV-Hh7SqyY7.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/DU/7B/DU7BoRswfz0xHvug.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/gI/tZ/gItZW2ZgMq1casKa.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/JH/9p/JH9p6bQ_90jTjyUz.webp",
+    "image_count": 4,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "یخچال و فریزر دوقلو الکترواستیل مدل Future کد ES21",
+                "name2": "گارانتی سلامت فیزیکی کالا",
+                "shop_name": "اسنپ شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 32263,
+                "has_public_torob_profile": true,
+                "prk": "e2fa59b1-23f4-412f-84ae-32bccb9a3989",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=e2fa59b1-23f4-412f-84ae-32bccb9a3989&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de4c1a3175fb91e8f5efda243534&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 262674000,
+                "price_text": "۲۶۲٫۶۷۴٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۶۲٫۶۷۴٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه اسنپ شاپ از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21 ظرفیت ۴۰ فوت با بار خانگی و یخساز اتوماتیک استیل",
+                "name2": "",
+                "shop_name": "ارج مال",
+                "shop_name2": "اسلامشهر",
+                "shop_id": 123587,
+                "has_public_torob_profile": true,
+                "prk": "d87202da-21b8-4dbc-adc1-e6c7772745e9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=d87202da-21b8-4dbc-adc1-e6c7772745e9&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 94000000,
+                "price_text": "۹۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۹۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای هر کالا متفاوت بوده ,بعضی از کالا ها شامل ارسال رایگان  هستند \nدر جشنواره ها و شرایط ویژه برای کالاهای حجیم هم ارسال رایگان داریم."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۸ ماه و ۲۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21 ظرفیت 42 فوت با بار خانگی و یخساز اتوماتیک ,سفید ساده",
+                "name2": "",
+                "shop_name": "ارج مال",
+                "shop_name2": "اسلامشهر",
+                "shop_id": 123587,
+                "has_public_torob_profile": true,
+                "prk": "ffeedccb-7b90-4df6-b2b5-0679404bf611",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=ffeedccb-7b90-4df6-b2b5-0679404bf611&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 197380000,
+                "price_text": "۱۹۷٫۳۸۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۹۷٫۳۸۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای هر کالا متفاوت بوده ,بعضی از کالا ها شامل ارسال رایگان  هستند \nدر جشنواره ها و شرایط ویژه برای کالاهای حجیم هم ارسال رایگان داریم."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلوی الکترواستیل یخسازدار سری future",
+                "name2": "5 سال",
+                "shop_name": "طرق کالا",
+                "shop_name2": "اهواز",
+                "shop_id": 316358,
+                "has_public_torob_profile": true,
+                "prk": "0614251b-7757-4f9b-b899-3b9a97baa67d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=0614251b-7757-4f9b-b899-3b9a97baa67d&btn=buy_city&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": true,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 218700000,
+                "price_text": "۲۱۸٫۷۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱۸٫۷۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای اهواز با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "same_day_delivery"
+                    ],
+                    "delivery_info": "ارسال رایگان کالا سراسر کشور ( بجز کولر و یخچال فریزر)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۹ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21",
+                "name2": "",
+                "shop_name": "کاج کالا استور",
+                "shop_name2": "سمنان",
+                "shop_id": 289279,
+                "has_public_torob_profile": true,
+                "prk": "f73bcde7-69cc-4bad-9025-703f737f34de",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=f73bcde7-69cc-4bad-9025-703f737f34de&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 225700000,
+                "price_text": "۲۲۵٫۷۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۵٫۷۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای سمنان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پست ، تیپاکس ، باربری"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۸ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل 40 فوت سری فیوچر مدل ES21 سفید",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "16764d8c-646d-47fb-a88b-6570d00a4aca",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=16764d8c-646d-47fb-a88b-6570d00a4aca&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 225720000,
+                "price_text": "۲۲۵٫۷۲۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۵٫۷۲۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلوی الکترواستیل یخسازدار مدل es21 سری future فیوچر",
+                "name2": "۲۴ ماه گارانتی الکتروپشتیبان توس",
+                "shop_name": "بساط",
+                "shop_name2": "تهران",
+                "shop_id": 153153,
+                "has_public_torob_profile": true,
+                "prk": "c4dc712a-9d71-4d90-bb27-68a09a3b423b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=c4dc712a-9d71-4d90-bb27-68a09a3b423b&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 226000000,
+                "price_text": "۲۲۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "http://basatt.ir/rules/"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دو قلو الکترواستیل مدل فیوچر ES21",
+                "name2": "",
+                "shop_name": "سابقی",
+                "shop_name2": "تهران",
+                "shop_id": 118830,
+                "has_public_torob_profile": true,
+                "prk": "10456503-eb94-4027-86ae-fe4347022fb0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=10456503-eb94-4027-86ae-fe4347022fb0&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 227000000,
+                "price_text": "۲۲۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای احمد‌آباد مستوفی، اسلامشهر، تجریش، تهران، خرمدره، شمیرانات، شهریار، قرچک، قم، ورامین با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا در تهران قرچک شمیرانات ورامین اسلام شهر تجریش احمد آباد مستوفی خرمدره قم و شهریار همان روز با پیک ارسال خواهد شد و کالای دوستان شهرستانی توسط باربری یا تیپاکس یا هر موری که مشتری بخواهد تحویل خواهد شد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال دوقلوی 40 فوت الکترواستیل مدل فیوچر ES21",
+                "name2": "۴۰ ماه گارانتی الکترواستیل",
+                "shop_name": "زیر زیر",
+                "shop_name2": "تهران",
+                "shop_id": 26656,
+                "has_public_torob_profile": true,
+                "prk": "2fc525c2-5b0f-4b2f-bb8d-c33ebc8c3ec6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=2fc525c2-5b0f-4b2f-bb8d-c33ebc8c3ec6&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 227900000,
+                "price_text": "۲۲۷٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۷٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "امکان تحویل حضوری کالا فراهم است ، برای شهر تهران ارسال توسط پیک و لجستیک مجموعه انجام می شود ، برای شهرستان ها با باربری و پست های  خصوصی نظیر تیپاکس و ماهکس ارسال انجام می شود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو 40 فوت الکترواستیل مدل فیوچر ES21 ظرفیت با بار خانگی و یخساز اتوماتیک",
+                "name2": "",
+                "shop_name": "ایران کالا مرکزی",
+                "shop_name2": "تهران",
+                "shop_id": 14494,
+                "has_public_torob_profile": true,
+                "prk": "41ccc0d5-9f36-420e-896d-7fbb854c88a1",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=41ccc0d5-9f36-420e-896d-7fbb854c88a1&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 227949000,
+                "price_text": "۲۲۷٫۹۴۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۷٫۹۴۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال به تمام نقاط ایران با کمترین هزینه از طریق باربری\r\nارسال با پیک در تهران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۸ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21 فیوچر",
+                "name2": "گارانتی 40 ماهه الکترواستیل + تحویل فوری و تسویه در محل + امکان خرید اقساطی 09103033800",
+                "shop_name": "آسان جهاز",
+                "shop_name2": "تهران",
+                "shop_id": 626,
+                "has_public_torob_profile": true,
+                "prk": "a59ae700-1982-4ff0-a6b2-87c05b601082",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=a59ae700-1982-4ff0-a6b2-87c05b601082&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&installment=56:1xAUAm:K27C-UWvBIsppmhXEFw8CmEylaQsi-co-Q10cW5Yc1k",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 227950000,
+                "price_text": "۲۲۷٫۹۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۷٫۹۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، تهران، نجف آباد، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال فوری تهران\nارسال به تمام شهرهای ایران\nارسال از انبارهای اصفهان  تهران و کرج"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلوی الکترواستیل یخسازدار مدل es21 سری فیوچر سفید",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "8c1f7bbc-00ae-4999-804c-a245aebef9ef",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=8c1f7bbc-00ae-4999-804c-a245aebef9ef&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 228500000,
+                "price_text": "۲۲۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر ES21",
+                "name2": "۲۴ ماه گارانتی الکتروپشتیبان توس",
+                "shop_name": "سیروان کالا",
+                "shop_name2": "تهران",
+                "shop_id": 242286,
+                "has_public_torob_profile": true,
+                "prk": "4472fedf-3ee1-4202-9837-75f7b9f305d8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=4472fedf-3ee1-4202-9837-75f7b9f305d8&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 230000000,
+                "price_text": "۲۳۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل 21مدل فیوچر",
+                "name2": "الکترواستیل",
+                "shop_name": "ارینا کالا",
+                "shop_name2": "تهران",
+                "shop_id": 49853,
+                "has_public_torob_profile": true,
+                "prk": "b123b86b-e6ab-41c5-8cfa-35b514aa3213",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=b123b86b-e6ab-41c5-8cfa-35b514aa3213&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 232000000,
+                "price_text": "۲۳۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.5,
+                    "score_text": "★۴.۵ (۳ سال در ترب)",
+                    "score_color": "#b8860b",
+                    "score_background_color": "#fef3c7",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال دوقلو الکترواستیل مدل فیوچر es21",
+                "name2": "",
+                "shop_name": "لوازم خانگی ویترین شاپ",
+                "shop_name2": "کرج",
+                "shop_id": 143821,
+                "has_public_torob_profile": true,
+                "prk": "b68a8c76-b802-45b9-8899-a5d4ce48ca93",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=b68a8c76-b802-45b9-8899-a5d4ce48ca93&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 234000000,
+                "price_text": "۲۳۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل 40 فوت سری فیوچر مدل ES21 تیتانیوم",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "f75e59b2-ef30-4243-8481-daead53371d1",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=f75e59b2-ef30-4243-8481-daead53371d1&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 234840000,
+                "price_text": "۲۳۴٫۸۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۴٫۸۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر ES21",
+                "name2": "۲۴ ماه گارانتی الکتروپشتیبان توس",
+                "shop_name": "سیروان کالا",
+                "shop_name2": "تهران",
+                "shop_id": 242286,
+                "has_public_torob_profile": true,
+                "prk": "e1a329cc-e12f-4802-b833-42d32ab227de",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=e1a329cc-e12f-4802-b833-42d32ab227de&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 235000000,
+                "price_text": "۲۳۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدلES۲۱ فیوچر - سفید",
+                "name2": "",
+                "shop_name": "امین کالا استور",
+                "shop_name2": "اهواز",
+                "shop_id": 374416,
+                "has_public_torob_profile": true,
+                "prk": "c34d7cc6-ac1b-4206-9ca2-26f7bd07db1e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=c34d7cc6-ac1b-4206-9ca2-26f7bd07db1e&btn=buy_city&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": true,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 238000000,
+                "price_text": "۲۳۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تحویل حضوری و ارسال پستی 1 الی 2 روز کاری بعد از ثبت سفارش میباشد\nارسال با پست و تیپاکس به صورت پس کرایه\nتمامی مرسوله های پستی بیمه میشوند و مشتری باید بسته را در حضور متمور پست کامل چک کند و از لحاظ فیزیکی سالم تحویل بگیرد\n(تحویل بسته به پست یا تیپاکس حد اکثر تا 3روز کاری بعد از ثبت سفارش انجام میشود)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلوی الکترواستیل یخسازدار مدل es21 سری فیوچر نقره ای",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "d4d96fa3-de63-4bc8-8ff4-3abbcda211ac",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=d4d96fa3-de63-4bc8-8ff4-3abbcda211ac&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 239500000,
+                "price_text": "۲۳۹٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۹٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر - سفید",
+                "name2": "گارانتی 60 ماهه الکترو پشتیبان توس",
+                "shop_name": "جلیلیان استور",
+                "shop_name2": "مشهد",
+                "shop_id": 350534,
+                "has_public_torob_profile": true,
+                "prk": "e2a92a84-8587-4296-b47a-c825646b669d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=e2a92a84-8587-4296-b47a-c825646b669d&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&installment=30:1xAUAm:B9im1sA8YRNyR5AFQ0fqGoUJx7-07-AJIBOI7K3b-Eo",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 239500000,
+                "price_text": "۲۳۹٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۹٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر الکترواستیل مدل فیوچر ES21",
+                "name2": "",
+                "shop_name": "ایراجیان",
+                "shop_name2": "شاهرود",
+                "shop_id": 3117,
+                "has_public_torob_profile": true,
+                "prk": "f6a5850b-cce8-4312-bbe8-a2a00186fa3b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=f6a5850b-cce8-4312-bbe8-a2a00186fa3b&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 239794000,
+                "price_text": "۲۳۹٫۷۹۴٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۹٫۷۹۴٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شاهرود با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "بسته به شرایط جشنواره ها ارسال بعضی از کالاها رایگان می باشد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر الکترواستیل مدل future 21 سفید",
+                "name2": "",
+                "shop_name": "آیریس هوم شاپ",
+                "shop_name2": "اندیمشک",
+                "shop_id": 371091,
+                "has_public_torob_profile": true,
+                "prk": "47c61513-0f01-436c-8e82-e9d724acf9f5",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=47c61513-0f01-436c-8e82-e9d724acf9f5&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 239900000,
+                "price_text": "۲۳۹٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳۹٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اندیمشک با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر es21(تخفیف ویژه نقدی)",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "شاهرود، خانگی ثامن شاهرود",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "f9ec035a-92b0-4e82-9d38-90d91f55459a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=f9ec035a-92b0-4e82-9d38-90d91f55459a&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&installment=241:1xAUAm:nndhmLc6hjDi92MqB-rUYxMZKeXZ87aODir_1_B-Eqg",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 242723250,
+                "price_text": "۲۴۲٫۷۲۳٫۲۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۲٫۷۲۳٫۲۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال دوقول الکترواستیل مدل فیوچرز پلاس",
+                "name2": "",
+                "shop_name": "هوملو",
+                "shop_name2": "تربت جام",
+                "shop_id": 417187,
+                "has_public_torob_profile": true,
+                "prk": "bc490290-a38f-4e60-82ff-e387a37ee47f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=bc490290-a38f-4e60-82ff-e387a37ee47f&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 245000000,
+                "price_text": "۲۴۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تربت جام، مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روش های ارسال: پست ، تیپاکس ، باربری"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۳ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل future",
+                "name2": "24 ماهه",
+                "shop_name": "اردلان شاپ",
+                "shop_name2": "گرگان",
+                "shop_id": 68167,
+                "has_public_torob_profile": true,
+                "prk": "1e413d90-fa82-42f3-bad1-e067f4c37e0b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=1e413d90-fa82-42f3-bad1-e067f4c37e0b&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&installment=30,56,144:1xAUAm:UkvecUhjVRL1PSXNWEHFBUYMrvxNJux38qLOy_a0Mjs",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 245400000,
+                "price_text": "۲۴۵٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۵٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای گرگان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تحویل در 3 تا 7 روز کار با دکا پست و باربری های درون شهری و برون شهری"
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        },
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        },
+                        {
+                            "title": "دارای طرح‌های متنوع قسطی از جمله بتا رفاه هیرکان",
+                            "short_title": "خرید قسطی، بدون ضامن",
+                            "logo": null,
+                            "name": "اردلان شاپ",
+                            "description": "در هنگام خرید، طرح قسطی مد نظر خود را انتخاب نمایید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21 سری Future ا Eletto Refrigerator Freezer 6020 Automatic",
+                "name2": "دارد",
+                "shop_name": "بازرگانی شهبازیان",
+                "shop_name2": "کاشان",
+                "shop_id": 8589,
+                "has_public_torob_profile": true,
+                "prk": "e01fdabc-cd62-411c-af05-2ec8a007e894",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=e01fdabc-cd62-411c-af05-2ec8a007e894&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 246300000,
+                "price_text": "۲۴۶٫۳۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۶٫۳۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال محصول از 3 طریق انجام میشود:\n1) ارسال با پست تیپاکس\n2) ارسال با پست آیرکس( در صورت وجود نمایندگی در شهر مقصد)\n3) ارسال با وانت بار خصوصی(نیازمند هماهنگی جهت ارسال ویژه کالاهای سنگین)\n\n- انتخاب شیوه ارسال به عهده مشتری است و پس از ثبت سفارش داخل سایت، مسئول سفارشات سایت برای مشاوره و انتخاب بهترین شیوه ارسال برای خریدار محصول، با ایشان تماس میگیرد. هر کدام از شیوه های ارسال مزیت رقابتی خود را دارند و با توجه به نوع محصول و مکان مشتری یکی از شیوه ها به انتخاب مشتری تعیین میشود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر سفید",
+                "name2": "اصل | الکترو توس",
+                "shop_name": "تهرانسل",
+                "shop_name2": "تهران",
+                "shop_id": 83206,
+                "has_public_torob_profile": true,
+                "prk": "5ff1a08f-b5dd-451e-9985-a885d83b7da4",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=5ff1a08f-b5dd-451e-9985-a885d83b7da4&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 247000000,
+                "price_text": "۲۴۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل فیوچر - تیتانیومی",
+                "name2": "گارانتی 60 ماهه الکترو پشتیبان توس",
+                "shop_name": "جلیلیان استور",
+                "shop_name2": "مشهد",
+                "shop_id": 350534,
+                "has_public_torob_profile": true,
+                "prk": "e4633df9-47d4-4c89-9b78-df6cab3aff96",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=e4633df9-47d4-4c89-9b78-df6cab3aff96&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&installment=30:1xAUAm:SCYupqVvjZkT7vVlxORn0sN88C6f0T7pQW9IflnrnKY",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 247900000,
+                "price_text": "۲۴۷٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۷٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۱۲ قسط تا سقف ۱۰۰ میلیون با سود سالانه ۲۳٪",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/21bc8869fcb8.png",
+                            "name": "دیجی پی",
+                            "description": "دریافت وام از دیجی پی",
+                            "more_info_url": "https://app.mydigipay.com/service/bnpl/onboarding?utm_source=torob&utm_medium=pdp_badge&utm_campaign=bnpl_05"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدلES۲۱ فیوچر - سیلور",
+                "name2": "",
+                "shop_name": "امین کالا استور",
+                "shop_name2": "اهواز",
+                "shop_id": 374416,
+                "has_public_torob_profile": true,
+                "prk": "2005f6ed-767d-4f5c-b38c-723d1a12b6ed",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=2005f6ed-767d-4f5c-b38c-723d1a12b6ed&btn=buy_city&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": true,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 248000000,
+                "price_text": "۲۴۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تحویل حضوری و ارسال پستی 1 الی 2 روز کاری بعد از ثبت سفارش میباشد\nارسال با پست و تیپاکس به صورت پس کرایه\nتمامی مرسوله های پستی بیمه میشوند و مشتری باید بسته را در حضور متمور پست کامل چک کند و از لحاظ فیزیکی سالم تحویل بگیرد\n(تحویل بسته به پست یا تیپاکس حد اکثر تا 3روز کاری بعد از ثبت سفارش انجام میشود)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "یخچال فریزر دوقلو الکترواستیل مدل ES21",
+                "name2": "",
+                "shop_name": "کاج کالا استور",
+                "shop_name2": "سمنان",
+                "shop_id": 289279,
+                "has_public_torob_profile": true,
+                "prk": "c18aa8c7-e30c-450d-bc28-738031195144",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=c18aa8c7-e30c-450d-bc28-738031195144&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 248000000,
+                "price_text": "۲۴۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۴۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای سمنان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پست ، تیپاکس ، باربری"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۸ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435924",
+        "count": 89,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&suid=01a0de4c09d5705bacb4e18fb821ec18&cities=&province=&algorithm=text_similarity&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&list_type=products_info&seed=1790435924"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "0614251b-7757-4f9b-b899-3b9a97baa67d",
+                "shop_id": 316358,
+                "name1": "بلوار جواد الائمه، بین...",
+                "name2": "۵ سال",
+                "shop_name": "طرق کالا",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۲:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۳:۰۰ | ۱۷:۳۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 218700000,
+                "price_string": "۲۱۸٫۷۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۵ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/fbbac619e89b.jpeg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=0614251b-7757-4f9b-b899-3b9a97baa67d&base_rk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&shop_id=316358&member_type=product_page",
+                    "count": 2
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=0614251b-7757-4f9b-b899-3b9a97baa67d&btn=buy&shop_rank=0&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بلوار جواد الائمه، بین...",
+                "installment": null
+            },
+            {
+                "prk": "eebbe90b-f9d9-46e8-ab90-4319e305b67d",
+                "shop_id": 231082,
+                "name1": "خیابان طالقانی، خیابان شهید...",
+                "name2": "گارانتی ۶۰ ماهه شرکتی",
+                "shop_name": "تهویه تک الکتریک",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۰:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۴:۳۰ - ۲۰:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۲:۳۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۲:۳۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۲:۳۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۲:۳۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۲۱:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 232000000,
+                "price_string": "۲۳۲٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱۲ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/511187aa122b.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=eebbe90b-f9d9-46e8-ab90-4319e305b67d&base_rk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&shop_id=231082&member_type=product_in_store",
+                    "count": 4
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=eebbe90b-f9d9-46e8-ab90-4319e305b67d&btn=buy&shop_rank=1&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان طالقانی، خیابان شهید...",
+                "installment": null
+            },
+            {
+                "prk": "802fd2b9-dc42-42c3-a3f8-f53ce0f3f5d2",
+                "shop_id": 485810,
+                "name1": "بزرگراه مدرس، کنارگذر مدرس...",
+                "name2": "گارانتی ۶۰ ماهه شرکتی",
+                "shop_name": "کالای خانگی سادات",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۲:۱۵"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۳۰ - ۱۴:۰۰ | ۱۸:۳۰ - ۲۲:۱۵",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 236000000,
+                "price_string": "۲۳۶٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۲۱ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": null,
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=802fd2b9-dc42-42c3-a3f8-f53ce0f3f5d2&btn=buy&shop_rank=2&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "بزرگراه مدرس، کنارگذر مدرس...",
+                "installment": null
+            },
+            {
+                "prk": "c34d7cc6-ac1b-4206-9ca2-26f7bd07db1e",
+                "shop_id": 374416,
+                "name1": "کمپلو جنوبی، خیابان بنی...",
+                "name2": "",
+                "shop_name": "امین کالا استور",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۱۰:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 238000000,
+                "price_string": "۲۳۸٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۱۶ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": false,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/497703b6c2df.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=c34d7cc6-ac1b-4206-9ca2-26f7bd07db1e&base_rk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&shop_id=374416&member_type=product_page",
+                    "count": 2
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=c34d7cc6-ac1b-4206-9ca2-26f7bd07db1e&btn=buy&shop_rank=3&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "کمپلو جنوبی، خیابان بنی...",
+                "installment": null
+            },
+            {
+                "prk": "c4ec4f7f-8a90-495e-86b0-484bc35249bc",
+                "shop_id": 291932,
+                "name1": "طالقانی، شهید علم الهدی...",
+                "name2": "گارانتی ۱۲۰ ماهه شرکتی",
+                "shop_name": "رضا خلیج فارس",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 245700000,
+                "price_string": "۲۴۵٫۷۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۳ ماه و ۲۰ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/a6b0033189b8.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=c4ec4f7f-8a90-495e-86b0-484bc35249bc&base_rk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&shop_id=291932&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=c4ec4f7f-8a90-495e-86b0-484bc35249bc&btn=buy&shop_rank=4&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "طالقانی، شهید علم الهدی...",
+                "installment": null
+            }
+        ],
+        "seed": "1790435924",
+        "count": 5,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&cities=&province=&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&list_type=products_in_store_info&seed=1790435924&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&source=next_desktop&discover_method=search&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&seed=1790435924&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&source=next_desktop&discover_method=search&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&seed=1790435924&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۲۲۷٫۹۴۹٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۲۲۷٫۹۵۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "از ۲۱۸٫۷۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۹۴٫۰۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 4,
+                "offline_shop_display_count": 5,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 5,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4c09d5705bacb4e18fb821ec18&search_id=01a0de4c09d5705bacb4e18fb821ec18&cities=&province=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&algorithm=text_similarity&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&bvid=01a0de4c19e874ea98693f4fa0c09475&no_log=true&seed=1790435924",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&base_id=131762982&source=next_desktop&bvid=01a0de4c19e874ea98693f4fa0c09475&init_suid=01a0de4c09d5705bacb4e18fb821ec18"
+    },
+    "min_price": 94000000,
+    "max_price": 279000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 132,
+            "title": "یخچال، فریزر و آب سردکن",
+            "url": "/browse/132/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D8%A7%D8%A8-%D8%B3%D8%B1%D8%AF%DA%A9%D9%86-refrigerator-and-freezer-and-cooling-water/",
+            "cat_id": 132,
+            "brand_id": null
+        },
+        {
+            "id": 2461,
+            "title": "یخچال و فریزر",
+            "url": "/browse/2461/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1/",
+            "cat_id": 2461,
+            "brand_id": null
+        },
+        {
+            "id": 207,
+            "title": "یخچال فریزر دوقلو",
+            "url": "/browse/207/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-twin/",
+            "cat_id": 207,
+            "brand_id": null
+        },
+        {
+            "id": 207,
+            "title": "الکترواستیل (Electrosteel)",
+            "url": "/browse/207/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%AF%D9%88%D9%82%D9%84%D9%88-twin/b/5764/electrosteel-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D8%A7%D8%B3%D8%AA%DB%8C%D9%84/",
+            "cat_id": 207,
+            "brand_id": 5764
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "مدل": "es21",
+                    "برند": "الکترواستیل",
+                    "گرید": "A",
+                    "موتور": "ایتالیایی",
+                    "یخ‌ساز": "اتوماتیک",
+                    "درب‌هوم‌بار": "دارد",
+                    "ابعاد": "عرض: 60 سانتی‌متر عمق: 73 سانتی‌متر ارتفاع: 188 سانتی‌متر",
+                    "نمایشگر": "LED",
+                    "دستگیره": "مخفی",
+                    "ابعاد کلی": "۱۲۰×۱۸۹×۷۳ سانتی‌متر (A×H×D)",
+                    "گنجایش کل": "۴۰ فوت / ۷۰۲ لیتر",
+                    "حجم یخچال": "۳۸۵ لیتر",
+                    "حجم فریزر": "۳۱۷ لیتر",
+                    "طبقات یخچال": "۵ عدد",
+                    "طبقات درب یخچال": "۵ عدد",
+                    "کشو یخچال": "۲ عدد",
+                    "طبقات فریزر": "۱ عدد",
+                    "کشو فریزر": "۷ عدد",
+                    "جا‌بطری": "۴ عدد",
+                    "نوع یخ": "حبه‌ای",
+                    "انواع یخ": "پودری & فالبی",
+                    "تیغه یخ‌ساز": "فولادی",
+                    "ظرفیت یخ‌ساز": "۲ کیلو",
+                    "سرمایش سریع": "دارد",
+                    "انجماد سریع": "دارد",
+                    "گردش‌هوای چندگانه": "دارد",
+                    "نوفراست": "دارد",
+                    "آبسردکن": "دارد",
+                    "اتصال به آب شهری": "دارد",
+                    "هشدار درب": "دارد",
+                    "قفل کودک": "دارد",
+                    "مصرف‌اقتصادی": "دارد",
+                    "تنظیمات دما": "دارد",
+                    "رنگ": "تیتانیوم, سفید"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "یخچال-فریزر-دوقلو-الکترواستیل-مدل-es21",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=dab9a6fb-a352-4e73-be38-726c2a6e70a4&limit=24&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+    "torob_category": 207,
+    "no_index": false,
+    "buy_box_price_text": "از ۹۴٫۰۰۰٫۰۰۰ تومان تا ۲۷۹٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=d87202da-21b8-4dbc-adc1-e6c7772745e9&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از ارج مال",
+    "new_buy_box_button_text2": "۹۴٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4c09d5705bacb4e18fb821ec18&suid=01a0de4c09d5705bacb4e18fb821ec18&bvid=01a0de4c19e874ea98693f4fa0c09475&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4c09d5705bacb4e18fb821ec18&prk=d87202da-21b8-4dbc-adc1-e6c7772745e9&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4c09d5705bacb4e18fb821ec18&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "e2fa59b1-23f4-412f-84ae-32bccb9a3989",
+    "new_buy_box_source_prk": "d87202da-21b8-4dbc-adc1-e6c7772745e9",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۳۲ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/mV/n-/mVn-QXV-Hh7SqyY7.webp",
+                "https://image.torob.com/base/images/DU/7B/DU7BoRswfz0xHvug.webp",
+                "https://image.torob.com/base/images/gI/tZ/gItZW2ZgMq1casKa.webp"
+            ]
+        }
+    ]
+}

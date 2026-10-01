@@ -1,0 +1,1348 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "49e1d79f-416e-4fe6-9712-e7673bde8b26",
+    "name1": "سینک ظرفشویی متا مدل M90RS تک لگن",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de384bac75a2a2809c2dc2576306&search_id=01a0de384bac75a2a2809c2dc2576306&cities=&province=&init_suid=01a0de384bac75a2a2809c2dc2576306&algorithm=text_similarity&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26",
+    "web_client_absolute_url": "/p/49e1d79f-416e-4fe6-9712-e7673bde8b26/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-m90rs-%D8%AA%DA%A9-%D9%84%DA%AF%D9%86/",
+    "price": 37230000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۳۷٫۲۳۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۱۲ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": "اهواز",
+    "delivery_city_flag": "offline",
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&limit=24&init_suid=01a0de384bac75a2a2809c2dc2576306",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&discover_method=search_image_base_pdp&prev_uid=01a0de384bac75a2a2809c2dc2576306&init_suid=01a0de384bac75a2a2809c2dc2576306",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/LB/E0/LBE0EouFXaC7JR-R.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/LB/E0/LBE0EouFXaC7JR-R.jpg",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی باکسی M90RS متا",
+                "name2": "",
+                "shop_name": "کالاغدیر",
+                "shop_name2": "تهران",
+                "shop_id": 10227,
+                "has_public_torob_profile": true,
+                "prk": "d6940824-614c-447f-b3eb-cf192a46276d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=d6940824-614c-447f-b3eb-cf192a46276d&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de388fa872c0ab34e6253553054e&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43352805,
+                "price_text": "۴۳٫۳۵۲٫۸۰۵ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۳۵۲٫۸۰۵ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال با حداقل هزینه و بهینه در زمان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی تک لگن متا کدml90RS توکار",
+                "name2": "",
+                "shop_name": "دومان شاپ استور",
+                "shop_name2": "چهارباغ",
+                "shop_id": 297569,
+                "has_public_torob_profile": true,
+                "prk": "04739eb3-faf0-4785-924b-d2e41ce42f30",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=04739eb3-faf0-4785-924b-d2e41ce42f30&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 37230000,
+                "price_text": "۳۷٫۲۳۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۷٫۲۳۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۷ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۷ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک باکسی متا مدل M90RS",
+                "name2": "",
+                "shop_name": "رامکا استور",
+                "shop_name2": "تهران",
+                "shop_id": 3726,
+                "has_public_torob_profile": true,
+                "prk": "df3960de-f6c6-4cf1-b40c-f4ca01a0bf05",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=df3960de-f6c6-4cf1-b40c-f4ca01a0bf05&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39731000,
+                "price_text": "۳۹٫۷۳۱٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۷۳۱٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال سریع 1 الی 3 ساعت در تهران\nارسال از طریق پست - تیپاکس و باربری برای سفارشات شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی پله‌ دار متا مدل M90rs",
+                "name2": "",
+                "shop_name": "سمائی استور",
+                "shop_name2": "تهران",
+                "shop_id": 280069,
+                "has_public_torob_profile": true,
+                "prk": "322721b9-f4c8-4fc3-8f50-4ea7f3634126",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=322721b9-f4c8-4fc3-8f50-4ea7f3634126&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39753000,
+                "price_text": "۳۹٫۷۵۳٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۷۵۳٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اندیشه، تهران، شهریار، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اندیشه، تهران، شهریار، کرج با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال سفارشات شهر تهران و استان البرز در همان روز با خودروی فروشگاه امکان پذیر است و برای سفارشات شهرستان ارسال توسط باربری و تا ساعت 15 هر روز انجام می‌شود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک متا مدل M90RS",
+                "name2": "",
+                "shop_name": "کارا هوم استور",
+                "shop_name2": "تهران",
+                "shop_id": 155022,
+                "has_public_torob_profile": true,
+                "prk": "9427bb3d-3b5e-41db-810e-c3f5c270a6f3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=9427bb3d-3b5e-41db-810e-c3f5c270a6f3&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39800000,
+                "price_text": "۳۹٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی باکسی M90RS متا",
+                "name2": "",
+                "shop_name": "کالاغدیر",
+                "shop_name2": "تهران",
+                "shop_id": 10227,
+                "has_public_torob_profile": true,
+                "prk": "d6940824-614c-447f-b3eb-cf192a46276d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=d6940824-614c-447f-b3eb-cf192a46276d&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43352805,
+                "price_text": "۴۳٫۳۵۲٫۸۰۵ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۳۵۲٫۸۰۵ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال با حداقل هزینه و بهینه در زمان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک استیل توکار برند متا META مدل M90RS",
+                "name2": "",
+                "shop_name": "نیک ساخت",
+                "shop_name2": "تهران",
+                "shop_id": 239972,
+                "has_public_torob_profile": true,
+                "prk": "440fbb8a-421f-45e7-97f7-5a66fe46347d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=440fbb8a-421f-45e7-97f7-5a66fe46347d&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43945000,
+                "price_text": "۴۳٫۹۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۹۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پیک، تی پاکس، باربری"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک استیل توکار برند متا META مدل M90RS",
+                "name2": "",
+                "shop_name": "نیل سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 416752,
+                "has_public_torob_profile": true,
+                "prk": "c51fbb45-5d4f-4847-b856-9f091c405168",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=c51fbb45-5d4f-4847-b856-9f091c405168&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43945000,
+                "price_text": "۴۳٫۹۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۹۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک متا مدل M90RS",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "75546e3d-c98e-4144-961f-72739394097c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=75546e3d-c98e-4144-961f-72739394097c&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 44882000,
+                "price_text": "۴۴٫۸۸۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۴٫۸۸۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک متا مدل M90RS",
+                "name2": "اصل",
+                "shop_name": "ارتونا",
+                "shop_name2": "تهران",
+                "shop_id": 66292,
+                "has_public_torob_profile": true,
+                "prk": "ef4a87f9-1021-46bf-8c29-e476f9d20476",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=ef4a87f9-1021-46bf-8c29-e476f9d20476&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306&installment=2:1xATq7:T3E-uRb9uXQIFIfxbDDTJd4asXLbNC2RqzUUm0iWIic",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50800000,
+                "price_text": "۵۰٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه و نحوه ارسال\nدر سرتاسر کشور سفارش‌‏ها از طریق باربری ارسال می‌‏شوند و جهت دریافت بار از باربری با شما هماهنگی لازم صورت خواهد گرفت.\nهزینه‏ ارسال بار به شهرستان براساس مصوبه بارنامه های بین شهری در باربری های کشور محاسبه و قابل پرداخت است. \n\nدر خصوص هزینه ارسال درون شهری بابت سفارش های داخل شهر تهران بصورت موردی و بسته به ادرس مشتری متغیر است که پس از ثبت سفارش مشخص و هماهنگی آن صورت می پذیرد.\nزمان رسیدن بار پس از تحویل به باربری ، بر اساس محدوده جغرافیایی از 24 تا 72 ساعت کاری متغیر است، بنابراین روز رسیدن سفارش با توجه به خدمات باربری بصورت حدودی مشخص است و در خصوص ساعت  آن نیز نمی‏‌توان به طور دقیق اظهارنظر کرد.\nهمه سفارش‌‏ها پس از طی مراحل پردازش انبار، در هر روز هفته تحویل باربری استان مربوطه شده تا در اسرع وقت ارسال شوند.\n\nهزینه ارسال بار به شهرستان و حتی داخل تهران بصورت پس کرایه و برعهده خریدار می باشد\nاز آنجا که فروشگاه لوازم خانگی ارتونا یک فروشگاه حضوری و اینترنتی است  تحویل حضوری سفارش در محل فروشگاه لوازم خانگی ارتونا با رعایت ساعت کاری فروشگاه و همچنین در نظر گرفتن شلوغی محل فروشگاه ، امکان‌پذیر می باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی شعاع 10 در گوشه ها M90RS",
+                "name2": "۶۰ ماه (۵ سال)",
+                "shop_name": "شرکت یراق جم",
+                "shop_name2": "تهران",
+                "shop_id": 46316,
+                "has_public_torob_profile": true,
+                "prk": "ff69cc73-cce5-4228-aa24-1925a0600d3a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=ff69cc73-cce5-4228-aa24-1925a0600d3a&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306&installment=56:1xATq7:DmD1GpNmS6rCc0USyqTVKYZlbx2RCEF823Bi2Gggq7o",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 51000000,
+                "price_text": "۵۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۶٫۵۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "سینک ظرفشویی متا مدل M90RS",
+                "name2": "",
+                "shop_name": "آریو دکور",
+                "shop_name2": "تهران",
+                "shop_id": 183310,
+                "has_public_torob_profile": true,
+                "prk": "9a5c39ab-5bb1-4842-8733-d2560632430d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=9a5c39ab-5bb1-4842-8733-d2560632430d&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 413800550,
+                "price_text": "۴۱۳٫۸۰۰٫۵۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۱۳٫۸۰۰٫۵۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از تمام روشهای که مشتری برای ما در ثبت محصول ثبت کرده باشد"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک ظرفشویی متا مدل M90RS تک لگن",
+                "name2": "",
+                "shop_name": "هلدینگ عاشوری",
+                "shop_name2": "تبریز",
+                "shop_id": 372145,
+                "has_public_torob_profile": true,
+                "prk": "308fc512-2916-488b-b2e1-809663cf33b6",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=308fc512-2916-488b-b2e1-809663cf33b6&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود (۳۶٫۲۰۰٫۰۰۰ تومان)",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود (۳۶٫۲۰۰٫۰۰۰ تومان)",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای ارومیه، تهران، شیراز با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسالی های فروشگاه ما توسط پست ، تیپاکس و باربری انجام می شود"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک توکار پله دار متا مدل M90RS",
+                "name2": "",
+                "shop_name": "نوین هوم",
+                "shop_name2": "تهران",
+                "shop_id": 15577,
+                "has_public_torob_profile": true,
+                "prk": "f977f480-316d-49ff-bc5b-7bb63d556459",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=f977f480-316d-49ff-bc5b-7bb63d556459&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306&installment=23:1xATq7:cWj86HChOIy1_OCz81N9uezkhZ0-Ux3V6RCxbw7mqS4",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پیش پرداخت+ اقساط 1 الی 5 ماهه",
+                            "short_title": "امکان پرداخت با چک صیادی",
+                            "logo": null,
+                            "name": "نوین هوم",
+                            "description": "امکان خرید قسطی از طریق تماس تلفنی",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "سینک دست ساز پله دار شعاع 10 در گوشه ها متا مدل M90RS",
+                "name2": "",
+                "shop_name": "تخفیف ساختمان",
+                "shop_name2": "تهران",
+                "shop_id": 133036,
+                "has_public_torob_profile": true,
+                "prk": "1d7d9947-f0b3-4c9f-bcb3-27dc52d88bf7",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=1d7d9947-f0b3-4c9f-bcb3-27dc52d88bf7&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال درون شهری با پیک و ارسال برون شهری با باربری"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434643",
+        "count": 15,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&suid=01a0de384bac75a2a2809c2dc2576306&cities=&province=&algorithm=text_similarity&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&list_type=products_info&seed=1790434643"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "17f8fc00-3c0f-401a-8b8a-1bf57cf09b52",
+                "shop_id": 155663,
+                "name1": "خیابان طالقانی، خیابان آیت...",
+                "name2": "",
+                "shop_name": "اخوان کاهکش",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۲:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۸:۰۰ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 44000000,
+                "price_string": "۴۴٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۱ ماه و ۱۷ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/58388191e85b.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=17f8fc00-3c0f-401a-8b8a-1bf57cf09b52&base_rk=49e1d79f-416e-4fe6-9712-e7673bde8b26&shop_id=155663&member_type=product_in_store",
+                    "count": 5
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=17f8fc00-3c0f-401a-8b8a-1bf57cf09b52&btn=buy&shop_rank=0&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان طالقانی، خیابان آیت...",
+                "installment": null
+            }
+        ],
+        "seed": "1790434643",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&cities=&province=&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&list_type=products_in_store_info&seed=1790434643&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&source=next_desktop&discover_method=search&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&seed=1790434643&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&source=next_desktop&discover_method=search&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&seed=1790434643&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۳۹٫۷۳۱٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۵۰٫۸۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "از ۴۴٫۰۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳۷٫۲۳۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 1,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de384bac75a2a2809c2dc2576306&search_id=01a0de384bac75a2a2809c2dc2576306&cities=&province=&init_suid=01a0de384bac75a2a2809c2dc2576306&algorithm=text_similarity&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&bvid=01a0de388f49765b8c354178398f1261&no_log=true&seed=1790434643",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&base_id=198967636&source=next_desktop&bvid=01a0de388f49765b8c354178398f1261&init_suid=01a0de384bac75a2a2809c2dc2576306"
+    },
+    "min_price": 37230000,
+    "max_price": 413800550,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 125,
+            "title": "تجهیزات ساختمان",
+            "url": "/browse/125/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-building-tools/",
+            "cat_id": 125,
+            "brand_id": null
+        },
+        {
+            "id": 6154,
+            "title": "تجهیزات آشپزخانه و بهداشتی ساختمان",
+            "url": "/browse/6154/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86/",
+            "cat_id": 6154,
+            "brand_id": null
+        },
+        {
+            "id": 442,
+            "title": "سینک ظرفشویی و شیرآلات",
+            "url": "/browse/442/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-sink/",
+            "cat_id": 442,
+            "brand_id": null
+        },
+        {
+            "id": 1627,
+            "title": "سینک ظرفشویی",
+            "url": "/browse/1627/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C/",
+            "cat_id": 1627,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "متعلقات سینک": "میوه شور - تخته گوشت - استند تخته گوشت - جا قاشق چنگالی",
+                    "ضخامت ورق": "1/2 میلی متر",
+                    "اصالت کالا": "اصل",
+                    "ابعاد": "90 * 50",
+                    "رنگ": "استیل",
+                    "بدنه": "استیل",
+                    "نوع سینک": "توکار",
+                    "تعداد لگن": "1 لگن",
+                    "جامایع": "دارای جامایع",
+                    "نوار آب بندی": "دارد",
+                    "عمق لگن": "250 میلی متر"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "نوع",
+                    "value": [
+                        "توکار"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "تعداد لگن",
+                    "value": [
+                        "یک لگن"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "سینک-ظرفشویی-متا-مدل-m90rs-تک-لگن",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=49e1d79f-416e-4fe6-9712-e7673bde8b26",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=49e1d79f-416e-4fe6-9712-e7673bde8b26&limit=24&init_suid=01a0de384bac75a2a2809c2dc2576306",
+    "torob_category": 1627,
+    "no_index": false,
+    "buy_box_price_text": "از ۳۷٫۲۳۰٫۰۰۰ تومان تا ۴۱۳٫۸۰۰٫۵۵۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=04739eb3-faf0-4785-924b-d2e41ce42f30&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از دومان شاپ استور",
+    "new_buy_box_button_text2": "۳۷٫۲۳۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de384bac75a2a2809c2dc2576306&suid=01a0de384bac75a2a2809c2dc2576306&bvid=01a0de388f49765b8c354178398f1261&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de384bac75a2a2809c2dc2576306&prk=04739eb3-faf0-4785-924b-d2e41ce42f30&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de384bac75a2a2809c2dc2576306&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "d6940824-614c-447f-b3eb-cf192a46276d",
+    "new_buy_box_source_prk": "04739eb3-faf0-4785-924b-d2e41ce42f30",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۱۱ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

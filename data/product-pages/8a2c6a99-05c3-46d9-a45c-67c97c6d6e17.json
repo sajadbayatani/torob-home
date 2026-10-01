@@ -1,0 +1,244 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "8a2c6a99-05c3-46d9-a45c-67c97c6d6e17",
+    "name1": "میز مدیریت اداری کاترین با جنس ملامینه",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de430f287134bd9bbf35bc45af94&search_id=01a0de430f287134bd9bbf35bc45af94&cities=&province=&init_suid=01a0de430f287134bd9bbf35bc45af94&algorithm=text_similarity&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17",
+    "web_client_absolute_url": "/p/8a2c6a99-05c3-46d9-a45c-67c97c6d6e17/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7-%D8%AC%D9%86%D8%B3-%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86%D9%87/",
+    "price": 16500000,
+    "price_prefix": "cheapest",
+    "price_text": "۱۶٫۵۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در اداری فروش",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&limit=24&init_suid=01a0de430f287134bd9bbf35bc45af94",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&discover_method=search_image_base_pdp&prev_uid=01a0de430f287134bd9bbf35bc45af94&init_suid=01a0de430f287134bd9bbf35bc45af94",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/41/JK/41JKfhspgDqcnxY8.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/zs/nm/zsnm2GvXlfDk3Xjw.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Vs/sM/VssM0I0OtbcT9H7L.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/q0/bQ/q0bQ5Kr1lEOuuWLM.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/41/JK/41JKfhspgDqcnxY8.jpg",
+    "image_count": 4,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&bvid=01a0de43249975068a2a5b6637d0193c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de430f287134bd9bbf35bc45af94&prk=ae28bde7-18df-495a-9b4d-bc847ea4d4b6&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de430f287134bd9bbf35bc45af94",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "میز مدیریت اداری کاترین katrin",
+                "name2": "",
+                "shop_name": "اداری فروش",
+                "shop_name2": "چهاردانگه",
+                "shop_id": 147691,
+                "has_public_torob_profile": true,
+                "prk": "ae28bde7-18df-495a-9b4d-bc847ea4d4b6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&bvid=01a0de43249975068a2a5b6637d0193c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de430f287134bd9bbf35bc45af94&prk=ae28bde7-18df-495a-9b4d-bc847ea4d4b6&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de430f287134bd9bbf35bc45af94",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 16500000,
+                "price_text": "۱۶٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۶٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تهران و حومه از طریق باربری های شهری و استان های دورتر از طریق ایسوزو های مسقف پتو پیچ و تحویل درب محل و به صورت روباری یا دربست میباشد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435337",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&bvid=01a0de43249975068a2a5b6637d0193c&suid=01a0de430f287134bd9bbf35bc45af94&cities=&province=&algorithm=text_similarity&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&list_type=products_info&seed=1790435337"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435337",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&cities=&province=&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&list_type=products_in_store_info&seed=1790435337&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&source=next_desktop&discover_method=search&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&seed=1790435337&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&source=next_desktop&discover_method=search&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&seed=1790435337&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de430f287134bd9bbf35bc45af94&search_id=01a0de430f287134bd9bbf35bc45af94&cities=&province=&init_suid=01a0de430f287134bd9bbf35bc45af94&algorithm=text_similarity&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&bvid=01a0de43249975068a2a5b6637d0193c&no_log=true&seed=1790435337",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&base_id=110267606&source=next_desktop&bvid=01a0de43249975068a2a5b6637d0193c&init_suid=01a0de430f287134bd9bbf35bc45af94"
+    },
+    "min_price": 16500000,
+    "max_price": 16500000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 4342,
+            "title": "مبلمان و لوازم اداری",
+            "url": "/browse/4342/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/",
+            "cat_id": 4342,
+            "brand_id": null
+        },
+        {
+            "id": 2486,
+            "title": "میز اداری",
+            "url": "/browse/2486/%D9%85%DB%8C%D8%B2-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/",
+            "cat_id": 2486,
+            "brand_id": null
+        },
+        {
+            "id": 2437,
+            "title": "میز مدیریت",
+            "url": "/browse/2437/%D9%85%DB%8C%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA/",
+            "cat_id": 2437,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "ابعاد": "120 سانتی متر",
+                    "متریال قابل سفارش": "ملامینه"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "میز-مدیریت-اداری-کاترین-با-جنس-ملامینه",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=8a2c6a99-05c3-46d9-a45c-67c97c6d6e17&limit=24&init_suid=01a0de430f287134bd9bbf35bc45af94",
+    "torob_category": 2437,
+    "no_index": false,
+    "buy_box_price_text": "۱۶٫۵۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&bvid=01a0de43249975068a2a5b6637d0193c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de430f287134bd9bbf35bc45af94&prk=ae28bde7-18df-495a-9b4d-bc847ea4d4b6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de430f287134bd9bbf35bc45af94",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از اداری فروش",
+    "new_buy_box_button_text2": "۱۶٫۵۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de430f287134bd9bbf35bc45af94&suid=01a0de430f287134bd9bbf35bc45af94&bvid=01a0de43249975068a2a5b6637d0193c&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de430f287134bd9bbf35bc45af94&prk=ae28bde7-18df-495a-9b4d-bc847ea4d4b6&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de430f287134bd9bbf35bc45af94&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "ae28bde7-18df-495a-9b4d-bc847ea4d4b6",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/zs/nm/zsnm2GvXlfDk3Xjw.jpg",
+                "https://image.torob.com/base/images/Vs/sM/VssM0I0OtbcT9H7L.jpg",
+                "https://image.torob.com/base/images/q0/bQ/q0bQ5Kr1lEOuuWLM.jpg"
+            ]
+        }
+    ]
+}

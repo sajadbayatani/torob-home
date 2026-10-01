@@ -1,0 +1,230 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "3a32e37d-d33e-499f-bfef-e9d368837482",
+    "name1": "شیر ظرفشویی اهرمی مهر مدل اقتصادی بادوام کروم",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de39125472d8a8843e0d8a1b8cc3&search_id=01a0de39125472d8a8843e0d8a1b8cc3&cities=&province=&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&algorithm=text_similarity&prk=3a32e37d-d33e-499f-bfef-e9d368837482",
+    "web_client_absolute_url": "/p/3a32e37d-d33e-499f-bfef-e9d368837482/%D8%B4%DB%8C%D8%B1-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D9%85%D9%87%D8%B1-%D9%85%D8%AF%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%AF%D9%88%D8%A7%D9%85-%DA%A9%D8%B1%D9%88%D9%85/",
+    "price": 1440000,
+    "price_prefix": "cheapest",
+    "price_text": "۱٫۴۴۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در شیرآلات حافظ",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3a32e37d-d33e-499f-bfef-e9d368837482&limit=24&init_suid=01a0de39125472d8a8843e0d8a1b8cc3",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=3a32e37d-d33e-499f-bfef-e9d368837482&discover_method=search_image_base_pdp&prev_uid=01a0de39125472d8a8843e0d8a1b8cc3&init_suid=01a0de39125472d8a8843e0d8a1b8cc3",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/tR/xw/tRxw0ZCa5puP_UbF.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/HU/fJ/HUfJRuDEsMfm6A9w.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/tR/xw/tRxw0ZCa5puP_UbF.jpg",
+    "image_count": 2,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "شیر ظرفشویی اهرمی مهراوران رخشا مدل اقتصادی بادوام کروم",
+                "name2": "",
+                "shop_name": "شیرآلات حافظ",
+                "shop_name2": "تهران",
+                "shop_id": 51109,
+                "has_public_torob_profile": true,
+                "prk": "5224dc2c-1415-4704-a685-b9fb2394e7b0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de39125472d8a8843e0d8a1b8cc3&suid=01a0de39125472d8a8843e0d8a1b8cc3&bvid=01a0de397eef72129023e718d2b7e1b5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&prk=5224dc2c-1415-4704-a685-b9fb2394e7b0&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de39125472d8a8843e0d8a1b8cc3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 1440000,
+                "price_text": "۱٫۴۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱٫۴۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434705",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de39125472d8a8843e0d8a1b8cc3&bvid=01a0de397eef72129023e718d2b7e1b5&suid=01a0de39125472d8a8843e0d8a1b8cc3&cities=&province=&algorithm=text_similarity&prk=3a32e37d-d33e-499f-bfef-e9d368837482&list_type=products_info&seed=1790434705"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434705",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de39125472d8a8843e0d8a1b8cc3&cities=&province=&prk=3a32e37d-d33e-499f-bfef-e9d368837482&list_type=products_in_store_info&seed=1790434705&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=3a32e37d-d33e-499f-bfef-e9d368837482&source=next_desktop&discover_method=search&search_id=01a0de39125472d8a8843e0d8a1b8cc3&suid=01a0de39125472d8a8843e0d8a1b8cc3&seed=1790434705&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=3a32e37d-d33e-499f-bfef-e9d368837482&source=next_desktop&discover_method=search&search_id=01a0de39125472d8a8843e0d8a1b8cc3&suid=01a0de39125472d8a8843e0d8a1b8cc3&seed=1790434705&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de39125472d8a8843e0d8a1b8cc3&search_id=01a0de39125472d8a8843e0d8a1b8cc3&cities=&province=&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&algorithm=text_similarity&prk=3a32e37d-d33e-499f-bfef-e9d368837482&bvid=01a0de397eef72129023e718d2b7e1b5&no_log=true&seed=1790434705",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=3a32e37d-d33e-499f-bfef-e9d368837482&base_id=111056082&source=next_desktop&bvid=01a0de397eef72129023e718d2b7e1b5&init_suid=01a0de39125472d8a8843e0d8a1b8cc3"
+    },
+    "min_price": 1440000,
+    "max_price": 1440000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 125,
+            "title": "تجهیزات ساختمان",
+            "url": "/browse/125/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-building-tools/",
+            "cat_id": 125,
+            "brand_id": null
+        },
+        {
+            "id": 6154,
+            "title": "تجهیزات آشپزخانه و بهداشتی ساختمان",
+            "url": "/browse/6154/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86/",
+            "cat_id": 6154,
+            "brand_id": null
+        },
+        {
+            "id": 442,
+            "title": "سینک ظرفشویی و شیرآلات",
+            "url": "/browse/442/%D8%B3%DB%8C%D9%86%DA%A9-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-sink/",
+            "cat_id": 442,
+            "brand_id": null
+        },
+        {
+            "id": 1628,
+            "title": "شیرآلات ساختمانی",
+            "url": "/browse/1628/%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C/",
+            "cat_id": 1628,
+            "brand_id": null
+        },
+        {
+            "id": 1630,
+            "title": "شیرآلات آشپزخانه",
+            "url": "/browse/1630/%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87/",
+            "cat_id": 1630,
+            "brand_id": null
+        },
+        {
+            "id": 1630,
+            "title": "مهر (Mehr)",
+            "url": "/browse/1630/%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87/b/2360/mehr-%D9%85%D9%87%D8%B1/",
+            "cat_id": 1630,
+            "brand_id": 2360
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "شیر-ظرفشویی-اهرمی-مهر-مدل-اقتصادی-بادوام-کروم",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=3a32e37d-d33e-499f-bfef-e9d368837482",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=3a32e37d-d33e-499f-bfef-e9d368837482&limit=24&init_suid=01a0de39125472d8a8843e0d8a1b8cc3",
+    "torob_category": 1630,
+    "no_index": false,
+    "buy_box_price_text": "۱٫۴۴۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de39125472d8a8843e0d8a1b8cc3&suid=01a0de39125472d8a8843e0d8a1b8cc3&bvid=01a0de397eef72129023e718d2b7e1b5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&prk=5224dc2c-1415-4704-a685-b9fb2394e7b0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de39125472d8a8843e0d8a1b8cc3",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از شیرآلات حافظ",
+    "new_buy_box_button_text2": "۱٫۴۴۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de39125472d8a8843e0d8a1b8cc3&suid=01a0de39125472d8a8843e0d8a1b8cc3&bvid=01a0de397eef72129023e718d2b7e1b5&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&prk=5224dc2c-1415-4704-a685-b9fb2394e7b0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de39125472d8a8843e0d8a1b8cc3&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "5224dc2c-1415-4704-a685-b9fb2394e7b0",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/HU/fJ/HUfJRuDEsMfm6A9w.jpg"
+            ]
+        }
+    ]
+}

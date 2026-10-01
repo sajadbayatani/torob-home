@@ -1,0 +1,2367 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "5ed0e9db-7875-4662-afff-091ef02c4c0a",
+    "name1": "جارو برقی فیلیپس مدل FC9170",
+    "name1_max_lines": 3,
+    "name2": "Philips Vacuum cleaner FC9170",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de51de36711188c16a3d9d9f43dc&search_id=01a0de51de36711188c16a3d9d9f43dc&cities=&province=&init_suid=01a0de51de36711188c16a3d9d9f43dc&algorithm=rerank&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a",
+    "web_client_absolute_url": "/p/5ed0e9db-7875-4662-afff-091ef02c4c0a/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-fc9170/",
+    "price": 11500000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۱٫۵۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۴۴ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": "اهواز",
+    "delivery_city_flag": "offline",
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&limit=24&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&discover_method=search_image_base_pdp&prev_uid=01a0de51de36711188c16a3d9d9f43dc&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/wL/o1/wLo1vgFV4eHLDAlB.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/CE/RF/CERFhoCzurSO_xXD.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/ov/Uv/ovUv7gHtsXXGXhj_.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/w5/Cf/w5Cf_ZOofgECiFq_.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/wL/o1/wLo1vgFV4eHLDAlB.jpg",
+    "image_count": 4,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "جارو برقی فیلیپس FC9170",
+                "name2": "گارانتی سلامت فیزیکی کالا",
+                "shop_name": "اسنپ شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 32263,
+                "has_public_torob_profile": true,
+                "prk": "88a8375c-7276-432f-9482-140f4746722f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=88a8375c-7276-432f-9482-140f4746722f&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de522a037039b24f952dbef96419&init_suid=01a0de51de36711188c16a3d9d9f43dc&installment=2:1xAUHB:0Lv8LkBylC_Tb6GbqAzcTutsBcKRwzMmYAes85BqZ5o",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 68000000,
+                "price_text": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه اسنپ شاپ از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "",
+                "shop_name": "هومی لوکس",
+                "shop_name2": "پیرانشهر",
+                "shop_id": 157561,
+                "has_public_torob_profile": true,
+                "prk": "81c40eb2-c886-4869-88f5-0564baca5a57",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=81c40eb2-c886-4869-88f5-0564baca5a57&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 33830000,
+                "price_text": "۳۳٫۸۳۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۳٫۸۳۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال سفارشات معمولا در همان روز و یا 1 الی 2 روز کاری پس از ثبت سفارش انجام می‌شود. البته با توجه به محصول خریداری شده و یا حجم کالا و سفارش، شرایط ارسال می‌تواند متغیر باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۲ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 | با 24 ماه ضمانت کتبی",
+                "name2": "اصل",
+                "shop_name": "روبار",
+                "shop_name2": "پیرانشهر",
+                "shop_id": 152903,
+                "has_public_torob_profile": true,
+                "prk": "30fb71ef-c73a-490d-badc-f163b1bd8259",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=30fb71ef-c73a-490d-badc-f163b1bd8259&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 33850000,
+                "price_text": "۳۳٫۸۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۳٫۸۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ ماه و ۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "",
+                "shop_name": "مالکوهوم",
+                "shop_name2": "پیرانشهر",
+                "shop_id": 455892,
+                "has_public_torob_profile": true,
+                "prk": "1ad006c4-5e57-4072-b5c2-f3a0b53f216c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=1ad006c4-5e57-4072-b5c2-f3a0b53f216c&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 39000000,
+                "price_text": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 | دو سال گارانتی",
+                "name2": "اصل",
+                "shop_name": "بارانو",
+                "shop_name2": "پیرانشهر",
+                "shop_id": 5418,
+                "has_public_torob_profile": true,
+                "prk": "69c7063e-4393-41f1-973e-e51d11c92d39",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=69c7063e-4393-41f1-973e-e51d11c92d39&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 48500000,
+                "price_text": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در ارومیه، پیرانشهر با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای ارومیه، پیرانشهر با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵۴ دقیقه پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل PHILIPS FC9170 ا PHILIPS Vacuum Cleaner FC9170",
+                "name2": "اصل",
+                "shop_name": "آریل کالا",
+                "shop_name2": "لنجان",
+                "shop_id": 13212,
+                "has_public_torob_profile": true,
+                "prk": "e2908f60-41ee-469a-9879-cd43b1ca0563",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=e2908f60-41ee-469a-9879-cd43b1ca0563&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 48500000,
+                "price_text": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا بسته به شرایط خرید امکان رایگان وجود دارد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 | دو سال گارانتی",
+                "name2": "اصل",
+                "shop_name": "دیاناکالا",
+                "shop_name2": "پیرانشهر",
+                "shop_id": 7729,
+                "has_public_torob_profile": true,
+                "prk": "0c51ace0-80d3-4b68-bb2b-a2becf332693",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=0c51ace0-80d3-4b68-bb2b-a2becf332693&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 48500000,
+                "price_text": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اشنویه، تبریز، سردشت، سردشت، سردشت، نقده با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "اصل",
+                "shop_name": "خدری کالا",
+                "shop_name2": "بانه",
+                "shop_id": 47198,
+                "has_public_torob_profile": true,
+                "prk": "2d8f7df1-d69c-4cb8-92ba-7aaeb70da674",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=2d8f7df1-d69c-4cb8-92ba-7aaeb70da674&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 53950000,
+                "price_text": "۵۳٫۹۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۳٫۹۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای بانه با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "ارسال از فروشگاه ما به دو روش هست \nوسایل ریز و خورد به صورت پست ارسال میشه \nومحصولات سنگین و حساس با پیک شخصی ارسال میشه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۹ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۱۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی فیلیپس مدل FC9170",
+                "name2": "",
+                "shop_name": "اورانوس کالا",
+                "shop_name2": "کرج",
+                "shop_id": 53816,
+                "has_public_torob_profile": true,
+                "prk": "7145d17b-903e-4576-8ff3-af0af634376b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=7145d17b-903e-4576-8ff3-af0af634376b&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 54300000,
+                "price_text": "۵۴٫۳۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۴٫۳۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 ا PHILLIPS FC9170",
+                "name2": "اصل | ORIGINAL",
+                "shop_name": "بانه استور آی آر",
+                "shop_name2": "بانه",
+                "shop_id": 156489,
+                "has_public_torob_profile": true,
+                "prk": "0cb44bcf-c140-4111-a82b-5c832677fb7a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=0cb44bcf-c140-4111-a82b-5c832677fb7a&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55000000,
+                "price_text": "۵۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "",
+                "shop_name": "نوبی لایف",
+                "shop_name2": "ارومیه",
+                "shop_id": 220136,
+                "has_public_torob_profile": true,
+                "prk": "1767e667-9bcc-4f9e-917e-f1f4ac87cf6d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=1767e667-9bcc-4f9e-917e-f1f4ac87cf6d&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55000000,
+                "price_text": "۵۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پرقدرت فیلیپس مدل FC9170 ا PHILIPS",
+                "name2": "ضمانت اصالت وسلامت فیزیکی دستگاه",
+                "shop_name": "ویرو کالا",
+                "shop_name2": "تهران",
+                "shop_id": 453674,
+                "has_public_torob_profile": true,
+                "prk": "a89dc841-7a58-440c-bc3d-f844c06c0874",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=a89dc841-7a58-440c-bc3d-f844c06c0874&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 56000000,
+                "price_text": "۵۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پیک موتوری \nتیپاکس \nباربری"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۴۲ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل 9170",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "قم",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "07e070a8-31dc-4c9e-a442-ca26e7322289",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=07e070a8-31dc-4c9e-a442-ca26e7322289&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc&installment=241:1xAUHB:AfzbkKVGAkvB6IbRkmCA9AEhMBZvF3l_gmjbZ5Lf-wQ",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 56600000,
+                "price_text": "۵۶٫۶۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۶٫۶۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس 9170",
+                "name2": "",
+                "shop_name": "آپادانا لایف",
+                "shop_name2": "تهران",
+                "shop_id": 207035,
+                "has_public_torob_profile": true,
+                "prk": "44ffaad2-9e8e-4e9d-bd92-47f123620476",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=44ffaad2-9e8e-4e9d-bd92-47f123620476&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 58500000,
+                "price_text": "۵۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی فیلیپس مدل FC9170 با قدرت مکش ۲۲۰۰ وات",
+                "name2": "اصل",
+                "shop_name": "امیر برند",
+                "shop_name2": "اصفهان",
+                "shop_id": 62667,
+                "has_public_torob_profile": true,
+                "prk": "c9f5141b-a58c-4e67-a33d-ac881b1a3554",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=c9f5141b-a58c-4e67-a33d-ac881b1a3554&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 60000000,
+                "price_text": "۶۰٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا در همان روز"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی فیلیپس مدل FC9170 هلند",
+                "name2": "اصل",
+                "shop_name": "کاوالینو",
+                "shop_name2": "مشهد",
+                "shop_id": 389281,
+                "has_public_torob_profile": true,
+                "prk": "b72dcf67-2463-4ff3-a7a6-b60d260e747a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=b72dcf67-2463-4ff3-a7a6-b60d260e747a&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 61000000,
+                "price_text": "۶۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پس از ثبت سفارش کالا طی 1یا 2 روز کاری برای ارسال اماده میشود و تحویل پست تیپاکس و... می شوند.\nزمان تقریبی رسیدن کالا ها به شهر مقصد بستگی دارد و بین 3 تا 7 روز کاری به مشتری تحویل داده میشود\nدر صورت تاخیر در رسیدن کالا تیم کاوالینو در سریع ترین زمان پاسخگو خواهد بود \nلطفا پس از ثبت سفارش اطلاعات ادرس را به صورت کاملا دقیق وارد کرد نموده تا مشکلی پیش نیاد \nارسال رایگان به سراسر مشهد در همان روز امکان پذیر است"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی 9170 فیلیپس ا 9170 philips",
+                "name2": "اصل | ضمانت اصالت و سلامت",
+                "shop_name": "برندمارکت۳۶۵",
+                "shop_name2": "تهران",
+                "shop_id": 51550,
+                "has_public_torob_profile": true,
+                "prk": "d8a0dea1-a24b-4f25-b5b9-d299288fd841",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=d8a0dea1-a24b-4f25-b5b9-d299288fd841&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 63578000,
+                "price_text": "۶۳٫۵۷۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۳٫۵۷۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، ری با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، ری با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس FC9170 ا Philips FC9170 Vacuum Cleaner با 12 ماه گارانتی",
+                "name2": "اصل | با ضمانت اصالت و سلامت کالا به همراه 12 ماه گارانتی",
+                "shop_name": "آفکادو",
+                "shop_name2": "تهران",
+                "shop_id": 1448,
+                "has_public_torob_profile": true,
+                "prk": "16b7eb7a-37ca-40a2-855c-73ab8f022bda",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=16b7eb7a-37ca-40a2-855c-73ab8f022bda&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 63900000,
+                "price_text": "۶۳٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۳٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پیک در شهر شیراز و ارسال پستی و تیپاکس در تمام نقاط ایران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "",
+                "shop_name": "روهامی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 19318,
+                "has_public_torob_profile": true,
+                "prk": "f2c525e3-fb24-43f0-a6da-3d5d8311bb42",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=f2c525e3-fb24-43f0-a6da-3d5d8311bb42&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 64900000,
+                "price_text": "۶۴٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۴٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "مطابق قوانین درج شده در سایت"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "اصل",
+                "shop_name": "بازرگانی تهران",
+                "shop_name2": "تهران",
+                "shop_id": 158373,
+                "has_public_torob_profile": true,
+                "prk": "b6ff0781-95c5-48ab-b848-108da12a32dd",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=b6ff0781-95c5-48ab-b848-108da12a32dd&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65000000,
+                "price_text": "۶۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سایر با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای سایر با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "شکوفا الکتریک سرویس 24 ماه",
+                "shop_name": "ایران شیور",
+                "shop_name2": "تهران",
+                "shop_id": 1471,
+                "has_public_torob_profile": true,
+                "prk": "b95aac8e-a91a-4d59-9351-4009db6f79f4",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=b95aac8e-a91a-4d59-9351-4009db6f79f4&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65795000,
+                "price_text": "۶۵٫۷۹۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۷۹۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۷٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پیک موتوری طبق بازه زمانی درج شده در سایت -ارسال رایگان بالای 5 میلیون تومان- تحویل در محل فقط برای شهر تهران با هزینه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "اصل",
+                "shop_name": "اسمگ می ایتالیا",
+                "shop_name2": "تهران",
+                "shop_id": 269054,
+                "has_public_torob_profile": true,
+                "prk": "f1c59ba9-e042-45ce-8242-3a6f07706d3c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=f1c59ba9-e042-45ce-8242-3a6f07706d3c&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 65900000,
+                "price_text": "۶۵٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۵٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 ا قیمت در جشنواره سلام فیلیپس سنتر",
+                "name2": "اصالت و سلامت فیزیکی کالا",
+                "shop_name": "فیلیپس سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 281706,
+                "has_public_torob_profile": true,
+                "prk": "5ff26510-4e3f-4fd6-b567-f4ce6e80a8c0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=5ff26510-4e3f-4fd6-b567-f4ce6e80a8c0&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 66000000,
+                "price_text": "۶۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق پیک بادپا/ الوپیک/ اسنپ بنا به درخواست مشتری در شهر تهران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱۱ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی فیلیپس FC9170",
+                "name2": "گارانتی سلامت فیزیکی کالا",
+                "shop_name": "اسنپ شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 32263,
+                "has_public_torob_profile": true,
+                "prk": "88a8375c-7276-432f-9482-140f4746722f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=88a8375c-7276-432f-9482-140f4746722f&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc&installment=2:1xAUHB:0Lv8LkBylC_Tb6GbqAzcTutsBcKRwzMmYAes85BqZ5o",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 68000000,
+                "price_text": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۸٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه اسنپ شاپ از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 ا Philips FC9170 Vacuum Cleaner",
+                "name2": "فیلیپس",
+                "shop_name": "حمید سنتر",
+                "shop_name2": "تجریش",
+                "shop_id": 18993,
+                "has_public_torob_profile": true,
+                "prk": "200847a2-a569-4625-8a1b-c541de471709",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=200847a2-a569-4625-8a1b-c541de471709&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 69000000,
+                "price_text": "۶۹٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۶۹٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳ تا ۵ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170",
+                "name2": "اصل",
+                "shop_name": "چنارام",
+                "shop_name2": "تهران",
+                "shop_id": 74551,
+                "has_public_torob_profile": true,
+                "prk": "d235bd81-bcef-459e-a912-27bac195757b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=d235bd81-bcef-459e-a912-27bac195757b&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70504507,
+                "price_text": "۷۰٫۵۰۴٫۵۰۷ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۵۰۴٫۵۰۷ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی برقی فیلیپس Fc9170",
+                "name2": "اصل | گارانتی سلامت و اصالت کالا",
+                "shop_name": "لوازم خانگی حیدریان",
+                "shop_name2": "کاشان",
+                "shop_id": 40461,
+                "has_public_torob_profile": true,
+                "prk": "4ae73376-f2a7-4ba5-b3bd-459d7aa45ac8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=4ae73376-f2a7-4ba5-b3bd-459d7aa45ac8&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74325000,
+                "price_text": "۷۴٫۳۲۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۳۲۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در کاشان با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای کاشان با هماهنگی",
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی Philips FC9170 ضمانت اصالت کالا و ارسال فوری و رایگان /گارانتی 18 ماهه مارکو تجارت",
+                "name2": "اصل",
+                "shop_name": "مارکو تجارت استور",
+                "shop_name2": "شیراز",
+                "shop_id": 234129,
+                "has_public_torob_profile": true,
+                "prk": "10299cd7-f0fc-4f42-b870-68e8fcb530e9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=10299cd7-f0fc-4f42-b870-68e8fcb530e9&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74430444,
+                "price_text": "۷۴٫۴۳۰٫۴۴۴ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۴۳۰٫۴۴۴ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170 philips",
+                "name2": "اصل",
+                "shop_name": "راحتیا",
+                "shop_name2": "تهران",
+                "shop_id": 425027,
+                "has_public_torob_profile": true,
+                "prk": "bf75f26a-31d2-443a-b92c-d2a3635c3882",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=bf75f26a-31d2-443a-b92c-d2a3635c3882&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74704200,
+                "price_text": "۷۴٫۷۰۴٫۲۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۷۰۴٫۲۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "https://rahatia.com/regulations/"
+                },
+                "score_info": {
+                    "score": 4.6,
+                    "score_text": "★۴.۶ (۱ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۶ (۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۴۳ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی فیلیپس مدل FC9170/01 ا Philips FC9170/01 Vacuum Cleaner",
+                "name2": "",
+                "shop_name": "ونداد کولر",
+                "shop_name2": "تهران",
+                "shop_id": 39627,
+                "has_public_torob_profile": true,
+                "prk": "fd0fd0e1-f82f-47d8-86af-01ed96300e81",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=fd0fd0e1-f82f-47d8-86af-01ed96300e81&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 85000000,
+                "price_text": "۸۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۸۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اصفهان، بانه، تبریز، تهران، ساری، شیراز، همدان، گرگان با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای بانه با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436321",
+        "count": 259,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&suid=01a0de51de36711188c16a3d9d9f43dc&cities=&province=&algorithm=rerank&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&list_type=products_info&seed=1790436321"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "ca1087a9-7cfb-42dc-8732-98a6e7fce2b8",
+                "shop_id": 74838,
+                "name1": "خیابان ازادگان، ۲۴متری پشت...",
+                "name2": "",
+                "shop_name": "دبی کالامرکزی",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 11500000,
+                "price_string": "۱۱٫۵۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": true,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "بیش از ۱ سال پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": null,
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&prk=ca1087a9-7cfb-42dc-8732-98a6e7fce2b8&btn=buy&shop_rank=0&ct=1&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان ازادگان، ۲۴متری پشت...",
+                "installment": null
+            },
+            {
+                "prk": "73f584d0-6f59-414c-b27e-643ff32f5768",
+                "shop_id": 291932,
+                "name1": "طالقانی، شهید علم الهدی...",
+                "name2": "بدون گارانتی",
+                "shop_name": "رضا خلیج فارس",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 39000000,
+                "price_string": "۳۹٫۰۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": true,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۵ ماه و ۲ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/a6b0033189b8.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=73f584d0-6f59-414c-b27e-643ff32f5768&base_rk=5ed0e9db-7875-4662-afff-091ef02c4c0a&shop_id=291932&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&prk=73f584d0-6f59-414c-b27e-643ff32f5768&btn=buy&shop_rank=1&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "طالقانی، شهید علم الهدی...",
+                "installment": null
+            }
+        ],
+        "seed": "1790436321",
+        "count": 2,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&cities=&province=&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&list_type=products_in_store_info&seed=1790436321&algorithm=rerank",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&source=next_desktop&discover_method=search&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&seed=1790436321&_bt__experiment=sir28__c&algorithm=rerank",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&source=next_desktop&discover_method=search&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&seed=1790436321&_bt__experiment=sir28__c&algorithm=rerank"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۴۸٫۵۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۵۶٫۶۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "از ۱۱٫۵۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 2,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳۳٫۸۳۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 2,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 1,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de51de36711188c16a3d9d9f43dc&search_id=01a0de51de36711188c16a3d9d9f43dc&cities=&province=&init_suid=01a0de51de36711188c16a3d9d9f43dc&algorithm=rerank&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&bvid=01a0de52295375b4a943db80f2b96d71&no_log=true&seed=1790436321",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&base_id=128505430&source=next_desktop&bvid=01a0de52295375b4a943db80f2b96d71&init_suid=01a0de51de36711188c16a3d9d9f43dc"
+    },
+    "min_price": 33830000,
+    "max_price": 954679000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 134,
+            "title": "شستشو و نظافت",
+            "url": "/browse/134/%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA-cleaning-equipment/",
+            "cat_id": 134,
+            "brand_id": null
+        },
+        {
+            "id": 6729,
+            "title": "دستگاه‌های شستشو و نظافت",
+            "url": "/browse/6729/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA/",
+            "cat_id": 6729,
+            "brand_id": null
+        },
+        {
+            "id": 203,
+            "title": "جارو برقی",
+            "url": "/browse/203/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-vacuum-cleaner/",
+            "cat_id": 203,
+            "brand_id": null
+        },
+        {
+            "id": 203,
+            "title": "فیلیپس (Philips)",
+            "url": "/browse/203/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-vacuum-cleaner/b/21/philips-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3/",
+            "cat_id": 203,
+            "brand_id": 21
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "مدل جاروبرقی": "FC9170",
+                    "نوع جارو": "برقی",
+                    "برند": "فیلیپس",
+                    "قدرت مکش": "500 وات",
+                    "توان مصرفی": "2200 وات",
+                    "میزان صدا": "78 دسی بل",
+                    "دستگیره": "✔",
+                    "نوع لوله": "لوله تلسکوپی 2 تکه فلزی",
+                    "مشخصات کیسه": "4 لیتری",
+                    "ظرفیت مخزن": "❌",
+                    "نشانگر مخزن": "دارد",
+                    "رنگ جاروبرقی": "آبی تیره",
+                    "جمع کن سیم": "دارد",
+                    "طول کابل": "7 متر",
+                    "وزن": "6.3 کیلوگرم",
+                    "ابعاد": "500 × 320 ×280 میلی متر",
+                    "لوازم جانبی": "لوله خرطومی, نازل اصلی فرش و سطوح صاف, نازل شکاف ها و درز ها, نازل گرد و غبار, نازل مخصوص حیوانات خانگی",
+                    "سری": "FC",
+                    "کشور سازنده برند": "لهستان",
+                    "کشور مونتاژ کننده": "چین",
+                    "قابلیت شارژی یا سیمی": "سیم",
+                    "قدرت و توان": "2200",
+                    "قابلیت تنظیم قدرت مکش": "✔️",
+                    "طول سیم": "7 متر",
+                    "شعاع کارکرد": "10 متر",
+                    "سیستم Silence Sound": "✔️",
+                    "تکنولوژی Sensor Bagless": "✔️",
+                    "سیستم Power Protect": "✔️",
+                    "سیستم Air Bumper": "✔️",
+                    "فیلتر قابل شستشو": "✔️",
+                    "دکمه Turbo": "❌",
+                    "قابلیت مکش مایعات": "❌",
+                    "نشانگر نیاز فیلتر به نظافت": "✔️",
+                    "سیستم فشرده سازی زباله": "❌",
+                    "فیلتر ضد الرژی": "✔️",
+                    "فیلتر HEPA": "✔",
+                    "نوع سیم جمع کن": "خودکار",
+                    "کنترل بر روی دسته": "❌",
+                    "طی کشی همراه با مخزن آب": "❌",
+                    "جارو هوشمند Smart Drive": "❌",
+                    "Wi-Fi": "❌",
+                    "اتصال به گوشی": "❌",
+                    "سایر قابلیت ها": "دارای نازل TriActive برای تمیز کردن کامل سه طرفه, سیستم فیلتر آلرژی H13 بیش از 99.9 درصد از گرد و غبار ریز را جذب می کند, کیسه های بادوام آسان در محفظه گرد و غبار 4 لیتری XXL",
+                    "رنگ بدنه": "سرمه‌ای",
+                    "جنس بدنه": "پلاستیک فشرده",
+                    "رنگ لوله": "نقره‌ای",
+                    "جنس لوله": "فلزی",
+                    "کیسه ای": "✔️",
+                    "دستگیره ارگونومیک": "✔️",
+                    "نوع چرخ ها": "پلاستیکی",
+                    "تعداد چرخ ها": "3",
+                    "محل قرار گیری دکمه ها": "روی بدنه",
+                    "میزان شارژ شدن باتری ساعت": "❌",
+                    "میزان نگهداری شارژ باتری ساعت": "❌",
+                    "نمایش میزان شارژ باتری": "❌",
+                    "نوع باتری": "❌",
+                    "ولتاژ باتری (ولت)": "❌"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "قدرت مکش",
+                    "value": [
+                        "۲۲۰۰ وات"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "جارو-برقی-فیلیپس-مدل-fc9170",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=5ed0e9db-7875-4662-afff-091ef02c4c0a",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&limit=24&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+    "torob_category": 203,
+    "no_index": false,
+    "buy_box_price_text": "از ۳۳٫۸۳۰٫۰۰۰ تومان تا ۹۵۴٫۶۷۹٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=81c40eb2-c886-4869-88f5-0564baca5a57&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از هومی لوکس",
+    "new_buy_box_button_text2": "۳۳٫۸۳۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de51de36711188c16a3d9d9f43dc&suid=01a0de51de36711188c16a3d9d9f43dc&bvid=01a0de52295375b4a943db80f2b96d71&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=rerank&init_suid=01a0de51de36711188c16a3d9d9f43dc&prk=81c40eb2-c886-4869-88f5-0564baca5a57&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de51de36711188c16a3d9d9f43dc&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "88a8375c-7276-432f-9482-140f4746722f",
+    "new_buy_box_source_prk": "81c40eb2-c886-4869-88f5-0564baca5a57",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۴۳ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/CE/RF/CERFhoCzurSO_xXD.jpg",
+                "https://image.torob.com/base/images/ov/Uv/ovUv7gHtsXXGXhj_.jpg",
+                "https://image.torob.com/base/images/w5/Cf/w5Cf_ZOofgECiFq_.jpg"
+            ]
+        }
+    ]
+}

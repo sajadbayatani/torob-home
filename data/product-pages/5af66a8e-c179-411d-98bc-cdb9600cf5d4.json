@@ -1,0 +1,505 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "5af66a8e-c179-411d-98bc-cdb9600cf5d4",
+    "name1": "اجاق گاز تکنو مدل C5 ۵ شعله ترموکوپل دار",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3da5597508aa6927dff7451c66&search_id=01a0de3da5597508aa6927dff7451c66&cities=&province=&init_suid=01a0de3da5597508aa6927dff7451c66&algorithm=text_similarity&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4",
+    "web_client_absolute_url": "/p/5af66a8e-c179-411d-98bc-cdb9600cf5d4/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%AA%DA%A9%D9%86%D9%88-%D9%85%D8%AF%D9%84-c5-5-%D8%B4%D8%B9%D9%84%D9%87-%D8%AA%D8%B1%D9%85%D9%88%DA%A9%D9%88%D9%BE%D9%84-%D8%AF%D8%A7%D8%B1/",
+    "price": 11000000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۱٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۳ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&limit=24&init_suid=01a0de3da5597508aa6927dff7451c66",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&discover_method=search_image_base_pdp&prev_uid=01a0de3da5597508aa6927dff7451c66&init_suid=01a0de3da5597508aa6927dff7451c66",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/J_/qA/J_qAeHLQmZZij0D3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/J_/qA/J_qAeHLQmZZij0D3.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/J_/qA/J_qAeHLQmZZij0D3.jpg",
+    "image_count": 2,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "اجاق گاز صفحه ای استیل مدل c5 (ترموکوپل دار)",
+                "name2": "",
+                "shop_name": "کالاخانی",
+                "shop_name2": "تهران",
+                "shop_id": 32217,
+                "has_public_torob_profile": true,
+                "prk": "531404ff-47db-4145-85c0-b08f5085156f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=531404ff-47db-4145-85c0-b08f5085156f&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11000000,
+                "price_text": "۱۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق گاز صفحه ای استیل تکنو مدل c5 (ترموکوپل دار)",
+                "name2": "",
+                "shop_name": "کامیر",
+                "shop_name2": "کرج",
+                "shop_id": 244311,
+                "has_public_torob_profile": true,
+                "prk": "2ebf3ee1-03be-4780-a250-336700e5531b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=2ebf3ee1-03be-4780-a250-336700e5531b&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 11951000,
+                "price_text": "۱۱٫۹۵۱٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۱٫۹۵۱٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، نظرآباد، هشتگرد، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "باربری- تیپاکس- ماهکس-تپسی- اسنپ و ..."
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "اجاق گاز صفحه ای استیل تکنو مدل c5 (ترموکوپل دار)",
+                "name2": "",
+                "shop_name": "باسلام",
+                "shop_name2": "کرج، هود سینک گاز",
+                "shop_id": 305912,
+                "has_public_torob_profile": true,
+                "prk": "9833de47-4f07-4c1a-9639-39e181bf794e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=9833de47-4f07-4c1a-9639-39e181bf794e&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66&installment=241:1xATvZ:Vdgs701-XpXm_Ak0IG9bN24L1KTwzFE-v-ybj5Uxtac",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 15015300,
+                "price_text": "۱۵٫۰۱۵٫۳۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۵٫۰۱۵٫۳۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "محصولات فراوانی در باسلام شامل «ارسال رایگان» هستند و شما می‌توانید با روشن کردن فیلتر ارسال رایگان در فروشگاه باسلام، همه‌ی محصولات ارسال رایگان را ببینید.\nاگر سفارش شما شامل ارسال رایگان نبود، ﻣﯽ‌ﺗﻮاﻧﯿﺪ روش ارﺳﺎل ارزاﻧﺘﺮ ﯾﺎ ﺳﺮﯾﻌﺘﺮ را اﻧﺘﺨﺎب ﮐﻨﯿﺪ. غرفه‌داران از طریق پست اقدام می‌کنند اما ممکن است سفارش شما با پیک، تیپاکس، باربری و … هم ارسال شود که قبل از آن با شما هماهنگ می‌کنند. هزینه‌ی ارسال بر حسب مسافت و وزن متفاوت است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی در باسلام",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": null,
+                            "name": "باسلام",
+                            "description": "",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": false,
+                "name1": "اجاق گاز صفحه ای استیل تکنو مدل c5 (ترموکوپل دار)",
+                "name2": "",
+                "shop_name": "آریو دکور",
+                "shop_name2": "تهران",
+                "shop_id": 183310,
+                "has_public_torob_profile": true,
+                "prk": "acc6e457-bdff-43d8-a091-d7c04ccadd74",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=acc6e457-bdff-43d8-a091-d7c04ccadd74&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 0,
+                "price_text": "ناموجود",
+                "price_text_striked": "",
+                "price_text_mode": "disabled",
+                "is_price_unreliable": false,
+                "price_string": "ناموجود",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از تمام روشهای که مشتری برای ما در ثبت محصول ثبت کرده باشد"
+                },
+                "score_info": {
+                    "score": 4.7,
+                    "score_text": "★۴.۷ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۷ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": null,
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434981",
+        "count": 4,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&suid=01a0de3da5597508aa6927dff7451c66&cities=&province=&algorithm=text_similarity&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&list_type=products_info&seed=1790434981"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434981",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&cities=&province=&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&list_type=products_in_store_info&seed=1790434981&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&source=next_desktop&discover_method=search&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&seed=1790434981&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&source=next_desktop&discover_method=search&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&seed=1790434981&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۱۵٫۰۱۵٫۳۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۱۱٫۰۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3da5597508aa6927dff7451c66&search_id=01a0de3da5597508aa6927dff7451c66&cities=&province=&init_suid=01a0de3da5597508aa6927dff7451c66&algorithm=text_similarity&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&bvid=01a0de3db510712e99cc0f1617250e47&no_log=true&seed=1790434981",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&base_id=84039043&source=next_desktop&bvid=01a0de3db510712e99cc0f1617250e47&init_suid=01a0de3da5597508aa6927dff7451c66"
+    },
+    "min_price": 11000000,
+    "max_price": 15015300,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 2519,
+            "title": "اجاق و لوازم پخت و پز",
+            "url": "/browse/2519/%D8%A7%D8%AC%D8%A7%D9%82-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 2519,
+            "brand_id": null
+        },
+        {
+            "id": 195,
+            "title": "اجاق گاز",
+            "url": "/browse/195/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2/",
+            "cat_id": 195,
+            "brand_id": null
+        },
+        {
+            "id": 195,
+            "title": "تکنو (Techno)",
+            "url": "/browse/195/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2/b/220/techno-%D8%AA%DA%A9%D9%86%D9%88/",
+            "cat_id": 195,
+            "brand_id": 220
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "طول": "87",
+                    "عرض": "50",
+                    "جنس صفحه": "استیل",
+                    "ولوم": "طرح و جنس ولوم متغیر",
+                    "قطعات": "ایرانی",
+                    "فندک اتوماتیک": "دارد",
+                    "محل پلوپز": "وسط",
+                    "ترموکوبل": "دارد",
+                    "تعداد شعله ها": "پنج شعله",
+                    "رنگ اجاق گاز": "استیل"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "تعداد شعله",
+                    "value": [
+                        "۵ شعله"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "اجاق-گاز-تکنو-مدل-c5-5-شعله-ترموکوپل-دار",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5af66a8e-c179-411d-98bc-cdb9600cf5d4&limit=24&init_suid=01a0de3da5597508aa6927dff7451c66",
+    "torob_category": 195,
+    "no_index": false,
+    "buy_box_price_text": "از ۱۱٫۰۰۰٫۰۰۰ تومان تا ۱۵٫۰۱۵٫۳۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=531404ff-47db-4145-85c0-b08f5085156f&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از کالاخانی",
+    "new_buy_box_button_text2": "۱۱٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3da5597508aa6927dff7451c66&suid=01a0de3da5597508aa6927dff7451c66&bvid=01a0de3db510712e99cc0f1617250e47&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3da5597508aa6927dff7451c66&prk=531404ff-47db-4145-85c0-b08f5085156f&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3da5597508aa6927dff7451c66&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "531404ff-47db-4145-85c0-b08f5085156f",
+    "new_buy_box_source_prk": "531404ff-47db-4145-85c0-b08f5085156f",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۲ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/J_/qA/J_qAeHLQmZZij0D3.jpg"
+            ]
+        }
+    ]
+}

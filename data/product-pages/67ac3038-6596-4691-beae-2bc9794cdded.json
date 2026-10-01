@@ -1,0 +1,2487 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "67ac3038-6596-4691-beae-2bc9794cdded",
+    "name1": "جارو برقی پارس خزر مدل TURBO 2500WS",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de515d5473e58c4933a09fe0a5a3&search_id=01a0de515d5473e58c4933a09fe0a5a3&cities=&province=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&algorithm=text_similarity&prk=67ac3038-6596-4691-beae-2bc9794cdded",
+    "web_client_absolute_url": "/p/67ac3038-6596-4691-beae-2bc9794cdded/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-turbo-2500ws/",
+    "price": 20433000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۲۰٫۴۳۳٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۷۰ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": "اهواز",
+    "delivery_city_flag": "offline",
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=67ac3038-6596-4691-beae-2bc9794cdded&limit=24&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=67ac3038-6596-4691-beae-2bc9794cdded&discover_method=search_image_base_pdp&prev_uid=01a0de515d5473e58c4933a09fe0a5a3&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ql/Mo/QlMoEcOjbw1k7vOG.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/OJ/CZ/OJCZwa60iDFuY34g.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/Ql/Mo/QlMoEcOjbw1k7vOG.jpg",
+    "image_count": 2,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "seo_title": "",
+    "seo_description": "جارو برقی TURBO 2500WS پارس خزر با مکش قدرتمند 2500 وات، اصل و با طرح زیمنس. رنگ قرمز، وضعیت: نو",
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS",
+                "name2": "گارانتی ۲۴ ماهه پارس خزر",
+                "shop_name": "اسنپ شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 32263,
+                "has_public_torob_profile": true,
+                "prk": "f82db1cc-7f03-4d05-860d-7872cc2e835e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=f82db1cc-7f03-4d05-860d-7872cc2e835e&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de5177717708b961c8639feb84ae&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=2:1xAUGS:KUWAn0KGNv3cldVaJYNugZU3L8cYJK07uVQR2F96xnw",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 23255000,
+                "price_text": "۲۳٫۲۵۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۳٫۲۵۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه اسنپ شاپ از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۲ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر طرح زیمنس مدل Pars Khazar Turbo 2500WS",
+                "name2": "اصل | 25 ماه گارانتی پارس خزر",
+                "shop_name": "آوانید",
+                "shop_name2": "تهران، فروشگاه آوانید",
+                "shop_id": 74328,
+                "has_public_torob_profile": true,
+                "prk": "d310dd23-f0f6-43f2-a1a4-8009af6c5cb0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=d310dd23-f0f6-43f2-a1a4-8009af6c5cb0&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=56:1xAUGS:8drby_PHFL7SIHbSrfvkVhArBqQc0kVQqRnK4tfSZLI",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20433000,
+                "price_text": "۲۰٫۴۳۳٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۴۳۳٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق شرکت ماهکس جهت شهرستانها و پیک در شهر تهران \nدر ایام تعطیلات رسمی کشور شرکت تعطیل میباشد و سفارشهاس ثبت شده در این ایام در اولین روز کاری بعد ارسال خواهد شد."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۲ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر ParsKhazar مدل TURBO2500WS سفید 2500 وات",
+                "name2": "اصل | گارانتی 25 ماهه پارس خزر",
+                "shop_name": "سی و هفت ده",
+                "shop_name2": "شیراز",
+                "shop_id": 1672,
+                "has_public_torob_profile": true,
+                "prk": "a7a66e60-f00b-4d55-bb2e-af521c3f4ffa",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=a7a66e60-f00b-4d55-bb2e-af521c3f4ffa&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=96:1xAUGS:4GC1J7ByrrieWn9wRoRco3VyYMFGMmqd5xR0AcbUsZg",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21883000,
+                "price_text": "۲۱٫۸۸۳٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۸۸۳٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در شیراز با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال در شهر شیراز، با هماهنگی قبلی طی تماس تلفنی با مشتری، در همان روز انجام می‌شود."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر 2500 وات مدل TURBO 2500WS",
+                "name2": "اصل",
+                "shop_name": "ری کالا",
+                "shop_name2": "تهران",
+                "shop_id": 18023,
+                "has_public_torob_profile": true,
+                "prk": "9b95968c-ea99-4319-8df7-620fd28570d0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=9b95968c-ea99-4319-8df7-620fd28570d0&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20450000,
+                "price_text": "۲۰٫۴۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۴۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، ری، شهریار، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، ری، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای شهر تهران ارسال فوری سه ساعته انجام میشود. حومه تهران نیز در همان روز ارسال میشود. ارسال به شهرستان 2 روزه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی 2500 وات پارس خزر مدل Turbo 2500WS",
+                "name2": "اصل | گارانتی ۲۴ ماهه پارس خزر",
+                "shop_name": "کالابه خونه",
+                "shop_name2": "تهران",
+                "shop_id": 18955,
+                "has_public_torob_profile": true,
+                "prk": "f33e1fd9-145a-486b-a02c-44b8ee0266d2",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=f33e1fd9-145a-486b-a02c-44b8ee0266d2&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20550000,
+                "price_text": "۲۰٫۵۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۵۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۴ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر رنگ قرمز مدل طرح زیمنس توربو - TURBO 2500WS",
+                "name2": "",
+                "shop_name": "ستومکس",
+                "shop_name2": "محمدشهر",
+                "shop_id": 124429,
+                "has_public_torob_profile": true,
+                "prk": "6a88de57-2814-43c6-80df-53eb8d2eaf81",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=6a88de57-2814-43c6-80df-53eb8d2eaf81&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20700000,
+                "price_text": "۲۰٫۷۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۷۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در فردیس، محمدشهر، محمدشهر، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای فردیس، محمدشهر، محمدشهر، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال(پیش کرایه، کرایه و پس کرایه) به عهده مشتری می باشد"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر رنگ مشکی مدل طرح زیمنس توربو - TURBO 2500WS",
+                "name2": "",
+                "shop_name": "ستومکس",
+                "shop_name2": "محمدشهر",
+                "shop_id": 124429,
+                "has_public_torob_profile": true,
+                "prk": "90ee7562-5bf6-4eab-858c-f78fdf377c1b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=90ee7562-5bf6-4eab-858c-f78fdf377c1b&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20800000,
+                "price_text": "۲۰٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در فردیس، محمدشهر، محمدشهر، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای فردیس، محمدشهر، محمدشهر، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال(پیش کرایه، کرایه و پس کرایه) به عهده مشتری می باشد"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل PARS KHAZAR TURBO 2500WS ا BLANTON Vacuum Cleaner PVC 25501",
+                "name2": "",
+                "shop_name": "آنتیک کالا",
+                "shop_name2": "تهران",
+                "shop_id": 212,
+                "has_public_torob_profile": true,
+                "prk": "728fa5bf-5a82-4c71-b037-7305d8a763fa",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=728fa5bf-5a82-4c71-b037-7305d8a763fa&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20900000,
+                "price_text": "۲۰٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 24 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر 2500 وات مشکی مدل Parskhazar TURBO 2500WS Vacuum Cleaner",
+                "name2": "اصل",
+                "shop_name": "ری کالا",
+                "shop_name2": "تهران",
+                "shop_id": 18023,
+                "has_public_torob_profile": true,
+                "prk": "ac70e64f-25d2-444e-8063-b30bfc0ad192",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=ac70e64f-25d2-444e-8063-b30bfc0ad192&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20900000,
+                "price_text": "۲۰٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، رباط کریم، ری، شهریار، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، رباط کریم، ری، فردیس، قرچک، ورامین، پاکدشت، پردیس، پیشوا، چناران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای شهر تهران ارسال فوری سه ساعته انجام میشود. حومه تهران نیز در همان روز ارسال میشود. ارسال به شهرستان 2 روزه"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS گارانتی شرکتی ا Pars Khazar Vacuum Cleaner Model Turbo 2500WS",
+                "name2": "اصل",
+                "shop_name": "بهگو",
+                "shop_name2": "ارومیه",
+                "shop_id": 1599,
+                "has_public_torob_profile": true,
+                "prk": "8b842610-a02d-4a16-897f-12f08520aa04",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=8b842610-a02d-4a16-897f-12f08520aa04&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 20988000,
+                "price_text": "۲۰٫۹۸۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۰٫۹۸۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای ارومیه با هماهنگی",
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "فرآیند تحویل کالا\nبعد از ثبت سفارش توسط شما معمولا سفارشات ثبت شده کمتر از 48 ساعت  ،سفارشات روز پنجشنبه و روز های تعطیل کمتر از 72 ساعت تحویل پست یا تیپاکس میشوند.بعد از تحویل بسته شما به شرکت ارسال کننده، به شماره موبایل شما پیامک ارسال میشود در پیامهایتان بهگو رو جستجو نمایید، و همچنین کد رهگیری مرسوله در سایت بهگو، حساب کاربری شما در بخش سفارشات ، بخش تکمیل شده، ثبت شده است، زمان تحویل کالا به مشتری حدود 3 تا 7 روز کاری است.\nبسته بندی و ارسال محصول تا محل مورد نظر مشتریان، از 169 تا 199 هزار تومان بستگی به محصول مشتری و برای کالای سنگین 499 هزار تومان برای تمامی شهرهای ایران دریافت می‌شود.تحویل کالا در ارومیه با پیک در ساعات کاری حداکثر تا 24 ساعت میباشد، خرید حضوری نیز امکان پذیر است ،قیمت بعضی از محصولات شامل هندزفری بلوتوث ، ساعت هوشمند ،ترازو ، ماشین اصلاح ... در خرید حضوری 100 هزار تومان گرانتر میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل توربو-2500ws",
+                "name2": "اصل",
+                "shop_name": "آذری",
+                "shop_name2": "کرج",
+                "shop_id": 10371,
+                "has_public_torob_profile": true,
+                "prk": "62ae1625-f980-467e-a282-24232cf08f6f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=62ae1625-f980-467e-a282-24232cf08f6f&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21000000,
+                "price_text": "۲۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS",
+                "name2": "اصل",
+                "shop_name": "کالای خانگی پارس",
+                "shop_name2": "کرج",
+                "shop_id": 49419,
+                "has_public_torob_profile": true,
+                "prk": "4c33779b-295c-4be6-86e5-a9f46778deda",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=4c33779b-295c-4be6-86e5-a9f46778deda&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21072000,
+                "price_text": "۲۱٫۰۷۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۰۷۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای آب بر، آب پخش، آباد، آبادان، آباده، آباده طشک، آبدان، آبدانان، آبسرد، آبش احمد، آبعلی، آبژدان، آبگرم، آبی بیگلو، آبیز، آبیک، آجین، آذرشهر، آرادان، آران و بیدگل، آرمرده، آرین شهر، آزادشهر، آزادی، آسارا، آستارا، آستانه، آستانه اشرفیه، آسمان آباد، آشتیان، آشخانه، آغاجاری، آق قلا، آقکند، آلاشت، آلنی، آلونی، آمل، آوا، آواجیق، آوج، آوه، آچاچی، آیسک، ابراهیم اباد، ابرکوه، ابریشم، ابهر، ابوحمیظه، ابوزیدآباد، ابوموسی، احمد سر گوراب، احمدآباد، احمدآباد صولت، احمد‌آباد مستوفی، اختیارآباد، ادیمی، اراک، اربطان، ارجمند، ارد، ارداق، اردبیل، اردستان، اردل، اردکان، اردکان، اردیموسی، ارزوئیه، ارسنجان، ارسک، ارطه، ارمغانخانه، ارومیه، اروندکنار، ارکواز، ازنا، ازندریان، ازگله، اسالم، استهبان، اسدآباد، اسدیه، اسفدن، اسفراین، اسفرورین، اسلام آباد، اسلام آباد غرب، اسلام آبادغرب، اسلامشهر، اسلامشهر آق گل، اسلامیه، اسپکه، اسکو، اسیر، اشترینان، اشتهارد، اشنویه، اشکذر، اشکنان، اصغرآباد، اصفهان، اصلاندوز، اطاقور، افزر، افوس، اقبالیه، اقلید، الشتر، الهائی، الوان، الوند، الیگودرز، امام حسن، امام زاده عبدالله، امام شهر، املش، امیدیه، امیرکلا، امیریه، امین شهر، انابد، انار، انارستان، انارک، انبار آلوم، اندوهجرد، اندیشه، اندیمشک، اندیکا، اهر، اهرم، اهل، اهواز، اورامان تخت، اوز، اژیه، ایج، ایجرود، ایذه، ایرانشهر، ایزدخواست، ایزدشهر، ایلام، ایلخچی، ایمانشهر، اینچه برون، ایوان، ایوانکی، ایواوغلی، ایور، باب انار، باباحیدر، بابارشانی، بابامنیر، بابل، بابلسر، باجگیران، باخرز، بادرود، بادوله، بار، باروق، بازار جمعه، بازرگان، بازفت، باسمنج، باشت، باغ بهادران، باغ ملک، باغستان، باغشاد، باغین، بافت، بافران، بافق، باقرشهر، بالاده، بالاشهر، بان وره، بانه، باوج، باوی، باینگان، بایک، بجستان، بجنورد، بخ، بختگان، بخشایش، بدره، برازجان، برخوار، بردخون، بردستان، بردسکن، بردسیر، برده رشه، برزول، برزک، برف انبار، بره سر، بروات، بروجرد، بروجن، بزمان، بزنجان، بستان، بستان آباد، بستک، بسطام، بشاگرد، بشرویه، بفروئیه، بلاوه، بلبان آباد، بلداجی، بلده، بلورد، بلوک، بم، بمپور، بن، بناب، بناب مرند، بنارویه، بنت، بنجار، بندر، بندر امام خمینی، بندر انزلی، بندر ترکمن، بندر جاسک، بندر دیلم، بندر ریگ، بندر لنگه، بندر ماهشهر، بندردیر، بندردیلم، بندرعباس، بندرکنگان، بندرگز، بندرگناوه، بندزرک، بنک، بهاباد، بهار، بهاران شهر، بهارستان، بهارستان، بهبهان، بهرمان، بهشهر، بهمن، بهمیی، بهنمیر، بوئین زهرا، بوئین سفلی، بوئین میاندشت، بوانات، بوستان، بوشهر، بوشکان، بومهن، بوکان، بویراحمد، بیارجمند، بیجار، بیدخت، بیدروبه، بیدستان، بیده، بیران شهر، بیرجند، بیرم، بیستون، بیضا، بیله سوار، بینالود، بیکاه، بیکاه، تاتار علیا، تازه آباد، تازه شهر، تازه کند، تازه کندانگوت، تازه کندنصرت آباد، تازیان پایین، تالش، تاکستان، تایباد، تبریز، تجریش، تخت، تربت جام، تربت حیدریه، ترک، ترکالکی، ترکمانچای، ترکمن، تسوج، تشان، تفت، تفتان، تفرش، تلخاب، تنکابن، تنکمان، تنگ ارم، تنگستان، تهران، توتکابن، توحید، تودشک، توره، توپ آغاج، تویسرکان، تکاب، تیتکانلو، تیران، تیران و کرون، تیرور، تیمورلو، تیکمه داش، ثلاث باباجانی، ثمرین، جاجرم، جاجرود(خسروآباد)، جاسک، جالق، جاورسیان، جایزان، جبالبارز، جعفر آباد، جعفرآباد، جعفریه، جغتای، جلفا، جلین، جم، جناح، جنت شهر، جنت مکان، جندق، جنگل، جهرم، جواد آباد، جوادیه الهیه، جوان رود، جوان قلعه، جوانرود، جورقان، جوزدان، جوزم، جوشقان قالی، جونقان، جوپار، جوکار، جویبار، جویم، جوین، جیرفت، جیرنده، حاجی آباد، حاجی آباد، حاجی آباد، حاجیلار، حبیب آباد، حر، حسامی، حسن آباد، حسن آباد، حسن آباد، حسن آباد شورین، حسین آباد، حسینیه، حصار گرمخان، حلب، حمزه، حمیدیا، حمیدیه، حمیل، حنا، حویق، حکم آباد، خاتم، خاتون آباد، خاتون آباد، خاروانا، خارک، خاش، خالد‌آباد، خامنه، خان ببین، خانمیرزا، خانه زنیان، خانوک، خانیمن، خاوران، خاکعلی، خداآفرین، خدابنده، خداجو، خرامه، خرانق، خرم آباد، خرم آباد، خرم بید، خرمدره، خرمدشت، خرمشهر، خرو، خسروشاه، خشت، خشکبیجار، خشکرود، خضرآباد، خضری دشت بیاض، خفر، خلخال، خلیفان، خلیل آباد، خلیل شهر، خمارلو، خمام، خمیر، خمین، خمینی شهر، خنافره، خنج، خنجین، خنداب، خواجه، خواجوشهر، خواف، خوانسار، خور، خور، خور و بیابانک، خوراسگان، خورزوق، خورسند، خورموج، خوزی، خوسف، خوشاب، خوشرودپی، خوشه مهر، خومه زار، خوی، خیر‌آباد توللی، دابودشت، داراب، داران، دارخوین، داریان، داریان، دالاهو، دالکی، دامغان، دامنه، دانسفهان، داودآباد، داورزن، دبیران، درب بهشت، درب گنبد، درجزین، درح، درق، درمیان، دره شهر، دروار، درود، درچه پیاز، درگز، درگزین، درگهان، دزج، دزفول، دستجرد، دستناء، دستگرد، دشت آزادگان، دشتستان، دشتک، دشتکار، دشتی، دشتی، دشتیاری، دلبران، دلفان، دلند، دلوار، دلگان، دلگشا، دلیجان، دماوند، دمق، دنا، دندی، دهاقان، دهبارز، دهج، دهدز، دهدشت، دهرم، دهسرخ، دهق، دهلران، دهنگ، دهکهان، دهکویه، دهگلان، دوبرجی، دوراهک، دورود، دوزدوزان، دوزه، دوزین، دوساری، دوست محمد، دولت آباد، دولت آباد، دوگنبدان، دژکرد، دیباج، دیر، دیزج دیز، دیزیچه، دیشموک، دیلمان، دیهوک، دیواندره، رابر، رادکان، راز، راز و جرگلان، رازقان، رازمیان، راسک، رامجرد، رامسر، رامشیر، رامهرمز، رامیان، رانکوه، راور، راین، رباط، رباط سنگ، رباط کریم، ربط، رحمت آباد، رحیم آباد، رزن، رزوه، رستاق، رستم، رستم آباد، رستمکلا، رشت، رشتخوار، رضوان، رضوانشهر، رضوانشهر، رضویه، رضی، رفسنجان، رفیع، رمشک، روانسر، روداب، رودان، رودبار، رودبار، رودبار جنوب، رودبنه، رودسر، رودهن، رودیان، روشناوند، رومشکان، رونیز، رویان، رویدر، ری، ریجاب، ریحان، ریز، رینه، ریواده، ریوش، ریوند، ریگ ملک، ریگان، زابل، زارچ، زازران، زاغه، زاهدان، زاهدشهر، زاوه، زاووت، زاویه، زاینده رود، زرآباد، زرآباد، زرقان، زرند، زرندیه، زرنق، زرنه، زرگر محله، زرین آباد، زرین دشت، زرین رود، زرین شهر، زرینه، زنجان، زنوز، زنگنه، زنگی آباد، زنگی آباد، زهان، زهرا، زهره، زهک، زهکلوت، زواره، زیار، زیاران، زیارت، زیارتعلی، زیباشهر، زیدآباد، زیر آب، زیرکوه، ساربوک، ساروق، ساری، سالند، سامان، سامن، ساوجبلاغ، ساوه، سایر، سبزوار، سجاس، سده، سده لنجان، سرآبله، سراب، سراب باغ، سراب حمام، سراب ذهاب، سرابدوره، سرابله، سراوان، سرایان، سرباز، سربیشه، سرخرود، سرخس، سرخنکلاته، سرخه، سرخون، سرداران، سردرود، سردشت، سردشت، سردشت، سردشت لردگان، سرعین، سرفاریاب، سرمست، سرو، سروآباد، سروستان، سرپل ذهاب، سرچشمه، سرچهان، سرکان، سرگز، سریش آباد، سطر، سعادت شهر، سعدآباد، سعیدآباد، سفید دشت، سفید سنگ، سفیدشهر، سقز، سلامی، سلسله، سلطان آباد، سلطان آباد، سلطان اباد، سلطان شهر، سلطانیه، سلفچگان، سلماس، سلمان شهر، سماله، سمنان، سمیرم، سمیع آباد، سنته، سنخواست، سندرک، سنقر، سنندج، سنگان، سنگدوین، سنگر، سه قلعه، سهرورد، سوادکوه، سوادکوه شمالی، سودجان، سوران، سورشجان، سورمق، سورک، سوزا، سوسنگرد، سوق، سومار، سپید دشت، سپیدان، سگزآباد، سگزی، سی سخت، سیاه منصور، سیاهکل، سیب، سیب و سوران، سیدان، سیراف، سیرجان، سیردان، سیروان، سیرکان، سیریز، سیریک، سیس، سیلوانه، سیمرغ، سیمین شهر، سیمینه، سین، سیه رود، سیه چشمه، شادبادمشایخ (پینه شلوا، شادمهر، شادگان، شازند، شال، شاندیز، شاهد شهر، شاهدیه، شاهرود، شاهو، شاهین دژ، شاهین شهر، شاهین شهر و میمه، شاوور، شاپورآباد، شاپورآباد، شباب، شبانکاره، شبستر، شرافت، شربیان، شرفخانه، شریف آباد، شریفیه، ششتمد، ششده، شفت، شلمان، شلمزار، شمس آباد، شمشک، شمیرانات، شنبه، شند‌آباد، شهباز، شهداد، شهر امام، شهر جدید امیرکبیر، شهر جدید سهند، شهر جدید علوی، شهر جدید مجلسی، شهر جدید هشتگرد، شهر صنعتی پرند، شهرآباد، شهربابک، شهرجدیدصدرا، شهرجدیدمهاجران، شهرزو، شهرضا، شهرپیر، شهرک صنعتی نصیرشهر، شهرک قلعه میر، شهرکرد، شهریار، شهمیرزاد، شوسف، شوش، شوشتر، شوط، شوقان، شول آباد، شویشه، شیبان، شیراز، شیروان، شیرود، شیرگاه، شیرین سو، صائین قلعه، صاحب، صادق آباد، صالح آباد، صالح آباد، صالح آباد، صالح شهر، صالحیه، صباشهر، صحنه، صغاد، صفائیه، صفادشت، صفاشهر، صفی آباد، صفی آباد، صمصامی، صوفیان، صومعه سرا، صیدون، ضیاءآباد، ضیاءآباد، طارم، طاقانک، طالخونچه، طالقان، طبس، طبس مسینا، طرق رود، طرقبه، طسوج، طوالش، عالی شهر، عباس آباد، عباس آباد سردار، عجب شیر، عسلویه، عسگران، عشق آباد، عشق آباد، عصمت آباد، عقدا، علامرودشت، علویجه، علی آباد، علی آباد، علی آباد کتول، علی آبادبالای شهر، علی اکبر، علیشاه (علی آباد)، عمادشهر، عنبرآباد، عنبران، غرق آباد، غلامان، فارسان، فارغان، فاروج، فاروق، فاریاب، فاضل آباد، فال، فامنین، فتح آباد، فتح المبین، فخرآباد، فدامی، فرادنبه، فراشبند، فراغی، فراهان، فرح آباد، فرخ شهر، فرخی، فردوس، فردوسیه، فردیس، فرسفج، فرمهین، فرهادگرد، فرون آباد، فریدن، فریدونشهر، فریدونکنار، فریم، فریمان، فسا، فشم، فلاورجان، فنوج، فهرج، فولادشهر، فومن، فیرورق، فیروز آباد، فیروزآباد، فیروزان، فیروزبهرام، فیروزه، فیروزکوه، فیض آباد، فین، قائم شهر، قائمیه، قائنات، قادرآباد، قاسم آباد، قاسم آباد، قاسم ابادشوراباد، قاضی، قاین، قدس، قدمگاه، قرق، قرقری، قره آغاج، قره بلاغ، قره ضیاءالدین، قروه، قروه درجزین، قرچک، قزوین، قشلاق، قشم، قصابه، قصر شیرین، قصرقند، قطب آباد، قطرویه، قطور، قلعه، قلعه تل، قلعه خواجه، قلعه رییسی، قلعه قاضی، قلعه نوعلیا، قلعه گنج، قلندرآباد، قم، قمصر، قنوات، قهاوند، قهجاورستان، قهدریجان، قهستان، قورچی باشی، قوشخانه، قوشچی، قوچان، قیامدشت، قیدار، قیر، قیروکارزین، لاجان، لار، لارستان، لالجین، لاله زار، لالی، لامرد، لاهرود، لاهیجان، لای بید، لردگان، لشت نشاء، لطف آباد، لطیفی، لمزان، لنجان، لنده، لنگرود، لواسان، لوجلی، لوشان، لولمان، لومار، لوندویل، لپه زنگ، لپوئی، لیردف، لیسار، لیلان، لیکک، مادرسلیمان، مادوان، مارگون، ماسال، ماسوله، مال خلیفه، مالوجه، مامونیه، مانه وسملقان، ماه نشان، ماهان، ماهدشت، ماهنشان، ماژان، ماژین، ماکلوان، ماکو، مبارک آباد، مبارک شهر، مبارکه، مجن، محلات، محمدآباد، محمدآباد، محمدآباد، محمدان، محمدشهر، محمدشهر، محمدی، محمدیار، محمدیه، محمله، محمودآباد، محمودآباد، محمود‌آباد نمونه، محی آباد، مرادلو، مراغه، مراوه تپه، مرجقل، مردهک، مرزن آباد، مرزی‌کلا، مرغ، مرند، مرودشت، مروست، مرگنلر، مریانج، مریوان، مزایجان، مزدآوند، مزرعه، مس سرچشمه، مسجد سلیمان، مسکن مهر فاز 2، مشراگه، مشهد، مشهد ریزه، مشکات، مشکان، مشکان، مشکین دشت، مشگین شهر، مصیری، معزاباد جابری، معلم کلایه، معمولان، ملاثانی، ملارد، ملایر، ملک آباد، ملکان، ملکشاهی، ممسنی، ممقان، منج، منجیل، منصوریه، منظریه، منوجان، مه ولات، مهاباد، مهاباد، مهاجران، مهدی شهر، مهر، مهر، مهرآباد، مهران، مهربان، مهردشت، مهرستان، مهرگان، مهریز، مود، مورموری، موسیان، مومن آباد، موچش، میامی، میان راهان، میاندوآب، میاندورود، میانرود، میانشهر، میانه، میانکوه، میبد، میداود، میرآباد، میرآباد، میرجاوه، میلاجرد، میمند، میمه، میمه، میناب، مینودشت، مینوشهر، نائین، نازک علیا، ناغان، نافچ، نالوس، نجف آباد، نجف شهر، نخل تقی، ندوشن، نراق، نرجه، نرماشیر، نسیم شهر، نشتارود، نشتیفان، نصرآباد، نصرآباد، نصرت آباد، نصیرآباد، نصیرشهر، نطنز، نظام شهر، نظر کهریزی، نظرآباد، نقاب، نقده، نقنه، نلاس، نمین، نهاوند، نهبندان، نوبران، نوبندگان، نوجین، نوخندان، نودان، نودشه، نوده انقلاب، نوده خاندوز، نودژ، نور، نورآباد، نورآباد، نوربهار، نوسود، نوش آباد، نوشهر، نوشین، نوک آباد، نوکنده، نکا، نگار، نگور، نگین شهر، نی ریز، نیاسر، نیر، نیر، نیشابور، نیل شهر، نیمبلوک، نیمروز، نیمور، نیک آباد، نیک شهر، نیک پی، هادی شهر، هادی شهر، هارونی، هامون، هجدک، هرات، هرسین، هرمز، هرند، هریس، هزارکانیان، هشتبندی، هشتجین، هشترود، هشتپر، هشتگرد، هفت چشمه، هفتکل، هفتگل، هفشجان، هلشی، هلیلان، هماشهر، هماشهر، همت آباد، همدان، هندودر، هندیجان، هنزا، هنگویه، هوراند، هوره، هویزه، هیدج، هیدوچ، هیر، هیرمند، هیچرود، واجارگاه، وایقان، وحدتیه، وحیدیه، ورامین، وراوی، وردنجان، ورزقان، ورزنه، ورنامخواست، وزوان، ونایی، ونک، ویس، ویسیان، پاتاوه، پارس آباد، پارسیان، پاریز، پاسارگاد، پاسخن، پاوه، پاکدشت، پایین هولار، پردنجان، پردیس، پرند، پرندک، پره سر، پل، پل سفید، پلدختر، پلدشت، پلنگ آباد، پهله، پول، پیرانشهر، پیربکران، پیرتاج، پیش قلعه، پیشوا، پیشین، چابهار، چابکسر، چادگان، چاراویماق، چارک، چاف وچمخاله، چالانچولان، چالدران، چالوس، چاه بهار، چاه دادخدا، چاه مبارک، چاه مرید، چاه ورز، چاپشلو، چایپاره، چترود، چخماق، چرام، چرداول، چرمهین، چشمه شیرین، چغادک، چغامیش، چقابل، چلگرد، چلیچه، چم گلک، چمران، چمستان، چمن سلطان، چمگردان، چناران، چناران شهر، چناره، چهارباغ، چهاربرج، چهاردانگه، چوئبده، چوار، چوبر، چورزق، چکنه، چگنی، چیتاب، کاج، کاخک، کارزین، کارون، کارچان، کاریز، کازرون، کاشان، کاشمر، کاظم آباد، کامفیروز، کامووچوگان، کامیاران، کانی دینار، کانی سور، کاکی، کبودر آهنگ، کبودرآهنگ، کتالم وسادات شهر، کجور، کدکن، کرج، کردکوی، کرسف، کرفس، کرمان، کرمانشاه، کرند غرب، کره ای، کرکوند، کشاورز، کشکسرای، کشکوئیه، کلات، کلاته، کلاته خیج، کلارآباد، کلاردشت، کلاله، کلاچای، کلمه، کله بست، کلوانق، کلور، کلیبر، کلیشاد و سودرجان، کمال شهر، کمشجه، کمه، کمیجان، کنار تخته، کنارک، کندر، کنگ، کنگان، کنگاور، کهریزسنگ، کهریزک، کهن آباد، کهنوج، کهک، کهگیلویه، کوار، کوت سید نعیم، کوت عبدالله، کوثر، کوخردهرنگ، کورائیم، کوره فرنگی، کوزران، کوزه کنان، کوشک، کوشکنار، کومله، کوه چنار، کوهبنان، کوهدشت، کوهرنگ، کوهسار، کوهستک، کوهسرخ، کوهنانی، کوهنجان، کوهپایه، کوهی خیل، کوهین، کوهیچ، کوپن، کوچصفهان، کیار، کیاسر، کیاشهر، کیان، کیانشهر، کیاکلا، کیش، کیلان، گالیکش، گتاب، گتوند، گراب، گراب سفلی، گراش، گرماب، گرمدره، گرمسار، گرمه، گرمی، گروک، گرگاب، گرگان، گزبرخوار، گزنک، گزیک، گشت، گل تپه، گلباف، گلبهار، گلدشت، گلزار، گلسار، گلستان، گلشن، گلشهر، گلمورتی، گلمکان، گله دار، گلوگاه، گلپایگان، گلگیر، گلی داغ، گمیش تپه، گمیشان، گناباد، گنبدکاووس، گنبکی، گندمان، گهرو، گهواره، گوجان، گودین، گوراب زرمیخ، گوریه، گوهران، گوگان، گوگد، گچساران، گیان، گیلانغرب، گیلوان، گیوی، یاسوج، یاسوکند، یامچی، یان چشمه، یزد، یزدان شهر، یولاگلدی، یونسی با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "same_day_delivery"
+                    ],
+                    "delivery_info": "برای شهر کرج ارسال رایگان و پرداخت در محل و امکان ارسال فوری (در صورت هماهنگی)"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی مدل Turbo 2500WS پارس خزر",
+                "name2": "اصل",
+                "shop_name": "نمایندگی پارس خزر",
+                "shop_name2": "کرج",
+                "shop_id": 21466,
+                "has_public_torob_profile": true,
+                "prk": "edb5e746-ce86-4bc3-986c-6a62bad182a6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=edb5e746-ce86-4bc3-986c-6a62bad182a6&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21129000,
+                "price_text": "۲۱٫۱۲۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۱۲۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای آب بر، آب پخش، آباد، آبادان، آباده، آباده طشک، آبدان، آبدانان، آبسرد، آبش احمد، آبعلی، آبژدان، آبگرم، آبی بیگلو، آبیز، آبیک، آجین، آذرشهر، آرادان، آران و بیدگل، آرمرده، آرین شهر، آزادشهر، آزادی، آسارا، آستارا، آستانه، آستانه اشرفیه، آسمان آباد، آشتیان، آشخانه، آغاجاری، آق قلا، آقکند، آلاشت، آلنی، آلونی، آمل، آوا، آواجیق، آوج، آوه، آچاچی، آیسک، ابراهیم اباد، ابرکوه، ابریشم، ابهر، ابوحمیظه، ابوزیدآباد، ابوموسی، احمد سر گوراب، احمدآباد، احمدآباد صولت، احمد‌آباد مستوفی، اختیارآباد، ادیمی، اراک، اربطان، ارجمند، ارد، ارداق، اردبیل، اردستان، اردل، اردکان، اردکان، اردیموسی، ارزوئیه، ارسنجان، ارسک، ارطه، ارمغانخانه، ارومیه، اروندکنار، ارکواز، ازنا، ازندریان، ازگله، اسالم، استهبان، اسدآباد، اسدیه، اسفدن، اسفراین، اسفرورین، اسلام آباد، اسلام آباد غرب، اسلام آبادغرب، اسلامشهر، اسلامشهر آق گل، اسلامیه، اسپکه، اسکو، اسیر، اشترینان، اشتهارد، اشنویه، اشکذر، اشکنان، اصغرآباد، اصفهان، اصلاندوز، اطاقور، افزر، افوس، اقبالیه، اقلید، الشتر، الهائی، الوان، الوند، الیگودرز، امام حسن، امام زاده عبدالله، امام شهر، املش، امیدیه، امیرکلا، امیریه، امین شهر، انابد، انار، انارستان، انارک، انبار آلوم، اندوهجرد، اندیشه، اندیمشک، اندیکا، اهر، اهرم، اهل، اهواز، اورامان تخت، اوز، اژیه، ایج، ایجرود، ایذه، ایرانشهر، ایزدخواست، ایزدشهر، ایلام، ایلخچی، ایمانشهر، اینچه برون، ایوان، ایوانکی، ایواوغلی، ایور، باب انار، باباحیدر، بابارشانی، بابامنیر، بابل، بابلسر، باجگیران، باخرز، بادرود، بادوله، بار، باروق، بازار جمعه، بازرگان، بازفت، باسمنج، باشت، باغ بهادران، باغ ملک، باغستان، باغشاد، باغین، بافت، بافران، بافق، باقرشهر، بالاده، بالاشهر، بان وره، بانه، باوج، باوی، باینگان، بایک، بجستان، بجنورد، بخ، بختگان، بخشایش، بدره، برازجان، برخوار، بردخون، بردستان، بردسکن، بردسیر، برده رشه، برزول، برزک، برف انبار، بره سر، بروات، بروجرد، بروجن، بزمان، بزنجان، بستان، بستان آباد، بستک، بسطام، بشاگرد، بشرویه، بفروئیه، بلاوه، بلبان آباد، بلداجی، بلده، بلورد، بلوک، بم، بمپور، بن، بناب، بناب مرند، بنارویه، بنت، بنجار، بندر، بندر امام خمینی، بندر انزلی، بندر ترکمن، بندر جاسک، بندر دیلم، بندر ریگ، بندر لنگه، بندر ماهشهر، بندردیر، بندردیلم، بندرعباس، بندرکنگان، بندرگز، بندرگناوه، بندزرک، بنک، بهاباد، بهار، بهاران شهر، بهارستان، بهارستان، بهارستان، بهبهان، بهرمان، بهشهر، بهمن، بهمیی، بهنمیر، بوئین زهرا، بوئین سفلی، بوئین میاندشت، بوانات، بوستان، بوشهر، بوشکان، بومهن، بوکان، بویراحمد، بیارجمند، بیجار، بیدخت، بیدروبه، بیدستان، بیده، بیران شهر، بیرجند، بیرم، بیستون، بیضا، بیله سوار، بینالود، بیکاه، بیکاه، تاتار علیا، تازه آباد، تازه شهر، تازه کند، تازه کندانگوت، تازه کندنصرت آباد، تازیان پایین، تالش، تاکستان، تایباد، تبریز، تجریش، تخت، تربت جام، تربت حیدریه، ترک، ترکالکی، ترکمانچای، ترکمن، تسوج، تشان، تفت، تفتان، تفرش، تلخاب، تنکابن، تنکمان، تنگ ارم، تنگستان، تهران، توتکابن، توحید، تودشک، توره، توپ آغاج، تویسرکان، تکاب، تیتکانلو، تیران، تیران و کرون، تیرور، تیمورلو، تیکمه داش، ثلاث باباجانی، ثمرین، جاجرم، جاجرود(خسروآباد)، جاسک، جالق، جاورسیان، جایزان، جبالبارز، جعفر آباد، جعفرآباد، جعفریه، جغتای، جلفا، جلین، جم، جناح، جنت شهر، جنت مکان، جندق، جنگل، جهرم، جواد آباد، جوادیه الهیه، جوان رود، جوان قلعه، جوانرود، جورقان، جوزدان، جوزم، جوشقان قالی، جونقان، جوپار، جوکار، جویبار، جویم، جوین، جیرفت، جیرنده، حاجی آباد، حاجی آباد، حاجی آباد، حاجیلار، حبیب آباد، حر، حسامی، حسن آباد، حسن آباد، حسن آباد، حسن آباد شورین، حسین آباد، حسینیه، حصار گرمخان، حلب، حمزه، حمیدیا، حمیدیه، حمیل، حنا، حویق، حکم آباد، خاتم، خاتون آباد، خاتون آباد، خاروانا، خارک، خاش، خالد‌آباد، خامنه، خان ببین، خانمیرزا، خانه زنیان، خانوک، خانیمن، خاوران، خاکعلی، خداآفرین، خدابنده، خداجو، خرامه، خرانق، خرم آباد، خرم آباد، خرم بید، خرمدره، خرمدشت، خرمشهر، خرو، خسروشاه، خشت، خشکبیجار، خشکرود، خضرآباد، خضری دشت بیاض، خفر، خلخال، خلیفان، خلیل آباد، خلیل شهر، خمارلو، خمام، خمیر، خمین، خمینی شهر، خنافره، خنج، خنجین، خنداب، خواجه، خواجوشهر، خواف، خوانسار، خور، خور، خور و بیابانک، خوراسگان، خورزوق، خورسند، خورموج، خوزی، خوسف، خوشاب، خوشرودپی، خوشه مهر، خومه زار، خوی، خیر‌آباد توللی، دابودشت، داراب، داران، دارخوین، داریان، داریان، دالاهو، دالکی، دامغان، دامنه، دانسفهان، داودآباد، داورزن، دبیران، درب بهشت، درب گنبد، درجزین، درح، درق، درمیان، دره شهر، دروار، درود، درچه پیاز، درگز، درگزین، درگهان، دزج، دزفول، دستجرد، دستناء، دستگرد، دشت آزادگان، دشتستان، دشتک، دشتکار، دشتی، دشتی، دشتیاری، دلبران، دلفان، دلند، دلوار، دلگان، دلگشا، دلیجان، دماوند، دمق، دنا، دندی، دهاقان، دهبارز، دهج، دهدز، دهدشت، دهرم، دهسرخ، دهق، دهلران، دهنگ، دهکهان، دهکویه، دهگلان، دوبرجی، دوراهک، دورود، دوزدوزان، دوزه، دوزین، دوساری، دوست محمد، دولت آباد، دولت آباد، دوگنبدان، دژکرد، دیباج، دیر، دیزج دیز، دیزیچه، دیشموک، دیلمان، دیهوک، دیواندره، رابر، رادکان، راز، راز و جرگلان، رازقان، رازمیان، راسک، رامجرد، رامسر، رامشیر، رامهرمز، رامیان، رانکوه، راور، راین، رباط، رباط سنگ، رباط کریم، ربط، رحمت آباد، رحیم آباد، رزن، رزوه، رستاق، رستم، رستم آباد، رستمکلا، رشت، رشتخوار، رضوان، رضوانشهر، رضوانشهر، رضویه، رضی، رفسنجان، رفیع، رمشک، روانسر، روداب، رودان، رودبار، رودبار، رودبار جنوب، رودبنه، رودسر، رودهن، رودیان، روشناوند، رومشکان، رونیز، رویان، رویدر، ری، ریجاب، ریحان، ریز، رینه، ریواده، ریوش، ریوند، ریگ ملک، ریگان، زابل، زارچ، زازران، زاغه، زاهدان، زاهدشهر، زاوه، زاووت، زاویه، زاینده رود، زرآباد، زرآباد، زرقان، زرند، زرندیه، زرنق، زرنه، زرگر محله، زرین آباد، زرین دشت، زرین رود، زرین شهر، زرینه، زنجان، زنوز، زنگنه، زنگی آباد، زنگی آباد، زهان، زهرا، زهره، زهک، زهکلوت، زواره، زیار، زیاران، زیارت، زیارتعلی، زیباشهر، زیدآباد، زیر آب، زیرکوه، ساربوک، ساروق، ساری، سالند، سامان، سامن، ساوجبلاغ، ساوه، سایر، سبزوار، سجاس، سده، سده لنجان، سرآبله، سراب، سراب باغ، سراب حمام، سراب ذهاب، سرابدوره، سرابله، سراوان، سرایان، سرباز، سربیشه، سرخرود، سرخس، سرخنکلاته، سرخه، سرخون، سرداران، سردرود، سردشت، سردشت، سردشت، سردشت لردگان، سرعین، سرفاریاب، سرمست، سرو، سروآباد، سروستان، سرپل ذهاب، سرچشمه، سرچهان، سرکان، سرگز، سریش آباد، سطر، سعادت شهر، سعدآباد، سعیدآباد، سفید دشت، سفید سنگ، سفیدشهر، سقز، سلامی، سلسله، سلطان آباد، سلطان آباد، سلطان اباد، سلطان شهر، سلطانیه، سلفچگان، سلماس، سلمان شهر، سماله، سمنان، سمیرم، سمیع آباد، سنته، سنخواست، سندرک، سنقر، سنندج، سنگان، سنگدوین، سنگر، سه قلعه، سهرورد، سوادکوه، سوادکوه شمالی، سودجان، سوران، سورشجان، سورمق، سورک، سوزا، سوسنگرد، سوق، سومار، سپید دشت، سپیدان، سگزآباد، سگزی، سی سخت، سیاه منصور، سیاهکل، سیب، سیب و سوران، سیدان، سیراف، سیرجان، سیردان، سیروان، سیرکان، سیریز، سیریک، سیس، سیلوانه، سیمرغ، سیمین شهر، سیمینه، سین، سیه رود، سیه چشمه، شادبادمشایخ (پینه شلوا، شادمهر، شادگان، شازند، شال، شاندیز، شاهد شهر، شاهدیه، شاهرود، شاهو، شاهین دژ، شاهین شهر، شاهین شهر و میمه، شاوور، شاپورآباد، شاپورآباد، شباب، شبانکاره، شبستر، شرافت، شربیان، شرفخانه، شریف آباد، شریفیه، ششتمد، ششده، شفت، شلمان، شلمزار، شمس آباد، شمشک، شمیرانات، شنبه، شند‌آباد، شهباز، شهداد، شهر امام، شهر جدید امیرکبیر، شهر جدید سهند، شهر جدید علوی، شهر جدید مجلسی، شهر جدید هشتگرد، شهر صنعتی پرند، شهرآباد، شهربابک، شهرجدیدصدرا، شهرجدیدمهاجران، شهرزو، شهرضا، شهرپیر، شهرک صنعتی نصیرشهر، شهرک قلعه میر، شهرکرد، شهریار، شهمیرزاد، شوسف، شوش، شوشتر، شوط، شوقان، شول آباد، شویشه، شیبان، شیراز، شیروان، شیرود، شیرگاه، شیرین سو، صائین قلعه، صاحب، صادق آباد، صالح آباد، صالح آباد، صالح آباد، صالح شهر، صالحیه، صباشهر، صحنه، صغاد، صفائیه، صفادشت، صفاشهر، صفی آباد، صفی آباد، صمصامی، صوفیان، صومعه سرا، صیدون، ضیاءآباد، ضیاءآباد، طارم، طاقانک، طالخونچه، طالقان، طبس، طبس مسینا، طرق رود، طرقبه، طسوج، طوالش، عالی شهر، عباس آباد، عباس آباد سردار، عجب شیر، عسلویه، عسگران، عشق آباد، عشق آباد، عصمت آباد، عقدا، علامرودشت، علویجه، علی آباد، علی آباد، علی آباد کتول، علی آبادبالای شهر، علی اکبر، علیشاه (علی آباد)، عمادشهر، عنبرآباد، عنبران، غرق آباد، غلامان، فارسان، فارغان، فاروج، فاروق، فاریاب، فاضل آباد، فال، فامنین، فتح آباد، فتح المبین، فخرآباد، فدامی، فرادنبه، فراشبند، فراغی، فراهان، فرح آباد، فرخ شهر، فرخی، فردوس، فردوسیه، فردیس، فرسفج، فرمهین، فرهادگرد، فرون آباد، فریدن، فریدونشهر، فریدونکنار، فریم، فریمان، فسا، فشم، فلاورجان، فنوج، فهرج، فولادشهر، فومن، فیرورق، فیروز آباد، فیروزآباد، فیروزان، فیروزبهرام، فیروزه، فیروزکوه، فیض آباد، فین، قائم شهر، قائمیه، قائنات، قادرآباد، قاسم آباد، قاسم آباد، قاسم ابادشوراباد، قاضی، قاین، قدس، قدمگاه، قرق، قرقری، قره آغاج، قره بلاغ، قره ضیاءالدین، قروه، قروه درجزین، قرچک، قزوین، قشلاق، قشم، قصابه، قصر شیرین، قصرقند، قطب آباد، قطرویه، قطور، قلعه، قلعه تل، قلعه خواجه، قلعه رییسی، قلعه قاضی، قلعه نوعلیا، قلعه گنج، قلندرآباد، قم، قمصر، قنوات، قهاوند، قهجاورستان، قهدریجان، قهستان، قورچی باشی، قوشخانه، قوشچی، قوچان، قیامدشت، قیدار، قیر، قیروکارزین، لاجان، لار، لارستان، لالجین، لاله زار، لالی، لامرد، لاهرود، لاهیجان، لای بید، لردگان، لشت نشاء، لطف آباد، لطیفی، لمزان، لنجان، لنده، لنگرود، لواسان، لوجلی، لوشان، لولمان، لومار، لوندویل، لپه زنگ، لپوئی، لیردف، لیسار، لیلان، لیکک، مادرسلیمان، مادوان، مارگون، ماسال، ماسوله، مال خلیفه، مالوجه، مامونیه، مانه وسملقان، ماه نشان، ماهان، ماهدشت، ماهنشان، ماژان، ماژین، ماکلوان، ماکو، مبارک آباد، مبارک شهر، مبارکه، مجن، محلات، محمدآباد، محمدآباد، محمدآباد، محمدان، محمدشهر، محمدشهر، محمدی، محمدیار، محمدیه، محمله، محمودآباد، محمودآباد، محمود‌آباد نمونه، محی آباد، مرادلو، مراغه، مراوه تپه، مرجقل، مردهک، مرزن آباد، مرزی‌کلا، مرغ، مرند، مرودشت، مروست، مرگنلر، مریانج، مریوان، مزایجان، مزدآوند، مزرعه، مس سرچشمه، مسجد سلیمان، مسکن مهر فاز 2، مشراگه، مشهد، مشهد ریزه، مشکات، مشکان، مشکان، مشکین دشت، مشگین شهر، مصیری، معزاباد جابری، معلم کلایه، معمولان، ملاثانی، ملارد، ملایر، ملک آباد، ملکان، ملکشاهی، ممسنی، ممقان، منج، منجیل، منصوریه، منظریه، منوجان، مه ولات، مهاباد، مهاباد، مهاجران، مهدی شهر، مهر، مهر، مهرآباد، مهران، مهربان، مهردشت، مهرستان، مهرگان، مهریز، مود، مورموری، موسیان، مومن آباد، موچش، میامی، میان راهان، میاندوآب، میاندورود، میانرود، میانشهر، میانه، میانکوه، میبد، میداود، میرآباد، میرآباد، میرجاوه، میلاجرد، میمند، میمه، میمه، میناب، مینودشت، مینوشهر، نائین، نازک علیا، ناغان، نافچ، نالوس، نجف آباد، نجف شهر، نخل تقی، ندوشن، نراق، نرجه، نرماشیر، نسیم شهر، نشتارود، نشتیفان، نصرآباد، نصرآباد، نصرت آباد، نصیرآباد، نصیرشهر، نطنز، نظام شهر، نظر کهریزی، نظرآباد، نقاب، نقده، نقنه، نلاس، نمین، نهاوند، نهبندان، نوبران، نوبندگان، نوجین، نوخندان، نودان، نودشه، نوده انقلاب، نوده خاندوز، نودژ، نور، نورآباد، نورآباد، نوربهار، نوسود، نوش آباد، نوشهر، نوشین، نوک آباد، نوکنده، نکا، نگار، نگور، نگین شهر، نی ریز، نیاسر، نیر، نیر، نیشابور، نیل شهر، نیمبلوک، نیمروز، نیمور، نیک آباد، نیک شهر، نیک پی، هادی شهر، هادی شهر، هارونی، هامون، هجدک، هرات، هرسین، هرمز، هرند، هریس، هزارکانیان، هشتبندی، هشتجین، هشترود، هشتپر، هشتگرد، هفت چشمه، هفتکل، هفتگل، هفشجان، هلشی، هلیلان، هماشهر، هماشهر، همت آباد، همدان، هندودر، هندیجان، هنزا، هنگویه، هوراند، هوره، هویزه، هیدج، هیدوچ، هیر، هیرمند، هیچرود، واجارگاه، وایقان، وحدتیه، وحیدیه، ورامین، وراوی، وردنجان، ورزقان، ورزنه، ورنامخواست، وزوان، ونایی، ونک، ویس، ویسیان، پاتاوه، پارس آباد، پارسیان، پاریز، پاسارگاد، پاسخن، پاوه، پاکدشت، پایین هولار، پردنجان، پردیس، پرند، پرندک، پره سر، پل، پل سفید، پلدختر، پلدشت، پلنگ آباد، پهله، پول، پیرانشهر، پیربکران، پیرتاج، پیش قلعه، پیشوا، پیشین، چابهار، چابکسر، چادگان، چاراویماق، چارک، چاف وچمخاله، چالانچولان، چالدران، چالوس، چاه بهار، چاه دادخدا، چاه مبارک، چاه مرید، چاه ورز، چاپشلو، چایپاره، چترود، چخماق، چرام، چرداول، چرمهین، چشمه شیرین، چغادک، چغامیش، چقابل، چلگرد، چلیچه، چم گلک، چمران، چمستان، چمن سلطان، چمگردان، چناران، چناران شهر، چناره، چهارباغ، چهاربرج، چهاردانگه، چوئبده، چوار، چوبر، چورزق، چکنه، چگنی، چیتاب، کاج، کاخک، کارزین، کارون، کارچان، کاریز، کازرون، کاشان، کاشمر، کاظم آباد، کامفیروز، کامووچوگان، کامیاران، کانی دینار، کانی سور، کاکی، کبودر آهنگ، کبودرآهنگ، کتالم وسادات شهر، کجور، کدکن، کرج، کردکوی، کرسف، کرفس، کرمان، کرمانشاه، کرند غرب، کره ای، کرکوند، کشاورز، کشکسرای، کشکوئیه، کلات، کلاته، کلاته خیج، کلارآباد، کلاردشت، کلاله، کلاچای، کلمه، کله بست، کلوانق، کلور، کلیبر، کلیشاد و سودرجان، کمال شهر، کمشجه، کمه، کمیجان، کنار تخته، کنارک، کندر، کنگ، کنگان، کنگاور، کهریزسنگ، کهریزک، کهن آباد، کهنوج، کهک، کهگیلویه، کوار، کوت سید نعیم، کوت عبدالله، کوثر، کوخردهرنگ، کورائیم، کوره فرنگی، کوزران، کوزه کنان، کوشک، کوشکنار، کومله، کوه چنار، کوهبنان، کوهدشت، کوهرنگ، کوهسار، کوهستک، کوهسرخ، کوهنانی، کوهنجان، کوهپایه، کوهی خیل، کوهین، کوهیچ، کوپن، کوچصفهان، کیار، کیاسر، کیاشهر، کیان، کیانشهر، کیاکلا، کیش، کیلان، گالیکش، گتاب، گتوند، گراب، گراب سفلی، گراش، گرماب، گرمدره، گرمسار، گرمه، گرمی، گروک، گرگاب، گرگان، گزبرخوار، گزنک، گزیک، گشت، گل تپه، گلباف، گلبهار، گلدشت، گلزار، گلسار، گلستان، گلشن، گلشهر، گلمورتی، گلمکان، گله دار، گلوگاه، گلپایگان، گلگیر، گلی داغ، گمیش تپه، گمیشان، گناباد، گنبدکاووس، گنبکی، گندمان، گهرو، گهواره، گوجان، گودین، گوراب زرمیخ، گوریه، گوهران، گوگان، گوگد، گچساران، گیان، گیلانغرب، گیلوان، گیوی، یاسوج، یاسوکند، یامچی، یان چشمه، یزد، یزدان شهر، یولاگلدی، یونسی با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "same_day_delivery"
+                    ],
+                    "delivery_info": "ارسال به سراسر ایران با پست تیپاکس و پرداخت هزینه ارسال در محل\nارسال در شهر کرح رایگان و پرداخت در محل"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS",
+                "name2": "اصل",
+                "shop_name": "نمایندگی پارس خزر کرج",
+                "shop_name2": "کرج",
+                "shop_id": 24076,
+                "has_public_torob_profile": true,
+                "prk": "f7d087c6-574f-4a37-beb4-4147ac4a9bb4",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=f7d087c6-574f-4a37-beb4-4147ac4a9bb4&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21181000,
+                "price_text": "۲۱٫۱۸۱٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۱۸۱٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان  در شهر کرج - ارسال به سراسر ایران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی 2500 زیمنس پارس خزر",
+                "name2": "اصل",
+                "shop_name": "خانه و دکور",
+                "shop_name2": "تهران",
+                "shop_id": 4594,
+                "has_public_torob_profile": true,
+                "prk": "fcf16165-62e0-4fab-97ab-e15c50f7738d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=fcf16165-62e0-4fab-97ab-e15c50f7738d&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21200000,
+                "price_text": "۲۱٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "شرکت پست و سایر شرکتهای کالابر خصوصی"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر طرح زیمنس مدل 2500 turbo",
+                "name2": "",
+                "shop_name": "جی هوم استور",
+                "shop_name2": "تهران",
+                "shop_id": 272199,
+                "has_public_torob_profile": true,
+                "prk": "027f683b-18a5-4551-ac3a-41ec8ccc09b2",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=027f683b-18a5-4551-ac3a-41ec8ccc09b2&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21200000,
+                "price_text": "۲۱٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر مدل TURBO2500S",
+                "name2": "",
+                "shop_name": "7848 شاپ",
+                "shop_name2": "اصفهان",
+                "shop_id": 203494,
+                "has_public_torob_profile": true,
+                "prk": "c346897d-ee0c-47e0-9a90-122c84956b2d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=c346897d-ee0c-47e0-9a90-122c84956b2d&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21240000,
+                "price_text": "۲۱٫۲۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای خرید بالای ۵ میلیون تومان در سطح شهر اصفهان.ارسال برای سراسر ایران با پست تیپاکس انجام می‌گیرد و هزینه ارسال به صورت پس کرایه با خریدار می‌باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقي Turbo2500WS پارس خزر -قرمز",
+                "name2": "اصل",
+                "shop_name": "تو دیجی",
+                "shop_name2": "کرمان",
+                "shop_id": 355364,
+                "has_public_torob_profile": true,
+                "prk": "6d611b76-3c18-4414-ba78-538a73604f23",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=6d611b76-3c18-4414-ba78-538a73604f23&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21240000,
+                "price_text": "۲۱٫۲۴۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای کرمان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۵ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS (زیمنس قرمز)",
+                "name2": "اصل",
+                "shop_name": "انتخاب کلیک",
+                "shop_name2": "کرج",
+                "shop_id": 8718,
+                "has_public_torob_profile": true,
+                "prk": "fd45b458-0f53-42c8-894c-88e0a8605e92",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=fd45b458-0f53-42c8-894c-88e0a8605e92&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21245000,
+                "price_text": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای تهران و کرج با ماشینهای شرکت و برای سایر استانها و شهرستان ها با چاپار و تیپاکس"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر مدل TURBO 2500WS",
+                "name2": "اصل | گارانتی دو ساله پارس خزر",
+                "shop_name": "کالانشان",
+                "shop_name2": "مشهد",
+                "shop_id": 229228,
+                "has_public_torob_profile": true,
+                "prk": "637f39f0-7243-4175-90d2-afbcde2a74ee",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=637f39f0-7243-4175-90d2-afbcde2a74ee&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21245000,
+                "price_text": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "امکان تحویل در همان روز برای مشهد با هماهنگی\nروش‌های ارسال: باربری های درون شهری یا برون شهری، شرکتهای پست خصوصی نظیر تیپاکس، پست سفارشی، پیک، پست پیشتاز، خودروی فروشگاه\n\nجزئیات ارسال\nبه جهت هزینه بالا یا عدم پذیرش پست از ارسال کالای سنگین وزن یا حجیم با شرکت پست و یا تیپاکس معذوریم."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل توربو 2500WS (زیمنس سفید)",
+                "name2": "اصل",
+                "shop_name": "انتخاب کلیک",
+                "shop_name2": "کرج",
+                "shop_id": 8718,
+                "has_public_torob_profile": true,
+                "prk": "06c519f0-23a3-4ca9-a7bb-ed48da71a9a7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=06c519f0-23a3-4ca9-a7bb-ed48da71a9a7&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21245000,
+                "price_text": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای تهران و کرج با ماشینهای شرکت و برای سایر استانها و شهرستان ها با چاپار و تیپاکس"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS زیمنس",
+                "name2": "بدون تغییر",
+                "shop_name": "سبکمون",
+                "shop_name2": "تجریش",
+                "shop_id": 9250,
+                "has_public_torob_profile": true,
+                "prk": "4792b782-36f3-4d68-a6cd-f4b5405924f7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=4792b782-36f3-4d68-a6cd-f4b5405924f7&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21245000,
+                "price_text": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۲۴۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اسلامشهر، تهران، شمیرانات، شهریار، لواسان، پاکدشت، پردیس، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "بسته به نوع کالا و مسافت ارزان ترین روش برای ارسال کالا که هزینه زیادی را مشتری متحمل نشود، انتخاب می گردد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی مدل Turbo 2500WS پارس خزر",
+                "name2": "اصل",
+                "shop_name": "لوازم خانگی پارس خزر",
+                "shop_name2": "کرج",
+                "shop_id": 175685,
+                "has_public_torob_profile": true,
+                "prk": "69123409-546a-40f2-bdc3-156d775e1041",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=69123409-546a-40f2-bdc3-156d775e1041&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21304440,
+                "price_text": "۲۱٫۳۰۴٫۴۴۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۳۰۴٫۴۴۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال از طریق شرکت پست و پست تیپاکس و چاپار به سراسر ایران - ارسال با باربری(در صورت درخواست)-ارسال با پیک"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS ا Turbo 2500WS vacuum cleaner",
+                "name2": "",
+                "shop_name": "جیمبوشاپ",
+                "shop_name2": "تهران",
+                "shop_id": 4473,
+                "has_public_torob_profile": true,
+                "prk": "f08d8eae-d848-4bbe-9a93-65ba9eeb3068",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=f08d8eae-d848-4bbe-9a93-65ba9eeb3068&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=56:1xAUGS:SJ_JqpFKDHN4F67tM4BL0f9bh5yul7DYl6rNoYlNuAo",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21588000,
+                "price_text": "۲۱٫۵۸۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۵۸۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، ورامین، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، ورامین، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال سریع به تمام نقاط - ارسال رایگان محصولات سنگین در تهران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی 2500 وات پارس خزر مدل Turbo 2500WS",
+                "name2": "اصل | اصالت و سلامت فیزیکی کالا",
+                "shop_name": "پلازا دیجیتال",
+                "shop_name2": "تهران",
+                "shop_id": 5071,
+                "has_public_torob_profile": true,
+                "prk": "9859724b-888b-4b44-b8c2-43bdc82e5325",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=9859724b-888b-4b44-b8c2-43bdc82e5325&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=56:1xAUGS:NO2LB3psKlsZI7VFpH-TzjlVGjyON5MHM9VpvjHgEDM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21590000,
+                "price_text": "۲۱٫۵۹۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۵۹۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالاها از طریق تیپاکس و یا پست به شهرستانها و یا با هماهنگی مشتری از طریق باربری ارسال میشود و در شهر تهران هم به صورت پیک ارسال میگردد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS قرمز",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "8e00d66e-e451-4221-a918-2d094f1ad1a3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=8e00d66e-e451-4221-a918-2d094f1ad1a3&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=2:1xAUGS:suUdGPfdCqFp2CcT10j_Lnsrx8DE6duljGelARm0veM",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21600000,
+                "price_text": "۲۱٫۶۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۶۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل Turbo 2500WS سفید",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "905e213d-b483-45cb-9efd-4a6d0c13d7f7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=905e213d-b483-45cb-9efd-4a6d0c13d7f7&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=2:1xAUGS:k9H2VCj4g_TZ5OsWPclE-e4xDvAX7-unkD-YgFVNbTI",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21600000,
+                "price_text": "۲۱٫۶۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۶۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جارو برقی پارس خزر مدل Turbo 2500WS ا Pars Khazar Turbo 2500WS Vaccume Cleaner",
+                "name2": "اصل | گارانتی ۲۵ ماهه پارس خزر",
+                "shop_name": "دکوماژ",
+                "shop_name2": "تهران",
+                "shop_id": 1086,
+                "has_public_torob_profile": true,
+                "prk": "6a9bea98-045c-47ff-8b0b-ab1417bef807",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=6a9bea98-045c-47ff-8b0b-ab1417bef807&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21642000,
+                "price_text": "۲۱٫۶۴۲٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۶۴۲٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال فوری و زمان قابل انتخاب در تهران\r\nارسال توسط پست چاپار ، پیشتاز و تیپاکس در سراسر ایران"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر طرح زیمنس مدل Turbo 2500WS ا Pars Khazar Turbo 2500WS Vacuum Cleaner",
+                "name2": "گارانتی 24 ماهه پارس خزر",
+                "shop_name": "تکنولایف",
+                "shop_name2": "تهران",
+                "shop_id": 310,
+                "has_public_torob_profile": true,
+                "prk": "663e38ee-7b82-4e9a-9b7c-d1c2f515d339",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=663e38ee-7b82-4e9a-9b7c-d1c2f515d339&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&installment=228:1xAUGS:shTRnyIsXZ0UH3Dq5G7UZDSqXDrnx14c0ty3cKx_8As",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21900000,
+                "price_text": "۲۱٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۱٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال ۳ ساعته برای شهر تهران\n- ارسال همان روز برای شهر کرج\n- ارسال سریع سفارش ها به سراسر کشور"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰۰ تا ۶۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "24 قسط تا سقف 150 میلیون تومان با سود سالانه 23%",
+                            "short_title": "امکان خرید قسطی",
+                            "logo": "https://ext-storage.torob.com/ticketing-storage/shop_310/ticket_2597101/c48d587fa078c8a6eadc178fe81e80ed.jpg",
+                            "name": "تکنولایف",
+                            "description": "خرید قسطی از درگاه قسطی تکنو پی",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "جاروبرقی پارس خزر مدل TURBO 2500WS",
+                "name2": "24 ماه گارانتی پارس خزر",
+                "shop_name": "سیروان کالا",
+                "shop_name2": "تهران",
+                "shop_id": 242286,
+                "has_public_torob_profile": true,
+                "prk": "c9cba098-7fed-405f-9aa3-bc54657f8e9a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=c9cba098-7fed-405f-9aa3-bc54657f8e9a&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 22000000,
+                "price_text": "۲۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱ ماه و ۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436275",
+        "count": 167,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&suid=01a0de515d5473e58c4933a09fe0a5a3&cities=&province=&algorithm=text_similarity&prk=67ac3038-6596-4691-beae-2bc9794cdded&list_type=products_info&seed=1790436275"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "6667110e-0d07-4542-9e23-d9dcffe94a3b",
+                "shop_id": 291932,
+                "name1": "طالقانی، شهید علم الهدی...",
+                "name2": "گارانتی ۲۴ ماهه شرکتی",
+                "shop_name": "رضا خلیج فارس",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۱:۳۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۰۹:۰۰ - ۱۳:۰۰ | ۱۷:۰۰ - ۲۱:۳۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 20730000,
+                "price_string": "۲۰٫۷۳۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۳ ماه و ۲۰ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/a6b0033189b8.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=6667110e-0d07-4542-9e23-d9dcffe94a3b&base_rk=67ac3038-6596-4691-beae-2bc9794cdded&shop_id=291932&member_type=product_in_store",
+                    "count": 1
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=6667110e-0d07-4542-9e23-d9dcffe94a3b&btn=buy&shop_rank=0&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "طالقانی، شهید علم الهدی...",
+                "installment": null
+            },
+            {
+                "prk": "1f9f27c5-2e60-4fea-9324-bdb498e1493e",
+                "shop_id": 254645,
+                "name1": "خیابان طالقانی، خیابان آیت...",
+                "name2": "گارانتی ۲۴ ماهه پارس خزر ا جاروبرقی ۲۵۰۰WS\nبامپر ضدضربه سرتاسری\nدارای تفنگی جدید با طراحی ارگونومی\nطول سیم ۱۴ متر\nدارای سیم جمع کن اتوماتیک\nدارای نشانگر الکترونیکی پر شدن کیسه",
+                "shop_name": "لوازم خانگی گری",
+                "shop_badge": null,
+                "shop_name2": "اهواز",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": {
+                    "type": "schedule",
+                    "title": {
+                        "status": "باز",
+                        "text": "تا ۲۲:۰۰"
+                    },
+                    "schedule": [
+                        {
+                            "title": "شنبه (امروز)",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": true
+                        },
+                        {
+                            "title": "یکشنبه",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "دوشنبه",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "سه‌شنبه",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "چهارشنبه",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "پنج‌شنبه",
+                            "text": "۱۰:۱۵ - ۱۳:۰۰ | ۱۷:۱۵ - ۲۲:۰۰",
+                            "is_today": false
+                        },
+                        {
+                            "title": "جمعه",
+                            "text": "فروشگاه تعطیل است",
+                            "is_today": false
+                        }
+                    ],
+                    "working_hours_msg": null
+                },
+                "is_open": true,
+                "price": 23100000,
+                "price_string": "۲۳٫۱۰۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "دیروز",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/cac0abd11400.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=1f9f27c5-2e60-4fea-9324-bdb498e1493e&base_rk=67ac3038-6596-4691-beae-2bc9794cdded&shop_id=254645&member_type=product_in_store",
+                    "count": 5
+                },
+                "is_filtered_by_city": true,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=1f9f27c5-2e60-4fea-9324-bdb498e1493e&btn=buy&shop_rank=1&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان طالقانی، خیابان آیت...",
+                "installment": null
+            }
+        ],
+        "seed": "1790436275",
+        "count": 2,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&cities=&province=&prk=67ac3038-6596-4691-beae-2bc9794cdded&list_type=products_in_store_info&seed=1790436275&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=67ac3038-6596-4691-beae-2bc9794cdded&source=next_desktop&discover_method=search&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&seed=1790436275&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=67ac3038-6596-4691-beae-2bc9794cdded&source=next_desktop&discover_method=search&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&seed=1790436275&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۲۰٫۹۸۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 3,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۲۱٫۸۸۳٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۲۰٫۴۳۳٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "از ۲۰٫۷۳۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 2,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۲۰٫۴۳۳٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 2,
+                "is_active": true,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "ساعت کاری",
+                "type": "button",
+                "action": "is_open",
+                "price_str": "فقط فروشنده‌های باز",
+                "icon": "https://api.torob.com/static/filters/clock.svg",
+                "icon_dark": "https://api.torob.com/static/filters/clock_dark.svg",
+                "order": [
+                    "products_in_store_info",
+                    "products_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 2,
+                "is_active": false,
+                "target_shop_type": "offline"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de515d5473e58c4933a09fe0a5a3&search_id=01a0de515d5473e58c4933a09fe0a5a3&cities=&province=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&algorithm=text_similarity&prk=67ac3038-6596-4691-beae-2bc9794cdded&bvid=01a0de5176e27367948f80bd14a95c5a&no_log=true&seed=1790436275",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=67ac3038-6596-4691-beae-2bc9794cdded&base_id=43925061&source=next_desktop&bvid=01a0de5176e27367948f80bd14a95c5a&init_suid=01a0de515d5473e58c4933a09fe0a5a3"
+    },
+    "min_price": 20433000,
+    "max_price": 40675678,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 134,
+            "title": "شستشو و نظافت",
+            "url": "/browse/134/%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA-cleaning-equipment/",
+            "cat_id": 134,
+            "brand_id": null
+        },
+        {
+            "id": 6729,
+            "title": "دستگاه‌های شستشو و نظافت",
+            "url": "/browse/6729/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA/",
+            "cat_id": 6729,
+            "brand_id": null
+        },
+        {
+            "id": 203,
+            "title": "جارو برقی",
+            "url": "/browse/203/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-vacuum-cleaner/",
+            "cat_id": 203,
+            "brand_id": null
+        },
+        {
+            "id": 203,
+            "title": "پارس خزر (Pars Khazar)",
+            "url": "/browse/203/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-vacuum-cleaner/b/14294/pars-khazar-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1/",
+            "cat_id": 203,
+            "brand_id": 14294
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "کشور سازنده": "ایران",
+                    "توان مصرفی": "2500 وات",
+                    "وزن": "5.4 کیلوگرم",
+                    "نوع جاروبرقی": "کیسه دار",
+                    "رنگ بدنه": "قرمز، مشکی",
+                    "جنس بدنه": "پلاستیک ABS",
+                    "تنظیم سرعت": "دارد",
+                    "کنترل روی دسته": "ندارد",
+                    "سیم جمع کن خودکار": "دارد",
+                    "نوع پنل": "ولوم چرخشی",
+                    "لوله تلسکوپی": "دارد",
+                    "جنس لوله تلکسوپی": "استیل",
+                    "لوله خرطومی": "دارد",
+                    "جنس لوله خرطومی": "کنفی",
+                    "فیلتر بهداشتی": "دارد",
+                    "نوع فیلتر خروجی": "هپا",
+                    "تعداد سری": "3 عدد",
+                    "نوع سری (ها)": "سری گوشه ها، سری مبلمان، سری کف سخت",
+                    "دسته حمل": "دارد",
+                    "تعداد چرخ": "4 عدد",
+                    "چراغ نشانگر پر بودن مخزن": "دارد",
+                    "شعاع عملکرد": "14 متر",
+                    "قابلیت تنظیم مکش": "دارد",
+                    "چرخش 360 درجه خرطومی": "دارد",
+                    "قابلیت جذب مایعات": "ندارد",
+                    "تعداد پارویی": "1",
+                    "قابلیت شستشو فیلتر": "دارد"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "قدرت مکش",
+                    "value": [
+                        "۲۵۰۰ وات"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "جارو-برقی-پارس-خزر-مدل-turbo-2500ws",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=67ac3038-6596-4691-beae-2bc9794cdded",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=67ac3038-6596-4691-beae-2bc9794cdded&limit=24&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+    "torob_category": 203,
+    "no_index": false,
+    "buy_box_price_text": "از ۲۰٫۴۳۳٫۰۰۰ تومان تا ۴۰٫۶۷۵٫۶۷۸ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=d310dd23-f0f6-43f2-a1a4-8009af6c5cb0&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از بهگو",
+    "new_buy_box_button_text2": "۲۰٫۹۸۸٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ضمانت ترب",
+    "new_buy_box_button_badge_style": "guaranteed",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de515d5473e58c4933a09fe0a5a3&suid=01a0de515d5473e58c4933a09fe0a5a3&bvid=01a0de5176e27367948f80bd14a95c5a&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de515d5473e58c4933a09fe0a5a3&prk=8b842610-a02d-4a16-897f-12f08520aa04&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de515d5473e58c4933a09fe0a5a3&buy_box_reason=guarantee",
+    "new_buy_box_button_scrol_to_prk": "f82db1cc-7f03-4d05-860d-7872cc2e835e",
+    "new_buy_box_source_prk": "8b842610-a02d-4a16-897f-12f08520aa04",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۶۹ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/OJ/CZ/OJCZwa60iDFuY34g.jpg"
+            ]
+        }
+    ]
+}

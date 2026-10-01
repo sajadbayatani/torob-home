@@ -1,0 +1,2265 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "f004ee68-caee-4352-a9b6-8dd24cf471cf",
+    "name1": "فر توکار ایلیا استیل مدل IO201-مشکی",
+    "name1_max_lines": 3,
+    "name2": "Ilia Steel IO201 Built-in Oven-Black",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3fc5b47211a17ef61c41c8b6e8&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&cities=&province=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&algorithm=text_similarity&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf",
+    "web_client_absolute_url": "/p/f004ee68-caee-4352-a9b6-8dd24cf471cf/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-io201-%D9%85%D8%B4%DA%A9%DB%8C/",
+    "price": 38159250,
+    "price_prefix": "cheapest",
+    "price_text": "از ۳۸٫۱۵۹٫۲۵۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۲۸ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&limit=24&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&discover_method=search_image_base_pdp&prev_uid=01a0de3fc5b47211a17ef61c41c8b6e8&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/My/-Z/My-ZlxLtS-V_7_Fz.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/My/-Z/My-ZlxLtS-V_7_Fz.jpg",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "فر توکار برقی مدل IO 201 ایلیا استیل",
+                "name2": "",
+                "shop_name": "کالای ساختمانی باهات میسازه",
+                "shop_name2": "نجف آباد",
+                "shop_id": 121158,
+                "has_public_torob_profile": true,
+                "prk": "6455320e-457c-48f0-a6d1-85c5598a07cf",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=6455320e-457c-48f0-a6d1-85c5598a07cf&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de3fdc9b71bba71866c8c1f0ece0&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=96:1xATxq:zZ6rMWsarLtC9bk9Iz-FA25YhVfAgF0mFiCvnAXOlfE",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38159250,
+                "price_text": "۳۸٫۱۵۹٫۲۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۱۵۹٫۲۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روشهای ارسال بسته به وزن و حجم محصول و شهر مقصد متفاوت هست: پست، باربری های برون شهری و درون شهری پیک، اسنپ وانت و... \nکسب اطلاعات بیشتر و تماس با پشتیبانی سایت 09130772809"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۲ ماه و ۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار برقی مدل IO 201 ایلیا استیل",
+                "name2": "",
+                "shop_name": "کالای ساختمانی باهات میسازه",
+                "shop_name2": "نجف آباد",
+                "shop_id": 121158,
+                "has_public_torob_profile": true,
+                "prk": "6455320e-457c-48f0-a6d1-85c5598a07cf",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=6455320e-457c-48f0-a6d1-85c5598a07cf&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=96:1xATxq:zZ6rMWsarLtC9bk9Iz-FA25YhVfAgF0mFiCvnAXOlfE",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 38159250,
+                "price_text": "۳۸٫۱۵۹٫۲۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۳۸٫۱۵۹٫۲۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روشهای ارسال بسته به وزن و حجم محصول و شهر مقصد متفاوت هست: پست، باربری های برون شهری و درون شهری پیک، اسنپ وانت و... \nکسب اطلاعات بیشتر و تماس با پشتیبانی سایت 09130772809"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی - گازی ایلیا استیل مدل IO-201",
+                "name2": "مدت ضمانت : 18 ماه گارانتی از تاریخ نصب توسط خدمات کارخانه",
+                "shop_name": "هایتک شیر",
+                "shop_name2": "تهران",
+                "shop_id": 292028,
+                "has_public_torob_profile": true,
+                "prk": "c37f8c94-058c-4d2a-877c-bf066494e241",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=c37f8c94-058c-4d2a-877c-bf066494e241&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 43300000,
+                "price_text": "۴۳٫۳۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۳٫۳۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۵ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر Io 201 گاز و برق ایلیا استیل - کد 2354442",
+                "name2": "",
+                "shop_name": "پاساژ",
+                "shop_name2": "تجریش",
+                "shop_id": 942,
+                "has_public_torob_profile": true,
+                "prk": "9bad97c4-ccc9-4f90-b4b5-4eec6efa6c58",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=9bad97c4-ccc9-4f90-b4b5-4eec6efa6c58&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 44773000,
+                "price_text": "۴۴٫۷۷۳٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۴٫۷۷۳٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "کالاها در پاساژ مستقیما از طرف فروشنده ارسال می گردد."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۶ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر IO 201 ایلیا استیل Ilia Steel",
+                "name2": "",
+                "shop_name": "کلینیک ساختمانی دانش استور",
+                "shop_name2": "اصفهان",
+                "shop_id": 203048,
+                "has_public_torob_profile": true,
+                "prk": "dbab0a42-3b92-4356-be1b-89dc403ebf69",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=dbab0a42-3b92-4356-be1b-89dc403ebf69&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 45277303,
+                "price_text": "۴۵٫۲۷۷٫۳۰۳ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۵٫۲۷۷٫۳۰۳ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "پیک و باربری درون شهری و برون شهری"
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی و گازی ایلیا استیل - مدل IO-201",
+                "name2": "",
+                "shop_name": "لوازم خانگی جهانی",
+                "shop_name2": "تهران",
+                "shop_id": 26585,
+                "has_public_torob_profile": true,
+                "prk": "67f082bd-42b5-4f89-897e-c98e6c4908f3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=67f082bd-42b5-4f89-897e-c98e6c4908f3&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 46808680,
+                "price_text": "۴۶٫۸۰۸٫۶۸۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۶٫۸۰۸٫۶۸۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر برقی IO 201 ایلیا استیل ا IO 201",
+                "name2": "گارانتی اصالت",
+                "shop_name": "جیتوکالا",
+                "shop_name2": "تهران",
+                "shop_id": 4940,
+                "has_public_torob_profile": true,
+                "prk": "d5a66db6-ec6f-472d-b490-f98c37ff1059",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=d5a66db6-ec6f-472d-b490-f98c37ff1059&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 48335050,
+                "price_text": "۴۸٫۳۳۵٫۰۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۸٫۳۳۵٫۰۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "این نوع ارسال برای اکثر شهرهای کشور فعال می باشد. همچنین از ویزگی های منحصر به فرد در ارسال جیتواکسپرس قیمت بسیار پایین آن در مقایسه با نرخ های ارسال کالا در بازار میباشد. \n\nاین امکان برای شهر تهران و کرج به 2 صورت ارسال رایگان و ارسال فوری میباشد. \n\nارسال رایگان \n\nمشتریان عزیزی که در شهر تهران سفارش خود را انجام دهند طی 72 ساعت کاری با ارسال رایگان به دستشان میرسد و برای شهر کرج حداکثر تا 5 روز کاری  ارسال می گردد . \n\nارسال فوری\n\nبرای سفارشات ثبت شده تا قبل از ساعت 11:00 در صورتی که کالای مورد نظر در انبار جیتوکالا موجود باشد ارسال در همان روز صورت می گیرد.  و برای سفارش ثبت شده بعد از ساعت 11:00 فردای همان روز ارسال می گردد . این حالت از ارسال شامل هزینه ارسال می باشد اما این نوع ارسال نیز شامل تخفیف جیتوکالا می باشد و ارزان تر از نرخ معمول بازار است."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۲۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO 201",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "db638eaa-20cb-4621-9bba-e2e06221756e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=db638eaa-20cb-4621-9bba-e2e06221756e&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 49250000,
+                "price_text": "۴۹٫۲۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۹٫۲۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل Io 201 گاز و برق",
+                "name2": "",
+                "shop_name": "اُنیکس",
+                "shop_name2": "تهران",
+                "shop_id": 6166,
+                "has_public_torob_profile": true,
+                "prk": "eed959e6-2683-4ed3-b4c9-1ffb7c77f453",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=eed959e6-2683-4ed3-b4c9-1ffb7c77f453&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 49250000,
+                "price_text": "۴۹٫۲۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۴۹٫۲۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای مشتریان عزیز تهران (بالای 5 میلیون تومان)\nارسال رایگان به باربری برای مشتریان عزیز شهرستان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO 201 توکار گازی برقی",
+                "name2": "",
+                "shop_name": "فر ایران",
+                "shop_name2": "تهران",
+                "shop_id": 7530,
+                "has_public_torob_profile": true,
+                "prk": "ebccae3c-09ed-4a88-afc1-7121c2ef786b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=ebccae3c-09ed-4a88-afc1-7121c2ef786b&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50096062,
+                "price_text": "۵۰٫۰۹۶٫۰۶۲ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۰۹۶٫۰۶۲ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۵ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO 201 توکار گازی برقی",
+                "name2": "",
+                "shop_name": "خانه استور",
+                "shop_name2": "تهران",
+                "shop_id": 1197,
+                "has_public_torob_profile": true,
+                "prk": "f1c8e1a5-096c-4fb8-b8ca-c23f856af003",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=f1c8e1a5-096c-4fb8-b8ca-c23f856af003&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=52:1xATxq:9XOWiuS2iA8Ub7wOm9HOnONTK994_s7ZLS1mdVxP8YY",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50258366,
+                "price_text": "۵۰٫۲۵۸٫۳۶۶ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۲۵۸٫۳۶۶ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "فروش اقساطی برای اشخاص حقیقی و حقوقی",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/0e88162d9535.png",
+                            "name": "ایران اخوان",
+                            "description": "فروش اقساطی برای اشخاص حقیقی و حقوقی تا سقف 50 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار گازی برقی ایلیااستیل مدل IO201",
+                "name2": "",
+                "shop_name": "پخش ماکان ویرا",
+                "shop_name2": "تهران",
+                "shop_id": 341184,
+                "has_public_torob_profile": true,
+                "prk": "9671149b-b807-41cd-b504-c3cea58e845a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=9671149b-b807-41cd-b504-c3cea58e845a&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=249:1xATxq:qUt4Oj2l3oDTkd2WVju__jVzfcyxjJ9LzVSTdq8nvlY",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50314333,
+                "price_text": "۵۰٫۳۱۴٫۳۳۳ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۳۱۴٫۳۳۳ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان کل کشور"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "یک پنجم مبلغ پیش پرداخت + اقساط 4 ماهه",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/6dce0594d257.png",
+                            "name": "پخش ماکان ویرا",
+                            "description": "سقف 60 ملیون اشخاص حقیقی، سقف 100 ملیون اشخاص حقوقی\r\nیک پنجم مبلغ پیش پرداخت + اقساط 4 ماهه",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل IO 201",
+                "name2": "",
+                "shop_name": "خارا",
+                "shop_name2": "تهران",
+                "shop_id": 285212,
+                "has_public_torob_profile": true,
+                "prk": "d91b7a7d-2b7a-4cf7-9c80-901d7d481fe7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=d91b7a7d-2b7a-4cf7-9c80-901d7d481fe7&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50370300,
+                "price_text": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ما در تهران امکان پرداخت در محل و ارسال فوری داریم\nو خرید بالای ۱۰۰ میلیون در تهران ارسال رایگان داریم"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱ تا ۳ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار گازی برقی ایلیااستیل مدل IO201",
+                "name2": "",
+                "shop_name": "خرید چکی",
+                "shop_name2": "تهران",
+                "shop_id": 334246,
+                "has_public_torob_profile": true,
+                "prk": "c27b407f-49b9-48e8-90c1-95f1a04cfc21",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=c27b407f-49b9-48e8-90c1-95f1a04cfc21&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50370300,
+                "price_text": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۶ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۶ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار گازی برقی ایلیااستیل مدل IO201",
+                "name2": "",
+                "shop_name": "توجیباته",
+                "shop_name2": "تجریش",
+                "shop_id": 454120,
+                "has_public_torob_profile": true,
+                "prk": "d1934503-81bc-4cb3-b55a-382e28f70b5a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=d1934503-81bc-4cb3-b55a-382e28f70b5a&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50370300,
+                "price_text": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۳۷۰٫۳۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۱ ماه در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۱ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۳۸ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر گازی برقی ایلیا استیل IO 201",
+                "name2": "گارانتی ۱۸ ماه",
+                "shop_name": "لوازم آشپزخانه سینگا",
+                "shop_name2": "تهران",
+                "shop_id": 27612,
+                "has_public_torob_profile": true,
+                "prk": "522f441a-1a4e-4b18-a867-a1b96aad7912",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=522f441a-1a4e-4b18-a867-a1b96aad7912&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50879000,
+                "price_text": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "دسترسی آنلاین",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "روش‌های ارسال:  باربری های درون شهری یا برون شهری ، پیک موتوری \nمحصولات ایلیا استیل، رهام ، ویگل امکان تحویل حضوری و پرداخت در محل را دارند.\nجزئیات ارسال\nارسال با روش باربری، پیک به صورت پس کرایه انجام میشود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیا استیل مدل IO 201",
+                "name2": "",
+                "shop_name": "زیرفروش",
+                "shop_name2": "تهران",
+                "shop_id": 139073,
+                "has_public_torob_profile": true,
+                "prk": "4eb389d5-b6ef-436c-8998-c6f3e3c3df8b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=4eb389d5-b6ef-436c-8998-c6f3e3c3df8b&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=56:1xATxq:df6-idQs0sPcG1e4G6fkrH-fsEiUAMH6xpG3ycKqKQE",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50879000,
+                "price_text": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "سفارشات سایز بزرگ یخچال  لباسشویی و ... شهرهایی غیر از تهران در طی 48ساعت اماده و از طریق باربری برای مشتری ارسال میشود \nسفارشات سایز کوچک از طریق پست و طی 24 ساعت برای شما عزیزان ارسال خواهد شد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "تا 100 میلیون، ۱۸ قسط (سود سالانه ۲۲٪)",
+                            "short_title": "خرید اقساطی با وام",
+                            "logo": null,
+                            "name": "ازکی‌وام",
+                            "description": "دریافت وام از ازکی‌وام",
+                            "more_info_url": "https://azkivam.com/?utm_source=torob&utm_medium=pdp_badge&utm_campaign=1-mahe"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO201 برق و گاز",
+                "name2": "",
+                "shop_name": "آنیتیک",
+                "shop_name2": "تهران",
+                "shop_id": 285199,
+                "has_public_torob_profile": true,
+                "prk": "23772ae9-5497-4016-9971-755c865bd95c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=23772ae9-5497-4016-9971-755c865bd95c&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50879000,
+                "price_text": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل Io 201 گاز و برق",
+                "name2": "",
+                "shop_name": "فرا مارکت",
+                "shop_name2": "تهران",
+                "shop_id": 14191,
+                "has_public_torob_profile": true,
+                "prk": "a2fc509f-bd33-43f3-973b-be1732fd7c57",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=a2fc509f-bd33-43f3-973b-be1732fd7c57&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 50879000,
+                "price_text": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۰٫۸۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیا استیل مدل IO201",
+                "name2": "",
+                "shop_name": "خیابان بنی هاشم",
+                "shop_name2": "تهران",
+                "shop_id": 15022,
+                "has_public_torob_profile": true,
+                "prk": "3b3abf79-97d1-406e-ac2c-3f6d2c6ed74e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=3b3abf79-97d1-406e-ac2c-3f6d2c6ed74e&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 51000000,
+                "price_text": "۵۱٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۵٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال تهران در کمترین زمان\nارسال شهرستان بر اساس انتخاب مشتری به شکل های مرسوم (تیپاکس،باربری،ترمینال،پست) صورت می پذیرد \nقبل از ارسال هزینه حمل به مشتری اعلام می گردد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار گازی برقی ایلیااستیل مدل IO201",
+                "name2": "",
+                "shop_name": "سیتی سازه",
+                "shop_name2": "تهران",
+                "shop_id": 372,
+                "has_public_torob_profile": true,
+                "prk": "1696df9a-9b2a-4a0b-836b-db914f57408a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=1696df9a-9b2a-4a0b-836b-db914f57408a&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=16:1xATxq:P_N2kvlPWzgMBaOfFsooIHeuHts3o-d_523L_LQfZ6E",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 53168650,
+                "price_text": "۵۳٫۱۶۸٫۶۵۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۳٫۱۶۸٫۶۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تهران با پیک یک الی دو ساعته - دیگر شهرها با باربری یا تیپاکس یک الی دو روزه"
+                },
+                "score_info": {
+                    "score": 4.6,
+                    "score_text": "★۴.۶ (۷ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۶ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "پرداخت چکی چهار قسطه یا استفاده از نسیبا و فدک",
+                            "short_title": "امکان پرداخت چکی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/citysaze.jpg",
+                            "name": "سیتی سازه",
+                            "description": "پرداخت چکی چهار قسطه یا استفاده از نسیبا و فدک تا سقف 200 میلیون تومان",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO 201 توکار",
+                "name2": "24 ماه",
+                "shop_name": "کیچ‌ لند",
+                "shop_name2": "تهران",
+                "shop_id": 198752,
+                "has_public_torob_profile": true,
+                "prk": "95df22fa-edb8-446a-9e1c-199364eb7ac7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=95df22fa-edb8-446a-9e1c-199364eb7ac7&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 53179000,
+                "price_text": "۵۳٫۱۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۳٫۱۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای باغستان، باقرشهر، تهران، شمیرانات، شهریار، قدس، قرچک، ورامین، پرند، کرج، کهریزک با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "1-تحویل حضوری \n\n*مشتری می تواند از طریق این روش با هماهنگی با فروشگاه محصول خود را درب فروشگاه تحویل بگیرد و فروشگاه موظف است محصول را به صورت پلمپ و بسته بندی کامل تحویل مشتری دهد.\n\n2-ارسال محصولات  در شهر تهران و کرج از طریق اسنپ، تپسی ،وانت بار\n\n*هزینه ارسال  از طریق این روش با توجه به مسافت توسط اسنپ یا تپسی محاسبه می گردد . فروشگاه موظف است محصول را به صورت سالم و پلمپ تحویل اسنپ یا تپسی بدهد.\n\n3-ارسال با پیک فروشگاه\n\n*در صورت درخواست مشتری برای اطمینان بیشتر در مورد سالم تحویل دادن محصول مشتری میتواند با درخواست به فروشگاه از پیک خود فروشگاه استفاده نماید.هزینه ارسال از این طریق توسط فروشگاه به مشتری اعلام می گردد .\n\n*در صورت درخواست مشتری می توان مبلغ 10 درصد فاکتور در زمان ثبت آن اخذ گردد و مابقی زمان تحویل کالا به مشتری به صورت لحظه ای یا پل به شماره حساب اعلام شده توسط فروشگاه واریز گردد.\n\n4- ارسال به تیپاکس\n\n*هزینه ارسال توسط تیپاکس محاسبه می گردد و به محض تحویل به تیپاکس برای مشتری پیامک تحویل ارسال می گردد.\n\n*فر و ماکروفر از طریق تیپاکس ارسال نمی شوند.\n\n*هزینه ارسال درون شهری از فروشگاه تا تیپاکس به ازای هر محصول مبلغ 450 هزار تومان می باشد که روی فاکتور محاسبه می گردد.\n\n5-ارسال به باربری\n\n*هزینه ارسال به شهر های مختلف  توسط باربری مربوطه به صورت پس کرایه محاسبه می گردد .\n\n*هزینه ارسال درون شهری از فروشگاه تا باربری مربوطه برای اقلام سینک،هود،گاز به ازای هر محصول 800 هزار تومان و برای اقلام فر و ماکروفر به ازای هر محصول یک میلیون تومان می باشد که روی فاکتور محاسبه می گردد.\n\n6-ارسال رایگان محصولات برند مسترهوم\n\n*در صورت سفارش حداقل 2 قلم از محصولات مسترهوم(هود و گاز) ارسال درب منزل در تهران و کرج و ارسال تا تیپاکس برای شهرستان رایگان بوده و از طرف فروشگاه پرداخت می شود.\n\n*نکات قابل توجه*\n\n1-فروشگاه موظف است در تحویل حضوری محصولات را با بسته بندی سالم و پلمپ تحویل مشتری بدهد.\n\n2-از آنجایی که تمامی محصولات دارای گارانتی شرکتی می باشد مشتری موظف است از طریق ارتباط با شرکت ارائه دهنده گارانتی  برای باز کردن پلمپ محصول، نصب ، راه اندازی و گارانتی محصولات اقدام نماید. در غیر اینصورت تمامی عواقب آن برعهده مشتری می باشد.\n\nدر روش های ارسال از طریق تپسی ، اسنپ، باربری و تیپاکس فروشگاه موظف است محصول را به صورت سالم تحویل گیرنده مربوطه ( تپسی ، اسنپ، باربری و تیپاکس) بدهد و فروشگاه بعد از تحویل و خروج کالا از انبار  مسئولیتی در قبال  آن ندارد و در صورت بروز مشکل پیگیری آن از طریق  تپسی ، اسنپ، باربری و تیپاکس از سمت مشتری صورت می گیرد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیااستیل مدل IO201 گاز و برق",
+                "name2": "اصل",
+                "shop_name": "ارتونا",
+                "shop_name2": "تهران",
+                "shop_id": 66292,
+                "has_public_torob_profile": true,
+                "prk": "cf2e9def-40e7-4d49-9d1f-da8fc428e65b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=cf2e9def-40e7-4d49-9d1f-da8fc428e65b&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=2:1xATxq:Ik0PyTBB3SX5KWF901Wl-kp7U8aN44ixG2VDWY2YI0k",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55880000,
+                "price_text": "۵۵٫۸۸۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۸۸۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه و نحوه ارسال\nدر سرتاسر کشور سفارش‌‏ها از طریق باربری ارسال می‌‏شوند و جهت دریافت بار از باربری با شما هماهنگی لازم صورت خواهد گرفت.\nهزینه‏ ارسال بار به شهرستان براساس مصوبه بارنامه های بین شهری در باربری های کشور محاسبه و قابل پرداخت است. \n\nدر خصوص هزینه ارسال درون شهری بابت سفارش های داخل شهر تهران بصورت موردی و بسته به ادرس مشتری متغیر است که پس از ثبت سفارش مشخص و هماهنگی آن صورت می پذیرد.\nزمان رسیدن بار پس از تحویل به باربری ، بر اساس محدوده جغرافیایی از 24 تا 72 ساعت کاری متغیر است، بنابراین روز رسیدن سفارش با توجه به خدمات باربری بصورت حدودی مشخص است و در خصوص ساعت  آن نیز نمی‏‌توان به طور دقیق اظهارنظر کرد.\nهمه سفارش‌‏ها پس از طی مراحل پردازش انبار، در هر روز هفته تحویل باربری استان مربوطه شده تا در اسرع وقت ارسال شوند.\n\nهزینه ارسال بار به شهرستان و حتی داخل تهران بصورت پس کرایه و برعهده خریدار می باشد\nاز آنجا که فروشگاه لوازم خانگی ارتونا یک فروشگاه حضوری و اینترنتی است  تحویل حضوری سفارش در محل فروشگاه لوازم خانگی ارتونا با رعایت ساعت کاری فروشگاه و همچنین در نظر گرفتن شلوغی محل فروشگاه ، امکان‌پذیر می باشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۸ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO201 برق و گاز",
+                "name2": "",
+                "shop_name": "گرانیا",
+                "shop_name2": "تهران",
+                "shop_id": 70256,
+                "has_public_torob_profile": true,
+                "prk": "f18bd592-4903-462f-bf7a-38672383f82c",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=f18bd592-4903-462f-bf7a-38672383f82c&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55967000,
+                "price_text": "۵۵٫۹۶۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۹۶۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳ تا ۵ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیااستیل IO201",
+                "name2": "",
+                "shop_name": "آزادگان",
+                "shop_name2": "تهران",
+                "shop_id": 16255,
+                "has_public_torob_profile": true,
+                "prk": "53d35954-5d46-4bb1-9f2c-f98b2e1561d3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=53d35954-5d46-4bb1-9f2c-f98b2e1561d3&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55967000,
+                "price_text": "۵۵٫۹۶۷٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۹۶۷٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیا استیل مدل IO-201",
+                "name2": "",
+                "shop_name": "شهر کاشی کریمی",
+                "shop_name2": "کاشان",
+                "shop_id": 89534,
+                "has_public_torob_profile": true,
+                "prk": "4473de5d-5f1c-491b-9cc1-cdbf576499d8",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=4473de5d-5f1c-491b-9cc1-cdbf576499d8&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 55969000,
+                "price_text": "۵۵٫۹۶۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۵٫۹۶۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳ تا ۵ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل IO 201",
+                "name2": "گارانتی 18 ماهه",
+                "shop_name": "تجهیزات آشپزخانه حلما",
+                "shop_name2": "تهران",
+                "shop_id": 32640,
+                "has_public_torob_profile": true,
+                "prk": "debddf92-7e49-40ff-a898-367e1e6637a0",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=debddf92-7e49-40ff-a898-367e1e6637a0&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&installment=73:1xATxq:aqLQTisvAyeJ_TKHfheOiGjsBEht_Lwx6J5QpfJRX14",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 59121763,
+                "price_text": "۵۹٫۱۲۱٫۷۶۳ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۹٫۱۲۱٫۷۶۳ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "دارای شرایط متنوع پرداخت اقساطی",
+                            "short_title": "خرید قسطی با چک صیادی",
+                            "logo": "https://storage3.torob.com/backend-api/internet_shop/logos/6552b81036c8.png",
+                            "name": "تجهیزات آشپزخانه حلما",
+                            "description": "پیش پرداخت حداقل بیست درصد+مابقی تسویه طی سه قسط با فاصله یک ماهه",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیااستیل IO201",
+                "name2": "",
+                "shop_name": "دلتون",
+                "shop_name2": "کرج",
+                "shop_id": 32328,
+                "has_public_torob_profile": true,
+                "prk": "727b02a8-e069-4fe5-885a-deb22e6d8800",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=727b02a8-e069-4fe5-885a-deb22e6d8800&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 21000000,
+                "price_text": "۲۱٫۰۰۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۲۱٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۵٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": "امکان ارسال کمتر از دوساعت در تهران کرج مازندران مشهد اصفهان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر توکار ایلیا استیل مدل IO 201 برقی و گازی",
+                "name2": "",
+                "shop_name": "کلینیک آشپزخانه دانش",
+                "shop_name2": "اصفهان",
+                "shop_id": 84237,
+                "has_public_torob_profile": true,
+                "prk": "31be8e84-e1b3-4dd8-ba2e-d88e18ab7396",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=31be8e84-e1b3-4dd8-ba2e-d88e18ab7396&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 48335050,
+                "price_text": "۴۸٫۳۳۵٫۰۵۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۴۸٫۳۳۵٫۰۵۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "نکته مهم : ارسال کالا برای شهر اصفهان رایگان میباشد. برای شهرهای به غیر از اصفهان، هزینه تا باربری رایگان و هزینه ارسال به عهده خریدار میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "فر ایلیا استیل مدل IO201 برق و گاز",
+                "name2": "18 ماه گارانتی فر ایلیا استیل",
+                "shop_name": "سینک گرانیتی",
+                "shop_name2": "مامونیه",
+                "shop_id": 5173,
+                "has_public_torob_profile": true,
+                "prk": "f8657dee-7487-4e1a-82c3-04b7c80884db",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=f8657dee-7487-4e1a-82c3-04b7c80884db&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 49250960,
+                "price_text": "۴۹٫۲۵۰٫۹۶۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۴۹٫۲۵۰٫۹۶۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰٫۰۰۰٫۰۰۰ تومان",
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال رایگان برای سینک گرانیتی، محصولات آلتون و داتیس از طریق باربری، تیپاکس و پیک"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ساعت پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435122",
+        "count": 46,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&suid=01a0de3fc5b47211a17ef61c41c8b6e8&cities=&province=&algorithm=text_similarity&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&list_type=products_info&seed=1790435122"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435122",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&cities=&province=&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&list_type=products_in_store_info&seed=1790435122&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&source=next_desktop&discover_method=search&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&seed=1790435122&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&source=next_desktop&discover_method=search&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&seed=1790435122&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۵۰٫۸۷۹٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۳۸٫۱۵۹٫۲۵۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۳۸٫۱۵۹٫۲۵۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۳۸٫۱۵۹٫۲۵۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de3fc5b47211a17ef61c41c8b6e8&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&cities=&province=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&algorithm=text_similarity&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&no_log=true&seed=1790435122",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&base_id=2342995&source=next_desktop&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8"
+    },
+    "min_price": 38159250,
+    "max_price": 59121763,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 129,
+            "title": "لوازم آشپزخانه",
+            "url": "/browse/129/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87-kitchen-equipment/",
+            "cat_id": 129,
+            "brand_id": null
+        },
+        {
+            "id": 2519,
+            "title": "اجاق و لوازم پخت و پز",
+            "url": "/browse/2519/%D8%A7%D8%AC%D8%A7%D9%82-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%BE%D8%AE%D8%AA-%D9%88-%D9%BE%D8%B2/",
+            "cat_id": 2519,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "فر برقی و گازی",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/",
+            "cat_id": 2520,
+            "brand_id": null
+        },
+        {
+            "id": 2520,
+            "title": "ایلیا استیل (Ilia Steel)",
+            "url": "/browse/2520/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C-%D9%88-%DA%AF%D8%A7%D8%B2%DB%8C/b/2928/ilia-steel-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84/",
+            "cat_id": 2520,
+            "brand_id": 2928
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "مدل": "IO 201",
+                    "نام تجاری": "ایلیا استیل",
+                    "دسته بندی برند": "ایرانی",
+                    "نوع فر": "برقی",
+                    "رنگ": "مشکی",
+                    "ابعاد محصول": "57*59*59.3 سانتیمتر",
+                    "تعداد برنامه پخت": "6 برنامه",
+                    "گنجایش دستگاه": "65 لیتر",
+                    "صفحه کنترل": "مکانیکی",
+                    "شیشه درب": "سه جداره",
+                    "گریل برقی": "دارد",
+                    "قفل کودک": "ندارد",
+                    "موتور جوجه گردان": "دارد",
+                    "ریل تلسکوپی": "دارد",
+                    "فن کانوکشن ( تنظیم کننده حرارت )": "ندارد",
+                    "قابلیت یخ زدائی": "ندارد",
+                    "سنسور پخت غذا (Meat Prob)": "ندارد",
+                    "سینی مشبک و سینی کم عمق": "دارد",
+                    "شلف تخت": "دارد",
+                    "شلف 90 درجه": "ندارد",
+                    "سنسور ایمنی و حرارت": "دارد",
+                    "سیستم خود تمیز شونده": "دارد"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "فر-توکار-ایلیا-استیل-مدل-io201-مشکی",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=f004ee68-caee-4352-a9b6-8dd24cf471cf",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f004ee68-caee-4352-a9b6-8dd24cf471cf&limit=24&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+    "torob_category": 2520,
+    "no_index": false,
+    "buy_box_price_text": "از ۳۸٫۱۵۹٫۲۵۰ تومان تا ۵۹٫۱۲۱٫۷۶۳ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=6455320e-457c-48f0-a6d1-85c5598a07cf&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از کالای ساختمانی باهات میسازه",
+    "new_buy_box_button_text2": "۳۸٫۱۵۹٫۲۵۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de3fc5b47211a17ef61c41c8b6e8&suid=01a0de3fc5b47211a17ef61c41c8b6e8&bvid=01a0de3fdc2e7437bdd0b0f213e17f0b&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&prk=6455320e-457c-48f0-a6d1-85c5598a07cf&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de3fc5b47211a17ef61c41c8b6e8&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "6455320e-457c-48f0-a6d1-85c5598a07cf",
+    "new_buy_box_source_prk": "6455320e-457c-48f0-a6d1-85c5598a07cf",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۲۷ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

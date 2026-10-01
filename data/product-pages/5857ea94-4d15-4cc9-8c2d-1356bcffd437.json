@@ -1,0 +1,228 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "5857ea94-4d15-4cc9-8c2d-1356bcffd437",
+    "name1": "آینه سرویس بهداشتی مدل سارینا کد 28",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de350f4a732985d560084e1359b9&search_id=01a0de350f4a732985d560084e1359b9&cities=&province=&init_suid=01a0de350f4a732985d560084e1359b9&algorithm=text_similarity&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437",
+    "web_client_absolute_url": "/p/5857ea94-4d15-4cc9-8c2d-1356bcffd437/%D8%A7%DB%8C%D9%86%D9%87-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7-%DA%A9%D8%AF-28/",
+    "price": 560000,
+    "price_prefix": "cheapest",
+    "price_text": "۵۶۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در تجهیزات قربانی",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&limit=24&init_suid=01a0de350f4a732985d560084e1359b9",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&discover_method=search_image_base_pdp&prev_uid=01a0de350f4a732985d560084e1359b9&init_suid=01a0de350f4a732985d560084e1359b9",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/_X/zY/_XzYZnvnYORFGyuw.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/qS/2E/qS2EvzBAMdQP-7Yx.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/5k/aC/5kaCVXsPPQr4Lkgx.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/2I/sx/2IsxkupZgYOfX0Cl.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/_X/zY/_XzYZnvnYORFGyuw.jpg",
+    "image_count": 4,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "آینه سرویس بهداشتی مدل سارینا کد 28",
+                "name2": "",
+                "shop_name": "تجهیزات قربانی",
+                "shop_name2": "مشهد",
+                "shop_id": 86559,
+                "has_public_torob_profile": true,
+                "prk": "d5d54600-66b4-45c1-83e8-e8f4e09e1377",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de350f4a732985d560084e1359b9&suid=01a0de350f4a732985d560084e1359b9&bvid=01a0de352ef37684a63eedf9260a3b33&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de350f4a732985d560084e1359b9&prk=d5d54600-66b4-45c1-83e8-e8f4e09e1377&btn=buy&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de350f4a732985d560084e1359b9",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 560000,
+                "price_text": "۵۶۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۵۶۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": "برای پیگیری سفارش با شماره 09383075791 تماس بگیرید"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰۰ تا ۴۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434422",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de350f4a732985d560084e1359b9&bvid=01a0de352ef37684a63eedf9260a3b33&suid=01a0de350f4a732985d560084e1359b9&cities=&province=&algorithm=text_similarity&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&list_type=products_info&seed=1790434422"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790434422",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de350f4a732985d560084e1359b9&cities=&province=&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&list_type=products_in_store_info&seed=1790434422&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&source=next_desktop&discover_method=search&search_id=01a0de350f4a732985d560084e1359b9&suid=01a0de350f4a732985d560084e1359b9&seed=1790434422&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&source=next_desktop&discover_method=search&search_id=01a0de350f4a732985d560084e1359b9&suid=01a0de350f4a732985d560084e1359b9&seed=1790434422&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de350f4a732985d560084e1359b9&search_id=01a0de350f4a732985d560084e1359b9&cities=&province=&init_suid=01a0de350f4a732985d560084e1359b9&algorithm=text_similarity&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&bvid=01a0de352ef37684a63eedf9260a3b33&no_log=true&seed=1790434422",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&base_id=340722843&source=next_desktop&bvid=01a0de352ef37684a63eedf9260a3b33&init_suid=01a0de350f4a732985d560084e1359b9"
+    },
+    "min_price": 560000,
+    "max_price": 560000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 149,
+            "title": "حمام و دستشویی",
+            "url": "/browse/149/%D8%AD%D9%85%D8%A7%D9%85-%D9%88-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-toilet-and-bath/",
+            "cat_id": 149,
+            "brand_id": null
+        },
+        {
+            "id": 396,
+            "title": "لوازم دستشویی",
+            "url": "/browse/396/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-bathroom-instruments/",
+            "cat_id": 396,
+            "brand_id": null
+        },
+        {
+            "id": 1614,
+            "title": "آینه و روشویی",
+            "url": "/browse/1614/%D8%A7%DB%8C%D9%86%D9%87-%D9%88-%D8%B1%D9%88%D8%B4%D9%88%DB%8C%DB%8C/",
+            "cat_id": 1614,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "اینه-سرویس-بهداشتی-مدل-سارینا-کد-28",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5857ea94-4d15-4cc9-8c2d-1356bcffd437&limit=24&init_suid=01a0de350f4a732985d560084e1359b9",
+    "torob_category": 1614,
+    "no_index": false,
+    "buy_box_price_text": "۵۶۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de350f4a732985d560084e1359b9&suid=01a0de350f4a732985d560084e1359b9&bvid=01a0de352ef37684a63eedf9260a3b33&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de350f4a732985d560084e1359b9&prk=d5d54600-66b4-45c1-83e8-e8f4e09e1377&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de350f4a732985d560084e1359b9",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از تجهیزات قربانی",
+    "new_buy_box_button_text2": "۵۶۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de350f4a732985d560084e1359b9&suid=01a0de350f4a732985d560084e1359b9&bvid=01a0de352ef37684a63eedf9260a3b33&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de350f4a732985d560084e1359b9&prk=d5d54600-66b4-45c1-83e8-e8f4e09e1377&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de350f4a732985d560084e1359b9&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "d5d54600-66b4-45c1-83e8-e8f4e09e1377",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/qS/2E/qS2EvzBAMdQP-7Yx.jpg",
+                "https://image.torob.com/base/images/5k/aC/5kaCVXsPPQr4Lkgx.jpg",
+                "https://image.torob.com/base/images/2I/sx/2IsxkupZgYOfX0Cl.jpg"
+            ]
+        }
+    ]
+}

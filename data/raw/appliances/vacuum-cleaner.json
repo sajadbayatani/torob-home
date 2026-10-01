@@ -1,0 +1,2003 @@
+{
+    "results": [
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "e375019e-864a-4e3b-8ce2-6b8586c9f15c",
+            "name1": "جارو برقی ایستاده فوما مدل FU-2378 سه کاره",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=result_adv&prk=e375019e-864a-4e3b-8ce2-6b8586c9f15c&ad=01a0dddc3f917204a4dae726874a380a&rank=0",
+            "web_client_absolute_url": "/p/e375019e-864a-4e3b-8ce2-6b8586c9f15c/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D9%81%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-fu-2378-%D8%B3%D9%87-%DA%A9%D8%A7%D8%B1%D9%87/",
+            "price": 7340000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷٫۳۴۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e375019e-864a-4e3b-8ce2-6b8586c9f15c&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=e375019e-864a-4e3b-8ce2-6b8586c9f15c&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/t_/17/t_17v1uNZvtH0Puu.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/bK/x3/bKx3gKOX9TlqmrFp.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0V/cQ/0VcQ53adh-l-tY8n.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/p9/4B/p94Bk6xFewCo3bIZ.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/M8/XM/M8XMluSKgzRNc5dl.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/t_/17/t_17v1uNZvtH0Puu.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4e47d29c-f134-4ca3-8ef2-04374ab3845b",
+            "name1": "جاروبرقی بوش مدل BGL8PRO5",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=4e47d29c-f134-4ca3-8ef2-04374ab3845b&rank=1",
+            "web_client_absolute_url": "/p/4e47d29c-f134-4ca3-8ef2-04374ab3845b/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D9%88%D8%B4-%D9%85%D8%AF%D9%84-bgl8pro5/",
+            "price": 30760000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۰٫۷۶۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۶۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4e47d29c-f134-4ca3-8ef2-04374ab3845b&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4e47d29c-f134-4ca3-8ef2-04374ab3845b&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/X2/_N/X2_NTrhQG96SjLnQ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/X2/_N/X2_NTrhQG96SjLnQ.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "fe103329-28b3-4c82-a9b0-04698ab7812a",
+            "name1": "جاروبرقی پارس خزر مدل Turbo 2500WB",
+            "name1_max_lines": 3,
+            "name2": "Pars Khazar Turbo 2500WB Vacuum Cleaner",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=fe103329-28b3-4c82-a9b0-04698ab7812a&rank=2",
+            "web_client_absolute_url": "/p/fe103329-28b3-4c82-a9b0-04698ab7812a/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-turbo-2500wb/",
+            "price": 21000000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۱٫۰۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۱۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=fe103329-28b3-4c82-a9b0-04698ab7812a&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=fe103329-28b3-4c82-a9b0-04698ab7812a&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/xF/nf/xFnfNT_NDK0OfNwA.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/xF/nf/xFnfNT_NDK0OfNwA.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "bda332ce-a322-4bf3-b1fd-c413dc3e9a69",
+            "name1": "جاروبرقی بوش سری گلد مدل BGL8GOLDIR",
+            "name1_max_lines": 3,
+            "name2": "Bosch Vacuum Cleaner BGL8GOLDIR",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=bda332ce-a322-4bf3-b1fd-c413dc3e9a69&rank=3",
+            "web_client_absolute_url": "/p/bda332ce-a322-4bf3-b1fd-c413dc3e9a69/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D9%88%D8%B4-%D8%B3%D8%B1%DB%8C-%DA%AF%D9%84%D8%AF-%D9%85%D8%AF%D9%84-bgl8goldir/",
+            "price": 31450000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۱٫۴۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۸۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=bda332ce-a322-4bf3-b1fd-c413dc3e9a69&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=bda332ce-a322-4bf3-b1fd-c413dc3e9a69&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/R5/M-/R5M-qFKyilqJ9eup.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/x1/24/x124-QN-iIS6Hkrl.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Y3/ot/Y3otsz4TXmlyaDhu.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/R5/M-/R5M-qFKyilqJ9eup.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "cecedb85-6d53-48bc-a0c2-96265d8b3578",
+            "name1": "جاروبرقی 2200 وات اصلی فیلیپس مدل XD8022 مونتاژ اروپا ( لهستان‌ )",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=cecedb85-6d53-48bc-a0c2-96265d8b3578&rank=4",
+            "web_client_absolute_url": "/p/cecedb85-6d53-48bc-a0c2-96265d8b3578/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-2200-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-xd8022-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86/",
+            "price": 30800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۰٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۵۵ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=cecedb85-6d53-48bc-a0c2-96265d8b3578&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=cecedb85-6d53-48bc-a0c2-96265d8b3578&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/zq/iJ/zqiJ8UtTQ5LbDhnG.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Pt/64/Pt64cPQ1vFuo14_r.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/cf/7r/cf7rQUu88GzfS0bV.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Kf/YH/KfYHhJS5PbB0Id5Y.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Kq/Hz/KqHz_xCLp20B8hDc.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/zq/iJ/zqiJ8UtTQ5LbDhnG.jpg",
+            "image_count": 5,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "97e799a3-557c-40e5-9214-349a8e56c14a",
+            "name1": "جارو برقی آ ا گ مدل VX82-1-ÖKO",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=97e799a3-557c-40e5-9214-349a8e56c14a&rank=5",
+            "web_client_absolute_url": "/p/97e799a3-557c-40e5-9214-349a8e56c14a/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7-%D8%A7-%DA%AF-%D9%85%D8%AF%D9%84-vx82-1-oko/",
+            "price": 20980000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۰٫۹۸۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۸۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=97e799a3-557c-40e5-9214-349a8e56c14a&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=97e799a3-557c-40e5-9214-349a8e56c14a&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ab/pX/abpXtgVa2v1jF8By.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ho/hP/HohPckcGZC9YGPcI.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ab/pX/abpXtgVa2v1jF8By.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "e4de62b5-267e-4788-9e34-cb41e2c7b1b5",
+            "name1": "جارو عصایی گوسونیک مدل GSV-1118",
+            "name1_max_lines": 3,
+            "name2": "Gosonic Stick Vacuum Cleaner GSV-1118",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=e4de62b5-267e-4788-9e34-cb41e2c7b1b5&rank=6",
+            "web_client_absolute_url": "/p/e4de62b5-267e-4788-9e34-cb41e2c7b1b5/%D8%AC%D8%A7%D8%B1%D9%88-%D8%B9%D8%B5%D8%A7%DB%8C%DB%8C-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-gsv-1118/",
+            "price": 5700000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۵٫۷۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۰۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=e4de62b5-267e-4788-9e34-cb41e2c7b1b5&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=e4de62b5-267e-4788-9e34-cb41e2c7b1b5&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Cm/6P/Cm6PrfeSlBJlKAbv.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Cm/6P/Cm6PrfeSlBJlKAbv.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f72bff7e-b99c-4176-a197-3bdc221da115",
+            "name1": "جارو برقی پاکشوما 2500W مدل PVC_5125",
+            "name1_max_lines": 3,
+            "name2": "Pakshoma Vacuum Cleaner PVC_5125",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=f72bff7e-b99c-4176-a197-3bdc221da115&rank=7",
+            "web_client_absolute_url": "/p/f72bff7e-b99c-4176-a197-3bdc221da115/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-2500w-%D9%85%D8%AF%D9%84-pvc_5125/",
+            "price": 15500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۵٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f72bff7e-b99c-4176-a197-3bdc221da115&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f72bff7e-b99c-4176-a197-3bdc221da115&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/o_/4o/o_4okkwrI0-cT7dx.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Yc/c1/Ycc1xQG-MyE1Nr2t.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ao/7a/ao7asuIrDisORuMs.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-q/jM/-qjM0ksdc6vchn7y.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0u/E7/0uE7fmHcfjkmHHwS.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/WL/0w/WL0wKYTKx3raGjDM.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/o_/4o/o_4okkwrI0-cT7dx.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "32ab39e5-697f-4e1c-817e-29015db6fc08",
+            "name1": "جارو برقی مخزنی سامسونگ مدل 4570",
+            "name1_max_lines": 3,
+            "name2": "4570",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=32ab39e5-697f-4e1c-817e-29015db6fc08&rank=8",
+            "web_client_absolute_url": "/p/32ab39e5-697f-4e1c-817e-29015db6fc08/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%85%D8%AE%D8%B2%D9%86%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-4570/",
+            "price": 17390000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۷٫۳۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=32ab39e5-697f-4e1c-817e-29015db6fc08&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=32ab39e5-697f-4e1c-817e-29015db6fc08&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hW/NO/hWNO5e0dZZwwLesm.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/fY/OY/fYOYHRKP3K_HAYis.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/lx/62/lx6225uMjdl5m_vD.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/yW/MJ/yWMJCY7NgSB7cJ2w.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/59/9Y/599YlYNJT3P1aiy6.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/FK/vH/FKvHNqZJXX6QL2ne.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hZ/NZ/hZNZ_UkC3fYwIraW.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/hW/NO/hWNO5e0dZZwwLesm.webp",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "61134a7f-c934-49b4-a158-e5580cc8b06e",
+            "name1": "جاروبرقی آاگ مدل AB81A2DG",
+            "name1_max_lines": 3,
+            "name2": "AAG smart vacuum cleaner model ab81a2dg",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=61134a7f-c934-49b4-a158-e5580cc8b06e&rank=9",
+            "web_client_absolute_url": "/p/61134a7f-c934-49b4-a158-e5580cc8b06e/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%A7%DA%AF-%D9%85%D8%AF%D9%84-ab81a2dg/",
+            "price": 30900000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۰٫۹۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۸۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=61134a7f-c934-49b4-a158-e5580cc8b06e&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=61134a7f-c934-49b4-a158-e5580cc8b06e&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/rd/ef/rdefzEa7OZRLkH95.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/4B/85/4B85DfLGyuAGuamD.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Bz/W5/BzW58lUz1UFlJ76y.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/at/kV/atkVPmlsCQcFrQb4.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ae/pT/aepTX9MSMaJtu9gW.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/KG/aR/KGaRolPaEbNELJKp.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/MN/PM/MNPMDOdR1n6Odhws.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/rd/ef/rdefzEa7OZRLkH95.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b5c037cc-1682-4b7e-a200-c09e36900470",
+            "name1": "جارو برقی روسو مدل Progressive ظرفیت ۳۰۰۰ وات",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=result_adv&prk=b5c037cc-1682-4b7e-a200-c09e36900470&ad=01a0dddc3f9271a9befeecc091448191&rank=10",
+            "web_client_absolute_url": "/p/b5c037cc-1682-4b7e-a200-c09e36900470/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%B1%D9%88%D8%B3%D9%88-%D9%85%D8%AF%D9%84-progressive-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-3000-%D9%88%D8%A7%D8%AA/",
+            "price": 14210000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۴٫۲۱۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۳ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": true,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b5c037cc-1682-4b7e-a200-c09e36900470&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b5c037cc-1682-4b7e-a200-c09e36900470&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Km/cC/KmcCpt-25WQQXj-y.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/vo/OV/voOVjqTbsm4kEJB3.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/UL/Bk/ULBk6ccvj62rHtN3.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Km/cC/KmcCpt-25WQQXj-y.jpg",
+            "image_count": 3,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "03ef5c25-39d7-4e78-bd90-b0ca86e3cd81",
+            "name1": "جارو برقی پاناسونیک مدل MC-CG713 قدرت ۲۰۰۰ وات",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=03ef5c25-39d7-4e78-bd90-b0ca86e3cd81&rank=11",
+            "web_client_absolute_url": "/p/03ef5c25-39d7-4e78-bd90-b0ca86e3cd81/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%D9%86%D8%A7%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-mc-cg713-%D9%82%D8%AF%D8%B1%D8%AA-2000-%D9%88%D8%A7%D8%AA/",
+            "price": 23500000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۳٫۵۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۷۸ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=03ef5c25-39d7-4e78-bd90-b0ca86e3cd81&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=03ef5c25-39d7-4e78-bd90-b0ca86e3cd81&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/RM/4w/RM4wDeyaUp_siDzf.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/RM/4w/RM4wDeyaUp_siDzf.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "d576b511-7dc5-49fe-80a6-be4a1a1b54de",
+            "name1": "جاروبرقی 2200 وات پارس خزر بدنه کروم مدل 2200W با 25 ماه گارانتی",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=d576b511-7dc5-49fe-80a6-be4a1a1b54de&rank=12",
+            "web_client_absolute_url": "/p/d576b511-7dc5-49fe-80a6-be4a1a1b54de/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-2200-%D9%88%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D8%A8%D8%AF%D9%86%D9%87-%DA%A9%D8%B1%D9%88%D9%85-%D9%85%D8%AF%D9%84-2200w-%D8%A8%D8%A7-25-%D9%85%D8%A7%D9%87-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C/",
+            "price": 14999000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۴٫۹۹۹٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۸۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=d576b511-7dc5-49fe-80a6-be4a1a1b54de&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=d576b511-7dc5-49fe-80a6-be4a1a1b54de&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/m3/zI/m3zIk6FJsduUxein.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/m3/zI/m3zIk6FJsduUxein.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "67ac3038-6596-4691-beae-2bc9794cdded",
+            "name1": "جارو برقی پارس خزر مدل TURBO 2500WS",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=67ac3038-6596-4691-beae-2bc9794cdded&rank=13",
+            "web_client_absolute_url": "/p/67ac3038-6596-4691-beae-2bc9794cdded/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D9%85%D8%AF%D9%84-turbo-2500ws/",
+            "price": 20433000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۰٫۴۳۳٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۷۰ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=67ac3038-6596-4691-beae-2bc9794cdded&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=67ac3038-6596-4691-beae-2bc9794cdded&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ql/Mo/QlMoEcOjbw1k7vOG.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/OJ/CZ/OJCZwa60iDFuY34g.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Ql/Mo/QlMoEcOjbw1k7vOG.jpg",
+            "image_count": 2,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "b042ff38-db8a-416c-b9d5-465845b1e07d",
+            "name1": "جاروبرقی فیلیپس مدل XD8052",
+            "name1_max_lines": 3,
+            "name2": "philips XD8052 vacuum cleaner",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=b042ff38-db8a-416c-b9d5-465845b1e07d&rank=14",
+            "web_client_absolute_url": "/p/b042ff38-db8a-416c-b9d5-465845b1e07d/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-xd8052/",
+            "price": 28200000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۸٫۲۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۳۱ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=b042ff38-db8a-416c-b9d5-465845b1e07d&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=b042ff38-db8a-416c-b9d5-465845b1e07d&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/dI/oe/dIoeh-4qBZ-8oPL9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ll/36/Ll36hYzCQO12lFL4.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/eJ/Mz/eJMzb4bCSK-seZTC.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Y5/_W/Y5_W69uKNRo8qjPI.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ZP/L0/ZPL046nVROrIqPPS.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/cn/TA/cnTATZbhH2ZGdXF5.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/uS/Wh/uSWheDyvu-sKZRre.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/dI/oe/dIoeh-4qBZ-8oPL9.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "f0ac3d89-ae16-454c-8ce3-1213655a9f5f",
+            "name1": "جارو برقی ناسیونال مدل LB2040 ظرفیت ۲۴۰۰ وات",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=f0ac3d89-ae16-454c-8ce3-1213655a9f5f&rank=15",
+            "web_client_absolute_url": "/p/f0ac3d89-ae16-454c-8ce3-1213655a9f5f/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84-%D9%85%D8%AF%D9%84-lb2040-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2400-%D9%88%D8%A7%D8%AA/",
+            "price": 9200000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۹٫۲۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۶ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=f0ac3d89-ae16-454c-8ce3-1213655a9f5f&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=f0ac3d89-ae16-454c-8ce3-1213655a9f5f&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Yh/kw/YhkwFCChlFj1eJcs.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Gt/Oa/GtOaegUexk2ehxC9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3u/rT/3urT7UB9rBDPZdN9.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/5h/e8/5he8wDSuVVPa4KNh.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/z_/g3/z_g32fRe0xqQmEQc.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l8/-W/l8-W0zqk65HqAro5.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Yh/kw/YhkwFCChlFj1eJcs.jpg",
+            "image_count": 6,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "a9d46dc0-31b7-49be-ae5d-b55fa674c4f7",
+            "name1": "جاروبرقی دوو مدل DVC-S22",
+            "name1_max_lines": 3,
+            "name2": "Daewoo Vacuum Cleaner DVC-S22",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=a9d46dc0-31b7-49be-ae5d-b55fa674c4f7&rank=16",
+            "web_client_absolute_url": "/p/a9d46dc0-31b7-49be-ae5d-b55fa674c4f7/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-dvc-s22/",
+            "price": 21580000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۱٫۵۸۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۵۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a9d46dc0-31b7-49be-ae5d-b55fa674c4f7&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=a9d46dc0-31b7-49be-ae5d-b55fa674c4f7&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ge/28/ge28sNC2Q64SzlC3.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Ds/Sh/DsSh2Qxy0V72DomK.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Am/Dx/AmDxqLk1LRxbiiBq.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tT/jy/tTjyqCHBd3jOalj7.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sQ/sq/sQsqXxIcDnH4Lxxv.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ww/kN/wwkNSwiaACSybw-Z.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sw/Ov/swOvGk-M1KGqhCjS.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/ge/28/ge28sNC2Q64SzlC3.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "dd33fbbf-d0f7-42f7-a351-6b3515aba34e",
+            "name1": "جاروبرقی با پاکت سایا مدل فوتون",
+            "name1_max_lines": 3,
+            "name2": "SAYA FOTUN Vacuum Cleaner",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=dd33fbbf-d0f7-42f7-a351-6b3515aba34e&rank=17",
+            "web_client_absolute_url": "/p/dd33fbbf-d0f7-42f7-a351-6b3515aba34e/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DA%A9%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-%D9%81%D9%88%D8%AA%D9%88%D9%86/",
+            "price": 10544000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۰٫۵۴۴٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=dd33fbbf-d0f7-42f7-a351-6b3515aba34e&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=dd33fbbf-d0f7-42f7-a351-6b3515aba34e&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jD/1I/jD1IFQSoTLo7BWsA.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jD/1I/jD1IFQSoTLo7BWsA.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "293649ec-2cfa-4053-8d99-3664b4e25f0a",
+            "name1": "جاروبرقی آاگ مدل VX82-1-ALR",
+            "name1_max_lines": 3,
+            "name2": "AEG",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=293649ec-2cfa-4053-8d99-3664b4e25f0a&rank=18",
+            "web_client_absolute_url": "/p/293649ec-2cfa-4053-8d99-3664b4e25f0a/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%A7%DA%AF-%D9%85%D8%AF%D9%84-vx82-1-alr/",
+            "price": 24360000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۲۴٫۳۶۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۱۲ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=293649ec-2cfa-4053-8d99-3664b4e25f0a&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=293649ec-2cfa-4053-8d99-3664b4e25f0a&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/sL/25/sL25V53kuWKlJQeU.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/9p/6m/9p6m8_FuQbPqeOmx.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Kx/Nn/KxNn2QwVqo4cTjqw.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Q5/hb/Q5hbkc1D0gh7mHvF.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/P6/wU/P6wUxL4L8SVOKOpL.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/1F/IJ/1FIJFjtG1birGKcr.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nU/l0/nUl0HssyRkQtb-Eu.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/sL/25/sL25V53kuWKlJQeU.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "902f2b41-8b85-4e9e-b66d-7379848ac148",
+            "name1": "جارو برقی پاکشوما مدل PVC-5015 ظرفیت ۲۵۰۰ وات",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=902f2b41-8b85-4e9e-b66d-7379848ac148&rank=19",
+            "web_client_absolute_url": "/p/902f2b41-8b85-4e9e-b66d-7379848ac148/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-pvc-5015-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-2500-%D9%88%D8%A7%D8%AA/",
+            "price": 16980000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۶٫۹۸۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=902f2b41-8b85-4e9e-b66d-7379848ac148&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=902f2b41-8b85-4e9e-b66d-7379848ac148&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/am/u7/amu7SIq2-vYt2Hyl.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/rY/rn/rYrnv--xxiB-082D.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Zj/4A/Zj4ALh8-5RHh3hon.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/AV/QC/AVQCs9f4SeGpSYJe.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jW/Tk/jWTkJslROnTjdyKx.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/3G/Ug/3GUgTUfc1nkIaWpd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/tR/qe/tRqe04iuijk-SbXU.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/am/u7/amu7SIq2-vYt2Hyl.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "530cfb45-6431-47f1-98ec-4ca3087c3241",
+            "name1": "جارو برقی سایا مدل مرلین بدون پاکت",
+            "name1_max_lines": 3,
+            "name2": "Saya Vacuum Cleaner Merlin",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=530cfb45-6431-47f1-98ec-4ca3087c3241&rank=20",
+            "web_client_absolute_url": "/p/530cfb45-6431-47f1-98ec-4ca3087c3241/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D8%B3%D8%A7%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-%D9%85%D8%B1%D9%84%DB%8C%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%A7%DA%A9%D8%AA/",
+            "price": 6990000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۶٫۹۹۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۶۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=530cfb45-6431-47f1-98ec-4ca3087c3241&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=530cfb45-6431-47f1-98ec-4ca3087c3241&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/FE/Um/FEUmr85HcgL0nlKE.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/FE/Um/FEUmr85HcgL0nlKE.jpg",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "5ed0e9db-7875-4662-afff-091ef02c4c0a",
+            "name1": "جارو برقی فیلیپس مدل FC9170",
+            "name1_max_lines": 3,
+            "name2": "Philips Vacuum cleaner FC9170",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&rank=21",
+            "web_client_absolute_url": "/p/5ed0e9db-7875-4662-afff-091ef02c4c0a/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-fc9170/",
+            "price": 33850000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۳۳٫۸۵۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۴۴ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=5ed0e9db-7875-4662-afff-091ef02c4c0a&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/wL/o1/wLo1vgFV4eHLDAlB.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/CE/RF/CERFhoCzurSO_xXD.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/ov/Uv/ovUv7gHtsXXGXhj_.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/w5/Cf/w5Cf_ZOofgECiFq_.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/wL/o1/wLo1vgFV4eHLDAlB.jpg",
+            "image_count": 4,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4fcf2070-f143-4393-9d1d-6481e02a562a",
+            "name1": "جاروبرقی هیتاچی مدل CV-9800YJ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=4fcf2070-f143-4393-9d1d-6481e02a562a&rank=22",
+            "web_client_absolute_url": "/p/4fcf2070-f143-4393-9d1d-6481e02a562a/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C-%D9%85%D8%AF%D9%84-cv-9800yj/",
+            "price": 41073000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۴۱٫۰۷۳٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۹ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4fcf2070-f143-4393-9d1d-6481e02a562a&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4fcf2070-f143-4393-9d1d-6481e02a562a&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/jN/h6/jNh6reCZpU0J31MZ.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/jN/h6/jNh6reCZpU0J31MZ.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": true
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "0f24eec8-17e4-4a70-a192-649f9b17d90d",
+            "name1": "جاروبرقی هیتاچی مدل CV-9800YJ",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=authentic_injection&prk=0f24eec8-17e4-4a70-a192-649f9b17d90d&rank=23",
+            "web_client_absolute_url": "/p/0f24eec8-17e4-4a70-a192-649f9b17d90d/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C-%D9%85%D8%AF%D9%84-cv-9800yj/",
+            "price": 7980000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷٫۹۸۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۲۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=0f24eec8-17e4-4a70-a192-649f9b17d90d&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=0f24eec8-17e4-4a70-a192-649f9b17d90d&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/0u/N3/0uN3pbx42BQIfp_A.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/0u/N3/0uN3pbx42BQIfp_A.webp",
+            "image_count": 1,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "241fec8c-f1eb-4e6c-bf86-2aaff21a3fb7",
+            "name1": "جارو برقی فیلیپس مدل JH6104 قدرت ۱۲۰۰ وات",
+            "name1_max_lines": 3,
+            "name2": "",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=241fec8c-f1eb-4e6c-bf86-2aaff21a3fb7&rank=24",
+            "web_client_absolute_url": "/p/241fec8c-f1eb-4e6c-bf86-2aaff21a3fb7/%D8%AC%D8%A7%D8%B1%D9%88-%D8%A8%D8%B1%D9%82%DB%8C-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-jh6104-%D9%82%D8%AF%D8%B1%D8%AA-1200-%D9%88%D8%A7%D8%AA/",
+            "price": 7800000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۷٫۸۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=241fec8c-f1eb-4e6c-bf86-2aaff21a3fb7&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=241fec8c-f1eb-4e6c-bf86-2aaff21a3fb7&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Fy/s8/Fys8TZTSVVRCMwv0.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/My/SN/MySNm0RNv8n_7cOq.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/XD/s2/XDs2uCwQ-NO7XzKy.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/c6/Xm/c6Xm3lAEYhlQYNRd.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Da/y2/Day2C1ZHtfCwNyyf.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/l-/cW/l-cWILH-kjIygvOR.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/_3/PX/_3PXuj5sQVRh0iy6.jpg"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Fy/s8/Fys8TZTSVVRCMwv0.jpg",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": false,
+            "is_authentic": false
+        },
+        {
+            "badges": [],
+            "discount_info": [],
+            "random_key": "4aad1694-0728-4cba-9b67-a64e4935d4bc",
+            "name1": "جاروبرقی با پاکت پارس خزر توربو 2000",
+            "name1_max_lines": 3,
+            "name2": "Pars Khazar Turbo 2000 Vacuum Cleaner",
+            "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search_autocomplete&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&search_id=01a0dddc3d9977be92529277f91bbf25&cities=&province=&init_suid=01a0dddc3d9977be92529277f91bbf25&algorithm=rerank&prk=4aad1694-0728-4cba-9b67-a64e4935d4bc&rank=25",
+            "web_client_absolute_url": "/p/4aad1694-0728-4cba-9b67-a64e4935d4bc/%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1-%D8%AA%D9%88%D8%B1%D8%A8%D9%88-2000/",
+            "price": 13400000,
+            "price_prefix": "cheapest",
+            "price_text": "از ۱۳٫۴۰۰٫۰۰۰ تومان",
+            "price_text_mode": "active",
+            "shop_text": "در ۱۰۷ فروشگاه",
+            "stock_status": "",
+            "delivery_city_name": null,
+            "delivery_city_flag": null,
+            "is_adv": false,
+            "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=4aad1694-0728-4cba-9b67-a64e4935d4bc&limit=24&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=4aad1694-0728-4cba-9b67-a64e4935d4bc&discover_method=search_image_base&prev_uid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+            "card_type": "cover-img",
+            "estimated_sell": "",
+            "media_urls": [
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Vf/b_/Vfb_2AC_tsOozxIj.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/nX/ba/nXbaqaLk0r7JBdLZ.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/hB/MT/hBMTiNpHQQg9p_g1.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/de/r1/der1ayC72nmyYejF.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/Nn/_8/Nn_8tUhPyrnUuhGK.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/O5/7W/O57W0-d7jqzIfwn7.webp"
+                },
+                {
+                    "type": "image",
+                    "url": "https://image.torob.com/base/images/-U/18/-U18dCtDEImc_F8A.webp"
+                }
+            ],
+            "image_url": "https://image.torob.com/base/images/Vf/b_/Vfb_2AC_tsOozxIj.webp",
+            "image_count": 7,
+            "direct_cta": null,
+            "has_nearby_shop": false,
+            "has_wiki": true,
+            "is_authentic": false
+        }
+    ],
+    "count": 1200,
+    "max_price": 717270000,
+    "min_price": 7500,
+    "vlp_result": null,
+    "business_profile_result": null,
+    "has_visible_result": true,
+    "search_feedback": null,
+    "show_chatbot_v2_search_query_cta": false,
+    "next": "https://api.torob.com/v4/base-product/search/?page=1&sort=popularity&size=24&q=%D8%AC%D8%A7%D8%B1%D9%88+%D8%A8%D8%B1%D9%82%DB%8C&discover_method=search_autocomplete&_search_landing=header&source=next_desktop&_landing_page=home&rank_offset=26&_bt__experiment=qcr1__a&suid=01a0dddc3d9977be92529277f91bbf25&init_suid=01a0dddc3d9977be92529277f91bbf25",
+    "previous": null,
+    "canonical_url": "",
+    "spellcheck": {
+        "is_spellchecked": false,
+        "initial_query": "جارو برقی",
+        "corrected_query": ""
+    },
+    "available_filters": [],
+    "attributes": [
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 21,
+                    "slug": "philips-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3",
+                    "name1": "فیلیپس",
+                    "name2": "Philips"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 5,
+                    "slug": "samsung-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF",
+                    "name1": "سامسونگ",
+                    "name2": "Samsung"
+                },
+                {
+                    "id": 14294,
+                    "slug": "pars-khazar-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1",
+                    "name1": "پارس خزر",
+                    "name2": "Pars Khazar"
+                },
+                {
+                    "id": 5804,
+                    "slug": "pakshoma-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7",
+                    "name1": "پاکشوما",
+                    "name2": "Pakshoma"
+                },
+                {
+                    "id": 20,
+                    "slug": "panasonic-%D9%BE%D8%A7%D9%86%D8%A7%D8%B3%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "پاناسونیک",
+                    "name2": "Panasonic"
+                },
+                {
+                    "id": 247,
+                    "slug": "hitachi-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C",
+                    "name1": "هیتاچی",
+                    "name2": "Hitachi"
+                },
+                {
+                    "id": 6,
+                    "slug": "lg-%D8%A7%D9%84-%D8%AC%DB%8C",
+                    "name1": "ال جی",
+                    "name2": "LG"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": 1082,
+                    "slug": "fakir-%D9%81%DA%A9%D8%B1",
+                    "name1": "فکر",
+                    "name2": "Fakir"
+                },
+                {
+                    "id": 102,
+                    "slug": "xiaomi-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C",
+                    "name1": "شیائومی",
+                    "name2": "Xiaomi"
+                },
+                {
+                    "id": 2922,
+                    "slug": "electrolux-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "الکترولوکس",
+                    "name2": "ELECTROLUX"
+                },
+                {
+                    "id": 99,
+                    "slug": "karcher-%DA%A9%D8%B1%D8%B4%D8%B1",
+                    "name1": "کرشر",
+                    "name2": "Karcher"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 8053,
+                    "slug": "naniwa-%D9%86%D8%A7%D9%86%DB%8C%D9%88%D8%A7",
+                    "name1": "نانیوا",
+                    "name2": "Naniwa"
+                },
+                {
+                    "id": 16071,
+                    "slug": "bissell-%D8%A8%DB%8C%D8%B3%D9%84",
+                    "name1": "بیسل",
+                    "name2": "Bissell"
+                },
+                {
+                    "id": 15,
+                    "slug": "tefal-%D8%AA%D9%81%D8%A7%D9%84",
+                    "name1": "تفال",
+                    "name2": "Tefal"
+                },
+                {
+                    "id": 11916,
+                    "slug": "rosso-%D8%B1%D9%88%D8%B3%D9%88",
+                    "name1": "روسو",
+                    "name2": "rosso"
+                },
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 17,
+                    "slug": "tulips-%D8%AA%D9%88%D9%84%DB%8C%D9%BE%D8%B3",
+                    "name1": "تولیپس",
+                    "name2": "Tulips"
+                },
+                {
+                    "id": 212,
+                    "slug": "unique-%DB%8C%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "یونیک",
+                    "name2": "Unique"
+                },
+                {
+                    "id": 2949,
+                    "slug": "geepas-%D8%AC%DB%8C%D9%BE%D8%A7%D8%B3",
+                    "name1": "جیپاس",
+                    "name2": "Geepas"
+                },
+                {
+                    "id": 401,
+                    "slug": "karaca-%DA%A9%D8%A7%D8%B1%D8%A7%D8%AC%D8%A7",
+                    "name1": "کاراجا",
+                    "name2": "KARACA"
+                },
+                {
+                    "id": 4615,
+                    "slug": "x.vision-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86",
+                    "name1": "ایکس ویژن",
+                    "name2": "X.Vision"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 2189,
+                    "slug": "sam-%D8%B3%D8%A7%D9%85",
+                    "name1": "سام",
+                    "name2": "SAM"
+                },
+                {
+                    "id": 14882,
+                    "slug": "paktin-%D9%BE%D8%A7%DA%A9%D8%AA%DB%8C%D9%86",
+                    "name1": "پاکتین",
+                    "name2": "paktin"
+                },
+                {
+                    "id": 9089,
+                    "slug": "siemens-%D8%B2%DB%8C%D9%85%D9%86%D8%B3",
+                    "name1": "زیمنس",
+                    "name2": "Siemens"
+                },
+                {
+                    "id": 12035,
+                    "slug": "life-%D9%84%D8%A7%DB%8C%D9%81",
+                    "name1": "لایف",
+                    "name2": "Life"
+                },
+                {
+                    "id": 1097,
+                    "slug": "sencor-%D8%B3%D9%86%DA%A9%D9%88%D8%B1",
+                    "name1": "سنکور",
+                    "name2": "Sencor"
+                },
+                {
+                    "id": 1099,
+                    "slug": "delmonti-%D8%AF%D9%84%D9%85%D9%88%D9%86%D8%AA%DB%8C",
+                    "name1": "دلمونتی",
+                    "name2": "Delmonti"
+                },
+                {
+                    "id": 5226,
+                    "slug": "shervin-%D8%B4%D8%B1%D9%88%DB%8C%D9%86",
+                    "name1": "شروین",
+                    "name2": "shervin"
+                },
+                {
+                    "id": 2557,
+                    "slug": "midea-%D9%85%D8%A7%DB%8C%D8%AF%DB%8C%D8%A7",
+                    "name1": "مایدیا",
+                    "name2": "Midea"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 72,
+                    "slug": "kenwood-%DA%A9%D9%86%D9%88%D9%88%D8%AF",
+                    "name1": "کنوود",
+                    "name2": "Kenwood"
+                },
+                {
+                    "id": 16,
+                    "slug": "gosonic-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "گوسونیک",
+                    "name2": "Gosonic"
+                },
+                {
+                    "id": 220,
+                    "slug": "techno-%D8%AA%DA%A9%D9%86%D9%88",
+                    "name1": "تکنو",
+                    "name2": "Techno"
+                },
+                {
+                    "id": 1430,
+                    "slug": "polar-%D9%BE%D9%84%D8%A7%D8%B1",
+                    "name1": "پلار",
+                    "name2": "Polar"
+                },
+                {
+                    "id": 1767,
+                    "slug": "international-anil-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84-%D8%A7%D9%86%DB%8C%D9%84",
+                    "name1": "اینترنشنال آنیل",
+                    "name2": "International Anil"
+                },
+                {
+                    "id": 12342,
+                    "slug": "generalfit-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%81%DB%8C%D8%AA",
+                    "name1": "جنرال فیت",
+                    "name2": "generalfit"
+                },
+                {
+                    "id": 29462,
+                    "slug": "saina-%D8%B3%D8%A7%DB%8C%D9%86%D8%A7",
+                    "name1": "ساینا",
+                    "name2": "Saina"
+                },
+                {
+                    "id": 2948,
+                    "slug": "maier-%D9%85%D8%A7%DB%8C%D8%B1",
+                    "name1": "مایر",
+                    "name2": "Maier"
+                },
+                {
+                    "id": 3293,
+                    "slug": "ariete-%D8%A7%D8%B1%DB%8C%D8%AA%D9%87",
+                    "name1": "آریته",
+                    "name2": "Ariete"
+                },
+                {
+                    "id": 4182,
+                    "slug": "arcelik-%D8%A7%D8%B1%DA%86%D9%84%DB%8C%DA%A9",
+                    "name1": "آرچلیک",
+                    "name2": "Arcelik"
+                },
+                {
+                    "id": 53513,
+                    "slug": "national-%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84",
+                    "name1": "ناسیونال",
+                    "name2": "National"
+                },
+                {
+                    "id": 13594,
+                    "slug": "blanton-%D8%A8%D9%84%D8%A7%D9%86%D8%AA%D9%88%D9%86",
+                    "name1": "بلانتون",
+                    "name2": "Blanton"
+                },
+                {
+                    "id": 29266,
+                    "slug": "raf-%D8%B1%D8%A7%D9%81",
+                    "name1": "راف",
+                    "name2": "Raf"
+                },
+                {
+                    "id": 2952,
+                    "slug": "saya-%D8%B3%D8%A7%DB%8C%D8%A7",
+                    "name1": "سایا",
+                    "name2": "Saya"
+                },
+                {
+                    "id": 6816,
+                    "slug": "tiva-%D8%AA%DB%8C%D9%88%D8%A7",
+                    "name1": "تیوا",
+                    "name2": "tiva"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=203"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        }
+    ],
+    "filters1": [
+        {
+            "title": "قیمت",
+            "slug": "price",
+            "type": "price",
+            "badge_text": "",
+            "items": [
+                {
+                    "value": 7500,
+                    "slug": "price__gt"
+                },
+                {
+                    "value": 717270000,
+                    "slug": "price__lt"
+                }
+            ]
+        },
+        {
+            "title": "انتخاب برند",
+            "slug": "brand",
+            "type": "brand",
+            "badge_text": "",
+            "items": [
+                {
+                    "id": 73,
+                    "slug": "bosch-%D8%A8%D9%88%D8%B4",
+                    "name1": "بوش",
+                    "name2": "Bosch"
+                },
+                {
+                    "id": 21,
+                    "slug": "philips-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3",
+                    "name1": "فیلیپس",
+                    "name2": "Philips"
+                },
+                {
+                    "id": 222,
+                    "slug": "aeg-%D8%A7-%D8%A7-%DA%AF",
+                    "name1": "آ ا گ",
+                    "name2": "AEG"
+                },
+                {
+                    "id": 5,
+                    "slug": "samsung-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF",
+                    "name1": "سامسونگ",
+                    "name2": "Samsung"
+                },
+                {
+                    "id": 14294,
+                    "slug": "pars-khazar-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%B2%D8%B1",
+                    "name1": "پارس خزر",
+                    "name2": "Pars Khazar"
+                },
+                {
+                    "id": 5804,
+                    "slug": "pakshoma-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7",
+                    "name1": "پاکشوما",
+                    "name2": "Pakshoma"
+                },
+                {
+                    "id": 20,
+                    "slug": "panasonic-%D9%BE%D8%A7%D9%86%D8%A7%D8%B3%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "پاناسونیک",
+                    "name2": "Panasonic"
+                },
+                {
+                    "id": 247,
+                    "slug": "hitachi-%D9%87%DB%8C%D8%AA%D8%A7%DA%86%DB%8C",
+                    "name1": "هیتاچی",
+                    "name2": "Hitachi"
+                },
+                {
+                    "id": 6,
+                    "slug": "lg-%D8%A7%D9%84-%D8%AC%DB%8C",
+                    "name1": "ال جی",
+                    "name2": "LG"
+                },
+                {
+                    "id": 13362,
+                    "slug": "miele-%D9%85%DB%8C%D9%84%D9%87",
+                    "name1": "میله",
+                    "name2": "Miele"
+                },
+                {
+                    "id": 1082,
+                    "slug": "fakir-%D9%81%DA%A9%D8%B1",
+                    "name1": "فکر",
+                    "name2": "Fakir"
+                },
+                {
+                    "id": 102,
+                    "slug": "xiaomi-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C",
+                    "name1": "شیائومی",
+                    "name2": "Xiaomi"
+                },
+                {
+                    "id": 2922,
+                    "slug": "electrolux-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%84%D9%88%DA%A9%D8%B3",
+                    "name1": "الکترولوکس",
+                    "name2": "ELECTROLUX"
+                },
+                {
+                    "id": 99,
+                    "slug": "karcher-%DA%A9%D8%B1%D8%B4%D8%B1",
+                    "name1": "کرشر",
+                    "name2": "Karcher"
+                },
+                {
+                    "id": 298,
+                    "slug": "datees-%D8%AF%D8%A7%D8%AA%DB%8C%D8%B3",
+                    "name1": "داتیس",
+                    "name2": "Datees"
+                },
+                {
+                    "id": 8053,
+                    "slug": "naniwa-%D9%86%D8%A7%D9%86%DB%8C%D9%88%D8%A7",
+                    "name1": "نانیوا",
+                    "name2": "Naniwa"
+                },
+                {
+                    "id": 16071,
+                    "slug": "bissell-%D8%A8%DB%8C%D8%B3%D9%84",
+                    "name1": "بیسل",
+                    "name2": "Bissell"
+                },
+                {
+                    "id": 15,
+                    "slug": "tefal-%D8%AA%D9%81%D8%A7%D9%84",
+                    "name1": "تفال",
+                    "name2": "Tefal"
+                },
+                {
+                    "id": 11916,
+                    "slug": "rosso-%D8%B1%D9%88%D8%B3%D9%88",
+                    "name1": "روسو",
+                    "name2": "rosso"
+                },
+                {
+                    "id": 34,
+                    "slug": "daewoo-%D8%AF%D9%88%D9%88",
+                    "name1": "دوو",
+                    "name2": "Daewoo"
+                },
+                {
+                    "id": 17,
+                    "slug": "tulips-%D8%AA%D9%88%D9%84%DB%8C%D9%BE%D8%B3",
+                    "name1": "تولیپس",
+                    "name2": "Tulips"
+                },
+                {
+                    "id": 212,
+                    "slug": "unique-%DB%8C%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "یونیک",
+                    "name2": "Unique"
+                },
+                {
+                    "id": 2949,
+                    "slug": "geepas-%D8%AC%DB%8C%D9%BE%D8%A7%D8%B3",
+                    "name1": "جیپاس",
+                    "name2": "Geepas"
+                },
+                {
+                    "id": 401,
+                    "slug": "karaca-%DA%A9%D8%A7%D8%B1%D8%A7%D8%AC%D8%A7",
+                    "name1": "کاراجا",
+                    "name2": "KARACA"
+                },
+                {
+                    "id": 4615,
+                    "slug": "x.vision-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%88%DB%8C%DA%98%D9%86",
+                    "name1": "ایکس ویژن",
+                    "name2": "X.Vision"
+                },
+                {
+                    "id": 1062,
+                    "slug": "hardstone-%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D9%88%D9%86",
+                    "name1": "هاردستون",
+                    "name2": "Hardstone"
+                },
+                {
+                    "id": 2189,
+                    "slug": "sam-%D8%B3%D8%A7%D9%85",
+                    "name1": "سام",
+                    "name2": "SAM"
+                },
+                {
+                    "id": 14882,
+                    "slug": "paktin-%D9%BE%D8%A7%DA%A9%D8%AA%DB%8C%D9%86",
+                    "name1": "پاکتین",
+                    "name2": "paktin"
+                },
+                {
+                    "id": 9089,
+                    "slug": "siemens-%D8%B2%DB%8C%D9%85%D9%86%D8%B3",
+                    "name1": "زیمنس",
+                    "name2": "Siemens"
+                },
+                {
+                    "id": 12035,
+                    "slug": "life-%D9%84%D8%A7%DB%8C%D9%81",
+                    "name1": "لایف",
+                    "name2": "Life"
+                },
+                {
+                    "id": 1097,
+                    "slug": "sencor-%D8%B3%D9%86%DA%A9%D9%88%D8%B1",
+                    "name1": "سنکور",
+                    "name2": "Sencor"
+                },
+                {
+                    "id": 1099,
+                    "slug": "delmonti-%D8%AF%D9%84%D9%85%D9%88%D9%86%D8%AA%DB%8C",
+                    "name1": "دلمونتی",
+                    "name2": "Delmonti"
+                },
+                {
+                    "id": 5226,
+                    "slug": "shervin-%D8%B4%D8%B1%D9%88%DB%8C%D9%86",
+                    "name1": "شروین",
+                    "name2": "shervin"
+                },
+                {
+                    "id": 2557,
+                    "slug": "midea-%D9%85%D8%A7%DB%8C%D8%AF%DB%8C%D8%A7",
+                    "name1": "مایدیا",
+                    "name2": "Midea"
+                },
+                {
+                    "id": 35,
+                    "slug": "snowa-%D8%A7%D8%B3%D9%86%D9%88%D8%A7",
+                    "name1": "اسنوا",
+                    "name2": "Snowa"
+                },
+                {
+                    "id": 72,
+                    "slug": "kenwood-%DA%A9%D9%86%D9%88%D9%88%D8%AF",
+                    "name1": "کنوود",
+                    "name2": "Kenwood"
+                },
+                {
+                    "id": 16,
+                    "slug": "gosonic-%DA%AF%D9%88%D8%B3%D9%88%D9%86%DB%8C%DA%A9",
+                    "name1": "گوسونیک",
+                    "name2": "Gosonic"
+                },
+                {
+                    "id": 220,
+                    "slug": "techno-%D8%AA%DA%A9%D9%86%D9%88",
+                    "name1": "تکنو",
+                    "name2": "Techno"
+                },
+                {
+                    "id": 1430,
+                    "slug": "polar-%D9%BE%D9%84%D8%A7%D8%B1",
+                    "name1": "پلار",
+                    "name2": "Polar"
+                },
+                {
+                    "id": 1767,
+                    "slug": "international-anil-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84-%D8%A7%D9%86%DB%8C%D9%84",
+                    "name1": "اینترنشنال آنیل",
+                    "name2": "International Anil"
+                },
+                {
+                    "id": 12342,
+                    "slug": "generalfit-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%81%DB%8C%D8%AA",
+                    "name1": "جنرال فیت",
+                    "name2": "generalfit"
+                },
+                {
+                    "id": 29462,
+                    "slug": "saina-%D8%B3%D8%A7%DB%8C%D9%86%D8%A7",
+                    "name1": "ساینا",
+                    "name2": "Saina"
+                },
+                {
+                    "id": 2948,
+                    "slug": "maier-%D9%85%D8%A7%DB%8C%D8%B1",
+                    "name1": "مایر",
+                    "name2": "Maier"
+                },
+                {
+                    "id": 3293,
+                    "slug": "ariete-%D8%A7%D8%B1%DB%8C%D8%AA%D9%87",
+                    "name1": "آریته",
+                    "name2": "Ariete"
+                },
+                {
+                    "id": 4182,
+                    "slug": "arcelik-%D8%A7%D8%B1%DA%86%D9%84%DB%8C%DA%A9",
+                    "name1": "آرچلیک",
+                    "name2": "Arcelik"
+                },
+                {
+                    "id": 53513,
+                    "slug": "national-%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84",
+                    "name1": "ناسیونال",
+                    "name2": "National"
+                },
+                {
+                    "id": 13594,
+                    "slug": "blanton-%D8%A8%D9%84%D8%A7%D9%86%D8%AA%D9%88%D9%86",
+                    "name1": "بلانتون",
+                    "name2": "Blanton"
+                },
+                {
+                    "id": 29266,
+                    "slug": "raf-%D8%B1%D8%A7%D9%81",
+                    "name1": "راف",
+                    "name2": "Raf"
+                },
+                {
+                    "id": 2952,
+                    "slug": "saya-%D8%B3%D8%A7%DB%8C%D8%A7",
+                    "name1": "سایا",
+                    "name2": "Saya"
+                },
+                {
+                    "id": 6816,
+                    "slug": "tiva-%D8%AA%DB%8C%D9%88%D8%A7",
+                    "name1": "تیوا",
+                    "name2": "tiva"
+                },
+                {
+                    "id": -1,
+                    "slug": "not-detected-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%86%D8%B4%D8%AF%D9%87",
+                    "name1": "شناسایی نشده",
+                    "name2": "Not Detected"
+                }
+            ],
+            "url": "https://api.torob.com/v4/brand/list/?cat_list=203"
+        },
+        {
+            "title": "دسته‌بندی",
+            "slug": "category",
+            "type": "category",
+            "badge_text": ""
+        },
+        {
+            "title": "جستجو در نتایج",
+            "slug": "q",
+            "type": "query"
+        }
+    ],
+    "filters2": [
+        {
+            "title": "خرید قسطی ترب‌پی",
+            "slug": "torobpay",
+            "type": "toggle"
+        },
+        {
+            "title": "امکان خرید حضوری",
+            "slug": "shop_type",
+            "type": "shop_type",
+            "items": [
+                {
+                    "name": "محصولات دارای فروشنده حضوری",
+                    "value": "offline"
+                }
+            ]
+        },
+        {
+            "title": "وضعیت کارکرد",
+            "slug": "stock_status",
+            "type": "single_choice",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "نو",
+                    "value": "new"
+                },
+                {
+                    "name": "کارکرده",
+                    "value": "stock"
+                }
+            ]
+        },
+        {
+            "title": "فقط موجودها",
+            "slug": "available",
+            "type": "toggle"
+        },
+        {
+            "title": "مرتب‌سازی",
+            "slug": "sort",
+            "type": "dropdown",
+            "badge_text": "",
+            "items": [
+                {
+                    "name": "محبوب‌ترین",
+                    "value": ""
+                },
+                {
+                    "name": "ارزان‌ترین",
+                    "value": "price"
+                },
+                {
+                    "name": "گران‌ترین",
+                    "value": "-price"
+                },
+                {
+                    "name": "جدیدترین",
+                    "value": "-date"
+                },
+                {
+                    "name": "بیشترین فروشنده",
+                    "value": "-supply"
+                }
+            ]
+        }
+    ],
+    "related_queries": null,
+    "seo_title": "",
+    "seo_description": "",
+    "category_is_leaf": false,
+    "filter_by_category_title": "دسته‌بندی‌های پیشنهادی",
+    "categories": [
+        {
+            "title": "جارو برقی",
+            "cat_id": 203,
+            "cat_slug": "جارو-برقی-vacuum-cleaner",
+            "brand_id": null,
+            "brand_slug": null,
+            "id": "203",
+            "slug": "جارو-برقی-vacuum-cleaner"
+        }
+    ],
+    "parent_categories": []
+}

@@ -1,0 +1,732 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "7489f22a-5fd3-4b00-a40f-b9df941a951b",
+    "name1": "مبل راحتی مدل کوئین فرانسوی ۷ نفره",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de48e14272dca9a70b1fdc5d384d&search_id=01a0de48e14272dca9a70b1fdc5d384d&cities=&province=&init_suid=01a0de48e14272dca9a70b1fdc5d384d&algorithm=text_similarity&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b",
+    "web_client_absolute_url": "/p/7489f22a-5fd3-4b00-a40f-b9df941a951b/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C-%D9%85%D8%AF%D9%84-%DA%A9%D9%88%DB%8C%DB%8C%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-7-%D9%86%D9%81%D8%B1%D9%87/",
+    "price": 125000000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۱۲۵٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۶ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&limit=24&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&discover_method=search_image_base_pdp&prev_uid=01a0de48e14272dca9a70b1fdc5d384d&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/h7/DY/h7DYv9Ic4Ma0wDQW.webp"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/UH/Dp/UHDpsYQDqBp6y9Mw.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Xv/lc/Xvlcfl8UPHab38Wj.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/VU/Iw/VUIwgzULsu8SuSK7.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Km/ZD/KmZD9TfkB9uTBcIg.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/3l/nm/3lnmlGps_EN5tUbl.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/7F/iD/7FiDHJWRIvm3Lw3c.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/h7/DY/h7DYv9Ic4Ma0wDQW.webp",
+    "image_count": 7,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "مبل استیل مدل کوئین فرانسوی",
+                "name2": "",
+                "shop_name": "سوفا مبل",
+                "shop_name2": "تهران",
+                "shop_id": 26729,
+                "has_public_torob_profile": true,
+                "prk": "f286092d-d10d-4519-afe4-a9adf883fad3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=f286092d-d10d-4519-afe4-a9adf883fad3&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de494cbb759fac27467462e42d64&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 137000000,
+                "price_text": "۱۳۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال برای تهران توسط پیک تولیدی و برای شهرستان ها توسط باربرای\nارسال میز تلویزیون رایگان بوده و برای شهرستان ها به صورت رایگان تا باربری ارسال میگردد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۲ ماه و ۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کوئین فرانسوی - مازراتی ایرانی",
+                "name2": "",
+                "shop_name": "هومسا گالری",
+                "shop_name2": "مشکین دشت",
+                "shop_id": 175641,
+                "has_public_torob_profile": true,
+                "prk": "c88484b0-2133-474b-a7ab-8f37544eb336",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=c88484b0-2133-474b-a7ab-8f37544eb336&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 125000000,
+                "price_text": "۱۲۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال محصول از طریق وانت بار های شهری و برون شهری است.هزینه باربری به عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کوئین فرانسوی",
+                "name2": "",
+                "shop_name": "هومسا",
+                "shop_name2": "محمدشهر",
+                "shop_id": 347949,
+                "has_public_torob_profile": true,
+                "prk": "c7f3b878-1a66-46a0-b083-de26d5c75bf4",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=c7f3b878-1a66-46a0-b083-de26d5c75bf4&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 125500000,
+                "price_text": "۱۲۵٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲۵٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۶ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کویین فرانسوی 7 نفره",
+                "name2": "دو سال ضمانت و خدمات پس از فروش",
+                "shop_name": "رابین وود — robinwood.ir",
+                "shop_name2": "مشکین دشت",
+                "shop_id": 451864,
+                "has_public_torob_profile": true,
+                "prk": "ca689967-d5c8-460d-b215-b942a70973f1",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=ca689967-d5c8-460d-b215-b942a70973f1&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 126000000,
+                "price_text": "۱۲۶٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲۶٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "payment_on_delivery"
+                    ],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کوئین فرانسوی ۷ نفره",
+                "name2": "",
+                "shop_name": "آوینا چوب شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 305770,
+                "has_public_torob_profile": true,
+                "prk": "f91f8f06-cc4a-4496-ad1b-6429cf83b1bb",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=f91f8f06-cc4a-4496-ad1b-6429cf83b1bb&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 128500000,
+                "price_text": "۱۲۸٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۲۸٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۸ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل استیل مدل کوئین فرانسوی",
+                "name2": "",
+                "shop_name": "سوفا مبل",
+                "shop_name2": "تهران",
+                "shop_id": 26729,
+                "has_public_torob_profile": true,
+                "prk": "f286092d-d10d-4519-afe4-a9adf883fad3",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=f286092d-d10d-4519-afe4-a9adf883fad3&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 137000000,
+                "price_text": "۱۳۷٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۳۷٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال برای تهران توسط پیک تولیدی و برای شهرستان ها توسط باربرای\nارسال میز تلویزیون رایگان بوده و برای شهرستان ها به صورت رایگان تا باربری ارسال میگردد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۴ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کوئین فرانسوی - کادیز ایرانی",
+                "name2": "",
+                "shop_name": "هومسا گالری",
+                "shop_name2": "مشکین دشت",
+                "shop_id": 175641,
+                "has_public_torob_profile": true,
+                "prk": "40d24c1d-89a1-48b5-a7ca-5e4d8c5d024a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=40d24c1d-89a1-48b5-a7ca-5e4d8c5d024a&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 145000000,
+                "price_text": "۱۴۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۴۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال محصول از طریق وانت بار های شهری و برون شهری است.هزینه باربری به عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "مبل راحتی مدل کوئین فرانسوی ۷ نفره",
+                "name2": "",
+                "shop_name": "چوب شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 62728,
+                "has_public_torob_profile": true,
+                "prk": "b895b369-6b2b-40ad-9f96-823109f6f2c1",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=b895b369-6b2b-40ad-9f96-823109f6f2c1&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 195000000,
+                "price_text": "۱۹۵٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۱۹۵٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "درون شهر تهران بوسیله وانت زیر نظر فروشگاه\nشهر های دیگر بوسیله باربری اتوبوسی یا باربری مبلمان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ ماه و ۲۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435740",
+        "count": 8,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&suid=01a0de48e14272dca9a70b1fdc5d384d&cities=&province=&algorithm=text_similarity&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&list_type=products_info&seed=1790435740"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435740",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&cities=&province=&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&list_type=products_in_store_info&seed=1790435740&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&source=next_desktop&discover_method=search&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&seed=1790435740&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&source=next_desktop&discover_method=search&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&seed=1790435740&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۱۹۵٫۰۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۱۲۵٫۰۰۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de48e14272dca9a70b1fdc5d384d&search_id=01a0de48e14272dca9a70b1fdc5d384d&cities=&province=&init_suid=01a0de48e14272dca9a70b1fdc5d384d&algorithm=text_similarity&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&bvid=01a0de494ca6740995a8e5c4ccea9933&no_log=true&seed=1790435740",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&base_id=159332890&source=next_desktop&bvid=01a0de494ca6740995a8e5c4ccea9933&init_suid=01a0de48e14272dca9a70b1fdc5d384d"
+    },
+    "min_price": 125000000,
+    "max_price": 195000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 348,
+            "title": "مبلمان منزل",
+            "url": "/browse/348/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B2%D9%84-furniture/",
+            "cat_id": 348,
+            "brand_id": null
+        },
+        {
+            "id": 2605,
+            "title": "مبل راحتی",
+            "url": "/browse/2605/%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 2605,
+            "brand_id": null
+        },
+        {
+            "id": 1545,
+            "title": "سایر  مبل راحتی",
+            "url": "/browse/1545/%D8%B3%D8%A7%DB%8C%D8%B1-%D9%85%D8%A8%D9%84-%D8%B1%D8%A7%D8%AD%D8%AA%DB%8C/",
+            "cat_id": 1545,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "جنس پارچه": "مازراتی ایرانی - کادیز ایرانی - دیاموند چینی - سافت چینی - لینا چینی"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "مبل-راحتی-مدل-کویین-فرانسوی-7-نفره",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=7489f22a-5fd3-4b00-a40f-b9df941a951b",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=7489f22a-5fd3-4b00-a40f-b9df941a951b&limit=24&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+    "torob_category": 1545,
+    "no_index": false,
+    "buy_box_price_text": "از ۱۲۵٫۰۰۰٫۰۰۰ تومان تا ۱۹۵٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=c88484b0-2133-474b-a7ab-8f37544eb336&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از هومسا گالری",
+    "new_buy_box_button_text2": "۱۲۵٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de48e14272dca9a70b1fdc5d384d&suid=01a0de48e14272dca9a70b1fdc5d384d&bvid=01a0de494ca6740995a8e5c4ccea9933&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de48e14272dca9a70b1fdc5d384d&prk=c88484b0-2133-474b-a7ab-8f37544eb336&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de48e14272dca9a70b1fdc5d384d&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": "f286092d-d10d-4519-afe4-a9adf883fad3",
+    "new_buy_box_source_prk": "c88484b0-2133-474b-a7ab-8f37544eb336",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۵ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/UH/Dp/UHDpsYQDqBp6y9Mw.jpg",
+                "https://image.torob.com/base/images/Xv/lc/Xvlcfl8UPHab38Wj.jpg",
+                "https://image.torob.com/base/images/VU/Iw/VUIwgzULsu8SuSK7.jpg",
+                "https://image.torob.com/base/images/Km/ZD/KmZD9TfkB9uTBcIg.jpg",
+                "https://image.torob.com/base/images/3l/nm/3lnmlGps_EN5tUbl.jpg",
+                "https://image.torob.com/base/images/7F/iD/7FiDHJWRIvm3Lw3c.jpg"
+            ]
+        }
+    ]
+}

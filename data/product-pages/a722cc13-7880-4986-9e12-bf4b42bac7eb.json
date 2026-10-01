@@ -1,0 +1,224 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "a722cc13-7880-4986-9e12-bf4b42bac7eb",
+    "name1": "صندلی پلاستیکی نشکن مدل دلسا",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4445ec74279c45afa94f173692&search_id=01a0de4445ec74279c45afa94f173692&cities=&province=&init_suid=01a0de4445ec74279c45afa94f173692&algorithm=text_similarity&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb",
+    "web_client_absolute_url": "/p/a722cc13-7880-4986-9e12-bf4b42bac7eb/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D9%86%D8%B4%DA%A9%D9%86-%D9%85%D8%AF%D9%84-%D8%AF%D9%84%D8%B3%D8%A7/",
+    "price": 930000,
+    "price_prefix": "cheapest",
+    "price_text": "۹۳۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در تکاشاپ",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&limit=24&init_suid=01a0de4445ec74279c45afa94f173692",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&discover_method=search_image_base_pdp&prev_uid=01a0de4445ec74279c45afa94f173692&init_suid=01a0de4445ec74279c45afa94f173692",
+    "card_type": "tall-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/tm/JE/tmJEm8AiOayYZ_pg.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/T3/00/T300skG3-gA2TvSP.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/my/WI/myWIwhtYCicBC5rd.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/tm/JE/tmJEm8AiOayYZ_pg.jpg",
+    "image_count": 3,
+    "direct_cta": {
+        "url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&bvid=01a0de4457ca706db9702374b1aad7dc&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4445ec74279c45afa94f173692&prk=21d66fdd-e5cc-4190-b7e4-84b5a96e8d58&btn=plp_cta&shop_rank=&user_delivery_city=585&pdp_display=&view=&app_ver=&init_suid=01a0de4445ec74279c45afa94f173692",
+        "label": "خرید اینترنتی",
+        "list_type": "online",
+        "icon": null
+    },
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "صندلی پلاستیکی نشکن مدل دلسا",
+                "name2": "",
+                "shop_name": "تکاشاپ",
+                "shop_name2": "تهران",
+                "shop_id": 128234,
+                "has_public_torob_profile": true,
+                "prk": "21d66fdd-e5cc-4190-b7e4-84b5a96e8d58",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&bvid=01a0de4457ca706db9702374b1aad7dc&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4445ec74279c45afa94f173692&prk=21d66fdd-e5cc-4190-b7e4-84b5a96e8d58&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4445ec74279c45afa94f173692",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 930000,
+                "price_text": "۹۳۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۹۳۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ ماه و ۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435416",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&bvid=01a0de4457ca706db9702374b1aad7dc&suid=01a0de4445ec74279c45afa94f173692&cities=&province=&algorithm=text_similarity&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&list_type=products_info&seed=1790435416"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435416",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&cities=&province=&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&list_type=products_in_store_info&seed=1790435416&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&source=next_desktop&discover_method=search&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&seed=1790435416&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&source=next_desktop&discover_method=search&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&seed=1790435416&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4445ec74279c45afa94f173692&search_id=01a0de4445ec74279c45afa94f173692&cities=&province=&init_suid=01a0de4445ec74279c45afa94f173692&algorithm=text_similarity&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&bvid=01a0de4457ca706db9702374b1aad7dc&no_log=true&seed=1790435416",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&base_id=134821183&source=next_desktop&bvid=01a0de4457ca706db9702374b1aad7dc&init_suid=01a0de4445ec74279c45afa94f173692"
+    },
+    "min_price": 930000,
+    "max_price": 930000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 130,
+            "title": "مبلمان و صنایع چوب",
+            "url": "/browse/130/%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D9%88-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D9%88%D8%A8-furniture.-tabel/",
+            "cat_id": 130,
+            "brand_id": null
+        },
+        {
+            "id": 1441,
+            "title": "صندلی",
+            "url": "/browse/1441/%D8%B5%D9%86%D8%AF%D9%84%DB%8C/",
+            "cat_id": 1441,
+            "brand_id": null
+        },
+        {
+            "id": 2434,
+            "title": "صندلی غذاخوری و رستورانی",
+            "url": "/browse/2434/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%BA%D8%B0%D8%A7%D8%AE%D9%88%D8%B1%DB%8C-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86%DB%8C/",
+            "cat_id": 2434,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "صندلی-پلاستیکی-نشکن-مدل-دلسا",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=a722cc13-7880-4986-9e12-bf4b42bac7eb",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=a722cc13-7880-4986-9e12-bf4b42bac7eb&limit=24&init_suid=01a0de4445ec74279c45afa94f173692",
+    "torob_category": 2434,
+    "no_index": false,
+    "buy_box_price_text": "۹۳۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&bvid=01a0de4457ca706db9702374b1aad7dc&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4445ec74279c45afa94f173692&prk=21d66fdd-e5cc-4190-b7e4-84b5a96e8d58&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4445ec74279c45afa94f173692",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از تکاشاپ",
+    "new_buy_box_button_text2": "۹۳۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4445ec74279c45afa94f173692&suid=01a0de4445ec74279c45afa94f173692&bvid=01a0de4457ca706db9702374b1aad7dc&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4445ec74279c45afa94f173692&prk=21d66fdd-e5cc-4190-b7e4-84b5a96e8d58&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4445ec74279c45afa94f173692&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "21d66fdd-e5cc-4190-b7e4-84b5a96e8d58",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/T3/00/T300skG3-gA2TvSP.jpg",
+                "https://image.torob.com/base/images/my/WI/myWIwhtYCicBC5rd.jpg"
+            ]
+        }
+    ]
+}

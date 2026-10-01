@@ -1,0 +1,2238 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "c99af502-e9c7-42d7-a78d-d3f3e5259842",
+    "name1": "ماشین لباسشویی دوو مدل LM-811 ظرفیت ۸ کیلوگرم",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&cities=&province=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&algorithm=text_similarity&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842",
+    "web_client_absolute_url": "/p/c99af502-e9c7-42d7-a78d-d3f3e5259842/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-lm-811-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-8-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/",
+    "price": 70910000,
+    "price_prefix": "cheapest",
+    "price_text": "از ۷۰٫۹۱۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در ۵۲ فروشگاه",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&limit=24&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&discover_method=search_image_base_pdp&prev_uid=01a0de4ed9617751b41f7c3b9ff4e0d7&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Ut/lO/UtlOpMmKf9CkAqdl.webp"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/Ut/lO/UtlOpMmKf9CkAqdl.webp",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": true,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی اتوماتیک دوو مدل LM-811 ظرفیت 8 کیلوگرم",
+                "name2": "گارانتی 24 ماهه انتخاب سرویس",
+                "shop_name": "اسنپ شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 32263,
+                "has_public_torob_profile": true,
+                "prk": "923b09ec-2b8e-443f-81f8-857808e4768e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=923b09ec-2b8e-443f-81f8-857808e4768e&btn=buy&shop_rank=&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&ad=01a0de4eea5d746fba5d9cf96c5da9be&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&installment=2:1xAUDk:MKgwcRxIynLB_WKfgqDz9WXicw6GFh90ggLHItr6iAc",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 76315000,
+                "price_text": "۷۶٫۳۱۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۶٫۳۱۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "بازارگاه (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "بازارگاه",
+                        "summary": [
+                            "با توجه به اینکه اسنپ شاپ از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": true,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلویی دوو سری سانسو مدل LM811W",
+                "name2": "گارانتی انتخاب سرویس حامی",
+                "shop_name": "مه سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 4099,
+                "has_public_torob_profile": true,
+                "prk": "531459d9-4f49-4ce6-b8be-6e34c45a40c9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=531459d9-4f49-4ce6-b8be-6e34c45a40c9&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70910000,
+                "price_text": "۷۰٫۹۱۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۹۱۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال فوری کمتراز4ساعت درتهران - ارسال به سراسر ایران حداکثر1روز(از طریق تیپاکس و باربری)"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۶ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلوگرمی سری سانسو مدل LM811",
+                "name2": "انتخاب سرویس",
+                "shop_name": "کالادایس",
+                "shop_name2": "تهران",
+                "shop_id": 305631,
+                "has_public_torob_profile": true,
+                "prk": "1df1d3b1-aab1-4dc5-bd72-f2ad47846b2f",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=1df1d3b1-aab1-4dc5-bd72-f2ad47846b2f&btn=buy&shop_rank=1&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70930000,
+                "price_text": "۷۰٫۹۳۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۹۳۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال کالا های سنگین از طریق باربری و کالاهای سبک از طریق تیپاکس برای شهرستان ها."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "لباسشویی دوو مدل LM-811W ظرفیت 8Kg سفید سری سان سو",
+                "name2": "ضمانتنامه 24 ماهه انتخاب سرویس (نمایندگی رسمی)",
+                "shop_name": "برتر کالای تهران",
+                "shop_name2": "تهران",
+                "shop_id": 42579,
+                "has_public_torob_profile": true,
+                "prk": "dfd2bee3-1a07-497c-ac1c-7323c0cc1e6d",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=dfd2bee3-1a07-497c-ac1c-7323c0cc1e6d&btn=buy&shop_rank=2&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 70995000,
+                "price_text": "۷۰٫۹۹۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۰٫۹۹۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال با فرمول زیر محاسبه می شود:\n\n  داخل شهر تهران:\nهر وسیله سبک: 350 هزارتومان،\nهر وسیله نیمه سنگین: 700 هزارتومان،\nهر وسیله سنگین: 800 هزارتومان،\n\n  شهرهای استان تهران:\nهر وسیله سبک: 700 هزارتومان،\nهر وسیله نیمه سنگین: 900 هزارتومان،\nهر وسیله سنگین: 1 میلیون تومان،\n\n  استان البرز:\nهر وسیله سبک: 800 هزارتومان،\nهر وسیله نیمه سنگین: 1 میلیون تومان،\nهر وسیله سنگین: 1.2 میلیون تومان،\nاطراف استان البرز:\nهر وسیله سبک: 900 هزارتومان،\nهر وسیله نیمه سنگین: 1,5 میلیون تومان\nهر وسیله سنگین: 1,5 میلیون تومان\n\n  بیرون از استان تهران (غیر از البرز):\nدر محل تحویل، توسط شرکت باربری دریافت می شود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل LM-811 ظرفیت ۸ کیلوگرم",
+                "name2": "",
+                "shop_name": "خانگیتو",
+                "shop_name2": "تهران",
+                "shop_id": 63117,
+                "has_public_torob_profile": true,
+                "prk": "6d9e8dd8-6be7-4d7b-a1ff-ff588898f9f5",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=6d9e8dd8-6be7-4d7b-a1ff-ff588898f9f5&btn=buy&shop_rank=3&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 71400000,
+                "price_text": "۷۱٫۴۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۱٫۴۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "از تاریخ 25 اسفند 1403تا 5 فروردین 1404سفارشات شهرستانها ثبت میشود اما ارسال شهرستانها غیر از تهران در تاریخ 5 فروردین انجام میشود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811W",
+                "name2": "",
+                "shop_name": "انتخاب سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 268,
+                "has_public_torob_profile": true,
+                "prk": "accde85e-f1b8-4889-8a85-989c6536cdb7",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=accde85e-f1b8-4889-8a85-989c6536cdb7&btn=buy&shop_rank=4&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&installment=2:1xAUDk:6GIX__KjhYNpdSxD_pebz_EOsOSJym-SuuWBKY2EWZQ",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 71500000,
+                "price_text": "۷۱٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۱٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "دسترسی آنلاین",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "- ارسال فوق سریع کمتر از 4 ساعت کاری ویژه شهر تهران\n- در سایر استان ها (به جز استان تهران و البرز) زمان تحویل کالا توسط باربری شهر مقصد تعیین می شود.\nکد تخفیف (entcgift)هدیه اولین خرید انلاین تا سقف ۳میلیون تومان"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "امکان پرداخت قسطی بخشی از مبلغ در ۴ قسط",
+                            "short_title": "امکان پرداخت قسطی",
+                            "logo": "https://storage3.torob.com/backend-api/installment/provider/logo/0a2b34ef/snapppay.png",
+                            "name": "اسنپ‌پی",
+                            "description": "هنگام پرداخت، یکی از درگاه‌های قسطی را انتخاب کنید.",
+                            "more_info_url": null
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی اتوماتیک دوو مدل LM-811W ظرفیت 8 کیلوگرم ا deawo-washing-machine-8-kilo-LM-811W",
+                "name2": "",
+                "shop_name": "کوچه یخچال",
+                "shop_name2": "اصفهان",
+                "shop_id": 45873,
+                "has_public_torob_profile": true,
+                "prk": "c394beb8-5964-46fa-a628-0724fa3608fc",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=c394beb8-5964-46fa-a628-0724fa3608fc&btn=buy&shop_rank=5&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 71800000,
+                "price_text": "۷۱٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۱٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بصورت پس کرایه می باشد و به باربری، پست یا تیپاکس یا دکاپست پرداخت می شود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "لباسشویی دوو مدل LM-811S ظرفیت 8Kg نقره ای سری سان سو",
+                "name2": "ضمانتنامه 24 ماهه انتخاب سرویس (نمایندگی رسمی)",
+                "shop_name": "برتر کالای تهران",
+                "shop_name2": "تهران",
+                "shop_id": 42579,
+                "has_public_torob_profile": true,
+                "prk": "8551e4bb-32c4-42ba-a691-663827e5c462",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=8551e4bb-32c4-42ba-a691-663827e5c462&btn=buy&shop_rank=6&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 71995000,
+                "price_text": "۷۱٫۹۹۵٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۱٫۹۹۵٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال با فرمول زیر محاسبه می شود:\n\n  داخل شهر تهران:\nهر وسیله سبک: 350 هزارتومان،\nهر وسیله نیمه سنگین: 700 هزارتومان،\nهر وسیله سنگین: 800 هزارتومان،\n\n  شهرهای استان تهران:\nهر وسیله سبک: 700 هزارتومان،\nهر وسیله نیمه سنگین: 900 هزارتومان،\nهر وسیله سنگین: 1 میلیون تومان،\n\n  استان البرز:\nهر وسیله سبک: 800 هزارتومان،\nهر وسیله نیمه سنگین: 1 میلیون تومان،\nهر وسیله سنگین: 1.2 میلیون تومان،\nاطراف استان البرز:\nهر وسیله سبک: 900 هزارتومان،\nهر وسیله نیمه سنگین: 1,5 میلیون تومان\nهر وسیله سنگین: 1,5 میلیون تومان\n\n  بیرون از استان تهران (غیر از البرز):\nدر محل تحویل، توسط شرکت باربری دریافت می شود."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811W",
+                "name2": "",
+                "shop_name": "بازار پخش",
+                "shop_name2": "تهران",
+                "shop_id": 25381,
+                "has_public_torob_profile": true,
+                "prk": "26e67f03-9be7-494a-9b64-c08704f78be6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=26e67f03-9be7-494a-9b64-c08704f78be6&btn=buy&shop_rank=7&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72000000,
+                "price_text": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "تحویل در تهران و حومه در همان روز با پیک های فروشگاه و تحویل در شهرستان ها تا 2 روز کاری توسط باربری های شهر مقصد"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳ تا ۵ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل DAEWOO LM-811W",
+                "name2": "24 ماه گارانتی انتخاب سرویس حامی",
+                "shop_name": "پدینی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 122315,
+                "has_public_torob_profile": true,
+                "prk": "00cd324b-4a93-48c3-8bff-e26790ed3263",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=00cd324b-4a93-48c3-8bff-e26790ed3263&btn=buy&shop_rank=8&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72000000,
+                "price_text": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811W ا Daewoo 8 kg WM Sunsu series LM 811W",
+                "name2": "اصل | انتخاب سرویس حامی",
+                "shop_name": "الجی سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 83420,
+                "has_public_torob_profile": true,
+                "prk": "a522b520-4392-4fc7-985a-cb2882c8af5e",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=a522b520-4392-4fc7-985a-cb2882c8af5e&btn=buy&shop_rank=9&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72200000,
+                "price_text": "۷۲٫۲۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۲۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی مدل LM-811 سری یونیک سفید",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "cead583a-65e2-4496-86ca-a61e5d8f9931",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=cead583a-65e2-4496-86ca-a61e5d8f9931&btn=buy&shop_rank=10&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72500000,
+                "price_text": "۷۲٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل LM-811W ظرفیت 8 کیلوگرم",
+                "name2": "",
+                "shop_name": "اینترنتی انتخاب تو",
+                "shop_name2": "تهران",
+                "shop_id": 111397,
+                "has_public_torob_profile": true,
+                "prk": "27272977-2360-4666-80ad-5d1af8980ab9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=27272977-2360-4666-80ad-5d1af8980ab9&btn=buy&shop_rank=11&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72800000,
+                "price_text": "۷۲٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "🚚 روش‌های ارسال:\n\nلوازم کوچک: پست پیشتاز یا تیپاکس با بسته‌بندی ایمن\nلوازم بزرگ: باربری ایمن و طمئن از طرف ما یا معرفی از طرف مشتری\n\n⏱ زمان تحویل:\n\nلوازم کوچک: 1 روز بعد تحویل شرکت ارسال میشود\nلوازم بزرگ: بسته به شهر مقصد یک روز بعد تحویل باربری میشود\n\n📦 شرایط ارسال:\n\nتحویل با بسته‌بندی استاندارد و سالم\nامکان پیگیری آنلاین سفارش\n\n📞 دفتر فروش: 02177920214\n🛒 پشتیبانی و فروش: 09194225182\n⏰ ساعت پاسخ‌گویی: 10 صبح تا 10شب\n📍 آدرس فروشگاه: تهران، خیابان دماوند"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811W",
+                "name2": "",
+                "shop_name": "هایپر خانگی",
+                "shop_name2": "تهران",
+                "shop_id": 41306,
+                "has_public_torob_profile": true,
+                "prk": "6ac081c3-c166-4650-ab4d-9a417dbdecba",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=6ac081c3-c166-4650-ab4d-9a417dbdecba&btn=buy&shop_rank=12&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72800000,
+                "price_text": "۷۲٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "کالاهای سنگین و فوق سنگین از طریق باربری و ما بقی کالاها از طریق شرکت های حمل و نقل برای مشتریان عزیز ارسال می شود. لازم به ذکر است هزینه ی ارسال سفارشات برای هر نوع کالایی به عهده ی مشتریان گرامی می باشد."
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل LM-811W",
+                "name2": "گارانتی :",
+                "shop_name": "شامخ کالا",
+                "shop_name2": "تبریز",
+                "shop_id": 90,
+                "has_public_torob_profile": true,
+                "prk": "b9afaea9-8cc3-454f-b80a-2a2cbf496662",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=b9afaea9-8cc3-454f-b80a-2a2cbf496662&btn=buy&shop_rank=13&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72979000,
+                "price_text": "۷۲٫۹۷۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۹۷۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": null,
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۵ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلویی دوو سری سانسو مدل LM811S",
+                "name2": "گارانتی انتخاب سرویس حامی",
+                "shop_name": "مه سنتر",
+                "shop_name2": "تهران",
+                "shop_id": 4099,
+                "has_public_torob_profile": true,
+                "prk": "02d6026e-210a-4ce0-9af6-6b3499b71f29",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=02d6026e-210a-4ce0-9af6-6b3499b71f29&btn=buy&shop_rank=14&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 72980000,
+                "price_text": "۷۲٫۹۸۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۲٫۹۸۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال فوری کمتراز4ساعت درتهران - ارسال به سراسر ایران حداکثر1روز(از طریق تیپاکس و باربری)"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۶ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۶ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل DAEWOO LM-811W ا DAEWOO WASHING MACHINE HANBUK (LIFE) LM-860SS",
+                "name2": "",
+                "shop_name": "آنتیک کالا",
+                "shop_name2": "تهران",
+                "shop_id": 212,
+                "has_public_torob_profile": true,
+                "prk": "7e998556-a87f-4ba8-9f99-61b878e14f82",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=7e998556-a87f-4ba8-9f99-61b878e14f82&btn=buy&shop_rank=15&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73000000,
+                "price_text": "۷۳٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 24 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل DAEWOO LM-811W",
+                "name2": "24 ماه گارانتی انتخاب سرویس حامی",
+                "shop_name": "سیروان کالا",
+                "shop_name2": "تهران",
+                "shop_id": 242286,
+                "has_public_torob_profile": true,
+                "prk": "f592a840-7c8c-4d1e-b6f7-78b61c19b520",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=f592a840-7c8c-4d1e-b6f7-78b61c19b520&btn=buy&shop_rank=16&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73000000,
+                "price_text": "۷۳٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی اتوماتیک دوو مدل LM-811S ظرفیت 8 کیلوگرم ا deawo-washing-machine-8-kilo-LM-811S",
+                "name2": "",
+                "shop_name": "کوچه یخچال",
+                "shop_name2": "اصفهان",
+                "shop_id": 45873,
+                "has_public_torob_profile": true,
+                "prk": "d10ea00b-5ccb-4213-8315-9c62655a9973",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=d10ea00b-5ccb-4213-8315-9c62655a9973&btn=buy&shop_rank=17&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73450000,
+                "price_text": "۷۳٫۴۵۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۴۵۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بصورت پس کرایه می باشد و به باربری، پست یا تیپاکس یا دکاپست پرداخت می شود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلوگرم اتوماتیک دوو مدل LM-811W",
+                "name2": "",
+                "shop_name": "اوشن کالا کرج",
+                "shop_name2": "کرج",
+                "shop_id": 485889,
+                "has_public_torob_profile": true,
+                "prk": "8ad1df07-e4e1-45cc-80d4-270a6afb599a",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=8ad1df07-e4e1-45cc-80d4-270a6afb599a&btn=buy&shop_rank=18&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73500000,
+                "price_text": "۷۳٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۹ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811S",
+                "name2": "",
+                "shop_name": "اینترنتی انتخاب تو",
+                "shop_name2": "تهران",
+                "shop_id": 111397,
+                "has_public_torob_profile": true,
+                "prk": "b6ffe341-0303-42d7-84e4-5767a1581c72",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=b6ffe341-0303-42d7-84e4-5767a1581c72&btn=buy&shop_rank=19&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73800000,
+                "price_text": "۷۳٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "🚚 روش‌های ارسال:\n\nلوازم کوچک: پست پیشتاز یا تیپاکس با بسته‌بندی ایمن\nلوازم بزرگ: باربری ایمن و طمئن از طرف ما یا معرفی از طرف مشتری\n\n⏱ زمان تحویل:\n\nلوازم کوچک: 1 روز بعد تحویل شرکت ارسال میشود\nلوازم بزرگ: بسته به شهر مقصد یک روز بعد تحویل باربری میشود\n\n📦 شرایط ارسال:\n\nتحویل با بسته‌بندی استاندارد و سالم\nامکان پیگیری آنلاین سفارش\n\n📞 دفتر فروش: 02177920214\n🛒 پشتیبانی و فروش: 09194225182\n⏰ ساعت پاسخ‌گویی: 10 صبح تا 10شب\n📍 آدرس فروشگاه: تهران، خیابان دماوند"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل LM-811 ظرفیت ۸ کیلوگرم نقره ای",
+                "name2": "",
+                "shop_name": "خانگیتو",
+                "shop_name2": "تهران",
+                "shop_id": 63117,
+                "has_public_torob_profile": true,
+                "prk": "be6cd296-061c-45c1-a546-cdf45901d281",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=be6cd296-061c-45c1-a546-cdf45901d281&btn=buy&shop_rank=20&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 73999000,
+                "price_text": "۷۳٫۹۹۹٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۳٫۹۹۹٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "از تاریخ 25 اسفند 1403تا 5 فروردین 1404سفارشات شهرستانها ثبت میشود اما ارسال شهرستانها غیر از تهران در تاریخ 5 فروردین انجام میشود"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۵ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی مدل LM-811S",
+                "name2": "",
+                "shop_name": "توما کالا",
+                "shop_name2": "تهران",
+                "shop_id": 545,
+                "has_public_torob_profile": true,
+                "prk": "158e0777-74ab-4da3-8678-53f4b92fe5ea",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=158e0777-74ab-4da3-8678-53f4b92fe5ea&btn=buy&shop_rank=21&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در اسلامشهر، تهران، رباط کریم، شهریار، پردیس، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای اراک، اردبیل، اصفهان، اهواز، تبریز، تهران، قم، مشهد، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [
+                        "same_day_delivery"
+                    ],
+                    "delivery_info": "بنا به در خواست مشتری-باربری-تیپاکس-پیک -و غیره"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۷ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۷ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۴ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی اتوماتیک دوو مدل LM-811",
+                "name2": "",
+                "shop_name": "الی کالا",
+                "shop_name2": "تهران",
+                "shop_id": 53853,
+                "has_public_torob_profile": true,
+                "prk": "a309e306-9cbc-4785-b79f-b2728784e038",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=a309e306-9cbc-4785-b79f-b2728784e038&btn=buy&shop_rank=22&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، پردیس، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "فعالیت خود را در زمینه فروش لوازم خانگی آغاز کردیم و درصدد هستیم تا نهایت رضایت را برای شما مشتریان گرامی به ارمغان بیاوریم."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلوگرم اتوماتیک دوو مدل LM-811",
+                "name2": "",
+                "shop_name": "ری کاشانه",
+                "shop_name2": "تهران",
+                "shop_id": 435327,
+                "has_public_torob_profile": true,
+                "prk": "5be8787d-8147-4529-a8c5-ac0a54e7ce2b",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=5be8787d-8147-4529-a8c5-ac0a54e7ce2b&btn=buy&shop_rank=23&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ ماه در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                        "summary": [
+                            "حدود ۵ تا ۱۰ سفارش در ۶۱ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو مدل DAEWOO LM-811S",
+                "name2": "24 ماه گارانتی انتخاب سرویس حامی",
+                "shop_name": "پدینی شاپ",
+                "shop_name2": "تهران",
+                "shop_id": 122315,
+                "has_public_torob_profile": true,
+                "prk": "d2cb9c1d-eed3-4383-acd6-49e26f824faa",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=d2cb9c1d-eed3-4383-acd6-49e26f824faa&btn=buy&shop_rank=24&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پست",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال 2 ساعته در شهر تهران\nارسال به سراسر کشور\nتحویل 48 ساعته در سایر شهرستانها"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲۱ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلویی دوو سری Unique مدل LM-811",
+                "name2": "",
+                "shop_name": "نومان کالا",
+                "shop_name2": "شهریار",
+                "shop_id": 484068,
+                "has_public_torob_profile": true,
+                "prk": "a63c93cf-addc-4b3c-9335-360e8ecb9ea6",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=a63c93cf-addc-4b3c-9335-360e8ecb9ea6&btn=buy&shop_rank=25&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74000000,
+                "price_text": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، شهریار، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "شرایط و روش‌های ارسال\n\nسفارش‌های ثبت‌شده در نومان کالا پس از تأیید پرداخت یا تأیید واریز وجه و بررسی موجودی، آماده ارسال خواهند شد. روش ارسال سفارش با توجه به **مقصد، نوع کالا و حجم سفارش** تعیین می‌شود.\n\n روش‌های ارسال سفارش\n\n#### ارسال به شهرستان‌ها با باربری\n\nسفارش‌های ارسالی به شهرستان‌ها، به‌ویژه کالاهای بزرگ و لوازم خانگی، از طریق **باربری** ارسال می‌شوند. پس از ارسال، اطلاعات مربوط به باربری و پیگیری سفارش در اختیار مشتری قرار خواهد گرفت.\n\n#### ارسال به حومه تهران و کرج با ماشین سازمان\n\nبرای سفارش‌های مربوط به **تهران، حومه تهران و کرج**، امکان ارسال با **ماشین سازمانی نومان کالا** وجود دارد. زمان ارسال و تحویل سفارش با توجه به مقصد و برنامه ارسال هماهنگ خواهد شد. در این روش، امکان **پرداخت درب منزل** برای برخی سفارش‌ها فراهم است.\n\n ارسال با تیپاکس\n\nبرای کالاهای مناسب ارسال با پست سریع، امکان ارسال سفارش از طریق **تیپاکس** نیز فراهم است. هزینه و زمان ارسال تیپاکس با توجه به مقصد و وزن بسته محاسبه می‌شود.\n\n روش‌های پرداخت\n\n#### پرداخت درب منزل\n\nبرای برخی سفارش‌ها، امکان **پرداخت هنگام تحویل کالا** وجود دارد. در این روش، مشتری مبلغ سفارش را هنگام دریافت کالا به مسئول تحویل پرداخت می‌کند. امکان پرداخت درب منزل با توجه به **مقصد، نوع کالا و روش ارسال** تعیین خواهد شد.\n\n واریز مستقیم به حساب\n\nمشتریان می‌توانند مبلغ سفارش خود را از طریق **واریز مستقیم به حساب نومان کالا** پرداخت کنند. پس از ثبت سفارش، اطلاعات حساب در اختیار مشتری قرار می‌گیرد و سفارش پس از تأیید واریز توسط مجموعه، برای آماده‌سازی و ارسال پردازش خواهد شد.\n\n### نکات مهم ارسال و پرداخت\n\n* روش ارسال و پرداخت بر اساس **نوع کالا، مقصد و شرایط سفارش** تعیین می‌شود.\n* برای کالاهای بزرگ و سنگین، ارسال از طریق باربری انجام خواهد شد.\n* در صورت ارسال با ماشین سازمان، زمان تحویل با مشتری هماهنگ می‌شود.\n* پرداخت درب منزل فقط برای سفارش‌ها و مقصدهای واجد شرایط امکان‌پذیر است.\n* سفارش‌هایی که از طریق واریز مستقیم به حساب ثبت می‌شوند، پس از تأیید واریز پردازش و ارسال خواهند شد.\n* مشتری موظف است هنگام تحویل کالا، **سلامت ظاهری بسته‌بندی و کالا** را بررسی کند.\n* در صورت مشاهده آسیب‌دیدگی ظاهری بسته یا کالا، موضوع باید در زمان تحویل به شرکت حمل‌ونقل یا مسئول تحویل اعلام شود.\n* زمان تحویل ممکن است با توجه به شرایط مسیر، شهر مقصد، تعطیلات و شرایط شرکت حمل‌ونقل متفاوت باشد.\n\n**نومان کالا تلاش می‌کند سفارش‌ها را با مناسب‌ترین روش و در کوتاه‌ترین زمان ممکن به دست مشتریان برساند.**"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "فروشگاه جدید",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "فروشگاه جدید",
+                        "summary": [
+                            "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۳ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی مدل LM-811 سری یونیک سیلور",
+                "name2": "",
+                "shop_name": "اعتماد کالا",
+                "shop_name2": "تهران",
+                "shop_id": 27424,
+                "has_public_torob_profile": true,
+                "prk": "0ff29452-b3e9-42fa-8d5d-6a09ff09d426",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=0ff29452-b3e9-42fa-8d5d-6a09ff09d426&btn=buy&shop_rank=26&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74500000,
+                "price_text": "۷۴٫۵۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۵۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "هزینه ارسال بر عهده مشتری میباشد."
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۳ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۶ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی دوو 8 کیلویی سری Sunsu مدل LM-811S",
+                "name2": "",
+                "shop_name": "هایپر خانگی",
+                "shop_name2": "تهران",
+                "shop_id": 41306,
+                "has_public_torob_profile": true,
+                "prk": "1b1a7f17-e5bd-4333-a9c0-2dd86cc30b70",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=1b1a7f17-e5bd-4333-a9c0-2dd86cc30b70&btn=buy&shop_rank=27&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74800000,
+                "price_text": "۷۴٫۸۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۸۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "شرکتهای پست خصوصی نظیر تیپاکس",
+                        "پیک"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "کالاهای سنگین و فوق سنگین از طریق باربری و ما بقی کالاها از طریق شرکت های حمل و نقل برای مشتریان عزیز ارسال می شود. لازم به ذکر است هزینه ی ارسال سفارشات برای هر نوع کالایی به عهده ی مشتریان گرامی می باشد."
+                },
+                "score_info": {
+                    "score": 4.8,
+                    "score_text": "★۴.۸ (۳ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۸ (۳ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            },
+            {
+                "availability": true,
+                "name1": "ماشین لباسشویی 8 کیلویی دوو مدل LM-811 اینورتر",
+                "name2": "",
+                "shop_name": "هومیزو",
+                "shop_name2": "شهریار",
+                "shop_id": 219088,
+                "has_public_torob_profile": true,
+                "prk": "b061aa41-a48d-4052-bc68-45c4ce871e56",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=b061aa41-a48d-4052-bc68-45c4ce871e56&btn=buy&shop_rank=28&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 74900000,
+                "price_text": "۷۴٫۹۰۰٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۷۴٫۹۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران، شهریار، کرج با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، کرج با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه"
+                    ],
+                    "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "ارسال با باربری مطمئن با کمترین قیمت"
+                },
+                "score_info": {
+                    "score": 4.9,
+                    "score_text": "★۴.۹ (۱ سال در ترب)",
+                    "score_color": "#248212",
+                    "score_background_color": "#e7fae3",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۱۰ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790436108",
+        "count": 120,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&cities=&province=&algorithm=text_similarity&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&list_type=products_info&seed=1790436108"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790436108",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&cities=&province=&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&list_type=products_in_store_info&seed=1790436108&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&source=next_desktop&discover_method=search&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&seed=1790436108&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&source=next_desktop&discover_method=search&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&seed=1790436108&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۷۰٫۹۹۵٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۷۱٫۵۰۰٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 2,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "اهواز و اطراف",
+                "type": "city_select",
+                "action": "is_filtered_by_city",
+                "price_str": "بدون فروشنده",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 0,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۷۰٫۹۱۰٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 5,
+                "offline_shop_display_count": 0,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&cities=&province=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&algorithm=text_similarity&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&bvid=01a0de4eea0571959c29ef877730a608&no_log=true&seed=1790436108",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&base_id=126525939&source=next_desktop&bvid=01a0de4eea0571959c29ef877730a608&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7"
+    },
+    "min_price": 70910000,
+    "max_price": 186090900,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 134,
+            "title": "شستشو و نظافت",
+            "url": "/browse/134/%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA-cleaning-equipment/",
+            "cat_id": 134,
+            "brand_id": null
+        },
+        {
+            "id": 6729,
+            "title": "دستگاه‌های شستشو و نظافت",
+            "url": "/browse/6729/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%D9%88-%D9%86%D8%B8%D8%A7%D9%81%D8%AA/",
+            "cat_id": 6729,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "ماشین لباسشویی",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/",
+            "cat_id": 201,
+            "brand_id": null
+        },
+        {
+            "id": 201,
+            "title": "دوو (Daewoo)",
+            "url": "/browse/201/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-washing-machine/b/34/daewoo-%D8%AF%D9%88%D9%88/",
+            "cat_id": 201,
+            "brand_id": 34
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "رنگ": "نقره ای",
+                    "کشور سازنده": "ایران",
+                    "نوع دستگاه": "لباسشویی درب از جلو",
+                    "سری": "سری Sunsu",
+                    "ظرفیت": "8 کیلوگرم",
+                    "برچسب مصرف انرژی": "+++A",
+                    "نوع موتور": "دیجیتال اینورتر",
+                    "حداکثر دور خشک کن": "1200 دور در دقیقه",
+                    "تنظیم دور خشک کن": "دارد",
+                    "میزان صدا در حالت شستشو": "54dB",
+                    "میزان صدا در حالت چرخش": "68dB",
+                    "نوع دیگ": "درام الماسه",
+                    "نانو سیلور": "دارد",
+                    "اسپری آب و مواد شوینده": "ندارد",
+                    "دریچه ورودی آب": "1 عدد",
+                    "سیستم عیب یابی هوشمند": "دارد",
+                    "سیستم ذخیره زمان": "ندارد",
+                    "سیستم ضد چروک": "دارد",
+                    "سيستم تاخیر در شروع": "دارد",
+                    "WiFi: قابلیت کنترل از راه دور": "ندارد",
+                    "شستشو با بخار": "دارد",
+                    "قفل کودک": "دارد",
+                    "سیستم چرخش آب": "ندارد",
+                    "شستشوی بهداشتی": "ندارد",
+                    "حباب ساز": "ندارد",
+                    "امکان اضافه کردن لباس در حین چرخه شستشو": "ندارد",
+                    "سیستم گرم کننده": "Ceramic",
+                    "سیستم ضدعفونی": "ندارد",
+                    "شستشو همراه با کف": "ندارد",
+                    "تکنولوژی ضد لرزش و صدا": "ندارد",
+                    "تعداد برنامه های شستشو": "15 برنامه",
+                    "برنامه های شستشو": "All in: برنامه شستشوی تمامی لباس ها در یک زمان, Anti Stain: شستشوی لباس هایی که لکه دارند, Cotton eco: شستشوی لباس های کتانی بدون افت کیفیت, Cotton: شستشوی لباس های کتانی، پنبه ای و رنگ ثابت, Drain: تخلیه آب, Drum Clean: سیستم هوشمند شستشوی درام, Express 19: شستشو در 19 دقیقه، مناسب لباس های محدود, Handwash: شبیه سازی شستشوی دستی لباس های رنگی, Heavy Wash: برنامه شستشو مناسب برای لباس های بسیار کثیف, Rinse+spin: آبکشی لباس ها و انجام برنامه خشک کن, Sensitive : شستشوی لباس های ظریف, Spin: خشک کن, Steam Care: شستشوی با بخار برای از بین بردن عوامل حساسیت زا, Synthetic: البسه پلی آمید و پلی استر یا الیاف مصنوعی, Wool : مناسب پارچه های پشمی قابل شستشو در ماشین لباسشویی",
+                    "نوع بدنه": "بدنه راه راه",
+                    "جهت باز شدن درب": "به سمت چپ",
+                    "نوع قفل درب": "قفل کششی",
+                    "لوازم جانبی": "شلنگ ورودی آب",
+                    "نمایشگر": "LED",
+                    "صفحه کنترل لمسی": "ندارد",
+                    "وزن": "68 کیلوگرم",
+                    "ارتفاع": "825 میلیمتر",
+                    "عرض": "595 میلیمتر",
+                    "عمق": "600 میلیمتر",
+                    "سایر مشخصات": "برخورداری از جا پودری دو حالته (مایع و جامد), شستشوی کامل در کمتر از یک ساعت (Optimal)"
+                }
+            }
+        ]
+    },
+    "key_specs": [
+        {
+            "header": "مشخصات کلیدی",
+            "items": [
+                {
+                    "icon": "",
+                    "key": "نوع",
+                    "value": [
+                        "درب از جلو"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "ظرفیت",
+                    "value": [
+                        "۸ کیلوگرم"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "گرید انرژی",
+                    "value": [
+                        "A+++"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "تعداد برنامه",
+                    "value": [
+                        "۱۵ برنامه"
+                    ]
+                },
+                {
+                    "icon": "",
+                    "key": "نوع موتور",
+                    "value": [
+                        "Digital Inverter"
+                    ]
+                }
+            ]
+        }
+    ],
+    "slug_name": "ماشین-لباسشویی-دوو-مدل-lm-811-ظرفیت-8-کیلوگرم",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=c99af502-e9c7-42d7-a78d-d3f3e5259842",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=c99af502-e9c7-42d7-a78d-d3f3e5259842&limit=24&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+    "torob_category": 201,
+    "no_index": false,
+    "buy_box_price_text": "از ۷۰٫۹۱۰٫۰۰۰ تومان تا ۱۸۶٫۰۹۰٫۹۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=531459d9-4f49-4ce6-b8be-6e34c45a40c9&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از برتر کالای تهران",
+    "new_buy_box_button_text2": "۷۰٫۹۹۵٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ضمانت ترب",
+    "new_buy_box_button_badge_style": "guaranteed",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4ed9617751b41f7c3b9ff4e0d7&suid=01a0de4ed9617751b41f7c3b9ff4e0d7&bvid=01a0de4eea0571959c29ef877730a608&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&prk=dfd2bee3-1a07-497c-ac1c-7323c0cc1e6d&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4ed9617751b41f7c3b9ff4e0d7&buy_box_reason=guarantee",
+    "new_buy_box_button_scrol_to_prk": "923b09ec-2b8e-443f-81f8-857808e4768e",
+    "new_buy_box_source_prk": "dfd2bee3-1a07-497c-ac1c-7323c0cc1e6d",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": "۵۱ فروشنده دیگر",
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}

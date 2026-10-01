@@ -1,0 +1,358 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "86605ffe-efac-4d91-b738-53e4ac33be8b",
+    "name1": "آینه دستشویی مدل R82",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de35a4a0711fad3940037cfbf724&search_id=01a0de35a4a0711fad3940037cfbf724&cities=&province=&init_suid=01a0de35a4a0711fad3940037cfbf724&algorithm=text_similarity&prk=86605ffe-efac-4d91-b738-53e4ac33be8b",
+    "web_client_absolute_url": "/p/86605ffe-efac-4d91-b738-53e4ac33be8b/%D8%A7%DB%8C%D9%86%D9%87-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-r82/",
+    "price": 2098000,
+    "price_prefix": "cheapest",
+    "price_text": "۲٫۰۹۸٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در آینه هومکس",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&limit=24&init_suid=01a0de35a4a0711fad3940037cfbf724",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&discover_method=search_image_base_pdp&prev_uid=01a0de35a4a0711fad3940037cfbf724&init_suid=01a0de35a4a0711fad3940037cfbf724",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/IQ/pt/IQptH5n3rYnzwBPB.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/wh/fN/whfN6177q58iAYNz.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/SD/ga/SDgaAHtwOut1LCRL.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/IQ/pt/IQptH5n3rYnzwBPB.jpg",
+    "image_count": 3,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "خرید آینه دستشویی R82",
+                "name2": "",
+                "shop_name": "آینه هومکس",
+                "shop_name2": "تهران",
+                "shop_id": 117460,
+                "has_public_torob_profile": true,
+                "prk": "51c9d22a-4f0e-4c19-8166-3f1ffd81f5a9",
+                "problem_report_type": "online",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&bvid=01a0de35d1fe7254bbcca584f0378784&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de35a4a0711fad3940037cfbf724&prk=51c9d22a-4f0e-4c19-8166-3f1ffd81f5a9&btn=buy&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de35a4a0711fad3940037cfbf724&installment=96:1xATnE:Scj80VABD4Qab5W8-iKvHGQIGaQbWhTXe3j2ZFlAY5M",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": true,
+                "is_filtered_by_bnpl": true,
+                "is_filtered_by_torobpay": true,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 2098000,
+                "price_text": "۲٫۰۹۸٫۰۰۰ تومان",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": false,
+                "price_string": "۲٫۰۹۸٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": true,
+                "more_info": {
+                    "payment_on_delivery": null,
+                    "free_shipping": null,
+                    "same_day_delivery": null,
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": null,
+                    "delivery_info": null
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۲ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "دیروز",
+                "show_purchase_warning": false,
+                "installment": {
+                    "providers": [
+                        {
+                            "title": "۵۲۴٫۵۰۰ تومان امروز و ۳ قسط تا انتهای آذر پرداخت کنید.",
+                            "short_title": "۴ قسط ۵۲۴٫۵۰۰ تومانی",
+                            "logo": "https://api.torob.com/static/filters/torobpay.png",
+                            "name": "ترب‌پی",
+                            "description": "دریافت اعتبار ترب‌پی",
+                            "more_info_url": "https://torobpay.com?utm_source=torob&utm_medium=pdp_badge"
+                        }
+                    ]
+                },
+                "guarantee_info": {
+                    "status": "enabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790434464",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&bvid=01a0de35d1fe7254bbcca584f0378784&suid=01a0de35a4a0711fad3940037cfbf724&cities=&province=&algorithm=text_similarity&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&list_type=products_info&seed=1790434464"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [
+            {
+                "prk": "77499219-52d1-49f6-811b-c200c4664301",
+                "shop_id": 185128,
+                "name1": "خیابان پیروزی، خیابان حبیب...",
+                "name2": "برای دریافت مدلهای بیشتر و استعلام قیمت بروز لطفا تماس بگیرید",
+                "shop_name": "لتیان",
+                "shop_badge": null,
+                "shop_name2": "تهران",
+                "distance": "",
+                "sorting_badge": [],
+                "working_hours": null,
+                "is_open": false,
+                "price": 7850000,
+                "price_string": "۷٫۸۵۰٫۰۰۰ تومان",
+                "is_price_unreliable": false,
+                "button_text": "اطلاعات تماس",
+                "problem_report_type": "offline",
+                "last_price_change_date": "۵ روز پیش",
+                "badges": [],
+                "purchasing_terms": null,
+                "shop_more_info": null,
+                "supports_fast_delivery": true,
+                "image_info": {
+                    "thumbnail_image_url": "https://image.torob.com/shops/images/ca798528492e.jpg_/300x300.webp",
+                    "shop_images_api_url": "https://api.torob.com/v4/base-product/member/images/?prk=77499219-52d1-49f6-811b-c200c4664301&base_rk=86605ffe-efac-4d91-b738-53e4ac33be8b&shop_id=185128&member_type=product_in_store",
+                    "count": 2
+                },
+                "is_filtered_by_city": false,
+                "is_filtered_by_bnpl": false,
+                "page_url": "https://api.torob.com/v4/product-in-store/contact-info/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&bvid=01a0de35d1fe7254bbcca584f0378784&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&prk=77499219-52d1-49f6-811b-c200c4664301&btn=buy&shop_rank=0&ct=3&pdp_display=seller_card&view=&app_ver=",
+                "score_info": {
+                    "score": 5,
+                    "score_text": "خرید حضوری",
+                    "score_color": "#333333",
+                    "score_background_color": "#ecedef",
+                    "complaints_info": {
+                        "title": "خرید حضوری",
+                        "summary": [
+                            "توصیه ترب خرید حضوری از این فروشگاه است."
+                        ]
+                    }
+                },
+                "address": "خیابان پیروزی، خیابان حبیب...",
+                "installment": null
+            }
+        ],
+        "seed": "1790434464",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&cities=&province=&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&list_type=products_in_store_info&seed=1790434464&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=86605ffe-efac-4d91-b738-53e4ac33be8b&source=next_desktop&discover_method=search&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&seed=1790434464&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=86605ffe-efac-4d91-b738-53e4ac33be8b&source=next_desktop&discover_method=search&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&seed=1790434464&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [
+            {
+                "title": "دارای ضمانت ترب",
+                "type": "button",
+                "action": "is_filtered_by_warranty",
+                "price_str": "از ۲٫۰۹۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/guarantee.png",
+                "icon_dark": "https://api.torob.com/static/filters/guarantee.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "با اعتبار ترب‌پی",
+                "type": "button",
+                "action": "is_filtered_by_torobpay",
+                "price_str": "از ۲٫۰۹۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/torobpay.png",
+                "icon_dark": "https://api.torob.com/static/filters/torobpay.png",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "خرید قسطی",
+                "type": "button",
+                "action": "is_filtered_by_bnpl",
+                "price_str": "از ۲٫۰۹۸٫۰۰۰ تومان",
+                "icon": "https://api.torob.com/static/filters/installment.png",
+                "icon_dark": "https://api.torob.com/static/filters/installment_dark.svg",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 0,
+                "is_active": false,
+                "target_shop_type": "online"
+            },
+            {
+                "title": "انتخاب شهر من",
+                "type": "city_select_empty",
+                "action": "is_filtered_by_city",
+                "price_str": "",
+                "icon": "https://api.torob.com/static/filters/city.png",
+                "icon_dark": "https://api.torob.com/static/filters/city_dark.svg",
+                "is_active": false,
+                "target_shop_type": "all"
+            },
+            {
+                "title": "تمام ایران",
+                "type": "button",
+                "action": "unselect",
+                "price_str": "از ۲٫۰۹۸٫۰۰۰ تومان",
+                "icon": "",
+                "icon_dark": "",
+                "order": [
+                    "products_info",
+                    "products_in_store_info"
+                ],
+                "online_shop_display_count": 1,
+                "offline_shop_display_count": 1,
+                "is_active": true,
+                "target_shop_type": "online"
+            }
+        ],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de35a4a0711fad3940037cfbf724&search_id=01a0de35a4a0711fad3940037cfbf724&cities=&province=&init_suid=01a0de35a4a0711fad3940037cfbf724&algorithm=text_similarity&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&bvid=01a0de35d1fe7254bbcca584f0378784&no_log=true&seed=1790434464",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=86605ffe-efac-4d91-b738-53e4ac33be8b&base_id=185137337&source=next_desktop&bvid=01a0de35d1fe7254bbcca584f0378784&init_suid=01a0de35a4a0711fad3940037cfbf724"
+    },
+    "min_price": 2098000,
+    "max_price": 2098000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 149,
+            "title": "حمام و دستشویی",
+            "url": "/browse/149/%D8%AD%D9%85%D8%A7%D9%85-%D9%88-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-toilet-and-bath/",
+            "cat_id": 149,
+            "brand_id": null
+        },
+        {
+            "id": 396,
+            "title": "لوازم دستشویی",
+            "url": "/browse/396/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AF%D8%B3%D8%AA%D8%B4%D9%88%DB%8C%DB%8C-bathroom-instruments/",
+            "cat_id": 396,
+            "brand_id": null
+        },
+        {
+            "id": 1614,
+            "title": "آینه و روشویی",
+            "url": "/browse/1614/%D8%A7%DB%8C%D9%86%D9%87-%D9%88-%D8%B1%D9%88%D8%B4%D9%88%DB%8C%DB%8C/",
+            "cat_id": 1614,
+            "brand_id": null
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": [
+            {
+                "header": "مشخصات کلی",
+                "specs": {
+                    "اندازه": "40*60, 80*60",
+                    "سوکت": "سنسور تاچ, سنسور حرکتی, معمولی"
+                }
+            }
+        ]
+    },
+    "key_specs": [],
+    "slug_name": "اینه-دستشویی-مدل-r82",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=86605ffe-efac-4d91-b738-53e4ac33be8b",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=86605ffe-efac-4d91-b738-53e4ac33be8b&limit=24&init_suid=01a0de35a4a0711fad3940037cfbf724",
+    "torob_category": 1614,
+    "no_index": false,
+    "buy_box_price_text": "۲٫۰۹۸٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&bvid=01a0de35d1fe7254bbcca584f0378784&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de35a4a0711fad3940037cfbf724&prk=51c9d22a-4f0e-4c19-8166-3f1ffd81f5a9&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de35a4a0711fad3940037cfbf724",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از آینه هومکس",
+    "new_buy_box_button_text2": "۲٫۰۹۸٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de35a4a0711fad3940037cfbf724&suid=01a0de35a4a0711fad3940037cfbf724&bvid=01a0de35d1fe7254bbcca584f0378784&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de35a4a0711fad3940037cfbf724&prk=51c9d22a-4f0e-4c19-8166-3f1ffd81f5a9&btn=buy_box&shop_rank=0&user_delivery_city=0&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de35a4a0711fad3940037cfbf724&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "51c9d22a-4f0e-4c19-8166-3f1ffd81f5a9",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": [
+        {
+            "source": "",
+            "urls": [
+                "https://image.torob.com/base/images/wh/fN/whfN6177q58iAYNz.jpg",
+                "https://image.torob.com/base/images/SD/ga/SDgaAHtwOut1LCRL.jpg"
+            ]
+        }
+    ]
+}

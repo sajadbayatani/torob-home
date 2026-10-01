@@ -1,0 +1,212 @@
+{
+    "badges": [],
+    "discount_info": [],
+    "random_key": "ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb",
+    "name1": "یخچال و فریزر توکار میله Miele مدل K 2802 Vi و F 2813 Vi",
+    "name1_max_lines": 3,
+    "name2": "",
+    "more_info_url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4d28b8730f8892bf8abab5e464&search_id=01a0de4d28b8730f8892bf8abab5e464&cities=&province=&init_suid=01a0de4d28b8730f8892bf8abab5e464&algorithm=text_similarity&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb",
+    "web_client_absolute_url": "/p/ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%D9%87-miele-%D9%85%D8%AF%D9%84-k-2802-vi-%D9%88-f-2813-vi/",
+    "price": 5620000000,
+    "price_prefix": "cheapest",
+    "price_text": "۵٫۶۲۰٫۰۰۰٫۰۰۰ تومان",
+    "price_text_mode": "active",
+    "shop_text": "در مولتی لوکس",
+    "stock_status": "",
+    "delivery_city_name": null,
+    "delivery_city_flag": null,
+    "is_adv": false,
+    "similar_api": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&limit=24&init_suid=01a0de4d28b8730f8892bf8abab5e464",
+    "media_search": "https://api.torob.com/v4/base-product/search-by-image/?source=next_desktop&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&discover_method=search_image_base_pdp&prev_uid=01a0de4d28b8730f8892bf8abab5e464&init_suid=01a0de4d28b8730f8892bf8abab5e464",
+    "card_type": "cover-img",
+    "estimated_sell": "",
+    "media_urls": [
+        {
+            "type": "image",
+            "url": "https://image.torob.com/base/images/Xj/6g/Xj6giVKT6uK0YCu1.jpg"
+        }
+    ],
+    "image_url": "https://image.torob.com/base/images/Xj/6g/Xj6giVKT6uK0YCu1.jpg",
+    "image_count": 1,
+    "direct_cta": null,
+    "has_nearby_shop": false,
+    "has_wiki": false,
+    "is_authentic": false,
+    "products_info": {
+        "ordering": 2,
+        "title": "فروشنده‌ها",
+        "tab_title": "خرید اینترنتی",
+        "result": [
+            {
+                "availability": true,
+                "name1": "یخچال و فریزر توکار میله Miele مدل K 2802 Vi و F 2813 Vi",
+                "name2": "",
+                "shop_name": "مولتی لوکس",
+                "shop_name2": "تهران",
+                "shop_id": 234131,
+                "has_public_torob_profile": true,
+                "prk": "a7655a53-5c1d-4086-89ee-8bd0aaef897c",
+                "problem_report_type": "",
+                "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4d28b8730f8892bf8abab5e464&suid=01a0de4d28b8730f8892bf8abab5e464&bvid=01a0de4d40767166bdc8c94f831c2eb4&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4d28b8730f8892bf8abab5e464&prk=a7655a53-5c1d-4086-89ee-8bd0aaef897c&btn=buy&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4d28b8730f8892bf8abab5e464",
+                "is_filtered_by_city": false,
+                "is_filtered_by_warranty": false,
+                "is_filtered_by_bnpl": false,
+                "is_filtered_by_torobpay": false,
+                "shop_score_percentile": 0,
+                "shop_votes_count": 0,
+                "button_text": "خرید اینترنتی",
+                "price": 5620000000,
+                "price_text": "۵٫۶۲۰٫۰۰۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                "price_text_striked": "",
+                "price_text_mode": "active",
+                "is_price_unreliable": true,
+                "price_string": "۵٫۶۲۰٫۰۰۰٫۰۰۰ تومان",
+                "shop_score": 5,
+                "show_report_button": false,
+                "more_info": {
+                    "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                    "free_shipping": null,
+                    "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                    "shipping_types": [
+                        "باربری های درون شهری یا برون شهری",
+                        "خودروی فروشگاه",
+                        "شرکتهای پست خصوصی نظیر تیپاکس"
+                    ],
+                    "heavy_items": null,
+                    "same_day_free_shipping": null,
+                    "selected_shipping_info": [],
+                    "delivery_info": "برای تهران دریافت بیعانه و ارسال و برای شهرستانها تسویه کامل"
+                },
+                "score_info": {
+                    "score": 5,
+                    "score_text": "★۵ (۱ سال در ترب)",
+                    "score_color": "#0b5124",
+                    "score_background_color": "#daf2d5",
+                    "complaints_info": {
+                        "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                        "summary": [
+                            "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                            "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                        ]
+                    }
+                },
+                "is_adv": false,
+                "last_price_change_date": "۲ ماه و ۷ روز پیش",
+                "show_purchase_warning": false,
+                "installment": null,
+                "guarantee_info": {
+                    "status": "disabled"
+                },
+                "badges": [],
+                "purchasing_terms": null,
+                "postage_fee": ""
+            }
+        ],
+        "seed": "1790435999",
+        "count": 1,
+        "is_visible": true,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4d28b8730f8892bf8abab5e464&bvid=01a0de4d40767166bdc8c94f831c2eb4&suid=01a0de4d28b8730f8892bf8abab5e464&cities=&province=&algorithm=text_similarity&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&list_type=products_info&seed=1790435999"
+    },
+    "products_in_store_info": {
+        "ordering": 1,
+        "title": "فروشگاه‌های حضوری",
+        "tab_title": "خرید حضوری",
+        "result": [],
+        "seed": "1790435999",
+        "count": 0,
+        "is_visible": false,
+        "sellers_url": "https://api.torob.com/v4/base-product/sellers/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4d28b8730f8892bf8abab5e464&cities=&province=&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&list_type=products_in_store_info&seed=1790435999&algorithm=text_similarity",
+        "map_sellers_api_url": "https://api.torob.com/v4/base-product/map/sellers/?prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&source=next_desktop&discover_method=search&search_id=01a0de4d28b8730f8892bf8abab5e464&suid=01a0de4d28b8730f8892bf8abab5e464&seed=1790435999&_bt__experiment=sir28__c&algorithm=text_similarity",
+        "map_sellers_url": "https://torob.com/map-sellers/?prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&source=next_desktop&discover_method=search&search_id=01a0de4d28b8730f8892bf8abab5e464&suid=01a0de4d28b8730f8892bf8abab5e464&seed=1790435999&_bt__experiment=sir28__c&algorithm=text_similarity"
+    },
+    "products_instore_info": {
+        "ordering": 1,
+        "title": "فروشندگان سطح شهر",
+        "result": [],
+        "is_visible": false
+    },
+    "seller_title": "فروشنده‌ها",
+    "filters": {
+        "items": [],
+        "url": "https://api.torob.com/v4/base-product/details/?source=next_desktop&discover_method=search&_bt__experiment=sir28__c&suid=01a0de4d28b8730f8892bf8abab5e464&search_id=01a0de4d28b8730f8892bf8abab5e464&cities=&province=&init_suid=01a0de4d28b8730f8892bf8abab5e464&algorithm=text_similarity&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&bvid=01a0de4d40767166bdc8c94f831c2eb4&no_log=true&seed=1790435999",
+        "interaction_log_url": "https://api.torob.com/v4/base-product/details/interaction-log/?prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&base_id=290078322&source=next_desktop&bvid=01a0de4d40767166bdc8c94f831c2eb4&init_suid=01a0de4d28b8730f8892bf8abab5e464"
+    },
+    "min_price": 5620000000,
+    "max_price": 5620000000,
+    "variants": [],
+    "contents": [],
+    "breadcrumbs": [
+        {
+            "id": 0,
+            "title": "ترب",
+            "url": "/",
+            "cat_id": 0,
+            "brand_id": null
+        },
+        {
+            "id": 169,
+            "title": "لوازم خانگی",
+            "url": "/browse/169/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/",
+            "cat_id": 169,
+            "brand_id": null
+        },
+        {
+            "id": 132,
+            "title": "یخچال، فریزر و آب سردکن",
+            "url": "/browse/132/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D9%88-%D8%A7%D8%A8-%D8%B3%D8%B1%D8%AF%DA%A9%D9%86-refrigerator-and-freezer-and-cooling-water/",
+            "cat_id": 132,
+            "brand_id": null
+        },
+        {
+            "id": 2461,
+            "title": "یخچال و فریزر",
+            "url": "/browse/2461/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%88-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1/",
+            "cat_id": 2461,
+            "brand_id": null
+        },
+        {
+            "id": 212,
+            "title": "یخچال",
+            "url": "/browse/212/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-refrigerator/",
+            "cat_id": 212,
+            "brand_id": null
+        },
+        {
+            "id": 212,
+            "title": "میله (Miele)",
+            "url": "/browse/212/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-refrigerator/b/13362/miele-%D9%85%DB%8C%D9%84%D9%87/",
+            "cat_id": 212,
+            "brand_id": 13362
+        }
+    ],
+    "structural_specs": {
+        "source": "",
+        "headers": []
+    },
+    "key_specs": [],
+    "slug_name": "یخچال-و-فریزر-توکار-میله-miele-مدل-k-2802-vi-و-f-2813-vi",
+    "is_confirmed": true,
+    "is_accessible": true,
+    "availability": true,
+    "similar_listing": "https://api.torob.com/v4/base-product/similar-listings/?prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb",
+    "similar_products": "https://api.torob.com/v4/base-product/similar-base-product/?source=next_desktop&prk=ed8af55c-94b2-4c2d-8dad-d8f9ca25f6fb&limit=24&init_suid=01a0de4d28b8730f8892bf8abab5e464",
+    "torob_category": 212,
+    "no_index": false,
+    "buy_box_price_text": "۵٫۶۲۰٫۰۰۰٫۰۰۰ تومان",
+    "buy_box_button_text": "خرید از ارزان‌ترین فروشنده",
+    "buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4d28b8730f8892bf8abab5e464&suid=01a0de4d28b8730f8892bf8abab5e464&bvid=01a0de4d40767166bdc8c94f831c2eb4&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4d28b8730f8892bf8abab5e464&prk=a7655a53-5c1d-4086-89ee-8bd0aaef897c&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4d28b8730f8892bf8abab5e464",
+    "buy_box_show_purchase_warning": false,
+    "new_buy_box_button_text": "خرید از مولتی لوکس",
+    "new_buy_box_button_text2": "۵٫۶۲۰٫۰۰۰٫۰۰۰ تومان",
+    "new_buy_box_button_badge": "ارزان‌ترین",
+    "new_buy_box_button_badge_style": "plain",
+    "new_buy_box_button_link": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=search&_bt__experiment=sir28__c&search_id=01a0de4d28b8730f8892bf8abab5e464&suid=01a0de4d28b8730f8892bf8abab5e464&bvid=01a0de4d40767166bdc8c94f831c2eb4&session_id=oufipibgwplrqogstoljtlthfjkhkupy&device_id=&algorithm=text_similarity&init_suid=01a0de4d28b8730f8892bf8abab5e464&prk=a7655a53-5c1d-4086-89ee-8bd0aaef897c&btn=buy_box&shop_rank=0&user_delivery_city=585&pdp_display=seller_card&view=&app_ver=&init_suid=01a0de4d28b8730f8892bf8abab5e464&buy_box_reason=cheapest",
+    "new_buy_box_button_scrol_to_prk": null,
+    "new_buy_box_source_prk": "a7655a53-5c1d-4086-89ee-8bd0aaef897c",
+    "new_buy_box_source_type": "online",
+    "new_buy_box_chevron_text": null,
+    "new_buy_box_show_purchase_warning": false,
+    "new_buy_box_contact_url": null,
+    "interview_survey_data": null,
+    "image_urls": []
+}
