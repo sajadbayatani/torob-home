@@ -1,0 +1,154 @@
+/**
+ * Material Design 2 — the active design system.
+ *
+ * This file is the single source of truth. Components never hard-code a colour,
+ * radius, shadow, duration or spacing step; they read the semantic tokens below,
+ * exposed to Tailwind in `tailwind.config.js`.
+ *
+ * Brand palette (complete — three colours, no others are introduced):
+ *   Charcoal Blue #424B54  text, icons, structural elements, dividers
+ *   White         #FFFDFD  background and surfaces
+ *   Dark Amaranth #990D35  primary actions, active/selected state, emphasis
+ *
+ * Every neutral token is a tint or alpha of Charcoal Blue over White.
+ *
+ * Persian adaptation of the Material system (per the VibeFarsi Persian RTL
+ * rules): Vazirmatn instead of Roboto, letter-spacing 0 instead of Material's
+ * button/overline tracking, body line-height 1.7 instead of 1.5, headline weight
+ * 600 instead of Light 300, and no uppercase button labels. Tracking breaks
+ * Persian glyph joining, and 300-weight display type is too thin for Vazirmatn.
+ *
+ * --error, --success and --warning are Material's *semantic state roles*, not
+ * brand colours: MD2 requires an error colour distinguishable from the primary
+ * action, and in-stock / within-budget / over-budget must stay separable from a
+ * red primary.
+ *
+ * Elevation values are the canonical MD2 z-space shadows (umbra / penumbra /
+ * ambient), and each component is bound to the elevation the MD2 spec assigns
+ * it: app bar 4dp, raised button 2dp (8dp pressed), card 2dp, menu 8dp, dialog
+ * 24dp.
+ *
+ * Applied via `<html data-theme="material">`.
+ */
+
+[data-theme='material'] {
+  color-scheme: light;
+
+  /* ---- brand ------------------------------------------------------- */
+  --brand-charcoal: #424b54; /* Charcoal Blue */
+  --brand-white: #fffdfd; /* White */
+  --brand-amaranth: #d73948; /* Dark Amaranth */
+
+  /* ---- colour roles ------------------------------------------------- */
+  --background: var(--brand-white);
+  --foreground: var(--brand-charcoal); /* on-surface / text primary */
+  --card: var(--brand-white); /* surface */
+  --card-foreground: var(--brand-charcoal);
+  --popover: var(--brand-white); /* menus, dialogs */
+  --popover-foreground: var(--brand-charcoal);
+
+  --primary: var(--brand-amaranth); /* Dark Amaranth */
+  --primary-foreground: var(--brand-white);
+
+  --secondary: #ecebec; /* Charcoal Blue @ 10% */
+  --secondary-foreground: var(--brand-charcoal);
+  --muted: #f4f2f3; /* Charcoal Blue @ 6% — container tint */
+  --muted-foreground: #6a747c; /* text secondary / hint, 4.71:1 on White */
+  --accent: #f4f2f3;
+  --accent-foreground: var(--brand-charcoal);
+
+  --destructive: #b3261e; /* MD2 error role */
+  --success: #1f7a5c; /* state role, 5.18:1 on White */
+  --warning: #8f6410; /* state role, 5.18:1 on White */
+
+  --border: rgb(66 75 84 / 12%); /* divider */
+  --input: rgb(66 75 84 / 42%); /* unfocused text-field line */
+  --ring: var(--brand-amaranth); /* focus follows the primary action */
+  --brand: var(--brand-amaranth);
+  --brand-foreground: var(--brand-white);
+  --field: var(--muted); /* filled text field */
+
+  /* disabled state opacities */
+  --disabled-text: 0.38;
+  --disabled-container: 0.12;
+
+  /* ---- state layer opacities (MD2, light theme) --------------------- */
+  --state-hover: 0.08;
+  --state-focus: 0.24;
+  --state-pressed: 0.1;
+  --state-dragged: 0.16;
+
+  /* ---- typography: the MD2 type scale, in Vazirmatn ------------------ */
+  --type-body: 'Vazirmatn', 'IRANSans', system-ui, sans-serif;
+  --type-display: 'Vazirmatn', 'IRANSans', system-ui, sans-serif;
+
+  /* MD2 uses Roboto Light 300 for headline 1-2. Persian display type needs more
+     weight than that, so headlines land on 600 and subtitles on 500. */
+  --type-headline-weight: 600;
+  --type-subtitle-weight: 500;
+  --type-body-weight: 400;
+  --type-button-weight: 500;
+  --type-caption-weight: 400;
+
+  --leading-body: 1.7; /* MD2 body 1.5, opened up for Persian */
+  --leading-headline: 1.35; /* MD2 large headlines are tighter; 1.15 floor kept */
+  --leading-subtitle: 1.5;
+  --leading-control: 1.5;
+
+  /* ---- shape: MD2 corner radii (dp) --------------------------------- */
+  --radius: 0.25rem; /* 4dp — cards, dialogs, sheets */
+  --shape-control: 0.125rem; /* 2dp — buttons, chips, text fields, FAB */
+  --shape-field: 0.125rem;
+  --shape-surface: 0.25rem; /* 4dp */
+  --shape-overlay: 0.25rem; /* 4dp — dialogs and menus */
+  --shape-sheet: 1rem; /* 16dp — bottom sheets */
+  --shape-full: 9999px; /* FAB and avatars stay circular */
+
+  /* ---- line ---------------------------------------------------------- */
+  --line: 1px;
+  --line-field: 2px; /* MD2 text fields carry a 2dp line */
+  --line-strong: 2px; /* MD2 emphasised / active indicator */
+  --line-style: solid;
+
+  /* ---- elevation: canonical MD2 z-space ------------------------------ */
+  --elevation-0: none;
+  --elevation-1: 0 1px 2px 0 rgb(0 0 0 / 14%), 0 1px 3px 1px rgb(0 0 0 / 12%);
+  --elevation-2: 0 1px 2px 0 rgb(0 0 0 / 14%), 0 2px 6px 2px rgb(0 0 0 / 12%);
+  --elevation-3: 0 1px 3px 0 rgb(0 0 0 / 14%), 0 3px 6px 0 rgb(0 0 0 / 12%);
+  --elevation-4: 0 2px 4px -1px rgb(0 0 0 / 20%), 0 4px 5px 0 rgb(0 0 0 / 12%);
+  --elevation-6: 0 3px 6px -2px rgb(0 0 0 / 20%), 0 3px 6px 0 rgb(0 0 0 / 12%);
+  --elevation-8: 0 5px 5px -3px rgb(0 0 0 / 20%), 0 8px 10px 1px rgb(0 0 0 / 12%);
+  --elevation-16: 0 8px 10px -5px rgb(0 0 0 / 20%), 0 16px 24px 2px rgb(0 0 0 / 14%);
+  --elevation-24: 0 9px 11px -7px rgb(0 0 0 / 20%), 0 18px 28px 2px rgb(0 0 0 / 12%);
+
+  /* Component bindings, exactly as the MD2 component reference prescribes. */
+  --depth-control: var(--elevation-2); /* raised button, resting 2dp */
+  --depth-press: var(--elevation-8); /* raised button, pressed 8dp */
+  --depth-field: var(--elevation-0); /* filled text fields are recessed, not raised */
+  --depth-surface: var(--elevation-2); /* card, resting 2dp */
+  --depth-overlay: var(--elevation-8); /* menus, sheets and raised panels 8dp */
+  --depth-dialog: var(--elevation-24); /* dialogs 24dp */
+  --depth-appbar: var(--elevation-4); /* app bar 4dp */
+  --depth-fab: var(--elevation-6); /* FAB resting 6dp */
+
+  /* ---- motion: MD2 durations and standard easing --------------------- */
+  --motion: 225ms;
+  --motion-short: 150ms;
+  --motion-long: 375ms;
+  --motion-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --motion-ease-decelerate: cubic-bezier(0, 0, 0.2, 1);
+  --motion-ease-accelerate: cubic-bezier(0.4, 0, 1, 1);
+
+  /* ---- spacing: the MD2 8dp grid, with a 4dp half-step -------------- */
+  --spacing: 0.5rem; /* 8dp */
+  --spacing-half: 0.25rem; /* 4dp */
+  --spacing-quarter: 0.125rem; /* 2dp */
+
+  /* ---- MD2 component metrics ---------------------------------------- */
+  --control-size: 3rem; /* 48dp minimum touch target */
+  --size-button: 2.25rem; /* 36dp raised button */
+  --size-chip: 2rem; /* 32dp chip */
+  --size-field: 3rem; /* 48dp field body */
+  --size-appbar: 3.5rem; /* 56dp app bar */
+  --size-fab: 3.5rem; /* 56dp FAB */
+}

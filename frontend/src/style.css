@@ -1,0 +1,237 @@
+@import '@fontsource/vazirmatn/300.css';
+@import '@fontsource/vazirmatn/400.css';
+@import '@fontsource/vazirmatn/500.css';
+@import '@fontsource/vazirmatn/600.css';
+@import '@fontsource/vazirmatn/700.css';
+@import './theme/material.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Material Design 2 base layer, adapted for Persian.
+ * Colour, elevation, corner radii, type scale, state opacities and spacing all
+ * come from the tokens in `theme/material.css`; nothing visual is hard-coded.
+ */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+    font-size: 1rem; /* MD2 body 1 */
+    line-height: var(--leading-body);
+    letter-spacing: 0; /* tracking breaks Persian glyph joining */
+    font-feature-settings: 'ss02';
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-foreground;
+    font-weight: var(--type-headline-weight);
+    line-height: var(--leading-headline);
+    letter-spacing: 0;
+  }
+
+  /* Numeric runs stay isolated from RTL text so the separator and unit never
+     jump. LTR isolation is only for genuinely Latin runs (SKUs, URLs). */
+  .num {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .ltr-num {
+    direction: ltr;
+    unicode-bidi: isolate;
+    display: inline-block;
+  }
+
+  /* MD2 focus: 2dp primary line, no soft glow ring. */
+  :focus-visible {
+    @apply outline-none;
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  /* Preflight ships neutral greys; point them at the Material tokens. */
+  *,
+  ::before,
+  ::after {
+    border-color: var(--border);
+  }
+
+  ::placeholder {
+    color: var(--muted-foreground);
+  }
+
+  /* Safari/iOS zooms the page when a focused control computes below 16px. */
+  @supports (-webkit-touch-callout: none) {
+    input,
+    select,
+    textarea,
+    .field {
+      font-size: max(1rem, 1em);
+    }
+  }
+
+  /*
+   * The trailing dots of the thinking sentence.
+   *
+   * They are three separate spans so the sentence can breathe while it waits:
+   * each dot fades a little after the one before it, which is what makes the
+   * sentence feel alive rather than mechanically appended. The global
+   * reduced-motion rule below collapses this along with everything else.
+   */
+  .thinking-dots > span {
+    animation: thinking-dot 1.4s ease-in-out infinite;
+  }
+  .thinking-dots > span:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+  .thinking-dots > span:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+  @keyframes thinking-dot {
+    0%,
+    60%,
+    100% {
+      opacity: 0.25;
+    }
+    30% {
+      opacity: 1;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+/*
+ * Material component layer.
+ *   cards      4dp radius, 2dp elevation, no border
+ *   buttons    2dp radius, 36dp height, 2dp elevation, state layer + 48dp target
+ *   text field filled style: muted container, 2dp line, primary on focus
+ *   chips      32dp height, 2dp radius
+ */
+@layer components {
+  .card {
+    @apply rounded-surface bg-card text-card-foreground shadow-surface;
+  }
+
+  /*
+   * Material button.
+   * The 36dp visual height is expanded to a 48dp hit area by the `::after`
+   * overlay, which keeps the MD2 proportion without breaking the touch target.
+   * `::before` is the state layer (hover 8%, focus 24%, pressed 10%).
+   */
+  .btn {
+    @apply relative isolate inline-flex min-h-button select-none items-center justify-center
+           gap-2 overflow-hidden rounded-control px-4 text-sm leading-[var(--leading-control)]
+           transition-shadow duration-short ease-motion
+           disabled:pointer-events-none;
+    font-weight: var(--type-button-weight);
+  }
+
+  .btn::before {
+    content: '';
+    @apply pointer-events-none absolute inset-0 bg-current opacity-0 transition-opacity duration-short;
+  }
+
+  .btn:hover::before {
+    opacity: var(--state-hover);
+  }
+
+  .btn:focus-visible::before {
+    opacity: var(--state-focus);
+  }
+
+  .btn:active::before {
+    opacity: var(--state-pressed);
+  }
+
+  /* 48dp touch target around the 36dp button */
+  .btn::after {
+    content: '';
+    @apply absolute -inset-x-0 -bottom-1.5 -top-1.5;
+  }
+
+  .btn:disabled {
+    box-shadow: none;
+    /* color: var(--foreground); */
+    opacity: var(--disabled-text);
+  }
+
+  /* Contained (default MD2 button) */
+  .btn-primary {
+    @apply btn bg-primary text-primary-foreground shadow-control;
+  }
+
+  .btn-primary:active {
+    box-shadow: var(--depth-press);
+  }
+
+  /* Outlined */
+  .btn-secondary {
+    @apply btn border border-input bg-transparent text-primary shadow-none;
+  }
+
+  .btn-secondary:active {
+    background-color: color-mix(in srgb, var(--primary) calc(var(--state-pressed) * 100%), transparent);
+  }
+
+  /* Text / flat */
+  .btn-ghost {
+    @apply btn bg-transparent text-primary shadow-none;
+  }
+
+  .btn-destructive {
+    @apply btn bg-destructive text-primary-foreground shadow-control;
+  }
+
+  .btn-destructive:active {
+    box-shadow: var(--depth-press);
+  }
+
+  /* MD2 chip: 32dp tall, 2dp radius */
+  .chip {
+    @apply inline-flex min-h-chip select-none items-center gap-1.5 rounded-control bg-muted
+           px-2 text-xs leading-[var(--leading-control)] text-muted-foreground;
+  }
+
+  .label {
+    @apply text-xs leading-[var(--leading-control)] text-muted-foreground;
+  }
+
+  /* MD2 filled text field: container tint, 2dp line, primary line on focus */
+  .field {
+    @apply min-h-field w-full rounded-field border-0 border-b-2 bg-field px-4 py-2 text-sm
+           text-foreground transition-colors duration-short ease-motion
+           focus:border-ring focus:outline-none focus:ring-0;
+  }
+
+  .clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
