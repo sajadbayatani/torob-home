@@ -1,0 +1,71 @@
+"""Backend-owned product catalogue, read from `data/catalog/products.json`."""
+
+from app.catalog.complementary import (
+    Complementary,
+    ComplementaryResult,
+    build_candidate_pool,
+    complementary_products,
+)
+from app.catalog.projections import (
+    build_facets,
+    build_search_response,
+    offer_out,
+    to_product_detail,
+    to_product_out,
+)
+from app.catalog.sources import (
+    LocalJsonProductSource,
+    ProductSource,
+    ProductSourceError,
+    TorobMcpProductSource,
+    build_product_source,
+)
+from app.catalog.store import (
+    CatalogError,
+    CatalogFilters,
+    CatalogIndex,
+    CatalogMatch,
+    CatalogOffer,
+    CatalogProduct,
+    DetectedCategory,
+    alternatives,
+    canonical_category,
+    detect_budget_ceiling,
+    detect_category,
+    evidence_terms,
+    get_catalog,
+    reset_cache,
+    search,
+)
+
+__all__ = [
+    "CatalogError",
+    "Complementary",
+    "ComplementaryResult",
+    "build_candidate_pool",
+    "complementary_products",
+    "CatalogFilters",
+    "CatalogIndex",
+    "CatalogMatch",
+    "CatalogOffer",
+    "CatalogProduct",
+    "alternatives",
+    "build_facets",
+    "build_search_response",
+    "DetectedCategory",
+    "canonical_category",
+    "detect_budget_ceiling",
+    "ProductSource",
+    "ProductSourceError",
+    "TorobMcpProductSource",
+    "LocalJsonProductSource",
+    "build_product_source",
+    "detect_category",
+    "evidence_terms",
+    "get_catalog",
+    "offer_out",
+    "reset_cache",
+    "search",
+    "to_product_detail",
+    "to_product_out",
+]
