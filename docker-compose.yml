@@ -1,0 +1,58 @@
+name: home-procurement
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: hp-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-torob}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-torob}
+      POSTGRES_DB: ${POSTGRES_DB:-torob_home}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-torob} -d ${POSTGRES_DB:-torob_home}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build:
+      context: ./backend
+    container_name: hp-backend
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg://torob:torob@postgres:5432/torob_home}
+    ports:
+      - "${BACKEND_PORT:-9000}:9000"
+    volumes:
+      - ./backend:/app
+      # the product catalogue is backend-owned data, read from disk on demand
+      - ./data/catalog:/app/data/catalog:ro
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: >
+      sh -c "alembic upgrade head &&
+             python -m app.seed.run &&
+             uvicorn app.main:app --host 0.0.0.0 --port 9000"
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: hp-frontend
+    restart: unless-stopped
+    environment:
+      VITE_API_BASE_URL: ${VITE_API_BASE_URL:-http://localhost:9000/api/v1}
+    ports:
+      - "${FRONTEND_PORT:-8888}:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres-data:
